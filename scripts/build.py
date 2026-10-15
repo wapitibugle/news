@@ -17,7 +17,7 @@ def shell(title, body, prefix='./'):
 <meta name="description" content="The Wapiti Bugle. A considered selection of news, with the sources in view.">
 <title>{e(title)} · The Wapiti Bugle</title><link rel="stylesheet" href="{prefix}style.css">
 <script src="{prefix}app.js" defer></script></head><body><a class="skip" href="#main">Skip to stories</a>
-<header><a class="masthead" href="{prefix}index.html"><span>The Wapiti Bugle</span><img class="elk-mark" src="{prefix}elk.svg" alt="Bull elk with head raised, bugling" width="110" height="100"></a>
+<header><a class="masthead" href="{prefix}index.html"><span>The Wapiti Bugle</span><img class="elk-mark" src="{prefix}elk.png" alt="Bull elk with head raised, bugling" width="110" height="100"></a>
 <nav aria-label="Main navigation"><a href="{prefix}index.html">Today's edition</a><a href="{prefix}archive.html">The archive</a><a href="{prefix}about.html">Our standards</a></nav></header>
 <main id="main">{body}</main><footer><strong>The Wapiti Bugle</strong>
 <a href="{prefix}about.html">How we work</a> · <a href="mailto:wapitibugle@gmail.com">Corrections & feedback</a></footer></body></html>'''
@@ -44,7 +44,7 @@ def build():
     if out.exists():
         shutil.rmtree(out)
     out.mkdir()
-    for name in ('style.css', 'app.js', 'elk.svg'):
+    for name in ('style.css', 'app.js', 'elk.png'):
         shutil.copy(ROOT / 'site' / name, out / name)
     (out / '.nojekyll').write_text('')
     records = load_archive(ROOT / 'data/archive')

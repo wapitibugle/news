@@ -108,7 +108,7 @@ class Safeguards(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             (root / 'site').mkdir()
-            for name in ('style.css', 'app.js', 'elk.svg'):
+            for name in ('style.css', 'app.js', 'elk.png'):
                 (root / 'site' / name).write_text('')
             (root / 'data/archive').mkdir(parents=True)
             (root / '.env').write_text('SECRET=must-not-be-published')

@@ -7,3 +7,6 @@
 footer strong{display:block;margin-bottom:12px}
 @media(max-width:850px){.masthead{letter-spacing:-2px;gap:12px}.elk-mark{width:82px;height:78px}}
 @media(max-width:560px){.masthead{font-size:clamp(24px,6.4vw,36px);letter-spacing:-1.3px;gap:8px;padding:20px 0}.elk-mark{width:62px;height:62px}.edition-line{padding-bottom:0}.filters{padding-top:18px}}
+
+/* Display the supplied silhouette facing right; blend its white background into the paper. */
+.elk-mark{transform:scaleX(-1);mix-blend-mode:multiply}
