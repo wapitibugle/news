@@ -1,1 +1,96 @@
-{}
+{
+  "fd0226ec0ca7f7380e3f10662aaf5f53a3cb3f91dc6feca230ff6d5009ef6986": {
+    "id": "8ea0fbc6bae9571f67cc",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Democrats see voter enthusiasm in fundraising haul from small-dollar donors before the midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/democrats-see-voter-enthusiasm-in-fundraising-haul-from-small-dollar-donors-before-the-midterms",
+    "group": ""
+  },
+  "f534837fba5a788fd68f72d960b29d34a255dc529680040f2bd687eee89e3857": {
+    "id": "1747c068df2002a33fac",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Federal authorities are investigating suspicious mailings to election offices that prompted evacuations shortly before the midterms. The substances have not generally been identified; Oklahoma authorities determined the material received there was non-hazardous.",
+    "evidence_quote": "In Oklahoma , state troopers determined the substance mailed to the Oklahoma State Capitol complex was non-hazardous.",
+    "related_ids": [
+      "b99cf70d9a8cf4d78f9e"
+    ],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+    "group": "1747c068df2002a33fac"
+  },
+  "f5c7507de8905f0bf176421b2bb09e5bfccf91e720d665ffcafda8c50b9e774a": {
+    "id": "84cbb43a1e042ac8693c",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Paxton v Talarico: tens of millions of dollars pour into closely watched Texas Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money",
+    "group": ""
+  },
+  "a11da6cfb33a4900fbe0eeb4069c72b3ac5a5e7a72caa3444e03ee4fb979c5ed": {
+    "id": "b99cf70d9a8cf4d78f9e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The FBI, Postal Inspection Service and Capitol Police are investigating suspicious mailings to congressional and election offices. Packages prompted evacuations in Louisiana and Oklahoma. Authorities have not identified those responsible, and the FBI describes the substance as unknown.",
+    "evidence_quote": "Some of the letters contained an unknown substance",
+    "related_ids": [
+      "1747c068df2002a33fac"
+    ],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
+    "group": "1747c068df2002a33fac"
+  },
+  "cd15d5ae044391936170c911502f516069fdcd20f5330e175de967ccc4e7d31e": {
+    "id": "312199c3ccab367e1150",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "How has Trump’s immigration agenda affected the US midterms? Send us your questions",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a",
+    "group": ""
+  },
+  "dd35790a308c9cad673277a0973edc3cf362a98b92291138689f7e0f3294dfdd": {
+    "id": "4529de58b1af4e6c4989",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race",
+    "group": ""
+  }
+}
