@@ -48,7 +48,9 @@ if (form) {
       meta.textContent = `${s.category} / ${s.publishers.join(', ')} / ${s.published_at.slice(0, 10)}`;
       const heading = document.createElement('h3');
       const link = document.createElement('a');
-      link.href = `./s/${s.id}.html`;
+      link.href = s.url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
       link.textContent = s.title;
       heading.append(link);
       row.append(meta, heading);

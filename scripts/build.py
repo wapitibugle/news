@@ -34,7 +34,7 @@ def card(s, prefix='./', homepage=False):
     expired = f'data-published="{e(s["published_at"])}"' if homepage else ''
     return f'''<article class="story" {expired} data-category="{e(s['category'])}">
 <div class="kicker">{e(s['category'])} <span> / {e(s['sources'][0]['publisher'])}</span></div>
-<h3>{significance}<a href="{prefix}s/{e(s['id'])}.html">{e(s['title'])}</a></h3>
+<h3>{significance}<a href="{e(s['sources'][0]['url'])}" target="_blank" rel="noopener noreferrer">{e(s['title'])}</a></h3>
 <p class="timestamp"><time datetime="{e(s['published_at'])}">{e(date(s['published_at']).strftime('%b %d · %H:%M UTC'))}</time></p>
 <p class="verification">{label}</p>{correction}
 <details><summary>Sources & context <span>{len(s['sources'])}</span></summary><div class="context">{more}<ul>{sources}</ul>{('<h4>Checked claims</h4><ul>' + claims + '</ul>') if claims else ''}<a class="permalink" href="{prefix}s/{e(s['id'])}.html">Permanent link ↗</a></div></details></article>'''
@@ -90,7 +90,7 @@ def build():
     for month, stories in sorted(months.items(), reverse=True):
         links.append(f'<li><a href="./archive/{month}.html">{month} · {len(stories)} stories</a></li>')
         (out / 'archive' / (month + '.html')).write_text(shell(month + ' archive', f'<h1>{month} archive</h1>' + ''.join(card(s, '../') for s in stories if not s.get('withdrawn')), '../'))
-        index = [dict(id=s['id'], title=s['title'], category=s['category'], published_at=s['published_at'], publishers=sorted({x['publisher'] for x in s['sources']})) for s in stories if not s.get('withdrawn')]
+        index = [dict(id=s['id'], title=s['title'], url=s['sources'][0]['url'], category=s['category'], published_at=s['published_at'], publishers=sorted({x['publisher'] for x in s['sources']})) for s in stories if not s.get('withdrawn')]
         (out / 'archive' / (month + '.json')).write_text(json.dumps(index, ensure_ascii=False))
         manifest.append(month)
     (out / 'archive' / 'manifest.json').write_text(json.dumps(manifest))
