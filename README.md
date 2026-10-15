@@ -93,3 +93,21 @@ A filled initial edition must not block new headlines. Each elapsed hour admits 
 Within the configured election coverage allocation, candidates published in the last three hours receive preference. The homepage places major-designated stories first, followed by recent coverage (last four hours), then significance and original publication time. The collection clock and source-publication clock are distinct. GitHub may run scheduled workflows later than the requested minute.
 
 An open homepage also checks the public edition timestamp every five minutes and when the tab becomes visible. It reloads only when a different collected edition is available and no story context is expanded, preserving the interest filter where browser storage is available. These static timestamp checks do not invoke the AI or create additional collection runs.
+
+### X Newswire
+
+The homepage loads the official free X List widget using `widgets.createTimeline`
+with `sourceType: list` and the numeric ID `2110824549948264866`. Do not replace
+this with automatic parsing of the owner/list URL: the widget interprets that
+numeric path segment as a legacy list slug and requests the wrong endpoint.
+The expected frame URL contains `/timeline-list/list-id/2110824549948264866`.
+Posts stay separate from publisher reporting and carry an unverified notice.
+A timeout/script-error message and a permanent direct List link cover blocked
+widgets; no API credentials, scraping service, or paid subscription are used.
+
+Verified October 15, 2026 in the Codex built-in browser: the original URL created
+a hidden zero-size frame at `/screen-name/wapitibugle/slug/2110824549948264866`;
+the explicit ID rendered a visible 900px timeline with real posts. Browser console
+showed no warning/error for the corrected widget. X still documents public List
+widgets at https://help.x.com/en/using-x/embed-x-feed. Availability can vary with
+X service health or a visitor's content blocker.
