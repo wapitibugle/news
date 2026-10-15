@@ -1154,5 +1154,86 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "4e5bd01b3071b44acabf",
+    "title": "Letters with 'suspicious substances' sent to US election offices",
+    "category": "Elections",
+    "published_at": "2026-10-15T19:13:09Z",
+    "first_seen_at": "2026-10-15T19:40:36.168958Z",
+    "updated_at": "2026-10-15T19:40:36.168958Z",
+    "sources": [
+      {
+        "title": "Letters with 'suspicious substances' sent to US election offices",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-15T19:13:09Z",
+        "primary": false,
+        "excerpt": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "85bb629c5ecaa6597d9b",
+    "title": "US justice department sues California over alleged noncitizen voting",
+    "category": "Elections",
+    "published_at": "2026-10-15T18:29:50Z",
+    "first_seen_at": "2026-10-15T19:40:36.168958Z",
+    "updated_at": "2026-10-15T19:40:36.168958Z",
+    "sources": [
+      {
+        "title": "US justice department sues California over alleged noncitizen voting",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/justice-department-sues-california-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-15T18:29:50Z",
+        "primary": false,
+        "excerpt": "DoJ had demanded that LA county confirm citizenship of people on list in thumb drive, but officials refusedUS politics live – latest updatesThe US Department of Justice sued California on Thursday, seeking a court order to prevent the state from tabulating certain ballots cast in the midterm elections.The suit came two days after the department made a specious demand to the state. On Tuesday, the department sent election officials in Los Angeles county a thumb drive with a handwritten password purporting to contain the names of noncitizens registered to vote. The department asked officials to "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7cd46bf3eded6773e30",
+    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+    "category": "World",
+    "published_at": "2026-10-15T17:31:37Z",
+    "first_seen_at": "2026-10-15T19:40:36.168958Z",
+    "updated_at": "2026-10-15T19:40:36.168958Z",
+    "sources": [
+      {
+        "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T17:31:37Z",
+        "primary": false,
+        "excerpt": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
