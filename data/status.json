@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T14:03:39.849801Z",
+  "collected_at": "2026-10-15T14:08:14.026210Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -7,10 +7,6 @@
     },
     {
       "feed": "BBC US",
-      "ok": true
-    },
-    {
-      "feed": "BBC Business",
       "ok": true
     },
     {
@@ -22,14 +18,6 @@
       "ok": true
     },
     {
-      "feed": "BBC Health",
-      "ok": true
-    },
-    {
-      "feed": "BBC Culture",
-      "ok": true
-    },
-    {
       "feed": "Guardian World",
       "ok": true
     },
@@ -38,27 +26,11 @@
       "ok": true
     },
     {
-      "feed": "Guardian Business",
-      "ok": true
-    },
-    {
       "feed": "Guardian Science",
       "ok": true
     },
     {
       "feed": "Guardian Technology",
-      "ok": true
-    },
-    {
-      "feed": "Guardian Health",
-      "ok": true
-    },
-    {
-      "feed": "Guardian Culture",
-      "ok": true
-    },
-    {
-      "feed": "Guardian Sport",
       "ok": true
     },
     {
@@ -94,23 +66,23 @@
       "ok": true
     },
     {
-      "feed": "NPR Culture",
-      "ok": true
-    },
-    {
-      "feed": "NPR Sports",
-      "ok": true
-    },
-    {
       "feed": "NPR Outdoors",
       "ok": true
     },
     {
       "feed": "PBS NewsHour",
       "ok": true
+    },
+    {
+      "feed": "NPR Politics",
+      "ok": true
+    },
+    {
+      "feed": "PBS Politics",
+      "ok": true
     }
   ],
   "ai_spend_usd": 0,
   "ai_enabled": false,
-  "stories": 17
+  "stories": 15
 }

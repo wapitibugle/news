@@ -21,6 +21,36 @@ class Safeguards(unittest.TestCase):
     def collect(self, old, items, reviews=None, now=NOW):
         return p.collect(copy.deepcopy(old), copy.deepcopy(items), reviews or {}, CONFIG, now)
 
+    def test_american_editorial_scope(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        excluded = [
+            ('Russell Brand accuser describes trial testimony', 'Culture'),
+            ('Healey says surprise UK growth is sign of resilience', 'Business'),
+            ('Children killed after school roof collapses in Pakistan', 'World'),
+            ('City council in England approves new parking rules', 'World'),
+            ('Champions League results', 'Sports'),
+        ]
+        for title, category in excluded:
+            self.assertEqual(p.editorial_priority(dict(title=title, category=category), config), 0, title)
+        for title, category in [
+            ('US midterm polling shows close Senate races', 'U.S.'),
+            ('Ukraine war threatens energy supply', 'World'),
+            ('Federal Reserve holds interest rates steady', 'Business'),
+            ('Actor testifies before Congress on federal AI legislation', 'Culture'),
+        ]:
+            self.assertGreater(p.editorial_priority(dict(title=title, category=category), config), 0, title)
+
+    def test_elections_have_selection_priority(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        config.update(CONFIG)
+        items = [candidate(n) for n in range(50)]
+        for item in items:
+            item['category'] = 'Science'
+        election = candidate(99)
+        election.update(title='US Senate election polling shows a close midterm race', category='U.S.')
+        records = p.collect([], items + [election], {}, config, NOW)
+        self.assertEqual(records[0]['category'], 'Elections')
+
     def test_no_duplicate_on_repeat(self):
         first = self.collect([], [candidate()])
         again = self.collect(first, [candidate()])

@@ -4,7 +4,7 @@ import json
 import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from pipeline import ROOT, date, iso, load_archive
+from pipeline import ROOT, date, iso, load_archive, editorial_priority
 
 
 def e(value):
@@ -18,9 +18,9 @@ def shell(title, body, prefix='./'):
 <title>{e(title)} · The Wapiti Bugle</title><link rel="stylesheet" href="{prefix}style.css">
 <script src="{prefix}app.js" defer></script></head><body><a class="skip" href="#main">Skip to stories</a>
 <header><a class="masthead" href="{prefix}index.html"><span>The Wapiti Bugle</span><img class="elk-mark" src="{prefix}elk.png" alt="Bull elk with head raised, bugling" width="110" height="100"></a>
-<nav aria-label="Main navigation"><a href="{prefix}index.html">Today's edition</a><a href="{prefix}archive.html">The archive</a><a href="{prefix}about.html">Our standards</a></nav></header>
+<nav aria-label="Main navigation"><a href="{prefix}index.html">Today's edition</a><a href="{prefix}archive.html">The archive</a></nav></header>
 <main id="main">{body}</main><footer><strong>The Wapiti Bugle</strong>
-<a href="{prefix}about.html">How we work</a> · <a href="mailto:wapitibugle@gmail.com">Corrections & feedback</a></footer></body></html>'''
+<a href="mailto:wapitibugle@gmail.com">Corrections & feedback</a></footer></body></html>'''
 
 
 def card(s, prefix='./', homepage=False):
@@ -48,10 +48,12 @@ def build():
         shutil.copy(ROOT / 'site' / name, out / name)
     (out / '.nojekyll').write_text('')
     records = load_archive(ROOT / 'data/archive')
+    config_path = ROOT / 'config.json'
+    config = json.loads(config_path.read_text()) if config_path.exists() else {}
     status_file = ROOT / 'data/status.json'
     status = json.loads(status_file.read_text()) if status_file.exists() else {}
     now = datetime.now(timezone.utc)
-    active = sorted([s for s in records if not s.get('withdrawn') and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: s['published_at'], reverse=True)
+    active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: s['published_at'], reverse=True)
     sections = []
     for tier, title, description in [('lead', 'The lead', 'Important developments, with claims checked by a human editor.'), ('brief', 'The daily brief', 'A broad selection. Headlines belong to the publishers named below.'), ('second', 'Worth a second look', 'Science, ideas, culture, and the world beyond the main news cycle.')]:
         selected = [s for s in active if s['tier'] == tier]
@@ -95,16 +97,6 @@ def build():
 <form id="search-form" role="search"><label for="search">Search the entire archive</label><div class="search-row"><input id="search" type="search" placeholder="A topic, place, or publisher…"><button type="submit">Search ↗</button></div></form>
 <p id="search-status" role="status" aria-live="polite"></p><div id="search-results"></div><button id="load-more" hidden>Show more results</button><h2>Browse by month</h2><ul class="months">''' + ''.join(links) + '</ul><noscript><p>JavaScript is required for full archive search. You can browse the months above without it.</p></noscript>'
     (out / 'archive.html').write_text(shell('The archive', archive_body))
-    about = '''<div class="prose"><div class="kicker">OUR STANDARDS</div><h1>Editorial standards</h1>
-<p>The Wapiti Bugle is an independent news selection. We aim for 35–50 new stories each day, with hourly collection across world affairs, U.S. news, business, science, technology, health, culture, sports, and outdoors.</p>
-<h2>Three ways to read</h2><p><strong>The lead</strong> is reserved for stories with explicit human review and cited claim checks. <strong>The daily brief</strong> carries attributed publisher headlines. <strong>Worth a second look</strong> highlights up to five science, culture, technology, and outdoors stories within the same 24-hour window.</p>
-<h2>What has actually been verified?</h2><p>Automated collection validates source URLs, timestamps, and the feed format, filters obvious opinion and live coverage, and groups very similar headlines. These are technical checks, not a claim of factual truth. Even two publishers can repeat the same mistake or wire report. We never label a story verified because several outlets carry it.</p>
-<p>Human reviewed means an editor recorded claim-level evidence and a review date. Other headlines are labeled source-reported and not independently verified. Full articles, medical conclusions, accusations, and political claims require reading the original evidence. We do not generate unsourced summaries or context.</p>
-<h2>A broad view</h2><p>Selection rotates between interests and publishers rather than optimizing for political agreement or clicks. The initial feed list is limited and UK-heavy; it is a starting source pool, not a claim of comprehensive geographic or ideological balance. We prefer an underfilled edition to invented certainty.</p>
-<h2>A record that stays</h2><p>Homepage eligibility expires 24 hours after the source publication time, even when collection is delayed. Archive pages and permanent links remain. Corrections are recorded visibly; withdrawn stories keep a tombstone. Repository history preserves previous editions. GitHub hosting and repository size limits still apply as the archive grows.</p>
-<h2>Updates & budget</h2><p>Collection is scheduled hourly. GitHub can delay or disable scheduled jobs; the last successful collection time is always visible. This edition uses no paid AI calls: AI spending is $0. Paid AI is disabled in code and cannot be enabled by adding a key alone. Any future integration must enforce the $10 monthly ceiling before requests and preserve a durable spending ledger.</p>
-<h2>Corrections</h2><p>Found an error? <a href="mailto:wapitibugle@gmail.com">Contact the editor</a> with the story link and the supporting evidence. Publisher headlines and reporting remain the property of their respective publishers.</p></div>'''
-    (out / 'about.html').write_text(shell('Our standards', about))
     (out / '404.html').write_text(shell('Page not found', '<h1>This page could not be found.</h1><p><a href="/archive.html">Search the archive</a></p>', '/'))
     print(f'Built {len(records)} permanent records; {len(active)} eligible on homepage.')
 

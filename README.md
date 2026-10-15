@@ -89,3 +89,9 @@ Each evidence URL must already be linked on the story. Add primary evidence to t
 - GitHub can delay schedules and automatically disable inactive schedules. Check Actions periodically and re-enable if needed. The site displays its last successful collection time and feed failures.
 
 Workflow deployment documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+
+## Audience and editorial scope (updated October 15, 2026)
+
+American readers are the primary audience. Prioritize U.S. elections, polling, competitive races, voting rules, national policy, and the U.S. economy. International stories need a clear global or U.S. consequence (for example the Ukraine war, major geopolitical developments, security, trade, energy, and supply chains). Exclude sports, celebrity/entertainment coverage, routine foreign local government, foreign domestic economic commentary, and isolated overseas tragedies. Public-policy hard news involving a celebrity can qualify on its substance.
+
+The `editorial` rules in config apply to both new collection and homepage rendering; out-of-scope prelaunch selections were removed at the owner’s request while coverage is being calibrated; future out-of-scope candidates are rejected before archival. Elections receive dedicated priority within the daily quota. This initial relevance filter is headline-based and imperfect; it does not read whole articles or guarantee comprehensive polling coverage. Specific polling numbers require cited poll methodology and dates before any synthesis is published.

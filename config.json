@@ -31,16 +31,6 @@
       ]
     },
     {
-      "name": "BBC Business",
-      "publisher": "BBC",
-      "category": "Business",
-      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "hosts": [
-        "bbc.com",
-        "bbc.co.uk"
-      ]
-    },
-    {
       "name": "BBC Science",
       "publisher": "BBC",
       "category": "Science",
@@ -55,26 +45,6 @@
       "publisher": "BBC",
       "category": "Technology",
       "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "hosts": [
-        "bbc.com",
-        "bbc.co.uk"
-      ]
-    },
-    {
-      "name": "BBC Health",
-      "publisher": "BBC",
-      "category": "Health",
-      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "hosts": [
-        "bbc.com",
-        "bbc.co.uk"
-      ]
-    },
-    {
-      "name": "BBC Culture",
-      "publisher": "BBC",
-      "category": "Culture",
-      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
       "hosts": [
         "bbc.com",
         "bbc.co.uk"
@@ -99,15 +69,6 @@
       ]
     },
     {
-      "name": "Guardian Business",
-      "publisher": "Guardian",
-      "category": "Business",
-      "url": "https://www.theguardian.com/business/rss",
-      "hosts": [
-        "theguardian.com"
-      ]
-    },
-    {
       "name": "Guardian Science",
       "publisher": "Guardian",
       "category": "Science",
@@ -121,33 +82,6 @@
       "publisher": "Guardian",
       "category": "Technology",
       "url": "https://www.theguardian.com/technology/rss",
-      "hosts": [
-        "theguardian.com"
-      ]
-    },
-    {
-      "name": "Guardian Health",
-      "publisher": "Guardian",
-      "category": "Health",
-      "url": "https://www.theguardian.com/society/health/rss",
-      "hosts": [
-        "theguardian.com"
-      ]
-    },
-    {
-      "name": "Guardian Culture",
-      "publisher": "Guardian",
-      "category": "Culture",
-      "url": "https://www.theguardian.com/culture/rss",
-      "hosts": [
-        "theguardian.com"
-      ]
-    },
-    {
-      "name": "Guardian Sport",
-      "publisher": "Guardian",
-      "category": "Sports",
-      "url": "https://www.theguardian.com/sport/rss",
       "hosts": [
         "theguardian.com"
       ]
@@ -226,24 +160,6 @@
       ]
     },
     {
-      "name": "NPR Culture",
-      "publisher": "NPR",
-      "category": "Culture",
-      "url": "https://feeds.npr.org/1008/rss.xml",
-      "hosts": [
-        "npr.org"
-      ]
-    },
-    {
-      "name": "NPR Sports",
-      "publisher": "NPR",
-      "category": "Sports",
-      "url": "https://feeds.npr.org/1055/rss.xml",
-      "hosts": [
-        "npr.org"
-      ]
-    },
-    {
       "name": "NPR Outdoors",
       "publisher": "NPR",
       "category": "Outdoors",
@@ -260,6 +176,35 @@
       "hosts": [
         "pbs.org"
       ]
+    },
+    {
+      "name": "NPR Politics",
+      "publisher": "NPR",
+      "category": "Elections",
+      "url": "https://feeds.npr.org/1014/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "PBS Politics",
+      "publisher": "PBS",
+      "category": "Elections",
+      "url": "https://www.pbs.org/newshour/feeds/rss/politics",
+      "hosts": [
+        "pbs.org"
+      ]
     }
-  ]
+  ],
+  "editorial": {
+    "audience": "American readers; U.S. national stakes before foreign local affairs",
+    "us_relevance": "\\b(u\\.?s\\.?|united states|american|americans|congress|senate|house republicans|house democrats|white house|trump|vance|harris|federal reserve|fed|wall street|supreme court|medicare|medicaid|social security|aca|pentagon|washington|midterms?|republicans?|democrats?)\\b",
+    "us_elections": "\\b(midterms?|polls?|polling|ballots?|voters?|voting|elections?|electoral|redistricting|gerrymander\\w*|senate race|house race|campaign|battleground|swing states?)\\b",
+    "global_impact": "\\b(ukraine|russia|russian|nato|nuclear|taiwan|china|chinese|beijing|iran|israel|gaza|middle east|global|worldwide|pandemic|trade war|tariffs?|oil prices?|energy crisis|supply chains?|world economy|cyberattack|ransomware)\\b",
+    "foreign_local": "\\b(uk|u\\.k\\.|britain|british|england|scotland|wales|nhs|healey|reeves|starmer|pakistan|school roof|hospital doctors|canada|canadian|australia|australian|council)\\b",
+    "celebrity": "\\b(russell brand|paul mccartney|john lennon|kardashian\\w*|celebrity|celebrities|actor|actress|singer|rapper|royal family|prince harry|meghan|red carpet|box office|beatles)\\b",
+    "public_policy": "\\b(congress|senate|white house|elections?|voting|legislation|federal policy|civil rights|supreme court|sanctions?|national security)\\b",
+    "sports": "\\b(champions league|premier league|wembley|nfl|nba|mlb|nhl|world cup|touchdown)\\b",
+    "entertainment": "\\b(ubisoft|rainbow six|video game review|game review|movie review|album review|hasan piker)\\b"
+  }
 }

@@ -111,14 +111,53 @@ def reviewed(record, review):
     return all(c.get('text') and c.get('urls') and all(u in urls for u in c['urls']) for c in review['claims'])
 
 
+def editorial_priority(story, config):
+    """Transparent headline rules for a U.S. audience; not factual verification."""
+    rules = config.get('editorial')
+    if not rules:
+        return 1  # Legacy/test configurations retain their existing behavior.
+    title = story['title'].lower()
+    category = story['category']
+    matches = lambda key: bool(re.search(rules[key], title, re.I))
+    if category == 'Sports' or matches('sports') or (rules.get('entertainment') and matches('entertainment')):
+        return 0
+    us = matches('us_relevance')
+    election = matches('us_elections')
+    global_impact = matches('global_impact')
+    if matches('celebrity') and not (election or matches('public_policy')):
+        return 0
+    if matches('foreign_local') and not (us or global_impact):
+        return 0
+    if category == 'Culture' and not (us and matches('public_policy')):
+        return 0
+    if election and (us or category in ('U.S.', 'Elections')):
+        return 5
+    if category == 'World':
+        return 3 if global_impact else (2 if us else 0)
+    if category == 'Business':
+        return 3 if us or global_impact else 0
+    if category == 'Elections':
+        return 4
+    if category == 'U.S.':
+        return 3
+    return 2
+
+
 def collect(existing, candidates, reviews, config, now):
     """Append-only story identities; re-runs never reset first publication time."""
     zone = ZoneInfo(config['timezone'])
     today = now.astimezone(zone).date()
     records = {s['id']: s for s in existing}
+    for story in records.values():
+        story['editorial_excluded'] = editorial_priority(story, config) == 0
     known_urls = {source['url']: s for s in records.values() for source in s['sources']}
     pending = []
     for candidate in sorted(candidates, key=lambda c: c['published_at'], reverse=True):
+        priority = editorial_priority(candidate, config)
+        if not priority:
+            continue
+        if priority >= 4:
+            candidate = dict(candidate, category='Elections')
         if candidate['url'] in known_urls:
             continue
         match = next((s for s in list(records.values()) + pending
@@ -141,13 +180,15 @@ def collect(existing, candidates, reviews, config, now):
     # 40 stories spread through the day; a small initial edition, hard cap 50.
     hour = now.astimezone(zone).hour
     quota = min(config['daily_max'], max(5, round(config['daily_target'] * (hour + 1) / 24)))
-    categories = Counter(s['category'] for s in day_records)
+    eligible_today = [s for s in day_records if not s.get('editorial_excluded')]
+    categories = Counter(s['category'] for s in eligible_today)
     publishers = Counter(s['sources'][0]['publisher'] for s in day_records)
-    while pending and len(day_records) < quota:
-        pending.sort(key=lambda s: (categories[s['category']], publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
+    while pending and len(eligible_today) < quota and len(day_records) < config['daily_max']:
+        pending.sort(key=lambda s: (-(editorial_priority(s, config) >= 4 and categories['Elections'] < max(3, quota // 4)), categories[s['category']], -editorial_priority(s, config), publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
         s = pending.pop(0)
         records[s['id']] = s
         day_records.append(s)
+        eligible_today.append(s)
         categories[s['category']] += 1
         publishers[s['sources'][0]['publisher']] += 1
     for s in records.values():
@@ -162,7 +203,7 @@ def collect(existing, candidates, reviews, config, now):
         # Context cannot be invented: it is added by a reviewer with citations.
         s['context'] = text(r.get('context', '')) if s['verification'] == 'human-verified' else ''
     # A separate 3–5 story discovery selection, within the same 24-hour window.
-    eligible = [s for s in records.values() if not s['withdrawn'] and now - timedelta(hours=24) <= date(s['published_at']) <= now]
+    eligible = [s for s in records.values() if not s['withdrawn'] and not s.get('editorial_excluded') and now - timedelta(hours=24) <= date(s['published_at']) <= now]
     second = sorted([s for s in eligible if s['tier'] == 'second'], key=lambda s: s['published_at'], reverse=True)[:5]
     for s in sorted(eligible, key=lambda s: (s['category'] in ('World', 'U.S.'), s['published_at']), reverse=False):
         if len(second) >= 5:
