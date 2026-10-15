@@ -85,3 +85,11 @@ python -m http.server 8000 --directory dist
 ```
 
 Local collection always skips paid AI. Tests use fake keys and injected responses, never real API requests. A live first call is still necessary after billing, secret storage and model access are confirmed.
+
+## Intraday freshness
+
+A filled initial edition must not block new headlines. Each elapsed hour admits another new selection when suitable reporting is available, with at most two catch-up slots per collection and a hard cap of 50 first selections per Chicago calendar day. Repeated runs in the same hour do not create extra refresh slots. Expired or excluded selections do not occupy the current edition's target, but still count against the daily admission cap. Timestamps are never refreshed merely to make an old story appear new.
+
+Within the configured election coverage allocation, candidates published in the last three hours receive preference. The homepage places major-designated stories first, followed by recent coverage (last four hours), then significance and original publication time. The collection clock and source-publication clock are distinct. GitHub may run scheduled workflows later than the requested minute.
+
+An open homepage also checks the public edition timestamp every five minutes and when the tab becomes visible. It reloads only when a different collected edition is available and no story context is expanded, preserving the interest filter where browser storage is available. These static timestamp checks do not invoke the AI or create additional collection runs.

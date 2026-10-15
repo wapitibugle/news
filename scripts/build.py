@@ -57,7 +57,7 @@ def build():
     status_file = ROOT / 'data/status.json'
     status = json.loads(status_file.read_text()) if status_file.exists() else {}
     now = datetime.now(timezone.utc)
-    active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and scientific_publication_allowed(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: (editorial_priority(s, config), s['published_at']), reverse=True)
+    active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and scientific_publication_allowed(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: ((s.get('verification') == 'human-verified' and s.get('tier') == 'lead') or s.get('ai_editor', {}).get('major') is True, date(s['published_at']) >= now - timedelta(hours=4), editorial_priority(s, config), s['published_at']), reverse=True)
     sections = []
     for tier, title, description in [('brief', 'The daily brief', 'A broad selection. Headlines belong to the publishers named below.'), ('second', 'Worth a second look', 'Science, ideas, culture, and the world beyond the main news cycle.')]:
         selected = [s for s in active if s['tier'] == tier or (tier == 'brief' and s['tier'] == 'lead')]
@@ -70,13 +70,14 @@ def build():
             content = '<p class="empty">No stories meet this section’s criteria yet. We leave room rather than lower the standard.</p>'
         sections.append(f'<section class="tier"><div class="section-title"><h2>{title}</h2><p>{description}</p></div><div class="stories">{content}</div></section>')
     collected = status.get('collected_at')
+    (out / 'edition.json').write_text(json.dumps({'collected_at': collected}))
     stamp = f'<time datetime="{e(collected)}">{e(collected)}</time>' if collected else 'Awaiting the first successful collection'
     health = status.get('feeds', [])
     errors = sum(not f['ok'] for f in health)
     feed_notice = f'<p class="notice">{errors} source feeds unavailable at the last collection. Other sources are still included.</p>' if errors else ''
     categories = sorted({s['category'] for s in active})
     buttons = '<button class="selected" data-filter="all" aria-pressed="true">All interests</button>' + ''.join(f'<button data-filter="{e(c)}" aria-pressed="false">{e(c)}</button>' for c in categories)
-    body = f'''<div class="edition-line"><span>THE LATEST EDITION</span><span>Last collection: {stamp}</span></div>
+    body = f'''<div class="edition-line" data-edition="{e(collected or "")}"><span>THE LATEST EDITION</span><span>Last collection: {stamp}</span></div>
 {feed_notice}
 <div class="filters" aria-label="Filter by interest">{buttons}</div><p id="filter-empty" hidden>No current stories in this interest.</p>
 {''.join(sections)}<aside class="archive-banner"><h2>News archive</h2><p>Every published selection remains in our searchable archive.</p><a href="./archive.html">Explore the archive ↗</a></aside>'''

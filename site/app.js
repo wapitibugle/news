@@ -86,3 +86,33 @@ if (form) {
     }
   });
 }
+
+// Keep an open homepage current without interrupting expanded story context.
+const editionMarker = document.querySelector('[data-edition]');
+if (editionMarker && editionMarker.dataset.edition) {
+  let checkingEdition = false;
+  async function checkForEdition() {
+    if (checkingEdition || document.visibilityState !== 'visible' || document.querySelector('details[open]')) return;
+    checkingEdition = true;
+    try {
+      const response = await fetch(`./edition.json?check=${Date.now()}`, {cache: 'no-store'});
+      if (!response.ok) return;
+      const next = await response.json();
+      if (next.collected_at && next.collected_at !== editionMarker.dataset.edition) {
+        try { sessionStorage.setItem('wapiti-interest', interest); } catch (_) {}
+        window.location.reload();
+      }
+    } catch (_) {
+      // Keep the readable current edition when the network is unavailable.
+    } finally {
+      checkingEdition = false;
+    }
+  }
+  setInterval(checkForEdition, 300000);
+  document.addEventListener('visibilitychange', checkForEdition);
+  try {
+    const saved = sessionStorage.getItem('wapiti-interest');
+    const matching = all('[data-filter]').find((button) => button.dataset.filter === saved);
+    if (matching) matching.click();
+  } catch (_) {}
+}

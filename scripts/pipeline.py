@@ -211,14 +211,19 @@ def collect(existing, candidates, reviews, config, now):
     for story in records.values():
         story['editorial_excluded'] = editorial_priority(story, config) == 0 or not scientific_publication_allowed(story, config, reviews.get(story['id'], {}))
     day_records = [s for s in records.values() if date(s['first_seen_at']).astimezone(zone).date() == today]
-    # 40 stories spread through the day; a small initial edition, hard cap 50.
+    # Initial edition plus bounded hourly admissions; manual reruns cannot drain the daily cap.
     hour = now.astimezone(zone).hour
     quota = min(config['daily_max'], max(config.get('edition_minimum', 5), round(config['daily_target'] * (hour + 1) / 24)))
-    eligible_today = [s for s in day_records if not s.get('editorial_excluded')]
+    eligible_today = [s for s in day_records if not s.get('editorial_excluded') and reviews.get(s['id'], {}).get('status') != 'withdrawn' and now - timedelta(hours=24) <= date(s['published_at']) <= now]
+    if day_records:
+        last_selected = max(date(s['first_seen_at']) for s in day_records)
+        elapsed_hours = max(0, int(now.timestamp() // 3600 - last_selected.timestamp() // 3600))
+        refresh_slots = min(2, elapsed_hours * config.get('hourly_new_story_slots', 1))
+        quota = min(config['daily_max'], max(quota, len(eligible_today) + refresh_slots))
     categories = Counter(s['category'] for s in eligible_today)
     publishers = Counter(s['sources'][0]['publisher'] for s in day_records)
     while pending and len(eligible_today) < quota and len(day_records) < config['daily_max']:
-        pending.sort(key=lambda s: (-(s['category'] == 'Elections' and categories['Elections'] < max(3, quota // 4)), -min(editorial_priority(s, config), 4), categories[s['category']], publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
+        pending.sort(key=lambda s: (-(s['category'] == 'Elections' and categories['Elections'] < max(3, quota // 4)), -(date(s['published_at']) >= now - timedelta(hours=3)), -min(editorial_priority(s, config), 4), categories[s['category']], publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
         s = pending.pop(0)
         records[s['id']] = s
         day_records.append(s)

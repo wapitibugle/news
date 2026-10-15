@@ -84,6 +84,45 @@ class Safeguards(unittest.TestCase):
         self.assertTrue(p.scientific_publication_allowed(normal, config, {}))
         self.assertEqual(p.collect([], [item], {}, config, NOW), [])
 
+    def test_hourly_arrival_is_admitted_after_initial_edition_is_full(self):
+        config = dict(CONFIG, edition_minimum=35, daily_target=45)
+        first = p.collect([], [candidate(n) for n in range(35)], {}, config, NOW)
+        self.assertEqual(len(first), 35)
+        later = NOW + timedelta(hours=1)
+        news = candidate(999)
+        news['published_at'] = p.iso(later - timedelta(minutes=10))
+        second = p.collect(copy.deepcopy(first), [news], {}, config, later)
+        self.assertEqual(len(second), 36)
+        self.assertEqual(second[0]['first_seen_at'], first[0]['first_seen_at'])
+        another = candidate(1000)
+        another['published_at'] = p.iso(later + timedelta(minutes=5))
+        repeated = p.collect(copy.deepcopy(second), [another], {}, config, later + timedelta(minutes=15))
+        self.assertEqual(len(repeated), 36)
+
+    def test_expired_homepage_stories_do_not_block_replacement(self):
+        config = dict(CONFIG, edition_minimum=2, daily_target=2, daily_max=10)
+        old = [candidate(n) for n in range(2)]
+        for item in old:
+            item['published_at'] = p.iso(NOW - timedelta(hours=23))
+        first = p.collect([], old, {}, config, NOW)
+        later = NOW + timedelta(hours=2)
+        news = [candidate(n) for n in range(90, 92)]
+        for item in news:
+            item['published_at'] = p.iso(later - timedelta(minutes=10))
+        updated = p.collect(first, news, {}, config, later)
+        self.assertEqual(len(updated), 4)
+        self.assertEqual(sum(p.date(s['published_at']) >= later - timedelta(hours=24) for s in updated), 2)
+
+    def test_fresh_substantial_story_beats_old_routine_selection(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        config.update(edition_minimum=1, daily_target=1)
+        old = candidate(91)
+        old.update(title='Researchers test cancer treatment', category='Health', published_at=p.iso(NOW - timedelta(hours=12)))
+        fresh = candidate(92)
+        fresh.update(title='US agency announces national policy change', category='U.S.', published_at=p.iso(NOW - timedelta(minutes=10)))
+        result = p.collect([], [old, fresh], {}, config, NOW)
+        self.assertEqual(result[0]['title'], fresh['title'])
+
     def test_no_duplicate_on_repeat(self):
         first = self.collect([], [candidate()])
         again = self.collect(first, [candidate()])
