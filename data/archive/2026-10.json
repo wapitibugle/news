@@ -1266,5 +1266,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "46ab8c9354d774037010",
+    "title": "Wisconsin elections officials issue guidance for handling federal agents at polls",
+    "category": "Elections",
+    "published_at": "2026-10-15T21:37:21Z",
+    "first_seen_at": "2026-10-15T21:43:20.389119Z",
+    "updated_at": "2026-10-15T21:43:20.389119Z",
+    "sources": [
+      {
+        "title": "Wisconsin elections officials issue guidance for handling federal agents at polls",
+        "url": "https://www.pbs.org/newshour/politics/wisconsin-elections-officials-issue-guidance-for-handling-federal-agents-at-polls",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-15T21:37:21Z",
+        "primary": false,
+        "excerpt": "Elections officials in battleground Wisconsin on Thursday approved guidance for local clerks to help them know what to do if federal law enforcement officials show up at the polls on Election Day, as some activists fear might happen."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
