@@ -304,7 +304,7 @@
         "primary": false
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
@@ -349,6 +349,54 @@
         "publisher": "Guardian",
         "category": "Sports",
         "published_at": "2026-10-15T11:31:13Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "9a78a82340a9e6f0d88d",
+    "title": "Group that plants fruit trees in vacant lots grows to cities nationwide",
+    "category": "Outdoors",
+    "published_at": "2026-10-15T08:46:38Z",
+    "first_seen_at": "2026-10-15T14:03:39.849801Z",
+    "updated_at": "2026-10-15T14:03:39.849801Z",
+    "sources": [
+      {
+        "title": "Group that plants fruit trees in vacant lots grows to cities nationwide",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-5991923/group-that-plants-fruit-trees-in-vacant-lots-grows-to-cities-nationwide",
+        "publisher": "NPR",
+        "category": "Outdoors",
+        "published_at": "2026-10-15T08:46:38Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "c2033333004cce988d8c",
+    "title": "Emotional TV plea for cancer research leads to meeting with PM",
+    "category": "Health",
+    "published_at": "2026-10-15T10:56:25Z",
+    "first_seen_at": "2026-10-15T14:03:39.849801Z",
+    "updated_at": "2026-10-15T14:03:39.849801Z",
+    "sources": [
+      {
+        "title": "Emotional TV plea for cancer research leads to meeting with PM",
+        "url": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo",
+        "publisher": "BBC",
+        "category": "Health",
+        "published_at": "2026-10-15T10:56:25Z",
         "primary": false
       }
     ],
