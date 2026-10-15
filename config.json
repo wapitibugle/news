@@ -1,0 +1,265 @@
+{
+  "domain": "wapitibugle.com",
+  "timezone": "America/Chicago",
+  "daily_target": 40,
+  "daily_max": 50,
+  "homepage_hours": 24,
+  "ai": {
+    "enabled": false,
+    "monthly_limit_usd": 10,
+    "mode": "disabled_no_paid_calls"
+  },
+  "feeds": [
+    {
+      "name": "BBC World",
+      "publisher": "BBC",
+      "category": "World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC US",
+      "publisher": "BBC",
+      "category": "U.S.",
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC Business",
+      "publisher": "BBC",
+      "category": "Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC Science",
+      "publisher": "BBC",
+      "category": "Science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC Technology",
+      "publisher": "BBC",
+      "category": "Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC Health",
+      "publisher": "BBC",
+      "category": "Health",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "BBC Culture",
+      "publisher": "BBC",
+      "category": "Culture",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "hosts": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "Guardian World",
+      "publisher": "Guardian",
+      "category": "World",
+      "url": "https://www.theguardian.com/world/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian US",
+      "publisher": "Guardian",
+      "category": "U.S.",
+      "url": "https://www.theguardian.com/us-news/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Business",
+      "publisher": "Guardian",
+      "category": "Business",
+      "url": "https://www.theguardian.com/business/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Science",
+      "publisher": "Guardian",
+      "category": "Science",
+      "url": "https://www.theguardian.com/science/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Technology",
+      "publisher": "Guardian",
+      "category": "Technology",
+      "url": "https://www.theguardian.com/technology/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Health",
+      "publisher": "Guardian",
+      "category": "Health",
+      "url": "https://www.theguardian.com/society/health/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Culture",
+      "publisher": "Guardian",
+      "category": "Culture",
+      "url": "https://www.theguardian.com/culture/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Sport",
+      "publisher": "Guardian",
+      "category": "Sports",
+      "url": "https://www.theguardian.com/sport/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "Guardian Environment",
+      "publisher": "Guardian",
+      "category": "Outdoors",
+      "url": "https://www.theguardian.com/environment/rss",
+      "hosts": [
+        "theguardian.com"
+      ]
+    },
+    {
+      "name": "NPR News",
+      "publisher": "NPR",
+      "category": "U.S.",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NASA",
+      "publisher": "NASA",
+      "category": "Science",
+      "url": "https://www.nasa.gov/feed/",
+      "hosts": [
+        "nasa.gov"
+      ],
+      "primary": true
+    },
+    {
+      "name": "NPR World",
+      "publisher": "NPR",
+      "category": "World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Business",
+      "publisher": "NPR",
+      "category": "Business",
+      "url": "https://feeds.npr.org/1006/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Science",
+      "publisher": "NPR",
+      "category": "Science",
+      "url": "https://feeds.npr.org/1007/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Technology",
+      "publisher": "NPR",
+      "category": "Technology",
+      "url": "https://feeds.npr.org/1019/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Health",
+      "publisher": "NPR",
+      "category": "Health",
+      "url": "https://feeds.npr.org/1128/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Culture",
+      "publisher": "NPR",
+      "category": "Culture",
+      "url": "https://feeds.npr.org/1008/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Sports",
+      "publisher": "NPR",
+      "category": "Sports",
+      "url": "https://feeds.npr.org/1055/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "NPR Outdoors",
+      "publisher": "NPR",
+      "category": "Outdoors",
+      "url": "https://feeds.npr.org/1025/rss.xml",
+      "hosts": [
+        "npr.org"
+      ]
+    },
+    {
+      "name": "PBS NewsHour",
+      "publisher": "PBS",
+      "category": "U.S.",
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "hosts": [
+        "pbs.org"
+      ]
+    }
+  ]
+}

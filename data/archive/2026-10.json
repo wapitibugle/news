@@ -1,0 +1,362 @@
+[
+  {
+    "id": "aef1173e9d6f466a7fc2",
+    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+    "category": "Business",
+    "published_at": "2026-10-15T13:44:51Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no",
+        "publisher": "BBC",
+        "category": "Business",
+        "published_at": "2026-10-15T13:44:51Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "e5c19b67b708e0916c61",
+    "title": "Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma",
+    "category": "Sports",
+    "published_at": "2026-10-15T13:34:34Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma",
+        "url": "https://www.theguardian.com/football/2026/oct/15/champions-league-review-psg-man-city-viking-stavanger",
+        "publisher": "Guardian",
+        "category": "Sports",
+        "published_at": "2026-10-15T13:34:34Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "c323ec5ec0a5b09c4ad0",
+    "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+    "category": "U.S.",
+    "published_at": "2026-10-15T11:31:25Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+        "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T11:31:25Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "c946c10f53580b5ddb23",
+    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+    "category": "Science",
+    "published_at": "2026-10-15T04:05:00Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-15T04:05:00Z",
+        "primary": true
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "97282233d3caeee41234",
+    "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+    "category": "Culture",
+    "published_at": "2026-10-15T13:32:56Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+        "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po",
+        "publisher": "BBC",
+        "category": "Culture",
+        "published_at": "2026-10-15T13:32:56Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "5d99388c2160c13056d0",
+    "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+    "category": "World",
+    "published_at": "2026-10-15T13:30:11Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+        "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T13:30:11Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "68db53d65a95fed85fed",
+    "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+    "category": "Technology",
+    "published_at": "2026-10-15T12:15:22Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-15T12:15:22Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "98cf7e5b05a153a196d1",
+    "title": "Hospital doctors to strike as pay dispute continues",
+    "category": "Health",
+    "published_at": "2026-10-15T11:02:17Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Hospital doctors to strike as pay dispute continues",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez69g3g8go",
+        "publisher": "BBC",
+        "category": "Health",
+        "published_at": "2026-10-15T11:02:17Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "f1de95ce2f0e995e958b",
+    "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
+    "category": "Outdoors",
+    "published_at": "2026-10-15T09:00:14Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
+        "url": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-15T09:00:14Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "36828041af655e35e2e0",
+    "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+    "category": "U.S.",
+    "published_at": "2026-10-15T11:06:21Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T11:06:21Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "5f2528424985d275b374",
+    "title": "Fires Arrive in the Amazon Rainforest",
+    "category": "Science",
+    "published_at": "2026-10-15T04:01:00Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Fires Arrive in the Amazon Rainforest",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-15T04:01:00Z",
+        "primary": true
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "66dbbfbf66b4fa815945",
+    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "category": "Business",
+    "published_at": "2026-10-15T13:25:17Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
+        "publisher": "BBC",
+        "category": "Business",
+        "published_at": "2026-10-15T13:25:17Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "b41b3ca1776b93cc63bc",
+    "title": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
+    "category": "Culture",
+    "published_at": "2026-10-15T13:30:13Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
+        "url": "https://www.theguardian.com/film/2026/oct/15/dont-do-this-why-paul-mccartney-cares-about-looking-shorter-than-john-lennon-in-sam-mendes-beatles-films",
+        "publisher": "Guardian",
+        "category": "Culture",
+        "published_at": "2026-10-15T13:30:13Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "c9f7a604dde34a1bf706",
+    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "category": "World",
+    "published_at": "2026-10-15T12:28:26Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T12:28:26Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "77764bc8cd18ba629d8c",
+    "title": "FA spending on Wembley hospitality and free tickets for FA Council rises by 25%",
+    "category": "Sports",
+    "published_at": "2026-10-15T11:31:13Z",
+    "first_seen_at": "2026-10-15T13:48:51.889208Z",
+    "updated_at": "2026-10-15T13:48:51.889208Z",
+    "sources": [
+      {
+        "title": "FA spending on Wembley hospitality and free tickets for FA Council rises by 25%",
+        "url": "https://www.theguardian.com/football/2026/oct/15/fa-spending-wembley-hospitality-free-tickets-fa-council-rises-25-percent",
+        "publisher": "Guardian",
+        "category": "Sports",
+        "published_at": "2026-10-15T11:31:13Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  }
+]

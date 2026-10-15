@@ -1,0 +1,116 @@
+{
+  "collected_at": "2026-10-15T13:51:59.489788Z",
+  "feeds": [
+    {
+      "feed": "BBC World",
+      "ok": true
+    },
+    {
+      "feed": "BBC US",
+      "ok": true
+    },
+    {
+      "feed": "BBC Business",
+      "ok": true
+    },
+    {
+      "feed": "BBC Science",
+      "ok": true
+    },
+    {
+      "feed": "BBC Technology",
+      "ok": true
+    },
+    {
+      "feed": "BBC Health",
+      "ok": true
+    },
+    {
+      "feed": "BBC Culture",
+      "ok": true
+    },
+    {
+      "feed": "Guardian World",
+      "ok": true
+    },
+    {
+      "feed": "Guardian US",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Business",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Science",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Technology",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Health",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Culture",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Sport",
+      "ok": true
+    },
+    {
+      "feed": "Guardian Environment",
+      "ok": true
+    },
+    {
+      "feed": "NPR News",
+      "ok": true
+    },
+    {
+      "feed": "NASA",
+      "ok": true
+    },
+    {
+      "feed": "NPR World",
+      "ok": true
+    },
+    {
+      "feed": "NPR Business",
+      "ok": true
+    },
+    {
+      "feed": "NPR Science",
+      "ok": true
+    },
+    {
+      "feed": "NPR Technology",
+      "ok": true
+    },
+    {
+      "feed": "NPR Health",
+      "ok": true
+    },
+    {
+      "feed": "NPR Culture",
+      "ok": true
+    },
+    {
+      "feed": "NPR Sports",
+      "ok": true
+    },
+    {
+      "feed": "NPR Outdoors",
+      "ok": true
+    },
+    {
+      "feed": "PBS NewsHour",
+      "ok": true
+    }
+  ],
+  "ai_spend_usd": 0,
+  "ai_enabled": false,
+  "stories": 15
+}

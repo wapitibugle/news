@@ -1,0 +1,60 @@
+name: Collect news and publish
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: wapiti-publish
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test editorial and archive safeguards
+        run: python -m unittest discover -s tests -v
+      - name: Collect public feeds (no paid API calls)
+        run: python scripts/pipeline.py
+      - name: Persist archive before deployment
+        run: |
+          git config user.name 'wapitibugle'
+          git config user.email '343039212+wapitibugle@users.noreply.github.com'
+          git add data/archive data/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update news archive'
+            git push origin HEAD:main
+          fi
+      - name: Build the public site
+        run: python scripts/build.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
