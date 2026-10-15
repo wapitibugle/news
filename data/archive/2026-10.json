@@ -179,7 +179,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "3805a08f8fca96448f88",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "Democratic and Republican strategists discuss campaign pressures and Trump's role in the midterms. Their assessments are political analysis, not independent polling findings.",
+      "evidence_quote": "Democratic strategist Mo Elleithee and Republican strategist Doug Heye",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms",
+      "group": ""
+    }
   },
   {
     "id": "b6037507a65b5ab6449e",
@@ -231,7 +246,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "8638c10526fc5daa1b9d",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+      "group": ""
+    }
   },
   {
     "id": "f1b5f328931e74ad8584",
@@ -413,7 +443,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "4d4ac0ad311194256d4b",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The BBC documents opposition to data-centre expansion across several states and resulting political shifts. Arizona enacted a three-year pause on new data-centre tax breaks, a concrete policy response distinct from campaign rhetoric.",
+      "evidence_quote": "In July, she enacted a three-year pause on any new tax break given to a company",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+      "group": ""
+    }
   },
   {
     "id": "6b7f691821498e6ffdb3",
@@ -439,7 +484,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "6b7f691821498e6ffdb3",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+      "group": ""
+    }
   },
   {
     "id": "34454c279e7f893b56b3",
@@ -447,7 +507,7 @@
     "category": "Elections",
     "published_at": "2026-10-15T12:00:12Z",
     "first_seen_at": "2026-10-15T14:18:39.176342Z",
-    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T18:02:17.247666Z",
     "sources": [
       {
         "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
@@ -456,6 +516,32 @@
         "category": "Elections",
         "published_at": "2026-10-15T12:00:12Z",
         "primary": false
+      },
+      {
+        "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+        "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-15T09:00:13Z",
+        "primary": false,
+        "excerpt": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris pollOur reporters answer your questions about the US economy and the midterm electionsWhat is your personal ‘recession indicator’?With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.The majority of those surveyed were pessimistic about the economy, with three-quarters of Americans saying ",
+        "ai_editor": {
+          "id": "c6c972789af116444f82",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The Harris poll reports that 65% of independents believe the economy is worsening. Conducted online among 3,998 US adults, it measures economic perceptions, not election outcomes; the supplied article gives no margin of error.",
+          "evidence_quote": "This survey was conducted online within the US by The Harris Poll from 24 September to 3 October 2026",
+          "related_ids": [
+            "34454c279e7f893b56b3"
+          ],
+          "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+          "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+          "group": "34454c279e7f893b56b3"
+        }
       }
     ],
     "tier": "brief",
@@ -465,7 +551,24 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "34454c279e7f893b56b3",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "c6c972789af116444f82"
+      ],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+      "group": "34454c279e7f893b56b3"
+    }
   },
   {
     "id": "4a363950f1b693db8cc1",
