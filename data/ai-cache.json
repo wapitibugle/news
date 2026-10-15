@@ -92,5 +92,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race",
     "group": ""
+  },
+  "7132b2b896af6115411ca2bf5fac4ea574bcd7274bfb43384bc66f1dd13c1f23": {
+    "id": "6b7f691821498e6ffdb3",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+    "group": ""
+  },
+  "c5cceca5061055c3f9e07a11f737865ff85c45090bc2ce3fb5fd6e3636ddc2df": {
+    "id": "34454c279e7f893b56b3",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "c6c972789af116444f82"
+    ],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+    "group": "34454c279e7f893b56b3"
+  },
+  "6ade15f2111ea76ebe30634599f267495e9365a5ab78772bdb9358ef614f6e58": {
+    "id": "c6c972789af116444f82",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The Harris poll reports that 65% of independents believe the economy is worsening. Conducted online among 3,998 US adults, it measures economic perceptions, not election outcomes; the supplied article gives no margin of error.",
+    "evidence_quote": "This survey was conducted online within the US by The Harris Poll from 24 September to 3 October 2026",
+    "related_ids": [
+      "34454c279e7f893b56b3"
+    ],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+    "group": "34454c279e7f893b56b3"
+  },
+  "4dd07e693c705620f1a0215fe7c22a1306a5f1adc3acb9b7dd441cd817ae854b": {
+    "id": "8638c10526fc5daa1b9d",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+    "group": ""
+  },
+  "e3334e7b1de1e0ec827bda9abbb6799b70fa31b44f2b002ca32e4b2b0b735be1": {
+    "id": "4d4ac0ad311194256d4b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The BBC documents opposition to data-centre expansion across several states and resulting political shifts. Arizona enacted a three-year pause on new data-centre tax breaks, a concrete policy response distinct from campaign rhetoric.",
+    "evidence_quote": "In July, she enacted a three-year pause on any new tax break given to a company",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "How backlash against data centres could shape the US midterm elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+    "group": ""
+  },
+  "8926bbcf00cc45e9ed7e2f123c22a8c3e844f6c8c21ecdb97292cea48786076e": {
+    "id": "3805a08f8fca96448f88",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic and Republican strategists discuss campaign pressures and Trump's role in the midterms. Their assessments are political analysis, not independent polling findings.",
+    "evidence_quote": "Democratic strategist Mo Elleithee and Republican strategist Doug Heye",
+    "related_ids": [],
+    "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+    "title": "Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms",
+    "group": ""
   }
 }
