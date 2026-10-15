@@ -1320,7 +1320,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4c1f0e54e89165d96a54",
@@ -1347,7 +1348,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bffc1575a2f7d7b36c21",
@@ -1374,7 +1376,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1747c068df2002a33fac",
@@ -1460,7 +1463,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f3cff2606051243aacbd",
@@ -1478,6 +1482,61 @@
         "published_at": "2026-10-15T21:54:06Z",
         "primary": false,
         "excerpt": "At least two people were hospitalized Thursday following a shooting at an elementary school in Bend, Oregon, and the shooter is dead, authorities say."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "95ef15c2d897dee85c18",
+    "title": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+    "category": "World",
+    "published_at": "2026-10-15T22:58:02Z",
+    "first_seen_at": "2026-10-15T23:37:13.302757Z",
+    "updated_at": "2026-10-15T23:37:13.302757Z",
+    "sources": [
+      {
+        "title": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T22:58:02Z",
+        "primary": false,
+        "excerpt": "Katie Zacharia tells Guardian her first, widely panned, press briefing followed six-day sprint to appoint her to key roleDonald Trump’s new White House press secretary says it is “unknown” how much she will engage with the press, or hold briefings with reporters, as she faces mounting questions over her legal credentials.In a brief interview with the Guardian on Thursday, Katie Zacharia detailed the whirlwind sprint to replace her predecessor Karoline Leavitt as the US president’s chief spokesperson. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "24cec72781417c6d2dd9",
+    "title": "Inside Georgia's Senate race and Collins's uphill battle against Ossoff",
+    "category": "Elections",
+    "published_at": "2026-10-15T22:30:58Z",
+    "first_seen_at": "2026-10-15T23:37:13.302757Z",
+    "updated_at": "2026-10-15T23:37:13.302757Z",
+    "sources": [
+      {
+        "title": "Inside Georgia's Senate race and Collins's uphill battle against Ossoff",
+        "url": "https://www.pbs.org/newshour/show/inside-georgias-senate-race-and-collinss-uphill-battle-against-ossoff",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-15T22:30:58Z",
+        "primary": false,
+        "excerpt": "President Trump will travel to Georgia on Friday to stump for Republican Senate candidate Mike Collins. Collins is in an uphill battle against incumbent Democratic Sen. Jon Ossoff. Liz Landers visited Georgia for a closer look at that race."
       }
     ],
     "tier": "brief",
