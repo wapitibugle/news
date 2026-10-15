@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T14:08:14.026210Z",
+  "collected_at": "2026-10-15T14:11:19.773589Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -84,5 +84,5 @@
   ],
   "ai_spend_usd": 0,
   "ai_enabled": false,
-  "stories": 15
+  "stories": 17
 }

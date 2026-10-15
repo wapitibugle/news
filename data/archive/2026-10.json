@@ -171,7 +171,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "b6037507a65b5ab6449e",
@@ -195,7 +196,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "8638c10526fc5daa1b9d",
@@ -219,7 +221,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "f1b5f328931e74ad8584",
@@ -243,7 +246,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "42120e918c8d3ee4c890",
@@ -267,7 +271,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "9a78a82340a9e6f0d88d",
@@ -291,7 +296,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "dd7bada69778f353a418",
@@ -315,7 +321,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "f0930aaa5f3df4a12641",
@@ -339,7 +346,8 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false
   },
   {
     "id": "9ab900e4fa8fe878141f",
@@ -359,6 +367,55 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "bf0f4509cf75a915e54c",
+    "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+    "category": "Technology",
+    "published_at": "2026-10-14T21:50:29Z",
+    "first_seen_at": "2026-10-15T14:11:19.773589Z",
+    "updated_at": "2026-10-15T14:11:19.773589Z",
+    "sources": [
+      {
+        "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-14T21:50:29Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": ""
+  },
+  {
+    "id": "ee9fdb03755f68a46640",
+    "title": "US teenager appears in court over alleged Hindu temple shooting plot",
+    "category": "U.S.",
+    "published_at": "2026-10-15T12:20:24Z",
+    "first_seen_at": "2026-10-15T14:11:19.773589Z",
+    "updated_at": "2026-10-15T14:11:19.773589Z",
+    "sources": [
+      {
+        "title": "US teenager appears in court over alleged Hindu temple shooting plot",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-15T12:20:24Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
