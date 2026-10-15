@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T14:11:19.773589Z",
+  "collected_at": "2026-10-15T14:20:56.810969Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -80,9 +80,21 @@
     {
       "feed": "PBS Politics",
       "ok": true
+    },
+    {
+      "feed": "ProPublica",
+      "ok": true
+    },
+    {
+      "feed": "KFF Health News",
+      "ok": true
+    },
+    {
+      "feed": "Science News",
+      "ok": true
     }
   ],
   "ai_spend_usd": 0,
   "ai_enabled": false,
-  "stories": 17
+  "stories": 35
 }

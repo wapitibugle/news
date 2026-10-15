@@ -51,6 +51,39 @@ class Safeguards(unittest.TestCase):
         records = p.collect([], items + [election], {}, config, NOW)
         self.assertEqual(records[0]['category'], 'Elections')
 
+    def test_consequential_topics_outrank_routine_features(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        examples = [
+            ('DOJ investigation examines missing White House funds', 'U.S.'),
+            ('Researchers study whether AI can create false memories', 'Technology'),
+            ('Scientists test treatment to regrow knee cartilage for arthritis', 'Health'),
+        ]
+        for title, category in examples:
+            self.assertEqual(p.editorial_priority(dict(title=title, category=category), config), 4)
+        self.assertEqual(p.editorial_priority(dict(title='APOD: The Milky Way over Manhattan', category='Science'), config), 1)
+
+    def test_high_priority_science_keeps_its_category(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        item = candidate(121)
+        item.update(title='Scientists test arthritis treatment to regrow knee cartilage', category='Health')
+        stories = p.collect([], [item], {}, config, NOW)
+        self.assertEqual(stories[0]['category'], 'Health')
+        self.assertEqual(stories[0]['verification'], 'source-reported')
+
+    def test_disputed_medical_claims_require_real_critical_review(self):
+        config = json.loads((Path(__file__).resolve().parents[1] / 'config.json').read_text())
+        item = candidate(141)
+        item.update(title='RFK Jr promotes vaccine autism claim', category='Health')
+        story = dict(item, sources=[item])
+        self.assertFalse(p.scientific_publication_allowed(story, config, {}))
+        review = {'status': 'verified', 'reviewed_at': p.iso(NOW), 'claims': [{'text': 'A checked criticism', 'urls': [item['url']]}], 'context': 'Evidence-based limitations and criticism.'}
+        self.assertFalse(p.scientific_publication_allowed(story, config, review))
+        review['scientific_assessment'] = 'evidence-based-critique'
+        self.assertTrue(p.scientific_publication_allowed(story, config, review))
+        normal = dict(item, title='Clinical trial reports vaccine results with limitations')
+        self.assertTrue(p.scientific_publication_allowed(normal, config, {}))
+        self.assertEqual(p.collect([], [item], {}, config, NOW), [])
+
     def test_no_duplicate_on_repeat(self):
         first = self.collect([], [candidate()])
         again = self.collect(first, [candidate()])

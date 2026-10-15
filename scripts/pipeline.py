@@ -132,6 +132,12 @@ def editorial_priority(story, config):
         return 0
     if election and (us or category in ('U.S.', 'Elections')):
         return 5
+    if rules.get('accountability') and matches('accountability') and (us or category in ('U.S.', 'Elections')):
+        return 4
+    if rules.get('human_impact_science') and matches('human_impact_science') and category in ('Science', 'Health', 'Technology'):
+        return 4
+    if rules.get('routine_feature') and matches('routine_feature'):
+        return 1
     if category == 'World':
         return 3 if global_impact else (2 if us else 0)
     if category == 'Business':
@@ -143,20 +149,40 @@ def editorial_priority(story, config):
     return 2
 
 
+def scientific_review_required(story, config):
+    rules = config.get('editorial', {})
+    title = story['title']
+    match = lambda key: bool(rules.get(key) and re.search(rules[key], title, re.I))
+    return match('disputed_medical_claim') or (match('medical_public_figure') and match('medical_subject'))
+
+
+def scientific_publication_allowed(story, config, review=None):
+    if not scientific_review_required(story, config):
+        return True
+    if review is not None:
+        return reviewed(story, review) and review.get('scientific_assessment') == 'evidence-based-critique' and bool(review.get('context'))
+    return story.get('verification') == 'human-verified' and story.get('scientific_assessment') == 'evidence-based-critique' and bool(story.get('context'))
+
+
 def collect(existing, candidates, reviews, config, now):
     """Append-only story identities; re-runs never reset first publication time."""
     zone = ZoneInfo(config['timezone'])
     today = now.astimezone(zone).date()
     records = {s['id']: s for s in existing}
     for story in records.values():
-        story['editorial_excluded'] = editorial_priority(story, config) == 0
+        if story['category'] == 'Elections' and not re.search(config.get('editorial', {}).get('us_elections', r'(?!)'), story['title'], re.I):
+            story['category'] = 'U.S.'
+        story['editorial_excluded'] = editorial_priority(story, config) == 0 or not scientific_publication_allowed(story, config, reviews.get(story['id'], {}))
     known_urls = {source['url']: s for s in records.values() for source in s['sources']}
     pending = []
     for candidate in sorted(candidates, key=lambda c: c['published_at'], reverse=True):
+        sid = hashlib.sha256(candidate['url'].encode()).hexdigest()[:20]
+        if not scientific_publication_allowed(dict(candidate, sources=[candidate]), config, reviews.get(sid, {})):
+            continue
         priority = editorial_priority(candidate, config)
         if not priority:
             continue
-        if priority >= 4:
+        if priority == 5:
             candidate = dict(candidate, category='Elections')
         if candidate['url'] in known_urls:
             continue
@@ -179,12 +205,12 @@ def collect(existing, candidates, reviews, config, now):
     day_records = [s for s in records.values() if date(s['first_seen_at']).astimezone(zone).date() == today]
     # 40 stories spread through the day; a small initial edition, hard cap 50.
     hour = now.astimezone(zone).hour
-    quota = min(config['daily_max'], max(5, round(config['daily_target'] * (hour + 1) / 24)))
+    quota = min(config['daily_max'], max(config.get('edition_minimum', 5), round(config['daily_target'] * (hour + 1) / 24)))
     eligible_today = [s for s in day_records if not s.get('editorial_excluded')]
     categories = Counter(s['category'] for s in eligible_today)
     publishers = Counter(s['sources'][0]['publisher'] for s in day_records)
     while pending and len(eligible_today) < quota and len(day_records) < config['daily_max']:
-        pending.sort(key=lambda s: (-(editorial_priority(s, config) >= 4 and categories['Elections'] < max(3, quota // 4)), categories[s['category']], -editorial_priority(s, config), publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
+        pending.sort(key=lambda s: (-(s['category'] == 'Elections' and categories['Elections'] < max(3, quota // 4)), -min(editorial_priority(s, config), 4), categories[s['category']], publishers[s['sources'][0]['publisher']], -date(s['published_at']).timestamp()))
         s = pending.pop(0)
         records[s['id']] = s
         day_records.append(s)
@@ -202,13 +228,14 @@ def collect(existing, candidates, reviews, config, now):
             s['tier'] = 'brief'
         # Context cannot be invented: it is added by a reviewer with citations.
         s['context'] = text(r.get('context', '')) if s['verification'] == 'human-verified' else ''
+        s['scientific_assessment'] = r.get('scientific_assessment', '') if s['verification'] == 'human-verified' else ''
     # A separate 3–5 story discovery selection, within the same 24-hour window.
     eligible = [s for s in records.values() if not s['withdrawn'] and not s.get('editorial_excluded') and now - timedelta(hours=24) <= date(s['published_at']) <= now]
     second = sorted([s for s in eligible if s['tier'] == 'second'], key=lambda s: s['published_at'], reverse=True)[:5]
-    for s in sorted(eligible, key=lambda s: (s['category'] in ('World', 'U.S.'), s['published_at']), reverse=False):
+    for s in sorted(eligible, key=lambda s: (-editorial_priority(s, config), -date(s['published_at']).timestamp())):
         if len(second) >= 5:
             break
-        if s['tier'] == 'brief' and s['category'] in ('Science', 'Culture', 'Outdoors', 'Technology'):
+        if s['tier'] == 'brief' and s['category'] in ('Science', 'Health', 'Outdoors', 'Technology'):
             s['tier'] = 'second'
             second.append(s)
     return sorted(records.values(), key=lambda s: s['first_seen_at'])

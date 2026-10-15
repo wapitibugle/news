@@ -6,7 +6,7 @@ Custom domain: **wapitibugle.com**. Owner: **wapitibugle/news**.
 ## Current implementation
 
 - Hourly collection at 17 minutes past the hour (GitHub schedules are best-effort).
-- 40-story daily target, paced through the day, hard maximum 50 new selections per Chicago calendar day. Early editions contain fewer stories. Never pad missing coverage with invented stories.
+- 45-story daily target, a 35-story initial edition when enough suitable reporting is available, hard maximum 50 new selections per Chicago calendar day. Early editions contain fewer stories. Never pad missing coverage with invented stories.
 - Rotation between nine interests and source publishers. Source selection is configurable in `config.json`; no ideology score or engagement optimization.
 - Three provisional tiers: The lead (human-reviewed), The daily brief (attributed headlines), Worth a second look (up to five science, technology, culture, outdoors selections). Original detailed tier definitions were not available in the imported conversation.
 - Similar headline grouping with conservative word and number matching. Grouping is only a discovery aid, not independent corroboration.
@@ -95,3 +95,15 @@ Workflow deployment documentation: https://docs.github.com/en/pages/getting-star
 American readers are the primary audience. Prioritize U.S. elections, polling, competitive races, voting rules, national policy, and the U.S. economy. International stories need a clear global or U.S. consequence (for example the Ukraine war, major geopolitical developments, security, trade, energy, and supply chains). Exclude sports, celebrity/entertainment coverage, routine foreign local government, foreign domestic economic commentary, and isolated overseas tragedies. Public-policy hard news involving a celebrity can qualify on its substance.
 
 The `editorial` rules in config apply to both new collection and homepage rendering; out-of-scope prelaunch selections were removed at the owner’s request while coverage is being calibrated; future out-of-scope candidates are rejected before archival. Elections receive dedicated priority within the daily quota. This initial relevance filter is headline-based and imperfect; it does not read whole articles or guarantee comprehensive polling coverage. Specific polling numbers require cited poll methodology and dates before any synthesis is published.
+
+## Reader interest refinement (October 15, 2026)
+
+The reader’s highlighted Drudge screenshot is a topic-preference reference, not evidence for its claims or a request to copy its tone. Elevate public accountability, officeholder scrutiny, investigations, court fights, citizenship/immigration policy, campaign finance and polling, U.S. military activity, consequential geopolitics, and science/AI/medical research with human consequences. Lower routine photo features and agency event previews. Apply these interests regardless of party or ideological direction.
+
+Selection now prioritizes consequential subject matter before category rotation; interests remain balanced within a priority band. ProPublica, KFF Health News, and Science News expand the source pool beyond the original general-news feeds. Medical and AI research headlines remain attributed reports, not endorsed conclusions or independently verified findings.
+
+## Medical evidence standard
+
+Publish hard science. Do not promote pseudoscience or manufacture false balance between supported findings and unsupported medical assertions. Reporting on disputed medical claims, including RFK Jr. claims about medicine, must undergo a real human evidence review and provide factual critical context before publication. An automatically detected headline containing “debunked” is not enough.
+
+Flagged headlines fail closed: publication requires valid cited human-review claims, a nonempty contextual explanation, and `scientific_assessment: evidence-based-critique` in `data/reviews.json`. This gate applies at collection and homepage build time. It is a conservative headline screen, not a complete medical fact-checker. Criticism or satire must not invent facts; study design, uncertainty, and limitations still matter. Genuine clinical research is not excluded merely because it discusses vaccines or medicine.

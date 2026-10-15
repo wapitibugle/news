@@ -4,7 +4,7 @@ import json
 import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from pipeline import ROOT, date, iso, load_archive, editorial_priority
+from pipeline import ROOT, date, iso, load_archive, editorial_priority, scientific_publication_allowed
 
 
 def e(value):
@@ -53,7 +53,7 @@ def build():
     status_file = ROOT / 'data/status.json'
     status = json.loads(status_file.read_text()) if status_file.exists() else {}
     now = datetime.now(timezone.utc)
-    active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: s['published_at'], reverse=True)
+    active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and scientific_publication_allowed(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: (editorial_priority(s, config), s['published_at']), reverse=True)
     sections = []
     for tier, title, description in [('lead', 'The lead', 'Important developments, with claims checked by a human editor.'), ('brief', 'The daily brief', 'A broad selection. Headlines belong to the publishers named below.'), ('second', 'Worth a second look', 'Science, ideas, culture, and the world beyond the main news cycle.')]:
         selected = [s for s in active if s['tier'] == tier]

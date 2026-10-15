@@ -16,13 +16,14 @@
         "primary": true
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "5d99388c2160c13056d0",
@@ -47,7 +48,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "68db53d65a95fed85fed",
@@ -66,13 +68,14 @@
         "primary": false
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "f1de95ce2f0e995e958b",
@@ -91,13 +94,14 @@
         "primary": false
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "36828041af655e35e2e0",
@@ -122,7 +126,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "5f2528424985d275b374",
@@ -141,13 +146,14 @@
         "primary": true
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "3805a08f8fca96448f88",
@@ -172,7 +178,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "b6037507a65b5ab6449e",
@@ -197,7 +204,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "8638c10526fc5daa1b9d",
@@ -222,7 +230,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "f1b5f328931e74ad8584",
@@ -247,7 +256,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "42120e918c8d3ee4c890",
@@ -272,7 +282,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "9a78a82340a9e6f0d88d",
@@ -291,13 +302,14 @@
         "primary": false
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "dd7bada69778f353a418",
@@ -322,7 +334,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "f0930aaa5f3df4a12641",
@@ -347,7 +360,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "9ab900e4fa8fe878141f",
@@ -366,45 +380,152 @@
         "primary": true
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "editorial_excluded": false
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
-    "id": "bf0f4509cf75a915e54c",
-    "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-    "category": "Technology",
-    "published_at": "2026-10-14T21:50:29Z",
-    "first_seen_at": "2026-10-15T14:11:19.773589Z",
-    "updated_at": "2026-10-15T14:11:19.773589Z",
+    "id": "4d4ac0ad311194256d4b",
+    "title": "How backlash against data centres could shape the US midterm elections",
+    "category": "Elections",
+    "published_at": "2026-10-14T23:02:57Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
     "sources": [
       {
-        "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
-        "publisher": "Guardian",
-        "category": "Technology",
-        "published_at": "2026-10-14T21:50:29Z",
+        "title": "How backlash against data centres could shape the US midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-14T23:02:57Z",
         "primary": false
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b7f691821498e6ffdb3",
+    "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-15T12:47:29Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-15T12:47:29Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "34454c279e7f893b56b3",
+    "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+    "category": "Elections",
+    "published_at": "2026-10-15T12:00:12Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+        "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-15T12:00:12Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4a363950f1b693db8cc1",
+    "title": "ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",
+    "category": "U.S.",
+    "published_at": "2026-10-14T19:04:01Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",
+        "url": "https://www.pbs.org/newshour/nation/ice-officer-appeared-to-intentionally-hit-a-man-with-a-vehicle-in-houston-texas-prosecutor-says",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-14T19:04:01Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6593b2bbec903399046b",
+    "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+    "category": "Technology",
+    "published_at": "2026-10-14T19:01:29Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-14T19:01:29Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   },
   {
     "id": "ee9fdb03755f68a46640",
     "title": "US teenager appears in court over alleged Hindu temple shooting plot",
     "category": "U.S.",
     "published_at": "2026-10-15T12:20:24Z",
-    "first_seen_at": "2026-10-15T14:11:19.773589Z",
-    "updated_at": "2026-10-15T14:11:19.773589Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
     "sources": [
       {
         "title": "US teenager appears in court over alleged Hindu temple shooting plot",
@@ -420,6 +541,372 @@
     "claims": [],
     "withdrawn": false,
     "correction": "",
-    "context": ""
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "109139f92954c94b0b6c",
+    "title": "Brain implants are helping people who’ve lost their voice",
+    "category": "Science",
+    "published_at": "2026-10-15T13:00:00Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Brain implants are helping people who’ve lost their voice",
+        "url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-10-15T13:00:00Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0db67867289160df0913",
+    "title": "White House defends new press secretary over her legal credentials",
+    "category": "World",
+    "published_at": "2026-10-15T08:41:04Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "White House defends new press secretary over her legal credentials",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T08:41:04Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6da6033ccb65f1e151d5",
+    "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+    "category": "U.S.",
+    "published_at": "2026-10-15T09:02:00Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T09:02:00Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "00e3bae90b28b3e9f7b9",
+    "title": "Can math stay human in the age of AI?",
+    "category": "Science",
+    "published_at": "2026-10-14T17:00:00Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Can math stay human in the age of AI?",
+        "url": "https://www.sciencenews.org/article/math-human-ai-age",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-10-14T17:00:00Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d230e1aa3b96b4490ce1",
+    "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+    "category": "World",
+    "published_at": "2026-10-15T02:26:07Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T02:26:07Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e615f50664dcedde21e2",
+    "title": "Attorney for banned outlets on legal fight over White House press access",
+    "category": "U.S.",
+    "published_at": "2026-10-14T22:40:27Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Attorney for banned outlets on legal fight over White House press access",
+        "url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-14T22:40:27Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7d08535584e1ad738c6",
+    "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+    "category": "Science",
+    "published_at": "2026-10-15T11:10:25Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+        "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-15T11:10:25Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f566da1721ed62400db0",
+    "title": "Fraternity culture under scrutiny in wake of Cornell allegations",
+    "category": "U.S.",
+    "published_at": "2026-10-14T22:35:31Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Fraternity culture under scrutiny in wake of Cornell allegations",
+        "url": "https://www.pbs.org/newshour/show/fraternity-culture-under-scrutiny-in-wake-of-cornell-allegations",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-14T22:35:31Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3554051ee2d4d8904af",
+    "title": "How immigration policies shaped America and evolved throughout its history",
+    "category": "U.S.",
+    "published_at": "2026-10-14T22:25:29Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "How immigration policies shaped America and evolved throughout its history",
+        "url": "https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-14T22:25:29Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "165047532696352a0358",
+    "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
+    "category": "Science",
+    "published_at": "2026-10-14T17:34:14Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-14T17:34:14Z",
+        "primary": false
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "149bf5edff7e738735ab",
+    "title": "Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'",
+    "category": "U.S.",
+    "published_at": "2026-10-14T21:46:43Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'",
+        "url": "https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-14T21:46:43Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f4cbaad48319b6d9c35e",
+    "title": "US officials considering ad campaign to urge South African Afrikaners to emigrate",
+    "category": "U.S.",
+    "published_at": "2026-10-15T10:00:10Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "US officials considering ad campaign to urge South African Afrikaners to emigrate",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/us-officials-ad-campaign-south-africa-afrikaners-refugees",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-15T10:00:10Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7fb439c636e6a37163b",
+    "title": "Anatomy of a lie: how misinformation is spreading through US midterm campaigns",
+    "category": "Elections",
+    "published_at": "2026-10-15T10:00:09Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Anatomy of a lie: how misinformation is spreading through US midterm campaigns",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/james-talarico-maga-disinformation",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-15T10:00:09Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86a7bba742771d88fbd8",
+    "title": "Iowa's water quality and cancer rates forced into forefront of state politics",
+    "category": "U.S.",
+    "published_at": "2026-10-14T17:48:43Z",
+    "first_seen_at": "2026-10-15T14:18:39.176342Z",
+    "updated_at": "2026-10-15T14:18:39.176342Z",
+    "sources": [
+      {
+        "title": "Iowa's water quality and cancer rates forced into forefront of state politics",
+        "url": "https://www.pbs.org/newshour/politics/iowas-water-quality-and-cancer-rates-forced-into-forefront-of-state-politics",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-14T17:48:43Z",
+        "primary": false
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "editorial_excluded": false,
+    "scientific_assessment": ""
   }
 ]

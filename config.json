@@ -1,7 +1,7 @@
 {
   "domain": "wapitibugle.com",
   "timezone": "America/Chicago",
-  "daily_target": 40,
+  "daily_target": 45,
   "daily_max": 50,
   "homepage_hours": 24,
   "ai": {
@@ -180,7 +180,7 @@
     {
       "name": "NPR Politics",
       "publisher": "NPR",
-      "category": "Elections",
+      "category": "U.S.",
       "url": "https://feeds.npr.org/1014/rss.xml",
       "hosts": [
         "npr.org"
@@ -189,22 +189,56 @@
     {
       "name": "PBS Politics",
       "publisher": "PBS",
-      "category": "Elections",
+      "category": "U.S.",
       "url": "https://www.pbs.org/newshour/feeds/rss/politics",
       "hosts": [
         "pbs.org"
+      ]
+    },
+    {
+      "name": "ProPublica",
+      "publisher": "ProPublica",
+      "category": "U.S.",
+      "url": "https://www.propublica.org/feeds/propublica/main",
+      "hosts": [
+        "propublica.org"
+      ]
+    },
+    {
+      "name": "KFF Health News",
+      "publisher": "KFF Health News",
+      "category": "Health",
+      "url": "https://kffhealthnews.org/feed/",
+      "hosts": [
+        "kffhealthnews.org"
+      ]
+    },
+    {
+      "name": "Science News",
+      "publisher": "Science News",
+      "category": "Science",
+      "url": "https://www.sciencenews.org/feed",
+      "hosts": [
+        "sciencenews.org"
       ]
     }
   ],
   "editorial": {
     "audience": "American readers; U.S. national stakes before foreign local affairs",
-    "us_relevance": "\\b(u\\.?s\\.?|united states|american|americans|congress|senate|house republicans|house democrats|white house|trump|vance|harris|federal reserve|fed|wall street|supreme court|medicare|medicaid|social security|aca|pentagon|washington|midterms?|republicans?|democrats?)\\b",
-    "us_elections": "\\b(midterms?|polls?|polling|ballots?|voters?|voting|elections?|electoral|redistricting|gerrymander\\w*|senate race|house race|campaign|battleground|swing states?)\\b",
+    "us_relevance": "\\b(u\\.?s\\.?|united states|american|americans|congress|senate|house republicans|house democrats|white house|trump|vance|harris|federal reserve|fed|wall street|supreme court|medicare|medicaid|social security|aca|pentagon|washington|doj|justice department|omar|newsom|press secretary|cabinet|midterms?|republicans?|democrats?)\\b",
+    "us_elections": "\\b(midterms?|polls?|polling|ballots?|voters?|voting|elections?|electoral|redistricting|gerrymander\\w*|senate race|house race|campaign finance|midterm campaigns?|presidential campaign|congressional campaign|battleground|swing states?)\\b",
     "global_impact": "\\b(ukraine|russia|russian|nato|nuclear|taiwan|china|chinese|beijing|iran|israel|gaza|middle east|global|worldwide|pandemic|trade war|tariffs?|oil prices?|energy crisis|supply chains?|world economy|cyberattack|ransomware)\\b",
     "foreign_local": "\\b(uk|u\\.k\\.|britain|british|england|scotland|wales|nhs|healey|reeves|starmer|pakistan|school roof|hospital doctors|canada|canadian|australia|australian|council)\\b",
     "celebrity": "\\b(russell brand|paul mccartney|john lennon|kardashian\\w*|celebrity|celebrities|actor|actress|singer|rapper|royal family|prince harry|meghan|red carpet|box office|beatles)\\b",
     "public_policy": "\\b(congress|senate|white house|elections?|voting|legislation|federal policy|civil rights|supreme court|sanctions?|national security)\\b",
-    "sports": "\\b(champions league|premier league|wembley|nfl|nba|mlb|nhl|world cup|touchdown)\\b",
-    "entertainment": "\\b(ubisoft|rainbow six|video game review|game review|movie review|album review|hasan piker)\\b"
-  }
+    "sports": "\\b(champions league|premier league|wembley|nfl|nba|mlb|nhl|world cup|touchdown|football|basketball|baseball|soccer|rugby|cricket|tennis|olympics|super bowl)\\b",
+    "entertainment": "\\b(ubisoft|rainbow six|video game review|game review|movie review|album review|hasan piker)\\b",
+    "accountability": "\\b(investigat\\w*|scrutiny|ethics|corrupt\\w*|missing funds|missing money|court|judge|lawsuit|citizenship|deport\\w*|immigration|civil rights|cabinet|press secretary|administration|white house|campaign financ\\w*|fundrais\\w*|record.breaking.*haul|troops|pentagon|military deployment)\\b",
+    "human_impact_science": "\\b(memory|memories|brain|arthritis|regrow\\w*|treatment|clinical trial|cancer|vaccine|plague|research lab|privacy|surveillance|spyware|cyberattack|bioweapons?|bioweapon)\\b",
+    "routine_feature": "\\b(apod|picture of the day|photo of the day|previewing.*spacewalk|news conference preview)\\b",
+    "disputed_medical_claim": "\\b(anti.vax\\w*|vaccine.{0,40}autism|autism.{0,40}vaccine|miracle cure|unproven treatment|pseudoscien\\w*|detox cure|raw milk.{0,30}(cure|health benefits))\\b",
+    "medical_public_figure": "\\b(rfk|robert f\\.? kennedy|kennedy)\\b",
+    "medical_subject": "\\b(health|medicine|medical|vaccine\\w*|autism|treatment|cure|disease|cancer|nutrition|fluoride|raw milk|hhs|cdc|fda)\\b"
+  },
+  "edition_minimum": 35
 }
