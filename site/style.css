@@ -12,3 +12,13 @@ footer strong{display:block;margin-bottom:12px}
 .elk-mark{transform:scaleX(-1);mix-blend-mode:multiply}
 
 .significance{display:inline-block;color:#b42222;font-family:Arial,sans-serif;font-size:.8em;font-weight:800;letter-spacing:1px;vertical-align:.08em;margin-right:3px}
+
+
+/* Curated X newswire beside the editorial news selection. */
+.news-layout { display:grid; grid-template-columns:minmax(0, 1fr) minmax(280px, 340px); align-items:start; gap:clamp(18px,3vw,40px); }
+.news-main { min-width:0; }
+.x-newswire { min-width:0; position:sticky; top:16px; border:1px solid #b8b8b8; padding:18px; background:#faf9f6; }
+.x-newswire h2 { margin:0 0 8px; font-size:1.3rem; }
+.x-newswire p { font-size:.83rem; line-height:1.45; }
+.x-timeline-wrap { max-height:900px; overflow-y:auto; overscroll-behavior:contain; }
+@media(max-width:850px) { .news-layout { grid-template-columns:minmax(0,1fr); } .x-newswire { position:static; } .x-timeline-wrap { max-height:520px; } }
