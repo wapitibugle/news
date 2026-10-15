@@ -27,9 +27,12 @@ def card(s, prefix='./', homepage=False):
     sources = ''.join(f'<li><a href="{e(x["url"])}" rel="noopener noreferrer">{e(x["publisher"])}: {e(x["title"])}</a></li>' for x in s['sources'])
     verified = s['verification'] == 'human-verified'
     label = 'Human reviewed' if verified else 'Source-reported · not independently verified'
-    significance = '<span class="significance" role="img" aria-label="Major development" title="Major development">!!</span> ' if verified and s['tier'] == 'lead' else ''
+    ai = s.get('ai_editor', {})
+    significance = '<span class="significance" role="img" aria-label="Major development" title="Major development">!!</span> ' if (verified and s['tier'] == 'lead') or (ai.get('state') == 'assessed' and ai.get('major') is True) else ''
     claims = ''.join('<li>' + e(c['text']) + ' ' + ' '.join(f'<a href="{e(u)}">Evidence {i + 1}</a>' for i, u in enumerate(c['urls'])) + '</li>' for c in s['claims'])
     more = f'<p>{e(s["context"])}</p>' if s.get('context') else '<p>Read the linked reporting for the full account. Similar headlines are grouped automatically; grouping does not confirm that their claims agree.</p>'
+    if ai.get('state') == 'assessed' and ai.get('context') and ai.get('source_url') in {source['url'] for source in s['sources']}:
+        more = '<p><strong>AI-assisted context</strong></p><p>' + e(ai['context']) + '</p><p><a href="' + e(ai['source_url']) + '" target="_blank" rel="noopener noreferrer">Supporting reporting</a></p>'
     correction = f'<p class="correction"><strong>Correction:</strong> {e(s["correction"])}</p>' if s.get('correction') else ''
     expired = f'data-published="{e(s["published_at"])}"' if homepage else ''
     return f'''<article class="story" {expired} data-category="{e(s['category'])}">

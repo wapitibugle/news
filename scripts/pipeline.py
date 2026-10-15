@@ -85,7 +85,7 @@ def parse_feed(raw, feed, now):
         if re.search(r'\b(opinion|editorial|live updates|live blog|podcast)\b', title, re.I) or '/commentisfree/' in url or '/live/' in url:
             continue
         records.append(dict(title=title, url=url, publisher=feed['publisher'], category=feed['category'],
-                            published_at=iso(published), primary=feed.get('primary', False)))
+                            published_at=iso(published), primary=feed.get('primary', False), excerpt=text(item.findtext('description', ''))[:600]))
     return records
 
 
@@ -121,6 +121,9 @@ def editorial_priority(story, config):
     matches = lambda key: bool(re.search(rules[key], title, re.I))
     if category == 'Sports' or matches('sports') or (rules.get('entertainment') and matches('entertainment')):
         return 0
+    ai = story.get('ai_editor', {})
+    if ai.get('state') == 'assessed' and ai.get('title') == story['title'] and type(ai.get('priority')) is int and 0 <= ai['priority'] <= 5:
+        return ai['priority']
     us = matches('us_relevance')
     election = matches('us_elections')
     global_impact = matches('global_impact')
@@ -182,13 +185,16 @@ def collect(existing, candidates, reviews, config, now):
         priority = editorial_priority(candidate, config)
         if not priority:
             continue
-        if priority == 5:
+        if priority == 5 and re.search(config.get('editorial', {}).get('us_elections', r'(?!)'), candidate['title'], re.I):
             candidate = dict(candidate, category='Elections')
         if candidate['url'] in known_urls:
+            known = known_urls[candidate['url']]
+            if candidate.get('ai_editor', {}).get('title') == known['title']:
+                known['ai_editor'] = candidate['ai_editor']
             continue
         match = next((s for s in list(records.values()) + pending
                       if abs((date(s['published_at']) - date(candidate['published_at'])).total_seconds()) < 36 * 3600
-                      and same_event(s['title'], candidate['title'])), None)
+                      and (same_event(s['title'], candidate['title']) or (candidate.get('ai_editor', {}).get('group') and s.get('ai_editor', {}).get('group') == candidate['ai_editor']['group']))), None)
         if match:
             match['sources'].append(candidate)
             known_urls[candidate['url']] = match
@@ -199,9 +205,11 @@ def collect(existing, candidates, reviews, config, now):
         sid = hashlib.sha256(candidate['url'].encode()).hexdigest()[:20]
         record = dict(id=sid, title=candidate['title'], category=candidate['category'],
                       published_at=candidate['published_at'], first_seen_at=iso(now), updated_at=iso(now),
-                      sources=[candidate], tier='brief', verification='source-reported', claims=[])
+                      sources=[candidate], tier='brief', verification='source-reported', claims=[], ai_editor=candidate.get('ai_editor', {}))
         pending.append(record)
         known_urls[candidate['url']] = record
+    for story in records.values():
+        story['editorial_excluded'] = editorial_priority(story, config) == 0 or not scientific_publication_allowed(story, config, reviews.get(story['id'], {}))
     day_records = [s for s in records.values() if date(s['first_seen_at']).astimezone(zone).date() == today]
     # 40 stories spread through the day; a small initial edition, hard cap 50.
     hour = now.astimezone(zone).hour
@@ -226,6 +234,8 @@ def collect(existing, candidates, reviews, config, now):
         s['tier'] = r.get('tier', 'brief') if r.get('tier') in ('lead', 'brief', 'second') else 'brief'
         if s['tier'] == 'lead' and s['verification'] != 'human-verified':
             s['tier'] = 'brief'
+        if s.get('ai_editor', {}).get('state') == 'assessed' and s['verification'] != 'human-verified' and r.get('status') != 'withdrawn':
+            s['tier'] = s['ai_editor'].get('section', 'brief')
         # Context cannot be invented: it is added by a reviewer with citations.
         s['context'] = text(r.get('context', '')) if s['verification'] == 'human-verified' else ''
         s['scientific_assessment'] = r.get('scientific_assessment', '') if s['verification'] == 'human-verified' else ''
@@ -238,6 +248,10 @@ def collect(existing, candidates, reviews, config, now):
         if s['tier'] == 'brief' and s['category'] in ('Science', 'Health', 'Outdoors', 'Technology'):
             s['tier'] = 'second'
             second.append(s)
+    second_ids = {s['id'] for s in second}
+    for story in eligible:
+        if story['tier'] == 'second' and story['id'] not in second_ids:
+            story['tier'] = 'brief'
     return sorted(records.values(), key=lambda s: s['first_seen_at'])
 
 
@@ -267,9 +281,7 @@ def main():
     parser.add_argument('--offline', action='store_true')
     args = parser.parse_args()
     config = json.loads((ROOT / 'config.json').read_text())
-    # Fail closed if anyone toggles AI without implementing reviewed safeguards.
-    if config['ai']['enabled'] or config['ai']['monthly_limit_usd'] > 10:
-        sys.exit('Paid AI is disabled. A budget-controlled integration must be reviewed before activation.')
+    from ai_editor import edit_candidates
     now = datetime.now(timezone.utc)
     archive = ROOT / 'data/archive'
     results = [] if args.offline else list(ThreadPoolExecutor(max_workers=6).map(lambda f: fetch_feed(f, now), config['feeds']))
@@ -277,12 +289,16 @@ def main():
     health = [status for _, status in results]
     if results and not candidates:
         sys.exit('No current feed stories collected; keeping the last successful archive and deployment.')
-    records = collect(load_archive(archive), candidates, json.loads((ROOT / 'data/reviews.json').read_text()), config, now)
+    existing = load_archive(archive)
+    candidates, ai_status = edit_candidates(ROOT, candidates, existing, config, now, editorial_priority, scientific_review_required) if not args.offline else (candidates, {'state': 'offline'})
+    records = collect(existing, candidates, json.loads((ROOT / 'data/reviews.json').read_text()), config, now)
     save_archive(archive, records)
+    if ai_status.get('state') not in ('ready', 'disabled', 'missing_key', 'budget_pause', 'offline', 'local_paid_calls_disabled'):
+        print('::warning::AI editor paused (' + ai_status.get('state', 'unknown') + '). Free feed publication continues; inspect the budget ledger before retrying.')
     status = {'collected_at': iso(now) if not args.offline else None, 'feeds': health,
-              'ai_spend_usd': 0, 'ai_enabled': False, 'stories': len(records)}
+              'ai_accounted_usd': ai_status.get('accounted_usd', 0), 'ai_enabled': config['ai']['enabled'], 'ai': ai_status, 'stories': len(records)}
     (ROOT / 'data/status.json').write_text(json.dumps(status, indent=2) + '\n')
-    print(f'Archive: {len(records)} stories; feeds: {sum(h["ok"] for h in health)}/{len(health)}; AI spend: $0')
+    print(f'Archive: {len(records)} stories; feeds: {sum(h["ok"] for h in health)}/{len(health)}; AI: {ai_status['state']}')
 
 
 if __name__ == '__main__':

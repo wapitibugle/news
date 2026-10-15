@@ -5,9 +5,12 @@
   "daily_max": 50,
   "homepage_hours": 24,
   "ai": {
-    "enabled": false,
-    "monthly_limit_usd": 10,
-    "mode": "disabled_no_paid_calls"
+    "enabled": true,
+    "model": "gpt-6.1-sol",
+    "monthly_limit_usd": 20,
+    "target_monthly_usd": 10,
+    "max_calls_per_run": 4,
+    "max_candidates_per_run": 12
   },
   "feeds": [
     {
