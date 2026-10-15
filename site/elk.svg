@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 160" fill="none">
+<title>Bugling bull elk</title>
+<g fill="#1d302b">
+<!-- Broad body, raised neck, long muzzle pointing upward, and open lower jaw. -->
+<path d="M20 95C22 82 40 77 60 79L83 81C90 73 92 63 94 53L104 40L119 24L126 25L131 33L119 43L114 47L126 38L130 42L119 53L110 58C110 74 107 84 99 94L92 103L89 118L82 119L82 100C63 106 42 103 30 101L25 116L18 116L21 98L13 101L12 97Z"/>
+<!-- Four legs and hooves. -->
+<path d="M27 97L34 99L29 130L31 148L21 148L23 142L22 128ZM43 99L49 100L43 128L45 145L36 145L38 139L36 126ZM79 99L86 97L88 125L98 145L88 145L80 128ZM91 95L98 91L100 120L109 143L100 143L93 124Z"/>
+<!-- Ear. -->
+<path d="M103 49Q86 43 86 36Q99 36 108 43Z"/>
+</g>
+<!-- Branching antlers, carried back over the shoulders. -->
+<g stroke="#1d302b" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M105 40L94 29L80 23L65 13L56 3M80 23L78 9M66 14L53 14L42 8M94 29L91 15L86 5"/>
+<path d="M103 39L91 36L73 33L57 26L43 20M74 33L67 21M57 26L46 29L33 24M91 36L82 26"/>
+</g>
+<circle cx="115" cy="35" r="1.5" fill="#f5f2e9"/>
+</svg>

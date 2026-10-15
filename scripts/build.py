@@ -17,11 +17,9 @@ def shell(title, body, prefix='./'):
 <meta name="description" content="The Wapiti Bugle. A considered selection of news, with the sources in view.">
 <title>{e(title)} · The Wapiti Bugle</title><link rel="stylesheet" href="{prefix}style.css">
 <script src="{prefix}app.js" defer></script></head><body><a class="skip" href="#main">Skip to stories</a>
-<header><div class="edition"><a href="{prefix}index.html">INDEPENDENT CURIOSITY</a><span>A WIDER VIEW OF THE WORLD</span></div>
-<a class="masthead" href="{prefix}index.html">The Wapiti Bugle<span class="bugle" aria-hidden="true">↗</span></a>
-<div class="tagline">The stories that matter. Without the noise.</div>
+<header><a class="masthead" href="{prefix}index.html"><span>The Wapiti Bugle</span><img class="elk-mark" src="{prefix}elk.svg" alt="Bull elk with head raised, bugling" width="110" height="100"></a>
 <nav aria-label="Main navigation"><a href="{prefix}index.html">Today's edition</a><a href="{prefix}archive.html">The archive</a><a href="{prefix}about.html">Our standards</a></nav></header>
-<main id="main">{body}</main><footer><strong>The Wapiti Bugle</strong><p>Accuracy and honesty above ideology. Curiosity beyond the headlines.</p>
+<main id="main">{body}</main><footer><strong>The Wapiti Bugle</strong>
 <a href="{prefix}about.html">How we work</a> · <a href="mailto:wapitibugle@gmail.com">Corrections & feedback</a></footer></body></html>'''
 
 
@@ -46,7 +44,7 @@ def build():
     if out.exists():
         shutil.rmtree(out)
     out.mkdir()
-    for name in ('style.css', 'app.js'):
+    for name in ('style.css', 'app.js', 'elk.svg'):
         shutil.copy(ROOT / 'site' / name, out / name)
     (out / '.nojekyll').write_text('')
     records = load_archive(ROOT / 'data/archive')
@@ -73,10 +71,9 @@ def build():
     categories = sorted({s['category'] for s in active})
     buttons = '<button class="selected" data-filter="all" aria-pressed="true">All interests</button>' + ''.join(f'<button data-filter="{e(c)}" aria-pressed="false">{e(c)}</button>' for c in categories)
     body = f'''<div class="edition-line"><span>THE LATEST EDITION</span><span>Last collection: {stamp}</span></div>
-<div class="intro"><h1>A little less noise.<br><em>A little more perspective.</em></h1><p>A considered daily selection across the things that shape our lives. Follow the sources. Keep your curiosity.</p></div>
-<p class="notice">Headlines are source-reported unless explicitly marked human reviewed. Target: 35–50 stories daily; early editions and source outages can produce fewer. Stories leave this page 24 hours after their source publication.</p>{feed_notice}
+{feed_notice}
 <div class="filters" aria-label="Filter by interest">{buttons}</div><p id="filter-empty" hidden>No current stories in this interest.</p>
-{''.join(sections)}<aside class="archive-banner"><h2>News moves on. The record stays.</h2><p>Every published selection remains in our searchable archive.</p><a href="./archive.html">Explore the archive ↗</a></aside>'''
+{''.join(sections)}<aside class="archive-banner"><h2>News archive</h2><p>Every published selection remains in our searchable archive.</p><a href="./archive.html">Explore the archive ↗</a></aside>'''
     (out / 'index.html').write_text(shell("Today's edition", body))
     (out / 's').mkdir()
     (out / 'archive').mkdir()
@@ -94,11 +91,11 @@ def build():
         (out / 'archive' / (month + '.json')).write_text(json.dumps(index, ensure_ascii=False))
         manifest.append(month)
     (out / 'archive' / 'manifest.json').write_text(json.dumps(manifest))
-    archive_body = '''<div class="archive-intro"><div class="kicker">THE PERMANENT RECORD</div><h1>Follow a story further.</h1><p>Search every headline, category, and publisher we have selected. New archive months are added automatically; older months are never deliberately pruned.</p></div>
+    archive_body = '''<div class="archive-intro"><div class="kicker">THE PERMANENT RECORD</div><h1>Search the archive</h1><p>Search every headline, category, and publisher we have selected. New archive months are added automatically; older months are never deliberately pruned.</p></div>
 <form id="search-form" role="search"><label for="search">Search the entire archive</label><div class="search-row"><input id="search" type="search" placeholder="A topic, place, or publisher…"><button type="submit">Search ↗</button></div></form>
 <p id="search-status" role="status" aria-live="polite"></p><div id="search-results"></div><button id="load-more" hidden>Show more results</button><h2>Browse by month</h2><ul class="months">''' + ''.join(links) + '</ul><noscript><p>JavaScript is required for full archive search. You can browse the months above without it.</p></noscript>'
     (out / 'archive.html').write_text(shell('The archive', archive_body))
-    about = '''<div class="prose"><div class="kicker">OUR STANDARDS</div><h1>Accuracy above ideology.<br>Curiosity without a quota.</h1>
+    about = '''<div class="prose"><div class="kicker">OUR STANDARDS</div><h1>Editorial standards</h1>
 <p>The Wapiti Bugle is an independent news selection. We aim for 35–50 new stories each day, with hourly collection across world affairs, U.S. news, business, science, technology, health, culture, sports, and outdoors.</p>
 <h2>Three ways to read</h2><p><strong>The lead</strong> is reserved for stories with explicit human review and cited claim checks. <strong>The daily brief</strong> carries attributed publisher headlines. <strong>Worth a second look</strong> highlights up to five science, culture, technology, and outdoors stories within the same 24-hour window.</p>
 <h2>What has actually been verified?</h2><p>Automated collection validates source URLs, timestamps, and the feed format, filters obvious opinion and live coverage, and groups very similar headlines. These are technical checks, not a claim of factual truth. Even two publishers can repeat the same mistake or wire report. We never label a story verified because several outlets carry it.</p>
