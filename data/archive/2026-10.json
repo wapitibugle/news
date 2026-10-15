@@ -220,7 +220,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "b6037507a65b5ab6449e",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "Democrat Denise Powell and Republican Brinker Harding are competing for retiring Rep. Don Bacon’s Nebraska seat. This item previews their debate rather than reporting what the candidates said.",
+      "evidence_quote": "Voters in Nebraska will hear from the two major party candidates seeking to replace retiring Rep. Don Bacon",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:11:05.440460+00:00",
+      "title": "WATCH: Nebraska voters hear from Harding, Powell in midterm House debate",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/watch-nebraska-voters-hear-from-harding-powell-in-midterm-house-debate",
+      "group": ""
+    }
   },
   {
     "id": "8638c10526fc5daa1b9d",
@@ -287,7 +302,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "f1b5f328931e74ad8584",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Justice Department threatened emergency legal action unless California reviewed a federal list of suspected noncitizen voters within 48 hours. The citizenship claims are not established findings; the report describes concerns about the accuracy of federal screening.",
+      "evidence_quote": "gives the state 48 hours to determine whether any citizens are included on the list",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:11:05.440460+00:00",
+      "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/justice-department-threatens-california-with-legal-action-over-claim-of-noncitizens-on-voter-rolls",
+      "group": ""
+    }
   },
   {
     "id": "42120e918c8d3ee4c890",
@@ -1010,6 +1040,116 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9657a7a7488db8b2f52",
+    "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+    "category": "World",
+    "published_at": "2026-10-15T17:49:57Z",
+    "first_seen_at": "2026-10-15T18:11:05.440460Z",
+    "updated_at": "2026-10-15T18:11:05.440460Z",
+    "sources": [
+      {
+        "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T17:49:57Z",
+        "primary": false,
+        "excerpt": "Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properlyTexas election officials are struggling to process a massive backlog of nearly 600,000 voter registration applications after a major state computer system failure, just days before early voting is set to open on Monday and amid concerns about widespread voter suppression.The disruption has raised serious concerns about the state’s voter registration system, with voting rights organizations accusing Texas officials of failing to ensure that eligible voters could properly register. ",
+        "ai_editor": {
+          "id": "f9657a7a7488db8b2f52",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Voting rights groups sued Texas officials over a registration-system failure. Their lawsuit alleges nearly 600,000 registrations were not forwarded to election officials, leaving counties to process a backlog shortly before early voting.",
+          "evidence_quote": "DPS had failed to send almost 600,000 voter registrations to the SOS",
+          "related_ids": [],
+          "reviewed_at": "2026-10-15T18:11:05.440460+00:00",
+          "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "f9657a7a7488db8b2f52",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Voting rights groups sued Texas officials over a registration-system failure. Their lawsuit alleges nearly 600,000 registrations were not forwarded to election officials, leaving counties to process a backlog shortly before early voting.",
+      "evidence_quote": "DPS had failed to send almost 600,000 voter registrations to the SOS",
+      "related_ids": [],
+      "reviewed_at": "2026-10-15T18:11:05.440460+00:00",
+      "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0ae7a6a170212223a571",
+    "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
+    "category": "U.S.",
+    "published_at": "2026-10-15T16:59:31Z",
+    "first_seen_at": "2026-10-15T18:11:05.440460Z",
+    "updated_at": "2026-10-15T18:11:05.440460Z",
+    "sources": [
+      {
+        "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
+        "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-15T16:59:31Z",
+        "primary": false,
+        "excerpt": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "be2401b50d12c6654d93",
+    "title": "Republican Susan Collins dismisses allegations of corruption as ‘completely false’",
+    "category": "U.S.",
+    "published_at": "2026-10-15T15:43:28Z",
+    "first_seen_at": "2026-10-15T18:11:05.440460Z",
+    "updated_at": "2026-10-15T18:11:05.440460Z",
+    "sources": [
+      {
+        "title": "Republican Susan Collins dismisses allegations of corruption as ‘completely false’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/susan-collins-corruption-allegations",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-15T15:43:28Z",
+        "primary": false,
+        "excerpt": "Maine senator refutes claim from ex-Navatek CEO that he funded Collins’s Super Pac in exchange for naval contractsUS politics live – latest updatesSusan Collins, the US senator of Maine, has dismissed allegations that she traded federal contracts for campaign cash as “completely false” after it emerged the FBI examined the claims.Asked by a reporter about an ethics complaint filed last week by a Maine attorney, the Republican – currently campaigning to retain her seat ahead of November’s US midterm elections – said the allegations were recycled from 2020 and had been rejected by the Department"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
