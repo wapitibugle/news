@@ -80,7 +80,7 @@ def build():
     body = f'''<div class="edition-line" data-edition="{e(collected or "")}"><span>THE LATEST EDITION</span><span>Last collection: {stamp}</span></div>
 {feed_notice}
 <div class="filters" aria-label="Filter by interest">{buttons}</div><p id="filter-empty" hidden>No current stories in this interest.</p>
-{''.join(sections)}<aside class="archive-banner"><h2>News archive</h2><p>Every published selection remains in our searchable archive.</p><a href="./archive.html">Explore the archive ↗</a></aside>'''
+<div class="news-layout"><div class="news-main">{''.join(sections)}</div><aside class="x-newswire" aria-label="Curated X newswire"><h2>X Newswire</h2><p>Posts from the Wapiti Bugle's curated X List. Posts are not independently verified news reports.</p><div class="x-timeline-wrap"><a class="twitter-timeline" data-height="900" data-chrome="noheader nofooter" href="https://x.com/wapitibugle/lists/2110824549948264866">View the Wapiti Newswire on X</a></div><p><a href="https://x.com/wapitibugle/lists/2110824549948264866" target="_blank" rel="noopener noreferrer">Open the list on X ↗</a></p></aside></div><script async src="https://platform.x.com/widgets.js" charset="utf-8"></script><aside class="archive-banner"><h2>News archive</h2><p>Every published selection remains in our searchable archive.</p><a href="./archive.html">Explore the archive ↗</a></aside>'''
     (out / 'index.html').write_text(shell("Today's edition", body))
     (out / 's').mkdir()
     (out / 'archive').mkdir()
