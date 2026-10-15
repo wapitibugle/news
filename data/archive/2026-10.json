@@ -1292,6 +1292,201 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "58d7043377811b725b28",
+    "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
+    "category": "Elections",
+    "published_at": "2026-10-15T22:27:33Z",
+    "first_seen_at": "2026-10-15T22:41:28.115816Z",
+    "updated_at": "2026-10-15T22:41:28.115816Z",
+    "sources": [
+      {
+        "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
+        "url": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-15T22:27:33Z",
+        "primary": false,
+        "excerpt": "A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4c1f0e54e89165d96a54",
+    "title": "Trump administration sues California to block counting of alleged noncitizen mail ballots",
+    "category": "Elections",
+    "published_at": "2026-10-15T19:54:41Z",
+    "first_seen_at": "2026-10-15T22:41:28.115816Z",
+    "updated_at": "2026-10-15T22:41:28.115816Z",
+    "sources": [
+      {
+        "title": "Trump administration sues California to block counting of alleged noncitizen mail ballots",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-15T19:54:41Z",
+        "primary": false,
+        "excerpt": "The Trump administration sued California election officials Thursday, asking a judge to bar the state from counting mail-in ballots for next month's midterm elections from people the federal government has identified as \"likely\" noncitizens until their status can be confirmed."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bffc1575a2f7d7b36c21",
+    "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+    "category": "U.S.",
+    "published_at": "2026-10-15T20:50:53Z",
+    "first_seen_at": "2026-10-15T22:41:28.115816Z",
+    "updated_at": "2026-10-15T22:41:28.115816Z",
+    "sources": [
+      {
+        "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T20:50:53Z",
+        "primary": false,
+        "excerpt": "In this first episode of Your Turn with Allison Aubrey, we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1747c068df2002a33fac",
+    "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+    "category": "World",
+    "published_at": "2026-10-15T20:06:24Z",
+    "first_seen_at": "2026-10-15T22:41:28.115816Z",
+    "updated_at": "2026-10-15T22:41:28.115816Z",
+    "sources": [
+      {
+        "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T20:06:24Z",
+        "primary": false,
+        "excerpt": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuationsThe FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”.Just weeks before November’s US midterm elections, election officers in Louisiana and Oklahoma received envelopes containing a powdery substance, leading to evacuations. A similar package containing white powder was also sent to the Ohio secretary of state, but the US Postal Service intercepted the package. Continue reading...",
+        "ai_editor": {
+          "id": "1747c068df2002a33fac",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Federal authorities are investigating suspicious mailings to election offices that prompted evacuations shortly before the midterms. The substances have not generally been identified; Oklahoma authorities determined the material received there was non-hazardous.",
+          "evidence_quote": "In Oklahoma , state troopers determined the substance mailed to the Oklahoma State Capitol complex was non-hazardous.",
+          "related_ids": [
+            "b99cf70d9a8cf4d78f9e"
+          ],
+          "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+          "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+          "group": "1747c068df2002a33fac"
+        }
+      },
+      {
+        "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+        "url": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T16:27:16Z",
+        "primary": false,
+        "excerpt": "Federal authorities are investigating letters that have been mailed to congressional and election offices nationwide and are urging recipients to treat the mailings as \"potentially hazardous.\"",
+        "ai_editor": {
+          "id": "b99cf70d9a8cf4d78f9e",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The FBI, Postal Inspection Service and Capitol Police are investigating suspicious mailings to congressional and election offices. Packages prompted evacuations in Louisiana and Oklahoma. Authorities have not identified those responsible, and the FBI describes the substance as unknown.",
+          "evidence_quote": "Some of the letters contained an unknown substance",
+          "related_ids": [
+            "1747c068df2002a33fac"
+          ],
+          "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+          "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
+          "group": "1747c068df2002a33fac"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "1747c068df2002a33fac",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Federal authorities are investigating suspicious mailings to election offices that prompted evacuations shortly before the midterms. The substances have not generally been identified; Oklahoma authorities determined the material received there was non-hazardous.",
+      "evidence_quote": "In Oklahoma , state troopers determined the substance mailed to the Oklahoma State Capitol complex was non-hazardous.",
+      "related_ids": [
+        "b99cf70d9a8cf4d78f9e"
+      ],
+      "reviewed_at": "2026-10-15T18:02:17.247666+00:00",
+      "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+      "group": "1747c068df2002a33fac"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3cff2606051243aacbd",
+    "title": "At least 2 people hospitalized after shooting at Oregon elementary school, police say",
+    "category": "U.S.",
+    "published_at": "2026-10-15T21:54:06Z",
+    "first_seen_at": "2026-10-15T22:41:28.115816Z",
+    "updated_at": "2026-10-15T22:41:28.115816Z",
+    "sources": [
+      {
+        "title": "At least 2 people hospitalized after shooting at Oregon elementary school, police say",
+        "url": "https://www.pbs.org/newshour/nation/at-least-2-people-hospitalized-after-shooting-at-oregon-elementary-school-police-say",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T21:54:06Z",
+        "primary": false,
+        "excerpt": "At least two people were hospitalized Thursday following a shooting at an elementary school in Bend, Oregon, and the shooter is dead, authorities say."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
