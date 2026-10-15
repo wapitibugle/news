@@ -3,10 +3,12 @@ import json
 import sys
 import tempfile
 import unittest
+import subprocess
+from unittest.mock import patch
 from datetime import datetime, timezone
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from ai_editor import Editor, BudgetStop, MAX_OUTPUT, validate_decisions, assess_items
+from ai_editor import Editor, BudgetStop, MAX_OUTPUT, validate_decisions, assess_items, git_checkpoint
 from evidence import Reader, ArticleText
 from pipeline import collect
 
@@ -57,6 +59,30 @@ class AIControls(unittest.TestCase):
         self.assertEqual(self.checkpoints[0]['entries'][0]['state'], 'pending')
         self.assertFalse(self.sent[0]['store'])
         self.assertNotIn('fake-test-key', self.path.read_text())
+
+    def test_lost_push_acknowledgement_requires_exact_remote_confirmation(self):
+        def fake_run(args, **kwargs):
+            command = args[1:]
+            output = ''
+            code = 0
+            if command[0] == 'push':
+                code = 1
+            elif command[0] == 'rev-parse':
+                output = 'exact-head'
+            elif command[0] == 'ls-remote':
+                output = 'exact-head\trefs/heads/main'
+            return subprocess.CompletedProcess(args, code, output, '')
+        with patch.dict('os.environ', {'GITHUB_ACTIONS': 'true', 'GITHUB_REF': 'refs/heads/main'}), patch('ai_editor.subprocess.run', side_effect=fake_run):
+            git_checkpoint(self.root)
+
+    def test_unconfirmed_remote_checkpoint_still_blocks_paid_calls(self):
+        def fake_run(args, **kwargs):
+            command = args[1:]
+            output = 'local-head' if command[0] == 'rev-parse' else 'different-head\trefs/heads/main' if command[0] == 'ls-remote' else ''
+            return subprocess.CompletedProcess(args, 1 if command[0] == 'push' else 0, output, '')
+        with patch.dict('os.environ', {'GITHUB_ACTIONS': 'true', 'GITHUB_REF': 'refs/heads/main'}), patch('ai_editor.subprocess.run', side_effect=fake_run):
+            with self.assertRaises(BudgetStop):
+                git_checkpoint(self.root)
 
     def test_failed_checkpoint_never_calls_api(self):
         def fail():

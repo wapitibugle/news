@@ -67,7 +67,15 @@ def git_checkpoint(root):
         raise BudgetStop('Unexpected staged files; AI state was not committed')
     if staged:
         git('commit', '-m', 'Checkpoint AI budget and editorial decisions')
-    git('push', 'origin', 'HEAD:main')
+    try:
+        git('push', 'origin', 'HEAD:main')
+    except BudgetStop:
+        # A lost acknowledgement must not be mistaken for a lost reservation.
+        # Only an exact remote-head match can confirm this particular save.
+        local_head = git('rev-parse', 'HEAD')
+        remote = git('ls-remote', 'origin', 'refs/heads/main').split()
+        if not remote or remote[0] != local_head:
+            raise BudgetStop('Cannot confirm the remote AI budget checkpoint') from None
 
 
 def post_response(payload, key):
