@@ -1,1 +1,12 @@
-{"version":1,"entries":[]}
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "087f9180aad948d38962455521561b5a",
+      "day": "2026-10-15",
+      "model": "gpt-6.1-sol",
+      "reserved_micro_usd": 129036,
+      "state": "pending"
+    }
+  ]
+}
