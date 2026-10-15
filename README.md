@@ -107,3 +107,7 @@ Selection now prioritizes consequential subject matter before category rotation;
 Publish hard science. Do not promote pseudoscience or manufacture false balance between supported findings and unsupported medical assertions. Reporting on disputed medical claims, including RFK Jr. claims about medicine, must undergo a real human evidence review and provide factual critical context before publication. An automatically detected headline containing “debunked” is not enough.
 
 Flagged headlines fail closed: publication requires valid cited human-review claims, a nonempty contextual explanation, and `scientific_assessment: evidence-based-critique` in `data/reviews.json`. This gate applies at collection and homepage build time. It is a conservative headline screen, not a complete medical fact-checker. Criticism or satire must not invent facts; study design, uncertainty, and limitations still matter. Genuine clinical research is not excluded merely because it discusses vaccines or medicine.
+
+## Compact homepage (October 15, 2026)
+
+The separate Lead section was removed. Reviewed stories explicitly designated `tier: lead` now appear at the top of The daily brief with a small, static red `!!` marker and accessible “Major development” label. They do not reserve an empty block of space. The marker is an editorial significance designation, never inferred from sensational wording or applied to unreviewed headlines. Worth a second look remains a separate section.

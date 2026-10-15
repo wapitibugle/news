@@ -27,13 +27,14 @@ def card(s, prefix='./', homepage=False):
     sources = ''.join(f'<li><a href="{e(x["url"])}" rel="noopener noreferrer">{e(x["publisher"])}: {e(x["title"])}</a></li>' for x in s['sources'])
     verified = s['verification'] == 'human-verified'
     label = 'Human reviewed' if verified else 'Source-reported · not independently verified'
+    significance = '<span class="significance" role="img" aria-label="Major development" title="Major development">!!</span> ' if verified and s['tier'] == 'lead' else ''
     claims = ''.join('<li>' + e(c['text']) + ' ' + ' '.join(f'<a href="{e(u)}">Evidence {i + 1}</a>' for i, u in enumerate(c['urls'])) + '</li>' for c in s['claims'])
     more = f'<p>{e(s["context"])}</p>' if s.get('context') else '<p>Read the linked reporting for the full account. Similar headlines are grouped automatically; grouping does not confirm that their claims agree.</p>'
     correction = f'<p class="correction"><strong>Correction:</strong> {e(s["correction"])}</p>' if s.get('correction') else ''
     expired = f'data-published="{e(s["published_at"])}"' if homepage else ''
     return f'''<article class="story" {expired} data-category="{e(s['category'])}">
 <div class="kicker">{e(s['category'])} <span> / {e(s['sources'][0]['publisher'])}</span></div>
-<h3><a href="{prefix}s/{e(s['id'])}.html">{e(s['title'])}</a></h3>
+<h3>{significance}<a href="{prefix}s/{e(s['id'])}.html">{e(s['title'])}</a></h3>
 <p class="timestamp"><time datetime="{e(s['published_at'])}">{e(date(s['published_at']).strftime('%b %d · %H:%M UTC'))}</time></p>
 <p class="verification">{label}</p>{correction}
 <details><summary>Sources & context <span>{len(s['sources'])}</span></summary><div class="context">{more}<ul>{sources}</ul>{('<h4>Checked claims</h4><ul>' + claims + '</ul>') if claims else ''}<a class="permalink" href="{prefix}s/{e(s['id'])}.html">Permanent link ↗</a></div></details></article>'''
@@ -55,11 +56,11 @@ def build():
     now = datetime.now(timezone.utc)
     active = sorted([s for s in records if not s.get('withdrawn') and editorial_priority(s, config) and scientific_publication_allowed(s, config) and now - timedelta(hours=24) <= date(s['published_at']) <= now], key=lambda s: (editorial_priority(s, config), s['published_at']), reverse=True)
     sections = []
-    for tier, title, description in [('lead', 'The lead', 'Important developments, with claims checked by a human editor.'), ('brief', 'The daily brief', 'A broad selection. Headlines belong to the publishers named below.'), ('second', 'Worth a second look', 'Science, ideas, culture, and the world beyond the main news cycle.')]:
-        selected = [s for s in active if s['tier'] == tier]
+    for tier, title, description in [('brief', 'The daily brief', 'A broad selection. Headlines belong to the publishers named below.'), ('second', 'Worth a second look', 'Science, ideas, culture, and the world beyond the main news cycle.')]:
+        selected = [s for s in active if s['tier'] == tier or (tier == 'brief' and s['tier'] == 'lead')]
+        if tier == 'brief':
+            selected.sort(key=lambda s: s['tier'] == 'lead' and s['verification'] == 'human-verified', reverse=True)
         if tier == 'second':
-            selected = selected[:5]
-        if tier == 'lead':
             selected = selected[:5]
         content = ''.join(card(s, homepage=True) for s in selected)
         if not content:

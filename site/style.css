@@ -10,3 +10,5 @@ footer strong{display:block;margin-bottom:12px}
 
 /* Display the supplied silhouette facing right; blend its white background into the paper. */
 .elk-mark{transform:scaleX(-1);mix-blend-mode:multiply}
+
+.significance{display:inline-block;color:#b42222;font-family:Arial,sans-serif;font-size:.8em;font-weight:800;letter-spacing:1px;vertical-align:.08em;margin-right:3px}
