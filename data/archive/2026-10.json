@@ -302,7 +302,7 @@
         "primary": false
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
@@ -796,7 +796,7 @@
         "primary": false
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
