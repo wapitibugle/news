@@ -1180,7 +1180,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "85bb629c5ecaa6597d9b",
@@ -1207,7 +1208,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d7cd46bf3eded6773e30",
@@ -1225,6 +1227,34 @@
         "published_at": "2026-10-15T17:31:37Z",
         "primary": false,
         "excerpt": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5f92b934ab5b4fa647e5",
+    "title": "Suspicious mailings to election officials, congressional offices under investigation",
+    "category": "Elections",
+    "published_at": "2026-10-15T19:54:15Z",
+    "first_seen_at": "2026-10-15T20:13:19.938819Z",
+    "updated_at": "2026-10-15T20:13:19.938819Z",
+    "sources": [
+      {
+        "title": "Suspicious mailings to election officials, congressional offices under investigation",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-15T19:54:15Z",
+        "primary": false,
+        "excerpt": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance."
       }
     ],
     "tier": "brief",
