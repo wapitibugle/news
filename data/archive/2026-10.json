@@ -75,7 +75,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "68db53d65a95fed85fed",
+      "priority": 4,
+      "section": "second",
+      "major": false,
+      "context": "Citizen Lab researchers say Discover-Tech’s advertising platform enables profiling and delivery of third-party spyware without user interaction. They believe dozens of Al Jazeera devices were compromised. Ads reaching millions of users do not mean millions were infected; the full extent of alleged targeting is unknown. Discover-Tech was approached for comment.",
+      "evidence_quote": "The full extent of the targeting allegedly enabled by Discover-Tech is unknown.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "group": ""
+    }
   },
   {
     "id": "f1de95ce2f0e995e958b",
@@ -127,7 +142,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "36828041af655e35e2e0",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+      "group": ""
+    }
   },
   {
     "id": "5f2528424985d275b374",
@@ -702,7 +732,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "109139f92954c94b0b6c",
+      "priority": 3,
+      "section": "second",
+      "major": false,
+      "context": "An experimental brain-computer interface allows ALS patient Casey Harrell to communicate, with researchers reporting nearly 2 million words of use. This is human clinical research, but the device remains bulky and relatively slow; the account does not establish broad effectiveness or routine availability.",
+      "evidence_quote": "It’s bulky, relatively slow and limited in what sorts of nonword sounds it can decode.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Brain implants are helping people who’ve lost their voice",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+      "group": ""
+    }
   },
   {
     "id": "0db67867289160df0913",
@@ -728,7 +773,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "0db67867289160df0913",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "A watchdog requested a California bar investigation into the press secretary’s representations of her legal credentials. Zacharia says she held appropriate credentials for her international work; the complaint is not a finding of misconduct.",
+      "evidence_quote": "It is seeking an investigation",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "White House defends new press secretary over her legal credentials",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo",
+      "group": ""
+    }
   },
   {
     "id": "6da6033ccb65f1e151d5",
@@ -806,7 +866,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "d230e1aa3b96b4490ce1",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Seventy-two retired military leaders urged cancellation of the planned execution livestream, citing constitutional and security concerns. They did not oppose carrying out the death sentence; a final livestream decision remained pending.",
+      "evidence_quote": "a final decision is yet to be made",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o",
+      "group": ""
+    }
   },
   {
     "id": "e615f50664dcedde21e2",
@@ -832,7 +907,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "e615f50664dcedde21e2",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "A federal judge ordered White House access restored to CNN, MS NOW and Politico while their lawsuit proceeds. This is interim relief, not a final judgment; the interview features the outlets’ attorney.",
+      "evidence_quote": "The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Attorney for banned outlets on legal fight over White House press access",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
+      "group": ""
+    }
   },
   {
     "id": "d7d08535584e1ad738c6",
@@ -858,7 +948,22 @@
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "d7d08535584e1ad738c6",
+      "priority": 1,
+      "section": "second",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "group": ""
+    }
   },
   {
     "id": "f566da1721ed62400db0",
@@ -929,14 +1034,29 @@
         "primary": false
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
     "correction": "",
     "context": "",
     "editorial_excluded": false,
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "ai_editor": {
+      "id": "165047532696352a0358",
+      "priority": 3,
+      "section": "second",
+      "major": false,
+      "context": "Experts describe potential AI-enabled biological risks, particularly for already-skilled actors. The reported exercises and company accounts do not establish successful weapon production; expertise, materials, facilities and experimental validation remain substantial barriers.",
+      "evidence_quote": "Tacit expertise, access to biological materials and equipment, experimental validation, scale-up and delivery all remain substantial barriers.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-16T02:42:32.274886+00:00",
+      "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+      "group": ""
+    }
   },
   {
     "id": "149bf5edff7e738735ab",
