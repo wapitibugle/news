@@ -370,5 +370,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
     "group": "4e5bd01b3071b44acabf"
+  },
+  "bda0891db4ebff948381fa16f9d23508d592f684a5dacef89d4b6d67ac94f8b4": {
+    "id": "263cda793d6fcf184228",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Arizona’s attorney general has called for a pause on new data-centre approvals over water and electricity concerns, as AI infrastructure becomes an election issue.",
+    "evidence_quote": "Arizona’s attorney general has called for a pause on new approvals amid concerns about water and electricity demand.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o",
+    "group": ""
+  },
+  "3f1957422e0b26da6281187c948ecb75ff3de8188540d8601dd765c835a91aad": {
+    "id": "85bb629c5ecaa6597d9b",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department is asking a federal court to block counting certain California mail ballots pending citizenship checks. Los Angeles County officials say the department has not supplied evidence or methodology supporting its allegations; the lawsuit is not a finding that the voters are ineligible.",
+    "evidence_quote": "Justice department lawyers are asking the court to order the state not to count votes from those it had flagged.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "US justice department sues California over alleged noncitizen voting",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/justice-department-sues-california-midterms",
+    "group": ""
+  },
+  "be83bc3a817cbdd40c772d95526c845a40cffdb70ae1e21c125b762cebfef3ed": {
+    "id": "34454c279e7f893b56b3",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "c6c972789af116444f82"
+    ],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+    "group": "34454c279e7f893b56b3"
+  },
+  "4f1e26421c387092fd89b3d754ca582a2d0f7107e8ade737e6852aec199ddc15": {
+    "id": "c6c972789af116444f82",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "A Harris online survey of 3,998 US adults, conducted September 24–October 3, found 65% of independents said the economy was worse. It measures economic perceptions, not vote choice; the supplied report gives no margin of error or subgroup sample sizes.",
+    "evidence_quote": "Nearly two-thirds (65%) of independents said the economy was worse",
+    "related_ids": [
+      "34454c279e7f893b56b3"
+    ],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+    "group": "34454c279e7f893b56b3"
+  },
+  "35fe512a2abc2e03a4d1d3a92a1c7776dcb84a2bad59f1d1241a8570ae1ac915": {
+    "id": "4121cebe3818336cec8a",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+    "group": ""
+  },
+  "9a12e6444f695392fdf20055e5dd144ebebf72d5a4347966f08b6e62939c80ac": {
+    "id": "95ef15c2d897dee85c18",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "New White House press secretary Katie Zacharia says her briefing schedule is unknown. A watchdog has requested a state bar investigation into her descriptions of her legal qualifications; the supplied reporting does not establish a legal violation.",
+    "evidence_quote": "asked the State Bar of California to investigate whether Zacharia misled the public",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview",
+    "group": ""
   }
 }
