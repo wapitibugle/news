@@ -3095,6 +3095,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "24439c5f7b1fa5a25624",
+    "title": "Trump will rally Georgia Republicans despite party divisions in battleground state",
+    "category": "Elections",
+    "published_at": "2026-10-16T14:57:37Z",
+    "first_seen_at": "2026-10-16T15:42:33.644715Z",
+    "updated_at": "2026-10-16T15:42:33.644715Z",
+    "sources": [
+      {
+        "title": "Trump will rally Georgia Republicans despite party divisions in battleground state",
+        "url": "https://www.pbs.org/newshour/politics/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-16T14:57:37Z",
+        "primary": false,
+        "excerpt": "President Donald Trump's midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president's false claims about election fraud."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
