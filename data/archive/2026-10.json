@@ -2787,6 +2787,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "875f8452d290fe6eff24",
+    "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+    "category": "U.S.",
+    "published_at": "2026-10-16T06:12:04Z",
+    "first_seen_at": "2026-10-16T08:45:50.873335Z",
+    "updated_at": "2026-10-16T08:45:50.873335Z",
+    "sources": [
+      {
+        "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6004787/brewers-sweep-dodgers-mlb",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-16T06:12:04Z",
+        "primary": false,
+        "excerpt": "Propelled by a lockdown bullpen and repeated comebacks, the Brewers swept the two-time defending champion LA Dodgers out of the playoffs Thursday in Game 4 of the National League Championship Series."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
