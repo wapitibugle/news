@@ -3039,6 +3039,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "84adac7f574921c9fe65",
+    "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
+    "category": "World",
+    "published_at": "2026-10-16T12:40:12Z",
+    "first_seen_at": "2026-10-16T13:49:35.633645Z",
+    "updated_at": "2026-10-16T13:49:35.633645Z",
+    "sources": [
+      {
+        "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-16T12:40:12Z",
+        "primary": false,
+        "excerpt": "Johannes Kongsnes Natland, 19, was arrested in Huddersfield with two guns and live ammunition A teenage hitman who travelled from Norway to the UK with the intention of carrying out a murder on behalf of an Iran-backed international crime gang has been jailed for 20 years.Johannes Kongsnes Natland, 19, a talented footballer, had agreed to shoot an unknown target in return for €25,000 (£21,500). Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
