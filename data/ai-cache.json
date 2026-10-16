@@ -276,5 +276,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
     "group": ""
+  },
+  "072bc6a1b3d2917534ed748323e0ee4d3f8a8e25fcab132c3ec5afe8dc683482": {
+    "id": "4e5bd01b3071b44acabf",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Federal authorities are investigating suspicious letters sent to congressional and election offices ahead of the midterms. The substances have not been established as hazardous; Louisiana authorities found no evidence of harmful substances after an evacuation.",
+    "evidence_quote": "it has since reopened after law enforcement found no evidence of harmful substances.",
+    "related_ids": [
+      "5f92b934ab5b4fa647e5"
+    ],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o",
+    "group": "4e5bd01b3071b44acabf"
+  },
+  "2a110d2b7d9623d1c54f4fb2ca2e4b377a7afd552ff3a9980e37a97b7f990d50": {
+    "id": "24cec72781417c6d2dd9",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Inside Georgia's Senate race and Collins's uphill battle against Ossoff",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/inside-georgias-senate-race-and-collinss-uphill-battle-against-ossoff",
+    "group": ""
+  },
+  "e4e223ae884026ce7d0e83dbb34acbcfb5a1ab5d466a535c19a283d8445aae93": {
+    "id": "58d7043377811b725b28",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The AP-NORC survey reports greater voting enthusiasm among Democratic registered voters and a preference for Democratic control of Congress. The supplied excerpt lacks sample size, field dates and margin of error, limiting assessment of the reported advantages.",
+    "evidence_quote": "about three-quarters of Democratic voters",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds",
+    "group": ""
+  },
+  "4d23d0da359b263f4916e5e0b0782911343468f7a865bca76d05b9f26a514358": {
+    "id": "46ab8c9354d774037010",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Wisconsin approved contingency guidance for clerks if federal agents appear at polling places. This is not evidence of a planned deployment: DHS says it does not plan mass immigration patrols at polls, and state officials say they expect a normal election.",
+    "evidence_quote": "they don't plan to send immigration enforcement officers en masse to patrol the polls",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Wisconsin elections officials issue guidance for handling federal agents at polls",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/wisconsin-elections-officials-issue-guidance-for-handling-federal-agents-at-polls",
+    "group": ""
+  },
+  "bb1617dd95f1dec226bf2da431b80a3bdcfcd05505e0d8221ce648e78606ec49": {
+    "id": "4c1f0e54e89165d96a54",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department seeks to halt counting mail ballots from people it labels likely noncitizens pending citizenship checks. California disputes the evidence and methodology behind the 20,000-name list. The lawsuit is a request for court action, not a finding that these voters are noncitizens.",
+    "evidence_quote": "the federal government hasn't provided evidence to support its allegation that 20,000 names",
+    "related_ids": [],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Trump administration sues California to block counting of alleged noncitizen mail ballots",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
+    "group": ""
+  },
+  "ff5d26f9eae7e88a85a0f8f346cb597de7c3838a88f52e52dc04d7a9b3a96615": {
+    "id": "5f92b934ab5b4fa647e5",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "4e5bd01b3071b44acabf"
+    ],
+    "reviewed_at": "2026-10-16T01:41:01.276271+00:00",
+    "title": "Suspicious mailings to election officials, congressional offices under investigation",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
+    "group": "4e5bd01b3071b44acabf"
   }
 }
