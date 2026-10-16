@@ -2955,7 +2955,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ff4665a086d0b83e22e1",
@@ -2982,7 +2983,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "835389c1e833d47e2dce",
@@ -3000,6 +3002,34 @@
         "published_at": "2026-10-16T10:37:47Z",
         "primary": false,
         "excerpt": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f0a62ca838a02767bca1",
+    "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+    "category": "World",
+    "published_at": "2026-10-16T12:16:42Z",
+    "first_seen_at": "2026-10-16T12:53:51.972516Z",
+    "updated_at": "2026-10-16T12:53:51.972516Z",
+    "sources": [
+      {
+        "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+        "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-16T12:16:42Z",
+        "primary": false,
+        "excerpt": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions."
       }
     ],
     "tier": "brief",
