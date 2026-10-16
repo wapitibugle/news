@@ -3067,6 +3067,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "32c85ad8ce5dd7759535",
+    "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response",
+    "category": "U.S.",
+    "published_at": "2026-10-16T14:35:52Z",
+    "first_seen_at": "2026-10-16T14:45:43.525622Z",
+    "updated_at": "2026-10-16T14:45:43.525622Z",
+    "sources": [
+      {
+        "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response",
+        "url": "https://www.pbs.org/newshour/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-16T14:35:52Z",
+        "primary": false,
+        "excerpt": "The attacks in the two countries' exclusive economic zones threaten a global shipping route and have left two people dead, with at least 25 still missing. They also run the risk of drawing other countries directly into the war for Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
