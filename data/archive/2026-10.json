@@ -2759,6 +2759,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f5cc5b5b35b49dd3d520",
+    "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+    "category": "U.S.",
+    "published_at": "2026-10-16T06:27:30Z",
+    "first_seen_at": "2026-10-16T07:46:43.430768Z",
+    "updated_at": "2026-10-16T07:46:43.430768Z",
+    "sources": [
+      {
+        "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-16T06:27:30Z",
+        "primary": false,
+        "excerpt": "Manhattan's Upper West Side has been reveling in the company of its latest celebrities: A family of barn owls nested in a water tower atop a building near Central Park."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
