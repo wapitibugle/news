@@ -3123,6 +3123,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "db113aea11a26e46932b",
+    "title": "Trump wants the midterms to be all about him. Based on Democrats' ads, they are happy to oblige",
+    "category": "Elections",
+    "published_at": "2026-10-16T16:28:02Z",
+    "first_seen_at": "2026-10-16T16:43:39.182501Z",
+    "updated_at": "2026-10-16T16:43:39.182501Z",
+    "sources": [
+      {
+        "title": "Trump wants the midterms to be all about him. Based on Democrats' ads, they are happy to oblige",
+        "url": "https://www.pbs.org/newshour/politics/trump-wants-the-midterms-to-be-all-about-him-based-on-democrats-ads-they-are-happy-to-oblige",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-16T16:28:02Z",
+        "primary": false,
+        "excerpt": "Many of the Democrats' ads accuse Republican opponents of siding with the president over voters, particularly on issues like tariffs and the Iran war, which they blame for jacking up costs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
