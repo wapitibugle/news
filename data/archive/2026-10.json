@@ -2768,7 +2768,7 @@
     "category": "U.S.",
     "published_at": "2026-10-16T06:27:30Z",
     "first_seen_at": "2026-10-16T07:46:43.430768Z",
-    "updated_at": "2026-10-16T07:46:43.430768Z",
+    "updated_at": "2026-10-16T23:36:31.444174Z",
     "sources": [
       {
         "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
@@ -2778,6 +2778,15 @@
         "published_at": "2026-10-16T06:27:30Z",
         "primary": false,
         "excerpt": "Manhattan's Upper West Side has been reveling in the company of its latest celebrities: A family of barn owls nested in a water tower atop a building near Central Park."
+      },
+      {
+        "title": "A rare family of barn owls moved into Manhattan's Upper West Side, captivating New Yorkers",
+        "url": "https://www.pbs.org/newshour/nation/a-rare-family-of-barn-owls-moved-into-manhattans-upper-west-side-captivating-new-yorkers",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-16T22:52:26Z",
+        "primary": false,
+        "excerpt": "This is the first documented instance of barn owls nesting in Manhattan in modern history, according to one expert, and the owls have attracted nightly crowds of people in the street eager to get a glimpse of the elusive birds."
       }
     ],
     "tier": "brief",
