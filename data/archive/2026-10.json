@@ -1884,7 +1884,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -2871,7 +2871,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "af661bc437bc4e3b448e",
@@ -2898,7 +2899,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "89da7ad77ea3306d5308",
@@ -2919,6 +2921,88 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "be349a92c53f348f18e8",
+    "title": "Is JD Vance campaigning for the midterms – or 2028? | Politics Weekly America",
+    "category": "Elections",
+    "published_at": "2026-10-16T11:00:45Z",
+    "first_seen_at": "2026-10-16T11:43:05.816049Z",
+    "updated_at": "2026-10-16T11:43:05.816049Z",
+    "sources": [
+      {
+        "title": "Is JD Vance campaigning for the midterms – or 2028? | Politics Weekly America",
+        "url": "https://www.theguardian.com/politics/video/2026/oct/15/is-jd-vance-campaigning-for-the-midterms-or-2028-politics-weekly-america",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-16T11:00:45Z",
+        "primary": false,
+        "excerpt": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more. Jonathan Freedland talks to Arwa Mahdawi about why Vance is making such an effort to court voters Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ff4665a086d0b83e22e1",
+    "title": "Do Americans own the president's papers? Appeals court to weigh in",
+    "category": "U.S.",
+    "published_at": "2026-10-16T09:00:00Z",
+    "first_seen_at": "2026-10-16T11:43:05.816049Z",
+    "updated_at": "2026-10-16T11:43:05.816049Z",
+    "sources": [
+      {
+        "title": "Do Americans own the president's papers? Appeals court to weigh in",
+        "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-16T09:00:00Z",
+        "primary": false,
+        "excerpt": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "835389c1e833d47e2dce",
+    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+    "category": "World",
+    "published_at": "2026-10-16T10:37:47Z",
+    "first_seen_at": "2026-10-16T11:43:05.816049Z",
+    "updated_at": "2026-10-16T11:43:05.816049Z",
+    "sources": [
+      {
+        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-16T10:37:47Z",
+        "primary": false,
+        "excerpt": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
