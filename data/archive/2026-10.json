@@ -392,7 +392,7 @@
         "primary": false
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "withdrawn": false,
@@ -1753,5 +1753,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "fdd72688374358ada573",
+    "title": "They fled Russia, but the West sent them back",
+    "category": "World",
+    "published_at": "2026-10-16T04:57:28Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "They fled Russia, but the West sent them back",
+        "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-16T04:57:28Z",
+        "primary": false,
+        "excerpt": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9694f51b520d3bdb9554",
+    "title": "Brilliant Brewers reach first World Series since 1982 as Dodgers blow 4-0 lead",
+    "category": "U.S.",
+    "published_at": "2026-10-16T03:18:45Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Brilliant Brewers reach first World Series since 1982 as Dodgers blow 4-0 lead",
+        "url": "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-16T03:18:45Z",
+        "primary": false,
+        "excerpt": "NLCS Game 4: Brewers 6-4 DodgersDefending champions swept out of playoffsMilwaukee roar back from four runs downBrewers will face Rays or Guardians in World SeriesJake Bauers started the Brewers’ comeback with a two-run double and Garrett Mitchell hit a go-ahead home run to deliver a 6-4 victory ⁠over the Los Angeles Dodgers on Thursday and send Milwaukee to their first World Series appearance in 44 years.Bauers added a bases-loaded walk to tie the game in the ⁠fifth inning as the Brewers ⁠rallied from an early ​four-run deficit to sweep the National League Championship Series in four games. T"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "072d14671b798f80555c",
+    "title": "Isaias Dims the Gulf Coast",
+    "category": "Science",
+    "published_at": "2026-10-16T04:00:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Isaias Dims the Gulf Coast",
+        "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-16T04:00:00Z",
+        "primary": true,
+        "excerpt": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fbda300348f27f40179f",
+    "title": "Three children and teacher killed in US primary school shooting",
+    "category": "World",
+    "published_at": "2026-10-16T03:45:09Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Three children and teacher killed in US primary school shooting",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-16T03:45:09Z",
+        "primary": false,
+        "excerpt": "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "876f2e365ccffb939aea",
+    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+    "category": "Science",
+    "published_at": "2026-10-16T04:05:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-16T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6d9321053412c8fe44b0",
+    "title": "Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading",
+    "category": "U.S.",
+    "published_at": "2026-10-15T23:38:56Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading",
+        "url": "https://www.pbs.org/newshour/world/drone-strike-on-ship-in-romanian-waters-raises-fear-that-war-in-ukraine-is-spreading",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T23:38:56Z",
+        "primary": false,
+        "excerpt": "Romanian authorities launched search and rescue operations off the Black Sea coast Thursday after a drone struck a ship which then caught fire, the latest in a spate of strikes that has raised fears that Russia's war in Ukraine is spreading."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f1aedc63c799bda133d5",
+    "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
+    "category": "U.S.",
+    "published_at": "2026-10-15T18:38:05Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T18:38:05Z",
+        "primary": false,
+        "excerpt": "Congress and a federal agency are threatening to weaken the country's historic preservation law, fueling a backlash that critics say is as fiery as the one that led to the law's creation 60 years ago."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "156d17a44e993f679475",
+    "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+    "category": "World",
+    "published_at": "2026-10-15T23:57:20Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T23:57:20Z",
+        "primary": false,
+        "excerpt": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineriesThe White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine and Kyiv appeared to resume strikes on Russian oil refineries despite warnings from Donald Trump.Moscow accused Ukraine of launching a strike against a Russian oil refinery in the Ryazan region, its first since Trump abruptly declared an “energy ceasefi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "091f22110b6339c53937",
+    "title": "Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency.",
+    "category": "U.S.",
+    "published_at": "2026-10-15T10:00:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency.",
+        "url": "https://www.propublica.org/article/greg-abbott-border-security-disaster-proclamation",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92760926b9f77a06a6d5",
+    "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+    "category": "World",
+    "published_at": "2026-10-15T08:46:05Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-15T08:46:05Z",
+        "primary": false,
+        "excerpt": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f13a56957564dd377090",
+    "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom",
+    "category": "U.S.",
+    "published_at": "2026-10-15T23:16:23Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom",
+        "url": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T23:16:23Z",
+        "primary": false,
+        "excerpt": "The escalation between the Saudis and the rebels in neighboring Yemen has exposed the kingdom's challenges in intercepting the attacks in the latest front in the Iran war, while further rattling global markets."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26377a343100cbb3d7d4",
+    "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+    "category": "World",
+    "published_at": "2026-10-15T23:49:57Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+        "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-15T23:49:57Z",
+        "primary": false,
+        "excerpt": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensionsWes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort.The British defence secretary, giving a speech before a meeting with his US counterpart, Pete Hegseth, argued that supporting Ukraine was in the long-term interests of Washington, and a business opportunity. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "159aed9ff225ff54434c",
+    "title": "Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected",
+    "category": "U.S.",
+    "published_at": "2026-10-15T09:00:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected",
+        "url": "https://www.propublica.org/article/missouri-plan-judge-selection-republican-attacks",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-15T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f288b7f18606a2844e04",
+    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+    "category": "World",
+    "published_at": "2026-10-15T11:25:19Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T11:25:19Z",
+        "primary": false,
+        "excerpt": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dcd970b09304288f0d25",
+    "title": "WATCH LIVE: Sullivan, Peltola face off in Alaska U.S. Senate debate",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:57:22Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Sullivan, Peltola face off in Alaska U.S. Senate debate",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-sullivan-peltola-face-off-in-alaska-u-s-senate-debate",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:57:22Z",
+        "primary": false,
+        "excerpt": "In Alaska, Republican Sen. Dan Sullivan is set to face off against his Democratic challenger, former Rep. Mary Peltola, on Thursday as he bids for reelection."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6a9f21c07d28a3fb43c6",
+    "title": "North Korea and China open new bridge after 12-year delay",
+    "category": "World",
+    "published_at": "2026-10-15T06:24:45Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "North Korea and China open new bridge after 12-year delay",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-15T06:24:45Z",
+        "primary": false,
+        "excerpt": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4f022f1bb495706ec935",
+    "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+    "category": "U.S.",
+    "published_at": "2026-10-15T16:45:02Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T16:45:02Z",
+        "primary": false,
+        "excerpt": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "af3a581e915577139e01",
+    "title": "Oregon elementary school shooting: what we know so far",
+    "category": "U.S.",
+    "published_at": "2026-10-16T02:26:26Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Oregon elementary school shooting: what we know so far",
+        "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-16T02:26:26Z",
+        "primary": false,
+        "excerpt": "A teenage gunman opened fire in the city of Bend, killing four people and leaving two more in critical condition, before he was shot and killed by a bystanderA 16-year-old gunman opened fire at the Silver Rail elementary school in Bend, Oregon, authorities said on Thursday, killing three children and a teacher.The student victims are aged five, eight and 11. Their names have not yet been released, and authorities said their families have been notified.The 16-year-old shooter was found dead at the scene. Police said that an armed bystander apprehended and shot him inside the school.Two other vi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9c9b40c302f8b092e9d0",
+    "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:55:24Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+        "url": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:55:24Z",
+        "primary": false,
+        "excerpt": "The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an \"energy ceasefire\" this past Sunday between the two. Russia never stopped its attacks. Lisa Desjardins reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "35c98404ebb900f4182a",
+    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "category": "U.S.",
+    "published_at": "2026-10-15T10:05:58Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+        "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T10:05:58Z",
+        "primary": false,
+        "excerpt": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6210293ddcf3da6cd1c7",
+    "title": "Evacuations issued as multiple wildfires ignite in hot, windy California",
+    "category": "U.S.",
+    "published_at": "2026-10-16T01:58:52Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Evacuations issued as multiple wildfires ignite in hot, windy California",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-16T01:58:52Z",
+        "primary": false,
+        "excerpt": "Largest blaze the Henderson fire near San Diego as strong winds and severe heat could fuel rapid spreadMultiple wildfires ignited across California on Thursday as the state braced for more strong winds and high temperatures that could fuel rapid fire growth over the next several days.The largest blaze, dubbed the Henderson fire, erupted in Camp Pendleton, a San Diego Marine Corps training base, and quickly consumed more than 1,000 acres. Evacuations have been issued and officials briefly closed part of the Interstate 5, a major highway in the region. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "70516362076fce9c5069",
+    "title": "US police identify remains of man found in barrel in shrinking reservoir",
+    "category": "U.S.",
+    "published_at": "2026-10-16T01:35:40Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "US police identify remains of man found in barrel in shrinking reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-16T01:35:40Z",
+        "primary": false,
+        "excerpt": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b40bb4eb109701402613",
+    "title": "Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:50:07Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says",
+        "url": "https://www.pbs.org/newshour/show/ukraine-less-reliant-on-u-s-as-trump-zelenskyy-rift-deepens-former-ambassador-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:50:07Z",
+        "primary": false,
+        "excerpt": "For perspective on the tensions between President Trump and Ukrainian President Zelenskyy, Amna Nawaz spoke with former U.S. Ambassador to Ukraine William Taylor. He's now a distinguished fellow at the Atlantic Council."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64db87add7525b811fd9",
+    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "category": "U.S.",
+    "published_at": "2026-10-15T10:00:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e8c93f440224589ab96a",
+    "title": "Shooter kills three children and one teacher at Oregon elementary school",
+    "category": "U.S.",
+    "published_at": "2026-10-16T01:53:19Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Shooter kills three children and one teacher at Oregon elementary school",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-16T01:53:19Z",
+        "primary": false,
+        "excerpt": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystanderOregon elementary school shooting: what we know so farA 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on Thursday, killing three children and a teacher before he was shot dead by a community member, authorities said at an evening news conference.The dead children at Silver Rail elementary school were aged five, eight and 11, officials said. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "827231ce93fb67e7ebb9",
+    "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:45:59Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-fort-hood-shooters-execution-will-not-be-livestreamed",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:45:59Z",
+        "primary": false,
+        "excerpt": "In our news wrap Thursday, President Trump canceled plans to livestream the December execution of Fort Hood shooter Nidal Hasan, federal law enforcement agencies are investigating a series of letters containing what they're calling \"suspicious substances\" that were sent to congressional and state election officials and police report multiple victims in a shooting at a school in Bend, Oregon."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7df42e5c57d29f4c824f",
+    "title": "Maduro pleads not guilty to new torture-related charges in New York",
+    "category": "U.S.",
+    "published_at": "2026-10-15T16:52:44Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Maduro pleads not guilty to new torture-related charges in New York",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-15T16:52:44Z",
+        "primary": false,
+        "excerpt": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4e506fb08c7ba7b30dc4",
+    "title": "Trump cancels public execution, but a line may already have been crossed",
+    "category": "U.S.",
+    "published_at": "2026-10-15T09:00:00Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Trump cancels public execution, but a line may already have been crossed",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-15T09:00:00Z",
+        "primary": false,
+        "excerpt": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f18672c4ed952dbe0efe",
+    "title": "Police reveal identity of man found in a barrel in drought-stricken Lake Mead",
+    "category": "U.S.",
+    "published_at": "2026-10-16T01:34:53Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Police reveal identity of man found in a barrel in drought-stricken Lake Mead",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-16T01:34:53Z",
+        "primary": false,
+        "excerpt": "The remains of Edward Lelburian Jackson were first discovered in 2022, and an initial autopsy revealed he was killed decades agoAfter four years, a piece of the haunting mystery uncovered in the waning waters of drought-stricken Lake Mead has been solved.Since the remains of an unknown homicide victim were discovered stuffed inside a barrel in 2022, Las Vegas investigators have been searching not for his killer – but for his identity. At a press conference on Thursday, Clark county coroner Melanie Rouse shared his name publicly for the first time: Edward Lelburian Jackson. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2a660a46059c2f8d2540",
+    "title": "Pennsylvania doctor urges vaccination as measles outbreak grows",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:40:16Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Pennsylvania doctor urges vaccination as measles outbreak grows",
+        "url": "https://www.pbs.org/newshour/show/pennsylvania-doctor-urges-vaccination-as-measles-outbreak-grows",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:40:16Z",
+        "primary": false,
+        "excerpt": "The CDC has confirmed more than 4,000 cases of measles this year as the country grapples with the largest outbreak of the highly infectious virus in 35 years. Nearly a fifth of cases comprise children under the age of five, and 95% are among unvaccinated people. Amna Nawaz spoke with Dr. Evan Shirey, a pediatric infectious disease doctor based in Pennsylvania."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3140b4dcbb3619b517f",
+    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+    "category": "U.S.",
+    "published_at": "2026-10-15T11:34:55Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-15T11:34:55Z",
+        "primary": false,
+        "excerpt": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ad4fc40879e8fe58b634",
+    "title": "An accounting of Trump's promised payouts and questions they raise",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:35:10Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "An accounting of Trump's promised payouts and questions they raise",
+        "url": "https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:35:10Z",
+        "primary": false,
+        "excerpt": "President Trump is cutting checks to Americans and promising more with less than three weeks left in a midterm cycle largely focused on affordability. Trump argues they're refunds for excessive healthcare costs and promised economic dividends that only his party can deliver. Democrats contend he's trying to bribe citizens to vote for Republicans. Liz Landers has an accounting of the payouts."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9b269e27d40d49924e0a",
+    "title": "Petey Halpin’s two-run homer lifts Guardians past Rays for 2-1 ALCS lead",
+    "category": "U.S.",
+    "published_at": "2026-10-15T20:51:23Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Petey Halpin’s two-run homer lifts Guardians past Rays for 2-1 ALCS lead",
+        "url": "https://www.theguardian.com/sport/2026/oct/15/guardians-rays-alcs-game-3-petey-halpin-home-run",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-15T20:51:23Z",
+        "primary": false,
+        "excerpt": "Halpin’s first playoff homer puts Cleveland aheadWilliams strikes out nine as Guardians win 3-2Cleveland bullpen retires 11 of final 12 Rays battersPetey Halpin hit a go-ahead two-run homer, Gavin Williams struck out nine over five innings and the Cleveland Guardians beat the Tampa Bay Rays 3-2 in Game 3 of the American League Championship Series on Thursday to take a 2-1 lead.Game 4 of the best-of-seven series is scheduled for Friday, though rain is forecast. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "19690a35fd841470a964",
+    "title": "Obama says drift towards extremism 'not inevitable'",
+    "category": "U.S.",
+    "published_at": "2026-10-15T10:51:53Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Obama says drift towards extremism 'not inevitable'",
+        "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-15T10:51:53Z",
+        "primary": false,
+        "excerpt": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. ."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "504789623ed8d1483ab2",
+    "title": "Why small colleges are closing and the toll on students and communities",
+    "category": "U.S.",
+    "published_at": "2026-10-15T22:25:47Z",
+    "first_seen_at": "2026-10-16T05:41:36.519087Z",
+    "updated_at": "2026-10-16T05:41:36.519087Z",
+    "sources": [
+      {
+        "title": "Why small colleges are closing and the toll on students and communities",
+        "url": "https://www.pbs.org/newshour/show/why-small-colleges-are-closing-and-the-toll-on-students-and-communities",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-15T22:25:47Z",
+        "primary": false,
+        "excerpt": "Across the nation, scores of small private colleges and universities are either closing or under threat. As each school shutters, students, faculty, and the surrounding community struggle to find a way forward. Paul Solman reports on one such school and the effects of its demise. It's part of our higher education series, Rethinking College, and produced in collaboration with the Hechinger Report."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
