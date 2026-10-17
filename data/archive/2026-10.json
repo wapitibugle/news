@@ -4413,6 +4413,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c983e575c3ff78c48b0c",
+    "title": "Coastal homes burn as hot winds fuel California fires",
+    "category": "U.S.",
+    "published_at": "2026-10-17T08:20:00Z",
+    "first_seen_at": "2026-10-17T08:41:30.037005Z",
+    "updated_at": "2026-10-17T08:41:30.037005Z",
+    "sources": [
+      {
+        "title": "Coastal homes burn as hot winds fuel California fires",
+        "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T08:20:00Z",
+        "primary": false,
+        "excerpt": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
