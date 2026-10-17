@@ -4581,6 +4581,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ccd92597e0d97752d74b",
+    "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
+    "category": "World",
+    "published_at": "2026-10-17T13:28:41Z",
+    "first_seen_at": "2026-10-17T14:38:37.457479Z",
+    "updated_at": "2026-10-17T14:38:37.457479Z",
+    "sources": [
+      {
+        "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
+        "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-17T13:28:41Z",
+        "primary": false,
+        "excerpt": "Ukrainian president calls the move a ‘reward’ for Vladimir Putin as Russia strikes country’s power plantsPower plant attacks reflect Russian blueprint to make Ukrainian cities unlivableVolodymyr Zelenskyy has warned that Donald Trump’s decision to roll back sanctions on Russia will intensify the Kremlin’s war in Ukraine, as Moscow launched one of its worst strikes yet on Ukraine’s power plants in an attempt to black out the country’s cities before winter.The Ukrainian president also said he expected the Trump administration to lift more sanctions against Russia in the future and called for Eur"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
