@@ -828,5 +828,120 @@
     "evidence_depth": "article",
     "source_url": "https://projects.propublica.org/trump-doj-voter-data-lawsuits",
     "group": ""
+  },
+  "5e0ea98f64e199552b923e89145a715990897b92bcee8d21857b036b95dd61f2": {
+    "id": "59621dd41304e924d107",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Ahead of the UN biodiversity summit, reported annual funding remains below half the $200 billion goal for 2030. A UN progress report also finds fewer than half of parties’ biodiversity targets on track. The United States is not a party to the treaty.",
+    "evidence_quote": "less than half the 2030 goal",
+    "related_ids": [],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "Fundraising to protect key natural sites falls short ahead of UN biodiversity summit",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/fundraising-to-protect-key-natural-sites-falls-short-ahead-of-un-biodiversity-summit",
+    "group": ""
+  },
+  "98c1b1e46f6189fd5c9817d35f5340785edc723b59386744443fcdb98743d7b9": {
+    "id": "e3c630dbbd8f89531424",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "The White House confirmed Zacharia’s departure after less than a week. This roundup also reports California fire evacuations, settler attacks on Palestinians and renewed friction over Ukraine’s strikes on Russian oil facilities.",
+    "evidence_quote": "The White House confirms that press secretary Katie Zacharia is transitioning out of her role",
+    "related_ids": [
+      "95835086e5240acc92ba",
+      "9594ad938f333ee67c13",
+      "3c8bd046e5ee5b86bf7b",
+      "ee06f757a27646933fc2"
+    ],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "News Wrap: Zacharia out as White House press secretary after less than a week on the job",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/news-wrap-zacharia-out-as-white-house-press-secretary-after-less-than-a-week-on-the-job",
+    "group": "3c8bd046e5ee5b86bf7b"
+  },
+  "86276ad40f2eaa355a20041a1c1d413fad34b6d5fd5a3911a30def20ae03d72b": {
+    "id": "95835086e5240acc92ba",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "An opinion discussion of Zacharia’s departure and US policy toward Ukraine, rather than a separate reported development.",
+    "evidence_quote": "we turn tonight to the analysis of Capehart and Continetti",
+    "related_ids": [
+      "e3c630dbbd8f89531424",
+      "9594ad938f333ee67c13",
+      "3c8bd046e5ee5b86bf7b",
+      "ee06f757a27646933fc2"
+    ],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "Capehart and Continetti on the White House press secretary's quick exit",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit",
+    "group": "3c8bd046e5ee5b86bf7b"
+  },
+  "1a9d8060338626d2f32c69af726787a333101ded5d7c88d20d086445aadc3dd5": {
+    "id": "9594ad938f333ee67c13",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "This analysis uses Zacharia’s departure to critique presidential hiring practices. Its broader judgments should be distinguished from the confirmed personnel change.",
+    "evidence_quote": "The White House confirmed on Friday that Zacharia was leaving her role as press secretary",
+    "related_ids": [
+      "e3c630dbbd8f89531424",
+      "95835086e5240acc92ba",
+      "3c8bd046e5ee5b86bf7b",
+      "ee06f757a27646933fc2"
+    ],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "Katie Zacharia’s five days as press secretary expose flaws in Trump’s TV-driven hiring",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-trump-tv-driven-hiring",
+    "group": "3c8bd046e5ee5b86bf7b"
+  },
+  "08a46a6b53f33a30bd6e0ce2de142fb2e9ac2c8f00a5cf4bad5ff9118e1f71d5": {
+    "id": "3c8bd046e5ee5b86bf7b",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "The BBC reports Zacharia is leaving after a brief tenure marked by scrutiny of her preparedness and legal credentials. She acknowledged not passing the bar exam but said she held appropriate credentials for her work in China.",
+    "evidence_quote": "Zacharia admitted on Thursday that she did not pass the bar exam.",
+    "related_ids": [
+      "e3c630dbbd8f89531424",
+      "95835086e5240acc92ba",
+      "9594ad938f333ee67c13",
+      "ee06f757a27646933fc2"
+    ],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "Katie Zacharia leaving her White House role less than five days on the job",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o",
+    "group": "3c8bd046e5ee5b86bf7b"
+  },
+  "b489a0cb0340a6c7035541d3f0869381cbb12989e67894f0a5d8197c5ac4706b": {
+    "id": "ee06f757a27646933fc2",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "e3c630dbbd8f89531424",
+      "95835086e5240acc92ba",
+      "9594ad938f333ee67c13",
+      "3c8bd046e5ee5b86bf7b"
+    ],
+    "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+    "title": "Katie Zacharia is out as press secretary, White House says",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+    "group": "3c8bd046e5ee5b86bf7b"
   }
 }
