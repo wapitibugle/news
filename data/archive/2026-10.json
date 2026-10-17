@@ -2943,7 +2943,7 @@
         "excerpt": "The Trump administration has provided few details about its process for canceling hundreds of thousands of Affordable Care Act marketplace enrollments — even as the next stage of the anti-fraud effort is underway."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -4432,6 +4432,34 @@
         "published_at": "2026-10-17T08:20:00Z",
         "primary": false,
         "excerpt": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "65d6407e26b1af2bf9de",
+    "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+    "category": "Elections",
+    "published_at": "2026-10-17T09:00:00Z",
+    "first_seen_at": "2026-10-17T09:40:13.708579Z",
+    "updated_at": "2026-10-17T09:40:13.708579Z",
+    "sources": [
+      {
+        "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-17T09:00:00Z",
+        "primary": false,
+        "excerpt": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls."
       }
     ],
     "tier": "brief",
