@@ -4469,6 +4469,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "714e2ce820049c6e7e74",
+    "title": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+    "category": "World",
+    "published_at": "2026-10-17T09:00:28Z",
+    "first_seen_at": "2026-10-17T10:39:33.606241Z",
+    "updated_at": "2026-10-17T10:39:33.606241Z",
+    "sources": [
+      {
+        "title": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-17T09:00:28Z",
+        "primary": false,
+        "excerpt": "Half of Trump’s female cabinet officials have been replaced by men, while men facing misconduct allegations remainDonald Trump is not, by any measure, a feminist. He has said so himself. But the president has often pointed to his hiring and promoting of women in an attempt to stave off criticism of both his policies and personal conduct over the years.During his second term, however, there is one common characteristic among most of those who have departed the Trump administration. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
