@@ -4609,6 +4609,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "cd73b183457e2fc33a29",
+    "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+    "category": "Elections",
+    "published_at": "2026-10-17T14:42:11Z",
+    "first_seen_at": "2026-10-17T15:38:29.420019Z",
+    "updated_at": "2026-10-17T15:38:29.420019Z",
+    "sources": [
+      {
+        "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-17T14:42:11Z",
+        "primary": false,
+        "excerpt": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petitionElon Musk and his ⁠America Pac political action committee said recently that they agreed to settle two ⁠proposed class ⁠actions ​alleging the billionaire entrepreneur defrauded residents in closely contested states before the ⁠2024 US election by promising voters a lottery-style daily $1m giveaway.The plaintiffs, Musk and America Pac ​told the ‌judge overseeing the two ‌related lawsuits in federal court in Austin, Texas, ‌on Thursday that they have reached settlements subject to court app"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
