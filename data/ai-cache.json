@@ -644,5 +644,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/10/14/nx-s1-6000696/what-to-know-about-pope-leos-lung-cancer-diagnosis",
     "group": ""
+  },
+  "49ecaf020be02e4f0a3a1ae36cc90ae14b25fe379349f01dd2cab8d6780f5634": {
+    "id": "ec114295390c0639cfa7",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department threatened potential prosecution of officials who knowingly count ballots it identifies as cast by noncitizens. California’s secretary of state says the administration has provided no evidence supporting its claim about 20,000 listed voters.",
+    "evidence_quote": "the secretary of state said the administration has provided no evidence to support that claim",
+    "related_ids": [
+      "55464d172aa0845d5ded"
+    ],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "Trump administration threatens California officials if noncitizens vote in midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/16/trump-administration-california-election-officials-noncitizen-voters",
+    "group": "55464d172aa0845d5ded"
+  },
+  "84d4bac5925c13007eb36b262d047516436f5c5c60824e8210d424cbf4281f33": {
+    "id": "55464d172aa0845d5ded",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The prosecution warning follows a federal lawsuit seeking to block counting ballots from alleged noncitizens until their status is confirmed. The allegation concerning 20,000 listed voters remains disputed; California’s secretary of state says supporting evidence has not been provided.",
+    "evidence_quote": "the secretary of state said the administration has provided no evidence to support that claim",
+    "related_ids": [
+      "ec114295390c0639cfa7"
+    ],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "DOJ says California officials who process ballots from suspected noncitizens risk prosecution",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/doj-says-california-officials-who-process-ballots-from-suspected-noncitizens-risk-prosecution",
+    "group": "55464d172aa0845d5ded"
+  },
+  "6e9f2f55d3831eb973ba8faebf93fbf4ddbcdc04484b011df6991894a455674e": {
+    "id": "0f5b5daf3c5dbbd78ed9",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "At a rally supporting Mike Collins, Trump challenged the legitimacy of Senator Jon Ossoff’s election without presenting supporting evidence in the supplied account.",
+    "evidence_quote": "“And he was never elected,” Trump added.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+    "group": ""
+  },
+  "9cac4e74832ee67a824447d2dd0c6fa89cbe9e492c8ff3ec876a1da474743746": {
+    "id": "cc8c7e6bf4039a346bbb",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS examines Trump’s campaign claims about immigration and election administration, alongside his call to shoot leakers. Its reporting distinguishes Arizona’s 2022 ballot-printer problems from deliberate interference and notes that subsequent legal challenges were dismissed.",
+    "evidence_quote": "Those were thoroughly reviewed and dismissed across multiple levels of the judiciary there.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "Examining the controversial claims Trump is making at his midterm rallies",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/examining-the-controversial-claims-trump-is-making-at-his-midterm-rallies",
+    "group": ""
+  },
+  "70bb6c4604b8f026dd8fd2fbc1e7199ca742004d5ae4ba73bf90baa4ef60e81d": {
+    "id": "ae86277f350b52bad7b6",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Reporting from Alaska connects the Senate contest to high fuel and shipping costs. Peltola also faces staff-mistreatment allegations, which she disputes. The supplied segment provides no polling to quantify the race’s competitiveness.",
+    "evidence_quote": "gas prices are between $7.29 and $7.66 a gallon",
+    "related_ids": [],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "How Alaska became a key battleground in the fight for the Senate",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/how-alaska-became-a-key-battleground-in-the-fight-for-the-senate",
+    "group": ""
+  },
+  "0521e7fb19def10f97eb0b19306465e905b08092fe1c0614dc79ca9390b41599": {
+    "id": "95247ffccab5899893af",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Israel’s leading coalition contenders say they will not partner with Arab-led parties, potentially prolonging electoral deadlock. The report also examines discrimination and restrictions on Palestinian citizens’ political expression, attributing rights-abuse claims to advocacy organizations and including the government’s security rationale.",
+    "evidence_quote": "Netanyahu and his chief rivals have said they won't form a coalition with his or any other Arab-led party",
+    "related_ids": [],
+    "reviewed_at": "2026-10-17T00:53:16.825017+00:00",
+    "title": "Arab-led parties could decide the Israeli election, if anyone would partner with them",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/arab-led-parties-could-decide-the-israeli-election-if-anyone-would-partner-with-them",
+    "group": ""
   }
 }
