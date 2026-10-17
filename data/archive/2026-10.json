@@ -4665,6 +4665,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4cfe8c710beb9f3485f4",
+    "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
+    "category": "U.S.",
+    "published_at": "2026-10-17T16:17:08Z",
+    "first_seen_at": "2026-10-17T17:37:35.344991Z",
+    "updated_at": "2026-10-17T17:37:35.344991Z",
+    "sources": [
+      {
+        "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
+        "url": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-draws-on-faith-as-he-fights-to-hold-the-republican-majority",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T16:17:08Z",
+        "primary": false,
+        "excerpt": "Ever the optimist, Speaker Mike Johnson said he believes Republicans will hold on to their U.S. House majority, defying a surge of Democratic momentum in the final stretch of the midterm elections that will determine control of Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
