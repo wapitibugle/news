@@ -4497,6 +4497,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1cd626d30199600548b1",
+    "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+    "category": "World",
+    "published_at": "2026-10-17T10:19:32Z",
+    "first_seen_at": "2026-10-17T11:38:24.159356Z",
+    "updated_at": "2026-10-17T11:38:24.159356Z",
+    "sources": [
+      {
+        "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-17T10:19:32Z",
+        "primary": false,
+        "excerpt": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said.Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the scale of the threat posed by “hybrid attacks” from Vladimir Putin’s forces. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
