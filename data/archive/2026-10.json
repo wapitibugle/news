@@ -4385,6 +4385,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9635569aedf81c6999b9",
+    "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+    "category": "World",
+    "published_at": "2026-10-17T07:00:24Z",
+    "first_seen_at": "2026-10-17T07:40:15.931892Z",
+    "updated_at": "2026-10-17T07:40:15.931892Z",
+    "sources": [
+      {
+        "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+        "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-17T07:00:24Z",
+        "primary": false,
+        "excerpt": "Families have been scattered, fathers separated from their children, and couples unable to reunite and marryWijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind.Wijdan and her family were living in the Nuseirat refugee camp when the Gaza war began with the 7 October 2023 Hamas attack on Israel. Ten days later, on 17 October that year, an Israeli strike hit the al-Muhandseen tower, near their home, injuring Wijdan and every member of her family. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
