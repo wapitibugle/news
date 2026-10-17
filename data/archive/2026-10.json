@@ -4637,6 +4637,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "89c6a32c309bb3733ebe",
+    "title": "Masked settlers attack European diplomats in the occupied West Bank",
+    "category": "U.S.",
+    "published_at": "2026-10-17T16:28:11Z",
+    "first_seen_at": "2026-10-17T16:40:22.138230Z",
+    "updated_at": "2026-10-17T16:40:22.138230Z",
+    "sources": [
+      {
+        "title": "Masked settlers attack European diplomats in the occupied West Bank",
+        "url": "https://www.pbs.org/newshour/world/masked-settlers-attack-european-diplomats-in-the-occupied-west-bank",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T16:28:11Z",
+        "primary": false,
+        "excerpt": "In Saturday's attack in the village of Taybeh, settlers targeted Belgium's consul general, French and Polish diplomats and Catholic representatives, Belgian Foreign Minister Maxime Prevot said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
