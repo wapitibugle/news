@@ -3230,7 +3230,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b54bd9f5ed1630796df7",
@@ -3257,7 +3258,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d6e6b407514a611c72dd",
@@ -3284,7 +3286,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0dfb5b40b57b2ba25527",
@@ -3311,7 +3314,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "71f9131241c19d6b2c63",
@@ -3338,7 +3342,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a7c07b667e14a1ee3c52",
@@ -3365,7 +3370,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c72501030d0fd50f587a",
@@ -3392,7 +3398,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e1b9f2d4fdbd304b9441",
@@ -3419,7 +3426,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "040de3c849ae5913386f",
@@ -3446,7 +3454,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "024c80ca33de095ff058",
@@ -3454,7 +3463,7 @@
     "category": "U.S.",
     "published_at": "2026-10-16T18:08:33Z",
     "first_seen_at": "2026-10-17T05:40:12.130324Z",
-    "updated_at": "2026-10-17T05:40:12.130324Z",
+    "updated_at": "2026-10-17T06:49:48.256978Z",
     "sources": [
       {
         "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
@@ -3464,6 +3473,35 @@
         "published_at": "2026-10-16T18:08:33Z",
         "primary": false,
         "excerpt": "Katie Zacharia's first official day was on Monday."
+      },
+      {
+        "title": "Katie Zacharia is out as press secretary, White House says",
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-16T20:29:40Z",
+        "primary": false,
+        "excerpt": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.",
+        "ai_editor": {
+          "id": "ee06f757a27646933fc2",
+          "priority": 1,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "e3c630dbbd8f89531424",
+            "95835086e5240acc92ba",
+            "9594ad938f333ee67c13",
+            "3c8bd046e5ee5b86bf7b"
+          ],
+          "reviewed_at": "2026-10-17T01:39:35.616955+00:00",
+          "title": "Katie Zacharia is out as press secretary, White House says",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+          "group": "3c8bd046e5ee5b86bf7b"
+        }
       }
     ],
     "tier": "brief",
@@ -3473,7 +3511,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "88350355fd4ce189420e",
@@ -3500,7 +3539,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ec114295390c0639cfa7",
@@ -3586,7 +3626,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "917ab9db4d104e1818c2",
@@ -3613,7 +3654,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "11a4c463e72904f36bc5",
@@ -3640,7 +3682,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a775fd59363834c032c2",
@@ -3667,7 +3710,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "59695d86ed618d0e700f",
@@ -3694,7 +3738,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bc3a5cfbf390c3a9b7c1",
@@ -3721,7 +3766,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c70fc4415c28570225cc",
@@ -3748,7 +3794,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d3ee3905e0f047fc77b7",
@@ -3775,7 +3822,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "59621dd41304e924d107",
@@ -3831,7 +3879,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "da4374ac8d73daa6283c",
@@ -3858,7 +3907,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f07112d92d9cd06c9a7c",
@@ -3885,7 +3935,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bb8c1feda7f4c6f8f1ab",
@@ -3912,7 +3963,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7902f8c962c4510d7668",
@@ -3939,7 +3991,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "66c73c7c72d48f4d39ce",
@@ -3966,7 +4019,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ddb09231a01e03a223ac",
@@ -3993,7 +4047,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eaf2e3be29c551989a1f",
@@ -4020,7 +4075,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8b69f39273552a281c84",
@@ -4047,7 +4103,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d6cd4995dcb76c89b86a",
@@ -4074,7 +4131,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "55678c0797185d79028c",
@@ -4101,7 +4159,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2a2a942b0d2c8ae51918",
@@ -4128,7 +4187,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f1f6eb979c646f26f28f",
@@ -4155,7 +4215,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cc8c7e6bf4039a346bbb",
@@ -4211,7 +4272,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "393faee9d99aea209a60",
@@ -4238,7 +4300,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ae86277f350b52bad7b6",
@@ -4291,6 +4354,34 @@
       "source_url": "https://www.pbs.org/newshour/show/how-alaska-became-a-key-battleground-in-the-fight-for-the-senate",
       "group": ""
     },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "db96a915c7ca7018e68a",
+    "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+    "category": "Technology",
+    "published_at": "2026-10-17T06:00:24Z",
+    "first_seen_at": "2026-10-17T06:49:48.256978Z",
+    "updated_at": "2026-10-17T06:49:48.256978Z",
+    "sources": [
+      {
+        "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+        "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-17T06:00:24Z",
+        "primary": false,
+        "excerpt": "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz1 Which classic of political theory was dedicated to Lorenzo de Medici? 2 What is the only jazz act to win the Mercury Music prize? 3 Spanish is an official language of which African country? 4 What 2026 release is said to be the most expensive entertainment product ever created? 5 Which West Sussex estate is a pioneer of rewilding? 6 Which gas is named from the Greek for “lazy”? 7 US doctor Sara Cohen writes bestsellers under what pseudonym? 8 Which coffee chain w"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
