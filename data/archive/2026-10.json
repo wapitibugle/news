@@ -4525,6 +4525,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ce9bb5dd87f5b6562635",
+    "title": "Perspective: Midterm money madness",
+    "category": "Elections",
+    "published_at": "2026-10-17T12:00:00Z",
+    "first_seen_at": "2026-10-17T12:46:04.495259Z",
+    "updated_at": "2026-10-17T12:46:04.495259Z",
+    "sources": [
+      {
+        "title": "Perspective: Midterm money madness",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-17T12:00:00Z",
+        "primary": false,
+        "excerpt": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
