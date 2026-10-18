@@ -5897,6 +5897,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0ac85dbf12560257150f",
+    "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+    "category": "Elections",
+    "published_at": "2026-10-18T09:00:00Z",
+    "first_seen_at": "2026-10-18T09:40:17.171538Z",
+    "updated_at": "2026-10-18T09:40:17.171538Z",
+    "sources": [
+      {
+        "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-18T09:00:00Z",
+        "primary": false,
+        "excerpt": "Rep. María Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
