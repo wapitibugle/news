@@ -6037,6 +6037,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8c373becb39c5b05ca3f",
+    "title": "Getaway cars, affairs, Dubai fugitives: Trump’s pick Ken Paxton brings baggage to Senate race in Texas",
+    "category": "Elections",
+    "published_at": "2026-10-18T09:00:56Z",
+    "first_seen_at": "2026-10-18T14:39:18.832640Z",
+    "updated_at": "2026-10-18T14:39:18.832640Z",
+    "sources": [
+      {
+        "title": "Getaway cars, affairs, Dubai fugitives: Trump’s pick Ken Paxton brings baggage to Senate race in Texas",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-18T09:00:56Z",
+        "primary": false,
+        "excerpt": "The Republican state attorney general appears uniquely ill-chosen as a candidate – but he is a political survivor who could yet frustrate Democratic dreamsDepending how you look at the situation, it is either predictable that Ken Paxton, Texas’s attorney general and Republican candidate for US Senate, is struggling in the polls – or impressive that he is not doing worse. Beloved by hardcore Maga voters and regarded with skepticism by the broader voting public, Paxton is also puzzlingly bland. Recently, Donald Trump told a crowd of supporters that the 63-year-old Paxton “may not dress right, he"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e09a070bf52aebe26b18",
+    "title": "What role does the White House Press Secretary play in the Trump era?",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:01:03Z",
+    "first_seen_at": "2026-10-18T14:39:18.832640Z",
+    "updated_at": "2026-10-18T14:39:18.832640Z",
+    "sources": [
+      {
+        "title": "What role does the White House Press Secretary play in the Trump era?",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:01:03Z",
+        "primary": false,
+        "excerpt": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
