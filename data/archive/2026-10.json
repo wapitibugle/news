@@ -6121,7 +6121,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "45420893bf1ca6b670a4",
@@ -6148,7 +6149,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fef6846e0e5cb4119a41",
@@ -6166,6 +6168,34 @@
         "published_at": "2026-10-18T12:55:01Z",
         "primary": false,
         "excerpt": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "76f17176b623ef2c5ecc",
+    "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+    "category": "World",
+    "published_at": "2026-10-18T15:33:38Z",
+    "first_seen_at": "2026-10-18T16:40:29.871206Z",
+    "updated_at": "2026-10-18T16:40:29.871206Z",
+    "sources": [
+      {
+        "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+        "url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-18T15:33:38Z",
+        "primary": false,
+        "excerpt": "Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in IsraelThe US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as a “despicable act of terror” and called for the arrest and prosecution of those responsible.Levine, an award-winning journalist who lives in Israel, was set upon last Friday by masked Israeli settlers who used clubs and other weapons to attack Palestinian people attempting to harvest their olives in occupied"
       }
     ],
     "tier": "brief",
