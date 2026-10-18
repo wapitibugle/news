@@ -4994,7 +4994,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -5835,6 +5835,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "cfee081a553ed9d5fae3",
+    "title": "Seal pups spotted at nature reserve for 12th year",
+    "category": "Science",
+    "published_at": "2026-10-18T06:20:04Z",
+    "first_seen_at": "2026-10-18T07:39:47.597486Z",
+    "updated_at": "2026-10-18T07:39:47.597486Z",
+    "sources": [
+      {
+        "title": "Seal pups spotted at nature reserve for 12th year",
+        "url": "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-18T06:20:04Z",
+        "primary": false,
+        "excerpt": "Two pups have been recorded at South Walney, home to Cumbria's only breeding grey seal colony."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
