@@ -6009,6 +6009,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a8211667b352643c33ac",
+    "title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
+    "category": "Elections",
+    "published_at": "2026-10-18T12:01:01Z",
+    "first_seen_at": "2026-10-18T13:38:50.955362Z",
+    "updated_at": "2026-10-18T13:38:50.955362Z",
+    "sources": [
+      {
+        "title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-18T12:01:01Z",
+        "primary": false,
+        "excerpt": "From Russia to AI to Iran, President Trump has taken political stances that put him at odds with much of the electorate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
