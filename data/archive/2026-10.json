@@ -3349,7 +3349,7 @@
         "excerpt": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -4835,5 +4835,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "dc02f507ea9e02b41f14",
+    "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
+    "category": "U.S.",
+    "published_at": "2026-10-18T05:06:35Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
+        "url": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T05:06:35Z",
+        "primary": false,
+        "excerpt": "Fundora lands decisive blow at 2:59 of final roundChampion makes fourth successful title defense6ft 5in fighter targets undisputed crown at 154lbSebastian Fundora kept his pursuit of an undisputed championship on track with a second to spare.Fundora stopped Ermal Hadribeaj with a left hand at 2:59 of the 12th round on Saturday night at the Chelsea at the Cosmopolitan of Las Vegas to retain his WBC super welterweight title. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4405a432bd74d8cb766d",
+    "title": "Rays punish Cleveland defensive lapses to square ALCS at two games apiece",
+    "category": "U.S.",
+    "published_at": "2026-10-18T03:36:24Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Rays punish Cleveland defensive lapses to square ALCS at two games apiece",
+        "url": "https://www.theguardian.com/sport/2026/oct/17/rays-guardians-alcs-game-four-yandy-diaz-world-series",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T03:36:24Z",
+        "primary": false,
+        "excerpt": "Rays defeat Guardians 7-3 to level ALCS at 2-2Díaz seals victory with ninth-inning home runTampa Bay and Cleveland meet again on SundayJonathan Aranda’s single led to two runs in the seventh inning when the ball got by right fielder Chase DeLauter, Nick Martinez pitched five and one-third innings for his first postseason win and the Tampa Bay Rays defeated the Cleveland Guardians 7-3 on Saturday night to even the AL Championship Series at 2-2.Game 5 of the best-of-seven matchup is Sunday in Cleveland before the series shifts back to St Petersburg, Florida, on Monday. There is no off day for tr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "67c97b4bfb6245621848",
+    "title": "Corby metal pollution may harm people, says study",
+    "category": "Science",
+    "published_at": "2026-10-18T05:37:52Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Corby metal pollution may harm people, says study",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-18T05:37:52Z",
+        "primary": false,
+        "excerpt": "However, the Environment Agency says it has not found evidence that could cause significant harm."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "380fde0ad9a62b96cd1f",
+    "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+    "category": "World",
+    "published_at": "2026-10-18T05:04:31Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-18T05:04:31Z",
+        "primary": false,
+        "excerpt": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83b5787eeb8911ef6253",
+    "title": "Two damselfly species return to restored woodland",
+    "category": "Science",
+    "published_at": "2026-10-18T05:16:16Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Two damselfly species return to restored woodland",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-18T05:16:16Z",
+        "primary": false,
+        "excerpt": "A three-year project to restore woodland at seven nature reserves is completed."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "39e132054eaf69eb1bdd",
+    "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+    "category": "Science",
+    "published_at": "2026-10-18T04:05:00Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-18T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1be8e97651263e5ac204",
+    "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+    "category": "U.S.",
+    "published_at": "2026-10-17T22:45:25Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T22:45:25Z",
+        "primary": false,
+        "excerpt": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "87ed89156fd38bd48eb1",
+    "title": "The Republican governor candidates walking back some of their abortion stances",
+    "category": "U.S.",
+    "published_at": "2026-10-17T21:23:59Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "The Republican governor candidates walking back some of their abortion stances",
+        "url": "https://www.pbs.org/newshour/politics/the-republican-governor-candidates-walking-back-some-of-their-abortion-stances",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T21:23:59Z",
+        "primary": false,
+        "excerpt": "The candidates' retreat suggests that, even as reproductive rights fade from the national spotlight and polls show voters are far more likely to prioritize cost-of-living concerns, the political ramifications of pushing for new abortion restrictions remain substantial."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7beaaa321f7a5714a1e2",
+    "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+    "category": "U.S.",
+    "published_at": "2026-10-17T21:04:33Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+        "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T21:04:33Z",
+        "primary": false,
+        "excerpt": "At various times over the last decade, Saudi Arabia, the United Arab Emirates, the United States, Britain and Israel have carried out punishing air raids on the rebels — only to see them grow even stronger."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c1e78e43ed50b2c4c31",
+    "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+    "category": "U.S.",
+    "published_at": "2026-10-17T15:10:14Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T15:10:14Z",
+        "primary": false,
+        "excerpt": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cf9e2cd48caedb6a7122",
+    "title": "Auburn stun No 1 Georgia on last-gasp field goal as top-ranked teams fall in successive weeks",
+    "category": "U.S.",
+    "published_at": "2026-10-18T01:08:02Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Auburn stun No 1 Georgia on last-gasp field goal as top-ranked teams fall in successive weeks",
+        "url": "https://www.theguardian.com/sport/2026/oct/17/auburn-georgia-college-football-upset-mcpherson-field-goal",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T01:08:02Z",
+        "primary": false,
+        "excerpt": "Alex McPherson’s 34-yard kick seals 27-24 upsetGeorgia lose two interceptions and late fumbleAlex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No 1 Georgia 27-24 on Saturday.It was the second straight week the top team in the AP Top 25 lost to an unranked opponent after then-No 1 Texas fell to Oklahoma last Saturday. Auburn’s win meant the team ranked No 1 in the AP Top 25 lost in consecutive weeks for the first time since October 1990, according to Sportradar. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "07fe3c6105ffe9710bf2",
+    "title": "Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting",
+    "category": "U.S.",
+    "published_at": "2026-10-17T19:07:44Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting",
+        "url": "https://www.pbs.org/newshour/nation/oregon-father-is-the-latest-armed-civilian-to-confront-a-gunman-in-a-u-s-mass-shooting",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T19:07:44Z",
+        "primary": false,
+        "excerpt": "The heroic \"good guy with a gun\" who can stop an attack even before law enforcement can arrive has long been a rallying cry by gun rights advocates, arguing that armed citizens can act as a first line of self-defense and public protection."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "88a7f0e55fd07da20ec4",
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "category": "U.S.",
+    "published_at": "2026-10-17T14:25:10Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T14:25:10Z",
+        "primary": false,
+        "excerpt": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6a4ab263e33a5d48c69d",
+    "title": "Three takeaways from Elon Musk's latest political donations",
+    "category": "U.S.",
+    "published_at": "2026-10-18T00:41:06Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Three takeaways from Elon Musk's latest political donations",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-18T00:41:06Z",
+        "primary": false,
+        "excerpt": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3b66d0c24891895d4f7b",
+    "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+    "category": "U.S.",
+    "published_at": "2026-10-17T23:40:11Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T23:40:11Z",
+        "primary": false,
+        "excerpt": "Move comes after Trump administration announced restrictions that could slash water suppliesArizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the shrinking Colorado River.The move comes after the interior department announced restrictions this summer that could slash the water supplied to lower basin states – Arizona, California and Nevada – over the next two years depending on the river’s condition. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dfbb4af31f46bd8208fb",
+    "title": "How Alberta separatism went from fringe cause to referendum",
+    "category": "U.S.",
+    "published_at": "2026-10-17T17:35:55Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "How Alberta separatism went from fringe cause to referendum",
+        "url": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T17:35:55Z",
+        "primary": false,
+        "excerpt": "Alberta is not voting to leave Canada on Oct. 19. Instead, voters will decide whether the province should remain in Canada or begin the legal process toward a future referendum on separation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "57f6586c9bfc3810e4d9",
+    "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+    "category": "U.S.",
+    "published_at": "2026-10-17T11:43:14Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T11:43:14Z",
+        "primary": false,
+        "excerpt": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5409a67faeebe4c6d60a",
+    "title": "New York City police seek suspect in fatal subway station shooting",
+    "category": "U.S.",
+    "published_at": "2026-10-17T22:45:48Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "New York City police seek suspect in fatal subway station shooting",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T22:45:48Z",
+        "primary": false,
+        "excerpt": "Suspect shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to NYPDA man was shot and killed in a New York City subway station Saturday afternoon, and the New York police department is searching for the suspect.The suspect fatally shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to a statement from the NYPD. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "888a300293076b56b809",
+    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+    "category": "U.S.",
+    "published_at": "2026-10-17T19:13:21Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-17T19:13:21Z",
+        "primary": false,
+        "excerpt": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ddd0f710846fa2197471",
+    "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+    "category": "U.S.",
+    "published_at": "2026-10-17T15:57:10Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+        "url": "https://www.pbs.org/newshour/politics/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T15:57:10Z",
+        "primary": false,
+        "excerpt": "Lawmakers from both parties blasted the executive order late Friday, the latest in a series of steps that the Republican president has taken drawing the United States closer to Russia's Vladimir Putin."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7636853a3767ba4de105",
+    "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+    "category": "U.S.",
+    "published_at": "2026-10-17T11:43:13Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T11:43:13Z",
+        "primary": false,
+        "excerpt": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f950eea1a40daaaf6515",
+    "title": "Jalen Hurts placed on injured reserve after Eagles quarterback diagnosed with blood clot",
+    "category": "U.S.",
+    "published_at": "2026-10-17T22:33:44Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Jalen Hurts placed on injured reserve after Eagles quarterback diagnosed with blood clot",
+        "url": "https://www.theguardian.com/sport/2026/oct/17/jalen-hurts-eagles-injured-reserve-blood-clot-calf",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T22:33:44Z",
+        "primary": false,
+        "excerpt": "Eagles star sidelined by blood clot in his calfHurts sustained injury against Rams on 4 OctoberSuper Bowl MVP must miss at least four gamesQuarterback Jalen Hurts was placed on injured reserve on Saturday, two days after the Philadelphia Eagles revealed he had a blood clot in his calf.Hurts was initially ruled out on Thursday for the Eagles’ upcoming game against Carolina. The Eagles said at the time that Hurts had been injured when he took a cleat to his calf during their game against the Los Angeles Rams on 4 October. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec2d27bbf8b8a39d3526",
+    "title": "Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour",
+    "category": "U.S.",
+    "published_at": "2026-10-17T15:27:20Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour",
+        "url": "https://www.pbs.org/newshour/world/pope-leo-returns-to-the-vatican-4-days-after-lung-cancer-surgery",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-17T15:27:20Z",
+        "primary": false,
+        "excerpt": "The Vatican had initially estimated a weeklong hospital stay and canceled his audiences through Tuesday. Experts said patients could be discharged earlier depending on their recovery."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "88b03b9633a4303fd0ec",
+    "title": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
+    "category": "U.S.",
+    "published_at": "2026-10-17T11:43:08Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T11:43:08Z",
+        "primary": false,
+        "excerpt": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1a0f23196e48682d03dc",
+    "title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
+    "category": "U.S.",
+    "published_at": "2026-10-17T19:01:30Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T19:01:30Z",
+        "primary": false,
+        "excerpt": "Federal officer slammed vehicle into a construction worker while pursuing a man who died in similar circumstancesA federal officer slammed a vehicle into a Houston construction worker and broke his leg, believing him to be a man who apparently died years ago, the dead man’s family said on Friday, further calling into question the account given by US Immigration and Customs Enforcement (ICE).The worker, 48-year-old Miguel Parra Hernandez of Mexico, remains hospitalized with multiple leg fractures and needs reconstructive ankle surgery, according to FIEL, a Houston-based immigration advocacy gro"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3f02397fbe62109edd25",
+    "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+    "category": "U.S.",
+    "published_at": "2026-10-17T11:00:00Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T11:00:00Z",
+        "primary": false,
+        "excerpt": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's pastare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "865926c29083d34521ba",
+    "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
+    "category": "U.S.",
+    "published_at": "2026-10-17T18:10:26Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T18:10:26Z",
+        "primary": false,
+        "excerpt": "About 6,000 homes under evacuation, affecting 16,000 residents in San Clemente and San Juan CapistranoAt least six homes burned and two firefighters were injured after a fast-moving wildfire blazed through parts of southern California on Friday.Two firefighters were taken to the hospital with heat-related injuries from the Norte fire, officials said. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4f29123e45323e2befed",
+    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+    "category": "U.S.",
+    "published_at": "2026-10-17T09:00:00Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+        "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T09:00:00Z",
+        "primary": false,
+        "excerpt": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f2debe69dac736720b92",
+    "title": "Florida fisher dragged into water and killed by 12ft alligator",
+    "category": "U.S.",
+    "published_at": "2026-10-17T15:23:32Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Florida fisher dragged into water and killed by 12ft alligator",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T15:23:32Z",
+        "primary": false,
+        "excerpt": "Steve Hamilton was fishing in Winter Garden when he was attacked by gator, which was later killedA man fishing at a pond in Florida was killed on Friday by an alligator that was almost 12ft long in a rare kind of animal attack, according to authorities and media reports.Steve Hamilton, 71, was on the shoreline in the community of Winter Garden when the animal dragged him into the water, the Florida news outlet WOFL reported, citing local police and the state’s fish and wildlife conservation commission. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3a4222c2e66b7546c0d",
+    "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+    "category": "U.S.",
+    "published_at": "2026-10-17T09:00:00Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-17T09:00:00Z",
+        "primary": false,
+        "excerpt": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "277b9b0509f2a7bfeb6e",
+    "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+    "category": "U.S.",
+    "published_at": "2026-10-17T14:21:24Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T14:21:24Z",
+        "primary": false,
+        "excerpt": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of searchIlhan Omar’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search.The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fdaa729a98610ebdb7d9",
+    "title": "The right is pushing its anti-trans fury on the WNBA. Players and fans are loudly pushing back",
+    "category": "U.S.",
+    "published_at": "2026-10-17T14:00:32Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "The right is pushing its anti-trans fury on the WNBA. Players and fans are loudly pushing back",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/trans-women-wnba-players-fans-advocacy",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T14:00:32Z",
+        "primary": false,
+        "excerpt": "As the WNBA finals kick off Saturday in San Francisco, the pro-LGBTQ+ sports fanbase push a message of inclusion in the face of anti-trans attacksSign up for WNBA 30: a free women’s basketball newsletterAt Wilka’s Sports Bar in lower Manhattan, a crowd of mostly LGBTQ+ fans was fired up during a WNBA playoff game between the New York Liberty and the Atlanta Dream. When the Liberty’s Jonquel Jones blocked the Dream’s star forward Angel Reese at the basket, then chest-bumped her – leading teammates to separate them – the bar erupted in cheers. One fan quietly joked: “Now kiss!”“I love strong wom"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2cf988dcab6719b8797c",
+    "title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+    "category": "U.S.",
+    "published_at": "2026-10-17T11:00:29Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-17T11:00:29Z",
+        "primary": false,
+        "excerpt": "Ryan Amacher, who played role in bid to damage campaign, has also made antisemitic and racist posts on social mediaAn influencer who played a key role in hoax claims that James Talarico was in a mental health facility has a long history of social media posts that favorably invoke Nazi Germany, express antisemitism and anti-Black racism, criticize miscegenation and call for “remigration” of refugees.On X, the Lake Oswego, Oregon, resident Ryan Amacher, known online as Rhein Amacher, has described Muslims as “sub-human”, claimed that Black Africans are “monkeys” with low IQ, characterized immigr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "335266f7c6aea4bcaf51",
+    "title": "No further action against government adviser's wife over Palestine Action post, police say",
+    "category": "Technology",
+    "published_at": "2026-10-17T20:24:32Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-10-17T20:24:32Z",
+        "primary": false,
+        "excerpt": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2a73695b634ad3f99ed4",
+    "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+    "category": "Outdoors",
+    "published_at": "2026-10-17T19:00:40Z",
+    "first_seen_at": "2026-10-18T05:40:10.825285Z",
+    "updated_at": "2026-10-18T05:40:10.825285Z",
+    "sources": [
+      {
+        "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-17T19:00:40Z",
+        "primary": false,
+        "excerpt": "Exclusive: Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafeSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereAlmost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found.The findings are an endorsement of the risk maps used by authorities, but the research warns that as global heating generates ever-worsening fire conditions, firefighters may have to extend"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
