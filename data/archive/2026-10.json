@@ -6205,6 +6205,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5f4f119b31526a855d2f",
+    "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
+    "category": "World",
+    "published_at": "2026-10-18T17:16:02Z",
+    "first_seen_at": "2026-10-18T17:37:55.459882Z",
+    "updated_at": "2026-10-18T17:37:55.459882Z",
+    "sources": [
+      {
+        "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-18T17:16:02Z",
+        "primary": false,
+        "excerpt": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenshipTom Homan, Donald Trump’s “border czar”, has said that the Republican presidential administration could “of course” strip Democratic congresswoman Ilhan Omar of her citizenship and deport her.Homan’s comments during a Saturday appearance on Fox News were the first remarks explicitly mentioning denaturalization and deportation in connection with Omar that were attributed by name to a top Trump administration official since federal agents raided the Minnesota US House representati"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
