@@ -5925,6 +5925,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b44700be48202c02b100",
+    "title": "How Trump’s justice department is testing separation of powers before the US midterms",
+    "category": "Elections",
+    "published_at": "2026-10-18T10:00:57Z",
+    "first_seen_at": "2026-10-18T10:39:42.571564Z",
+    "updated_at": "2026-10-18T10:39:42.571564Z",
+    "sources": [
+      {
+        "title": "How Trump’s justice department is testing separation of powers before the US midterms",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-18T10:00:57Z",
+        "primary": false,
+        "excerpt": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating long-standing normsDonald Trump’s justice department has aggressively inserted itself into the midterm elections in the contest’s final weeks, shattering the department’s longstanding practice of political neutrality and leaving little doubt about the department’s willingness to help should the president attempt to subvert elections where his party is forecasted to lose seats and ultimately control of Congress.In the last "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
