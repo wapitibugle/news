@@ -5981,6 +5981,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a0717372d31225fb0660",
+    "title": "Greensboro, NC students protest the absence of early voting sites on campus",
+    "category": "Elections",
+    "published_at": "2026-10-18T12:07:18Z",
+    "first_seen_at": "2026-10-18T12:46:10.583526Z",
+    "updated_at": "2026-10-18T12:46:10.583526Z",
+    "sources": [
+      {
+        "title": "Greensboro, NC students protest the absence of early voting sites on campus",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-18T12:07:18Z",
+        "primary": false,
+        "excerpt": "NPR's Ayesha Rascoe talks to North Carolina A&T student Shia Rozier about disappointment with early voting sites in Greensboro."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
