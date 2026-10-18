@@ -5869,6 +5869,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f94315dbe024672b91d8",
+    "title": "Major fire breaks out in Alberta after deadly incident at military base",
+    "category": "U.S.",
+    "published_at": "2026-10-18T07:56:08Z",
+    "first_seen_at": "2026-10-18T08:41:22.018291Z",
+    "updated_at": "2026-10-18T08:41:22.018291Z",
+    "sources": [
+      {
+        "title": "Major fire breaks out in Alberta after deadly incident at military base",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T07:56:08Z",
+        "primary": false,
+        "excerpt": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
