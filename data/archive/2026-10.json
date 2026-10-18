@@ -4392,7 +4392,7 @@
         "excerpt": "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz1 Which classic of political theory was dedicated to Lorenzo de Medici? 2 What is the only jazz act to win the Mercury Music prize? 3 Spanish is an official language of which African country? 4 What 2026 release is said to be the most expensive entertainment product ever created? 5 Which West Sussex estate is a pioneer of rewilding? 6 Which gas is named from the Greek for “lazy”? 7 US doctor Sara Cohen writes bestsellers under what pseudonym? 8 Which coffee chain w"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -4861,7 +4861,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4405a432bd74d8cb766d",
@@ -4888,7 +4889,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "67c97b4bfb6245621848",
@@ -4915,7 +4917,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "380fde0ad9a62b96cd1f",
@@ -4942,7 +4945,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "83b5787eeb8911ef6253",
@@ -4969,7 +4973,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "39e132054eaf69eb1bdd",
@@ -4989,14 +4994,15 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1be8e97651263e5ac204",
@@ -5023,7 +5029,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "87ed89156fd38bd48eb1",
@@ -5050,7 +5057,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7beaaa321f7a5714a1e2",
@@ -5077,7 +5085,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1c1e78e43ed50b2c4c31",
@@ -5104,7 +5113,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cf9e2cd48caedb6a7122",
@@ -5131,7 +5141,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "07fe3c6105ffe9710bf2",
@@ -5158,7 +5169,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "88a7f0e55fd07da20ec4",
@@ -5185,7 +5197,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6a4ab263e33a5d48c69d",
@@ -5212,7 +5225,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3b66d0c24891895d4f7b",
@@ -5239,7 +5253,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dfbb4af31f46bd8208fb",
@@ -5266,7 +5281,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "57f6586c9bfc3810e4d9",
@@ -5293,7 +5309,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5409a67faeebe4c6d60a",
@@ -5320,7 +5337,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "888a300293076b56b809",
@@ -5347,7 +5365,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ddd0f710846fa2197471",
@@ -5374,7 +5393,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7636853a3767ba4de105",
@@ -5401,7 +5421,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f950eea1a40daaaf6515",
@@ -5428,7 +5449,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ec2d27bbf8b8a39d3526",
@@ -5455,7 +5477,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "88b03b9633a4303fd0ec",
@@ -5482,7 +5505,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1a0f23196e48682d03dc",
@@ -5509,7 +5533,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3f02397fbe62109edd25",
@@ -5536,7 +5561,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "865926c29083d34521ba",
@@ -5563,7 +5589,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4f29123e45323e2befed",
@@ -5590,7 +5617,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f2debe69dac736720b92",
@@ -5617,7 +5645,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f3a4222c2e66b7546c0d",
@@ -5644,7 +5673,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "277b9b0509f2a7bfeb6e",
@@ -5671,7 +5701,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fdaa729a98610ebdb7d9",
@@ -5698,7 +5729,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2cf988dcab6719b8797c",
@@ -5725,7 +5757,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "335266f7c6aea4bcaf51",
@@ -5752,7 +5785,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2a73695b634ad3f99ed4",
@@ -5773,6 +5807,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "78372b858be2c1ac6ddf",
+    "title": "Washington Spirit clinch NWSL playoff berth as Gotham miss chance to seal Shield",
+    "category": "U.S.",
+    "published_at": "2026-10-18T06:03:37Z",
+    "first_seen_at": "2026-10-18T06:49:01.722762Z",
+    "updated_at": "2026-10-18T06:49:01.722762Z",
+    "sources": [
+      {
+        "title": "Washington Spirit clinch NWSL playoff berth as Gotham miss chance to seal Shield",
+        "url": "https://www.theguardian.com/football/2026/oct/18/washington-spirit-gotham-nwsl-playoffs-shield-results",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T06:03:37Z",
+        "primary": false,
+        "excerpt": "Di Guglielmo scores first NWSL goal in 1-0 victoryGotham denied chance to clinch NWSL ShieldSan Diego secure top-four seed as Angel City rallyLucia Di Guglielmo scored her first National Women’s Soccer League goal and the Washington Spirit clinched a playoff spot with a 1-0 victory over Gotham FC on Saturday.In other NWSL action, the San Diego Wave beat the North Carolina Courage 2-1, Angel City FC defeated the Denver Summit 3-2 and the Kansas City Current shut out the Utah Royals 2-0. Continue reading..."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
