@@ -6065,7 +6065,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e09a070bf52aebe26b18",
@@ -6083,6 +6084,88 @@
         "published_at": "2026-10-18T12:01:03Z",
         "primary": false,
         "excerpt": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8838bd1b48411f9dbe5b",
+    "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+    "category": "U.S.",
+    "published_at": "2026-10-18T15:25:44Z",
+    "first_seen_at": "2026-10-18T15:38:37.961517Z",
+    "updated_at": "2026-10-18T15:38:37.961517Z",
+    "sources": [
+      {
+        "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+        "url": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T15:25:44Z",
+        "primary": false,
+        "excerpt": "The string of sharp queries, some from voters who said they had supported him and President Donald Trump, previewed the rocky path Vance may face trying to answer for the administration's record if he runs for president himself in 2028."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "45420893bf1ca6b670a4",
+    "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+    "category": "World",
+    "published_at": "2026-10-18T14:31:30Z",
+    "first_seen_at": "2026-10-18T15:38:37.961517Z",
+    "updated_at": "2026-10-18T15:38:37.961517Z",
+    "sources": [
+      {
+        "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+        "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-18T14:31:30Z",
+        "primary": false,
+        "excerpt": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentresTwo people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy ceasefire”.One person was killed and 15 wounded overnight after Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres in one of its largest ever aerial bombardments. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fef6846e0e5cb4119a41",
+    "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:55:01Z",
+    "first_seen_at": "2026-10-18T15:38:37.961517Z",
+    "updated_at": "2026-10-18T15:38:37.961517Z",
+    "sources": [
+      {
+        "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+        "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:55:01Z",
+        "primary": false,
+        "excerpt": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties."
       }
     ],
     "tier": "brief",
