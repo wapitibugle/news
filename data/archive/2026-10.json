@@ -5953,6 +5953,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0d2ca5c4952d6e6c3a77",
+    "title": "A California town’s beaches are washing away. Can its residents turn the tide?",
+    "category": "U.S.",
+    "published_at": "2026-10-18T11:00:03Z",
+    "first_seen_at": "2026-10-18T11:37:53.973950Z",
+    "updated_at": "2026-10-18T11:37:53.973950Z",
+    "sources": [
+      {
+        "title": "A California town’s beaches are washing away. Can its residents turn the tide?",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T11:00:03Z",
+        "primary": false,
+        "excerpt": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisisSan Clemente is one of southern California’s most picture-perfect beach towns – a capital of American surf culture since the 1950s. In two years, 2028 Olympic surfers will compete at Lower Trestles, a world-class surfing beach.But the town’s longtime cultural and economic driver, its beaches, are now under threat. As pounding waves driven by late-summer storms in the Pacific devour chunks of the California coastline, some of San Clemente’s b"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
