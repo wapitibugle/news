@@ -4910,7 +4910,7 @@
         "excerpt": "However, the Environment Agency says it has not found evidence that could cause significant harm."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -4966,7 +4966,7 @@
         "excerpt": "A three-year project to restore woodland at seven nature reserves is completed."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -5862,7 +5862,7 @@
         "excerpt": "Two pups have been recorded at South Walney, home to Cumbria's only breeding grey seal colony."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6305,5 +6305,1104 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "b8c02027076695227848",
+    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+    "category": "U.S.",
+    "published_at": "2026-10-19T05:35:39Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T05:35:39Z",
+        "primary": false,
+        "excerpt": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\""
+      },
+      {
+        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "url": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T16:18:14Z",
+        "primary": false,
+        "excerpt": "Israelis are set to vote Oct. 27, in the first national elections since Hamas attacked Israel on Oct. 7, 2023."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "60a75a28e4330dd11c5b",
+    "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+    "category": "World",
+    "published_at": "2026-10-19T05:00:19Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+        "url": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T05:00:19Z",
+        "primary": false,
+        "excerpt": "Consultancy says companies quoted on London stock market issued 65 in three months to end of SeptemberThe number of profit warnings from UK-listed companies has risen to the highest level in two years, as the war in the Middle East triggers a surge in costs for businesses before the budget.With less than a fortnight before John Healey’s tax and spending statement to the Commons, the consultants EY-Parthenon said companies quoted on the London stock market had issued 65 warnings in the three months to the end of September. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "42d8bf56eac2c072f95a",
+    "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+    "category": "U.S.",
+    "published_at": "2026-10-19T04:43:41Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-19T04:43:41Z",
+        "primary": false,
+        "excerpt": "Expedition was drawn to Nikumaroro after spotting what was described as a metallic glint in waters off uninhabited islandA US expedition that voyaged to a remote Pacific island in the hope of solving the mystery of what happened to pioneering pilot Amelia Earhart has said an object they suspected to be her plane was a clump of washed-up trees.“Unfortunately, we weren’t able to find that smoking gun,” said Steve Schultz of Purdue University, standing on the sand in front of a blue lagoon on the atoll of Nikumaroro, about halfway between Australia and Hawaii. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "083c7a2d4b5e04177412",
+    "title": "Volunteers plant 109,000 trees in new woodlands",
+    "category": "Science",
+    "published_at": "2026-10-19T05:38:04Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Volunteers plant 109,000 trees in new woodlands",
+        "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-19T05:38:04Z",
+        "primary": false,
+        "excerpt": "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ba7cc5caa42771618ed",
+    "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+    "category": "Technology",
+    "published_at": "2026-10-19T05:17:35Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-10-19T05:17:35Z",
+        "primary": false,
+        "excerpt": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e4906bdb2f8476ad9a55",
+    "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+    "category": "Outdoors",
+    "published_at": "2026-10-19T05:00:20Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-19T05:00:20Z",
+        "primary": false,
+        "excerpt": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the worldResidents of a remote town in Norway that is in one of the fastest-warming places in the world have been told they must no longer drink tap water due to heavy metal contamination that scientists have linked to the thawing permafrost.Longyearbyen, in the archipelago of Svalbard, gets its main drinking water supply from a 1.5 mile-long (2.5km) dammed lake called Isdammen, or “ice pond”. Higher temperatures as a result of the climate crisis have thawed"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "abadf9dc76d73a46863a",
+    "title": "Autumn Paints Poland’s Bieszczady Mountains",
+    "category": "Science",
+    "published_at": "2026-10-19T04:01:00Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Autumn Paints Poland’s Bieszczady Mountains",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-19T04:01:00Z",
+        "primary": true,
+        "excerpt": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e459dfa95b5ce4a2c377",
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "category": "Technology",
+    "published_at": "2026-10-19T04:30:59Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-10-19T04:30:59Z",
+        "primary": false,
+        "excerpt": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c8fe2e5225a816dbd6ea",
+    "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+    "category": "Outdoors",
+    "published_at": "2026-10-19T05:00:20Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-19T05:00:20Z",
+        "primary": false,
+        "excerpt": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communitiesThe government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged.Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8752cd3da165e06e7f77",
+    "title": "Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32%",
+    "category": "Outdoors",
+    "published_at": "2026-10-19T04:21:15Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32%",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-19T04:21:15Z",
+        "primary": false,
+        "excerpt": "Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’Get our breaking news email, free app or daily news podcastThe Minns government says it will introduce special legislation to allow a mine in the New South Wales Hunter Valley that was the subject of high court proceedings to increase its coal production by 32% per year.The premier, Chris Minns, said the bill would authorise MACH Energy to increase the annual coal output at its Mount Pleasant coalmine by 4m tonnes to 16.5MT per year until 2032. He c"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f6acd250c3da9492634b",
+    "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
+    "category": "Outdoors",
+    "published_at": "2026-10-19T04:00:19Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-19T04:00:19Z",
+        "primary": false,
+        "excerpt": "This month’s biodiversity summit in Yerevan, Armenia, aims to push governments to meet the 23 targets agreed at Cop15 in 2022This month, nearly every country on Earth will return to the question of how to stem the rapid destruction of the natural world. Humans are driving it, but so far we have not found a way to stop it.In late 2022, governments reached an ambitious once-in-a-decade deal to better protect nature amid scientific warnings that the planet is going through the largest loss of life since the extinction of the dinosaurs. Now, they are assessing their progress on the targets for the"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72e72c0e61b865e54562",
+    "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+    "category": "Science",
+    "published_at": "2026-10-19T04:05:00Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-19T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2ff332e63c4ce2b603ea",
+    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "category": "World",
+    "published_at": "2026-10-18T23:20:15Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-18T23:20:15Z",
+        "primary": false,
+        "excerpt": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "ai_editor": {
+          "id": "2ff332e63c4ce2b603ea",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Trump suspended several Russia sanctions before they took effect, saying he wanted to preserve peace negotiations. Rubio described a 60-day pause to assess economic effects. Zelensky criticized the move amid worsening US-Ukraine relations.",
+          "evidence_quote": "Trump blocked numerous sanctions on Russia on Friday night, two days before they were due to take effect",
+          "related_ids": [],
+          "reviewed_at": "2026-10-19T01:43:05.626996+00:00",
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "2ff332e63c4ce2b603ea",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Trump suspended several Russia sanctions before they took effect, saying he wanted to preserve peace negotiations. Rubio described a 60-day pause to assess economic effects. Zelensky criticized the move amid worsening US-Ukraine relations.",
+      "evidence_quote": "Trump blocked numerous sanctions on Russia on Friday night, two days before they were due to take effect",
+      "related_ids": [],
+      "reviewed_at": "2026-10-19T01:43:05.626996+00:00",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "53b95196adee91eff416",
+    "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+    "category": "U.S.",
+    "published_at": "2026-10-18T20:46:52Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+        "url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T20:46:52Z",
+        "primary": false,
+        "excerpt": "The path to a U.S. House majority runs through heavily Latino districts in states such as Arizona, Colorado and Texas, where Democrats are counting on disaffected Trump supporters to swing back their way.",
+        "ai_editor": {
+          "id": "53b95196adee91eff416",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "AP reports on Latino voters in competitive House districts alongside AP-NORC polling showing dissatisfaction with Trump’s economic performance. The interviews illustrate individual views, not representative measures of voting intentions; dissatisfaction does not establish whether voters will support Democrats or turn out.",
+          "evidence_quote": "More than 7 in 10 disapprove of his performance on the economy.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+          "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "53b95196adee91eff416",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports on Latino voters in competitive House districts alongside AP-NORC polling showing dissatisfaction with Trump’s economic performance. The interviews illustrate individual views, not representative measures of voting intentions; dissatisfaction does not establish whether voters will support Democrats or turn out.",
+      "evidence_quote": "More than 7 in 10 disapprove of his performance on the economy.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+      "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "06dd15dd8d787f9452f7",
+    "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "category": "World",
+    "published_at": "2026-10-18T21:00:08Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-18T21:00:08Z",
+        "primary": false,
+        "excerpt": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "81dad987ef75bdc0da08",
+    "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
+    "category": "U.S.",
+    "published_at": "2026-10-18T19:49:23Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
+        "url": "https://www.pbs.org/newshour/politics/rubio-heads-to-central-asia-as-some-wonder-if-hes-keeping-the-most-pressing-matters-at-a-distance",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T19:49:23Z",
+        "primary": false,
+        "excerpt": "This tour is intended to promote U.S. economic and security ties with Central and South Asia. But it has only tangential links to the Trump administration's current main foreign policy dilemmas in the Middle East and with the Russia-Ukraine war."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ecaac8243e901b34a10",
+    "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+    "category": "World",
+    "published_at": "2026-10-19T02:41:50Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+        "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-19T02:41:50Z",
+        "primary": false,
+        "excerpt": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2cbdb326cc2748d9c517",
+    "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+    "category": "U.S.",
+    "published_at": "2026-10-18T21:00:11Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T21:00:11Z",
+        "primary": false,
+        "excerpt": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a9381cff44ed9f9b3ce7",
+    "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+    "category": "World",
+    "published_at": "2026-10-19T00:06:25Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-19T00:06:25Z",
+        "primary": false,
+        "excerpt": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+        "ai_editor": {
+          "id": "a9381cff44ed9f9b3ce7",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Two Russians describe intelligence and sabotage work for Ukraine inside Russia. Ukraine’s military intelligence agency confirmed their affiliation, but the BBC says the operational details they supplied could not be verified. Their accounts illuminate covert warfare without establishing every claimed operation or the network’s size.",
+          "evidence_quote": "making it impossible to verify the activities the men claim to have carried out",
+          "related_ids": [],
+          "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "a9381cff44ed9f9b3ce7",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Two Russians describe intelligence and sabotage work for Ukraine inside Russia. Ukraine’s military intelligence agency confirmed their affiliation, but the BBC says the operational details they supplied could not be verified. Their accounts illuminate covert warfare without establishing every claimed operation or the network’s size.",
+      "evidence_quote": "making it impossible to verify the activities the men claim to have carried out",
+      "related_ids": [],
+      "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f15dbfc28e80f7d923c1",
+    "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+    "category": "U.S.",
+    "published_at": "2026-10-18T19:22:43Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+        "url": "https://www.pbs.org/newshour/world/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T19:22:43Z",
+        "primary": false,
+        "excerpt": "The Houthis have repeatedly attacked airports and oil infrastructure across the kingdom with drones and missiles that can change direction during flight, posing a challenge to interceptors."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "368bb5a684b474b77391",
+    "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+    "category": "World",
+    "published_at": "2026-10-18T23:53:48Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-18T23:53:48Z",
+        "primary": false,
+        "excerpt": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hoursThe coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its Instagram account was temporarily shut down during its latest demonstration on Saturday.The No Kings movement’s account went dark for several hours while protests focused on increasing early voter turnout were underway, sparking censorship fears. Continue reading...",
+        "ai_editor": {
+          "id": "368bb5a684b474b77391",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Meta apologized for temporarily disabling the No Kings Instagram account during voting-focused protests, attributing the suspension to automated protections. Organizers disputed its explanation; the supplied reporting does not establish intentional censorship.",
+          "evidence_quote": "Unfortunately, that automated action was clearly taken in error",
+          "related_ids": [],
+          "reviewed_at": "2026-10-19T01:43:05.626996+00:00",
+          "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "368bb5a684b474b77391",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Meta apologized for temporarily disabling the No Kings Instagram account during voting-focused protests, attributing the suspension to automated protections. Organizers disputed its explanation; the supplied reporting does not establish intentional censorship.",
+      "evidence_quote": "Unfortunately, that automated action was clearly taken in error",
+      "related_ids": [],
+      "reviewed_at": "2026-10-19T01:43:05.626996+00:00",
+      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4329dc121bdc4054e15a",
+    "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+    "category": "U.S.",
+    "published_at": "2026-10-18T19:00:06Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+        "url": "https://www.pbs.org/newshour/world/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T19:00:06Z",
+        "primary": false,
+        "excerpt": "\"Those who looted will have to pay back for the damage, and those who sought to bring down the Republic will be held accountable,\" Macron said in a televised address to the nation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "56f1d9ff338dc0f3bcfd",
+    "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+    "category": "U.S.",
+    "published_at": "2026-10-18T18:38:49Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T18:38:49Z",
+        "primary": false,
+        "excerpt": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ae2d332dac8ada96b09f",
+    "title": "Jackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate",
+    "category": "U.S.",
+    "published_at": "2026-10-18T18:01:07Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Jackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate",
+        "url": "https://www.pbs.org/newshour/politics/jackson-doesnt-regret-telling-collins-to-shut-up-after-protester-interrupted-maine-senate-debate",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T18:01:07Z",
+        "primary": false,
+        "excerpt": "\"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\" Jackson said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "096a7b8d06624333a212",
+    "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+    "category": "U.S.",
+    "published_at": "2026-10-18T16:30:00Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T16:30:00Z",
+        "primary": false,
+        "excerpt": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b75edbecf65bd5afd69b",
+    "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
+    "category": "U.S.",
+    "published_at": "2026-10-18T17:13:24Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
+        "url": "https://www.pbs.org/newshour/world/photographer-attacked-by-settlers-in-the-west-bank-feels-insulted-by-netanyahu",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T17:13:24Z",
+        "primary": false,
+        "excerpt": "The attack on Heidi Levine and Palestinians during the sensitive olive harvest again highlights the rampant settler violence that Prime Minister Benjamin Netanyahu has blamed on a small number of troublemakers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "42e25c3b139d746d7a1d",
+    "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:00:57Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:00:57Z",
+        "primary": false,
+        "excerpt": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8c148b985c92ee2117d1",
+    "title": "Trump says he will close historic D.C. golf course for 15 months of renovations",
+    "category": "U.S.",
+    "published_at": "2026-10-18T16:46:41Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Trump says he will close historic D.C. golf course for 15 months of renovations",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-he-will-close-historic-d-c-golf-course-for-15-months-of-renovations",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T16:46:41Z",
+        "primary": false,
+        "excerpt": "A judge last week, however, ordered a halt to his redevelopment plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course over a holiday weekend while providing little notice to the court or the plaintiffs trying to stop the makeover."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db1522401daacdc7ab2b",
+    "title": "If you have the scratch, they have the scares",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:00:00Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "If you have the scratch, they have the scares",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:00:00Z",
+        "primary": false,
+        "excerpt": "Scary stories are more than fun, they're big business."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c82761c1e12b36879565",
+    "title": "Trump plans to begin DC golf course renovation in defiance of judge’s order",
+    "category": "U.S.",
+    "published_at": "2026-10-18T21:44:21Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Trump plans to begin DC golf course renovation in defiance of judge’s order",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T21:44:21Z",
+        "primary": false,
+        "excerpt": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday’s court filing Donald Trump posted on Truth Social on Sunday that “restoration work will begin” on 15 November to a historic public golf course in Washington DC despite a federal judge’s court order to pause his plans over environmental and historic preservation concerns.US district judge Ana Reyes had ruled earlier this year that the federal government must give notice before any substantive construction work on the East Potomac golf course could proceed, and last week issued an order halting the r",
+        "ai_editor": {
+          "id": "c82761c1e12b36879565",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Trump announced a November 15 start for golf-course work despite court restrictions. Judge Ana Reyes demanded clarification after the government had described the project as preliminary. She has halted tree removal and ordered administration officials to testify about whether the cutting was connected to Trump’s plans.",
+          "evidence_quote": "Reyes has also ordered key members of the Republican administration to testify on the recent tree-cutting",
+          "related_ids": [],
+          "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+          "title": "Trump plans to begin DC golf course renovation in defiance of judge’s order",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "c82761c1e12b36879565",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Trump announced a November 15 start for golf-course work despite court restrictions. Judge Ana Reyes demanded clarification after the government had described the project as preliminary. She has halted tree removal and ordered administration officials to testify about whether the cutting was connected to Trump’s plans.",
+      "evidence_quote": "Reyes has also ordered key members of the Republican administration to testify on the recent tree-cutting",
+      "related_ids": [],
+      "reviewed_at": "2026-10-19T00:55:05.446075+00:00",
+      "title": "Trump plans to begin DC golf course renovation in defiance of judge’s order",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "39941dbe8908f8ac1dbd",
+    "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery",
+    "category": "U.S.",
+    "published_at": "2026-10-18T16:34:03Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery",
+        "url": "https://www.pbs.org/newshour/world/pope-leo-tells-faithful-in-st-peters-square-he-will-gradually-resume-duties-after-cancer-surgery",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T16:34:03Z",
+        "primary": false,
+        "excerpt": "\"Now that this delicate phase is behind me, I will gradually resume my activities, always with God's help and your prayers,\" Leo said, his voice sounding strong four days after the lower lobe of his right lung was removed."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c6f2d489bec522402f40",
+    "title": "'No Kings' protesters rally across the US – video",
+    "category": "U.S.",
+    "published_at": "2026-10-18T15:20:57Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "'No Kings' protesters rally across the US – video",
+        "url": "https://www.theguardian.com/us-news/video/2026/oct/18/no-kings-protesters-rally-across-the-us-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T15:20:57Z",
+        "primary": false,
+        "excerpt": "Protesters held rallies across the US as part of the 'No Kings' movement, voicing opposition to the Trump administration and calling for early voting ahead of November's midterm elections. The rallies coincide with heightened legal battles surrounding voting rules, including a recent federal lawsuit filed against California regarding mail-in ballots and warnings from the justice department concerning ballot processing. Current opinion polls suggest Democrats will win the House of Representatives in the upcoming midterms, while the Senate remains too close to call Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9be8e08ba5be488cc0d",
+    "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+    "category": "U.S.",
+    "published_at": "2026-10-18T15:16:06Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+        "url": "https://www.pbs.org/newshour/world/major-fire-breaks-out-in-alberta-after-deadly-incident-at-canadian-military-base",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-18T15:16:06Z",
+        "primary": false,
+        "excerpt": "Fire crews scrambled late Saturday as fierce winds whipped flames beyond Canadian Forces Base Wainwright and into the surrounding rural area."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "938dfdce544e7d311246",
+    "title": "Some conservative states aren’t using Medicaid hardship exemption – for political reasons",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:00:02Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Some conservative states aren’t using Medicaid hardship exemption – for political reasons",
+        "url": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:00:02Z",
+        "primary": false,
+        "excerpt": "States like Missouri and Iowa are choosing to not take up exemption designed to help low-income people keep coverage during hardshipSome conservative states that have rejected hardship exemptions for the new Medicaid requirements may be choosing not to due to political reasons, experts say.New federal work requirements for Medicaid, slated to come into effect on 1 January, mean that adults enrolled through the Affordable Care Act (ACA) Medicaid expansion will have to work, attend school, volunteer, or take part in another qualifying activity at least 80 hours a month to maintain their coverage"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a3241e23a9a968f133e",
+    "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+    "category": "U.S.",
+    "published_at": "2026-10-18T12:00:02Z",
+    "first_seen_at": "2026-10-19T05:42:43.386036Z",
+    "updated_at": "2026-10-19T05:42:43.386036Z",
+    "sources": [
+      {
+        "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+        "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-18T12:00:02Z",
+        "primary": false,
+        "excerpt": "Overall, economic sentiment for Trump is poor, but small businesses seem fairly confident, according to several surveysThere are 34m small businesses in the United States. They employ approximately half of the country’s workers and generate about half of the country’s GDP. They’re an important voting block. So how are they feeling about the economy as we head into November’s midterm elections? Overall, economic sentiment for Donald Trump is poor but small business – admittedly a diverse demographic that’s hard to poll – seems fairly confident. A number of recently published surveys and reports"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
