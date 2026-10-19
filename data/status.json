@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-18T23:34:54.635285Z",
+  "collected_at": "2026-10-19T00:55:05.446075Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -94,13 +94,13 @@
       "ok": true
     }
   ],
-  "ai_accounted_usd": 0.917388,
+  "ai_accounted_usd": 1.000278,
   "ai_enabled": true,
   "ai": {
-    "state": "budget_pause",
+    "state": "ready",
     "model": "gpt-6.1-sol",
-    "calls_this_run": 0,
-    "accounted_usd": 0.917388,
+    "calls_this_run": 4,
+    "accounted_usd": 1.000278,
     "monthly_limit_usd": 20
   },
   "stories": 200
