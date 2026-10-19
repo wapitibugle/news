@@ -7521,6 +7521,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "aac85bfa91655ac44d39",
+    "title": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It’s Been Compromised by Trump.",
+    "category": "Elections",
+    "published_at": "2026-10-19T09:00:00Z",
+    "first_seen_at": "2026-10-19T09:48:00.826087Z",
+    "updated_at": "2026-10-19T09:48:00.826087Z",
+    "sources": [
+      {
+        "title": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It’s Been Compromised by Trump.",
+        "url": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-10-19T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It’s Been Compromised by Trump. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
