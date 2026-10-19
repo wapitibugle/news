@@ -7801,6 +7801,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5d286754225dfd35d1b9",
+    "title": "Haitian gangs target foreign troops in biggest attack since force began operations",
+    "category": "U.S.",
+    "published_at": "2026-10-19T17:45:11Z",
+    "first_seen_at": "2026-10-19T19:44:25.958240Z",
+    "updated_at": "2026-10-19T19:44:25.958240Z",
+    "sources": [
+      {
+        "title": "Haitian gangs target foreign troops in biggest attack since force began operations",
+        "url": "https://www.pbs.org/newshour/world/haitian-gangs-target-foreign-troops-in-biggest-attack-since-force-began-operations",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T17:45:11Z",
+        "primary": false,
+        "excerpt": "Gangs in Haiti opened fire on an armored vehicle over the weekend, leaving four soldiers from El Salvador unaccounted for in the first major attack since an international gang suppression force began operations in the violence-wracked Caribbean country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
