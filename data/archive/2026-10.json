@@ -7717,6 +7717,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3f53ae0124d7270a1a2b",
+    "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+    "category": "Elections",
+    "published_at": "2026-10-19T15:44:52Z",
+    "first_seen_at": "2026-10-19T16:46:45.419980Z",
+    "updated_at": "2026-10-19T16:46:45.419980Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-heads-to-rally-in-kansas-as-republican-voters-frustrations-deepen",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-19T15:44:52Z",
+        "primary": false,
+        "excerpt": "President Donald Trump is heading to Kansas on Monday and Iowa later in the week, the latest in a series of stops where he's trying to energize his base in the final weeks before the midterm elections. The economic strain is becoming a growing political concern for Republicans in states they have long dominated."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
