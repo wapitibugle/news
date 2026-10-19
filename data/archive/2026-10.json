@@ -7829,6 +7829,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4c8d6a3dd024a4055042",
+    "title": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
+    "category": "U.S.",
+    "published_at": "2026-10-19T19:56:50Z",
+    "first_seen_at": "2026-10-19T20:42:55.644599Z",
+    "updated_at": "2026-10-19T20:42:55.644599Z",
+    "sources": [
+      {
+        "title": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
+        "url": "https://www.pbs.org/newshour/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100000-ukrainians-and-sudanese",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T19:56:50Z",
+        "primary": false,
+        "excerpt": "This decision comes as activists and lawmakers argue there are no safe conditions for Ukrainians to return to amid the war with Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
