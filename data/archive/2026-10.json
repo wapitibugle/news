@@ -7661,6 +7661,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5b2535d72558e367abeb",
+    "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
+    "category": "World",
+    "published_at": "2026-10-19T14:13:16Z",
+    "first_seen_at": "2026-10-19T14:48:13.074270Z",
+    "updated_at": "2026-10-19T14:48:13.074270Z",
+    "sources": [
+      {
+        "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T14:13:16Z",
+        "primary": false,
+        "excerpt": "Downing Street emphasises sacrifices of UK troops and reasserts ‘unwavering’ support for Ukraine amid softening US policy towards RussiaUK politics live – latest updatesDowning Street has criticised Pete Hegseth for downplaying the role of Nato allies in helping the US with combat operations in Afghanistan, saying Donald Trump’s defence secretary had been wrong to do so.The direct condemnation came as No 10 more carefully distanced itself from Trump’s increasing willingness to engage with Russia, saying the UK’s backing for Ukraine was “unwavering”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
