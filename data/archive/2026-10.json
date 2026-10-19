@@ -7745,6 +7745,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "bc95a7824ae34d77ebfd",
+    "title": "Justice Department charges more than 2 dozen foreign nationals in California sweep targeting noncitizen voters",
+    "category": "Elections",
+    "published_at": "2026-10-19T16:53:36Z",
+    "first_seen_at": "2026-10-19T17:42:08.756756Z",
+    "updated_at": "2026-10-19T17:42:08.756756Z",
+    "sources": [
+      {
+        "title": "Justice Department charges more than 2 dozen foreign nationals in California sweep targeting noncitizen voters",
+        "url": "https://www.pbs.org/newshour/politics/justice-department-charges-more-than-2-dozen-foreign-nationals-in-california-sweep-targeting-noncitizen-voters",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-19T16:53:36Z",
+        "primary": false,
+        "excerpt": "Last week, the Justice Department sued the state and later warned that local election workers who knowingly process or tabulate ballots submitted by noncitizen voters are at risk of potential prosecution."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
