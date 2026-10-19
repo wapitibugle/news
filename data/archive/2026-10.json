@@ -7689,6 +7689,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a4ba2198baff0b8c9db4",
+    "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+    "category": "World",
+    "published_at": "2026-10-19T14:48:56Z",
+    "first_seen_at": "2026-10-19T15:48:53.988765Z",
+    "updated_at": "2026-10-19T15:48:53.988765Z",
+    "sources": [
+      {
+        "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+        "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T14:48:56Z",
+        "primary": false,
+        "excerpt": "At least 15 vessels struck in waterway in past 10 days, with rumours spread that they carried valuable goodsPeople have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships passing through the crucial waterway in the past 10 days.Some ships have been hit by drones, others by mines. On Sunday, a ship was struck by a rocket-propelled grenade launched from a small boat 75 miles (120km) north-east of the Saudi port of Jubail. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
