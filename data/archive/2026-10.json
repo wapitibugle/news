@@ -7633,6 +7633,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8419e8dd686f30d79572",
+    "title": "First Thing: US ambassador in rare diplomatic break with Israel over attack on US journalist",
+    "category": "World",
+    "published_at": "2026-10-19T11:23:24Z",
+    "first_seen_at": "2026-10-19T13:56:17.723762Z",
+    "updated_at": "2026-10-19T13:56:17.723762Z",
+    "sources": [
+      {
+        "title": "First Thing: US ambassador in rare diplomatic break with Israel over attack on US journalist",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/first-thing-us-ambassador-mike-huckabee-israel-heidi-levine-attack",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T11:23:24Z",
+        "primary": false,
+        "excerpt": "Mike Huckabee condemns attack on Washington Post photojournalist that has drawn lukewarm response from Israeli authorities. Plus, Japan is attempting to boldly go where no space mission has gone beforeDon’t already get First Thing in your inbox? Sign up hereGood morning. The US ambassador to Israel, Mike Huckabee, has denounced a settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as a “despicable act of terror”.Levine, 63, an award-winning journalist who lives in Israel, was set upon last Friday by masked Israeli settlers who used clubs a"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
