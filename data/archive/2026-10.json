@@ -7549,6 +7549,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f598e99d910210f9788d",
+    "title": "The real reason it's going to take a while to know who won in some midterm races",
+    "category": "Elections",
+    "published_at": "2026-10-19T09:00:00Z",
+    "first_seen_at": "2026-10-19T10:43:43.131655Z",
+    "updated_at": "2026-10-19T10:43:43.131655Z",
+    "sources": [
+      {
+        "title": "The real reason it's going to take a while to know who won in some midterm races",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-19T09:00:00Z",
+        "primary": false,
+        "excerpt": "Hint: It's not only because California counts slowly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
