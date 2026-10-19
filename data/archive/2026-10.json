@@ -7577,6 +7577,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ebe44b85612d8b12495f",
+    "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+    "category": "Elections",
+    "published_at": "2026-10-19T11:15:43Z",
+    "first_seen_at": "2026-10-19T11:44:16.072156Z",
+    "updated_at": "2026-10-19T11:44:16.072156Z",
+    "sources": [
+      {
+        "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-19T11:15:43Z",
+        "primary": false,
+        "excerpt": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
