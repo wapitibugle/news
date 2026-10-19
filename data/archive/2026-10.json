@@ -7465,6 +7465,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2bd974d82b9163f4d58b",
+    "title": "The father and son on opposite sides of Alberta’s separation vote",
+    "category": "U.S.",
+    "published_at": "2026-10-19T07:55:32Z",
+    "first_seen_at": "2026-10-19T07:57:02.376227Z",
+    "updated_at": "2026-10-19T07:57:02.376227Z",
+    "sources": [
+      {
+        "title": "The father and son on opposite sides of Alberta’s separation vote",
+        "url": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-19T07:55:32Z",
+        "primary": false,
+        "excerpt": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
