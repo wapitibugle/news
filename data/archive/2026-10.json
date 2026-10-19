@@ -7773,6 +7773,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "65ad2a9237b0ed7d4685",
+    "title": "Iowa is testing whether Democrats can win rural voters",
+    "category": "Elections",
+    "published_at": "2026-10-19T18:12:04Z",
+    "first_seen_at": "2026-10-19T18:52:24.943789Z",
+    "updated_at": "2026-10-19T18:52:24.943789Z",
+    "sources": [
+      {
+        "title": "Iowa is testing whether Democrats can win rural voters",
+        "url": "https://www.pbs.org/newshour/politics/iowa-is-testing-whether-democrats-can-win-rural-voters",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-19T18:12:04Z",
+        "primary": false,
+        "excerpt": "Economic concerns such as tariffs and rising gas prices may give Democrats an opening in November's midterms. But rural voters remain skeptical of large-scale support for Democrats."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
