@@ -7605,6 +7605,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ba809326a01448b92ed2",
+    "title": "The abortion debate has gone quiet amid US midterms. In Idaho, the stakes remain high",
+    "category": "Elections",
+    "published_at": "2026-10-19T11:00:54Z",
+    "first_seen_at": "2026-10-19T12:54:03.821610Z",
+    "updated_at": "2026-10-19T12:54:03.821610Z",
+    "sources": [
+      {
+        "title": "The abortion debate has gone quiet amid US midterms. In Idaho, the stakes remain high",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/abortion-rights-idaho-ballot",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-19T11:00:54Z",
+        "primary": false,
+        "excerpt": "Republicans delay major action on abortion until after midterm elections, and Democrats focus on affordabilityExactly 1,255 volunteers fanned out across Idaho’s rural 35 legislative districts to collect signatures, knocking on 66,000 doors and ultimately gathering more than 110,000. Not a single one was paid – a rarity in today’s politics.This effort was in service of Proposition 1, which asks voters a single question: Should abortion be legal in Idaho? A “yes” vote would lift one of the most restrictive abortions bans in the nation. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
