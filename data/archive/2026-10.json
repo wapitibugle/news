@@ -7493,6 +7493,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a2dff4f97973a8a8ae1d",
+    "title": "Democratic candidates and Republican Super PACs drive record fundraising this midterm",
+    "category": "Elections",
+    "published_at": "2026-10-19T08:45:40Z",
+    "first_seen_at": "2026-10-19T08:50:36.970706Z",
+    "updated_at": "2026-10-19T08:50:36.970706Z",
+    "sources": [
+      {
+        "title": "Democratic candidates and Republican Super PACs drive record fundraising this midterm",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6004922/democratic-candidates-and-republican-super-pacs-drive-record-fundraising-this-midterm",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-19T08:45:40Z",
+        "primary": false,
+        "excerpt": "What the latest campaign finance filings tell us about the state of play in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
