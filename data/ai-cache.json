@@ -1393,5 +1393,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.bbc.co.uk/news/videos/c84g166kz003o",
     "group": ""
+  },
+  "01ca3c9b41ff74e1b9f9161ae598b0a25c1808cf31f78825d0382a4333de2bc7": {
+    "id": "757388949320bca5083f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that Cook Political Report rates Ohio’s governor and Senate races as toss-ups. The report examines affordability concerns and competing campaign proposals; its voter interviews are not a representative poll.",
+    "evidence_quote": "The Cook Political Report rates both the governor's race and the U.S. Senate contest as toss-ups.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "Ohio becomes midterm battleground after years of Republican wins",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+    "group": ""
+  },
+  "86c25422b8878f9c2459c6cd4bb2780c840988ef546011d983f1cd1fb6c8bd2f": {
+    "id": "b206e58fde36653c4adb",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP examines religious tensions and campaign rhetoric in Michigan’s open Senate race. It reports no evidence supporting claims that Democratic nominee Abdul El-Sayed is affiliated with the Muslim Brotherhood. Interviews illustrate community divisions rather than establish their prevalence.",
+    "evidence_quote": "There is no evidence that El-Sayed has any affiliation with the Muslim Brotherhood.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/a-bitter-michigan-senate-race-rattles-jewish-and-muslim-voters-already-on-edge-over-the-war-in-gaza",
+    "group": ""
+  },
+  "c88410447ac976785f7f4eb58c70cf1514ca2d1be69a09b16bf2d64425efc240": {
+    "id": "0f02011358c51a211ac1",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian reports charges against 28 lawful permanent residents, with DOJ alleging 21 cast unlawful ballots. These are allegations, not convictions. The enforcement action accompanies a dispute over California voter eligibility lists; a DOJ official acknowledged that some listed people may be citizens.",
+    "evidence_quote": "There may be some names on there who, it turns out, ultimately are citizens.",
+    "related_ids": [
+      "bc95a7824ae34d77ebfd"
+    ],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "DoJ charges 28 green card holders in California over alleged voter fraud",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+    "group": "0f02011358c51a211ac1"
+  },
+  "ee306b3118eae1672c36fd9c845a3f9bef4950475f81b7198ebd1b1c7c30956d": {
+    "id": "65ad2a9237b0ed7d4685",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "AP examines Democratic efforts to narrow rural Republican margins in Iowa through local campaigning and investment. Individual voter interviews do not demonstrate a statewide shift; the national AP-KFF rural-voter survey cited also found limited willingness to support Democrats.",
+    "evidence_quote": "Still, the survey found that rural voters were unlikely to support Democrats on a large scale in November.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "Iowa is testing whether Democrats can win rural voters",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/iowa-is-testing-whether-democrats-can-win-rural-voters",
+    "group": ""
+  },
+  "9e675c7536bcb58715eb04b04e33914f30e5ab71c6ee7b70af1d6591fc6d5d86": {
+    "id": "bc95a7824ae34d77ebfd",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports a California enforcement sweep targeting alleged noncitizen voting, alongside federal warnings of potential prosecution for election officials who knowingly process unlawful ballots. The charges are not findings of guilt; AP reports that noncitizen voting is rare and has not been shown to change race outcomes.",
+    "evidence_quote": "They are charged with crimes including making false statements on a naturalization application and submitting fraudulent voter registrations.",
+    "related_ids": [
+      "0f02011358c51a211ac1"
+    ],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "Justice Department charges more than 2 dozen foreign nationals in California sweep targeting noncitizen voters",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/justice-department-charges-more-than-2-dozen-foreign-nationals-in-california-sweep-targeting-noncitizen-voters",
+    "group": "0f02011358c51a211ac1"
+  },
+  "3939aeec3c257264581aefbdd941a66202e7a42610cf4419d181fb12349b116d": {
+    "id": "f64c0298688c243b7649",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian reports a Washington Post-ABC poll finding 66% believe Trump is using the presidency to enrich himself and 33% approve of his performance. These measure public opinion, not findings of misconduct. The supplied article does not provide sample size, field dates or margin of error.",
+    "evidence_quote": "Most Americans (66%) believe Trump is using the presidency to enrich himself, according to the survey",
+    "related_ids": [],
+    "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+    "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
+    "group": ""
   }
 }
