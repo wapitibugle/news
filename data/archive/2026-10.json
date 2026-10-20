@@ -9304,6 +9304,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "149da93a7b75461fc154",
+    "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms",
+    "category": "Elections",
+    "published_at": "2026-10-20T15:27:05Z",
+    "first_seen_at": "2026-10-20T15:43:50.284642Z",
+    "updated_at": "2026-10-20T15:43:50.284642Z",
+    "sources": [
+      {
+        "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms",
+        "url": "https://www.pbs.org/newshour/politics/gimmick-or-giveback-even-some-trump-supporters-dont-expect-to-get-5000-checks-after-midterms",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-20T15:27:05Z",
+        "primary": false,
+        "excerpt": "The offering of government checks has become a go-to tactic for President Donald Trump when he faces a political jam."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
