@@ -8130,7 +8130,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -8884,7 +8884,7 @@
     "category": "U.S.",
     "published_at": "2026-10-19T08:46:44Z",
     "first_seen_at": "2026-10-20T05:42:19.007288Z",
-    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T09:42:57.361070Z",
     "sources": [
       {
         "title": "Morning news brief",
@@ -8894,6 +8894,15 @@
         "published_at": "2026-10-19T08:46:44Z",
         "primary": false,
         "excerpt": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests."
+      },
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-20T08:50:27Z",
+        "primary": false,
+        "excerpt": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes."
       }
     ],
     "tier": "brief",
@@ -9034,6 +9043,34 @@
         "published_at": "2026-10-20T07:00:20Z",
         "primary": false,
         "excerpt": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-have’. But it is a critical asset, and Cop17 must deliver real actionWhen I was five, property developers came to cut down the woods behind my home in La Tuque, Quebec. My mother encouraged me to climb one of the trees in protest, then told the developers, straight-faced, that there was nothing she could do when they asked her to get me down. A few days later, the tree was cut down anyway.I thought about that tree in the early hours of a freezing "
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a16d35ec514c10b14f37",
+    "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
+    "category": "Health",
+    "published_at": "2026-10-20T09:00:00Z",
+    "first_seen_at": "2026-10-20T09:42:57.361070Z",
+    "updated_at": "2026-10-20T09:42:57.361070Z",
+    "sources": [
+      {
+        "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
+        "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-10-20T09:00:00Z",
+        "primary": false,
+        "excerpt": "The rapid emergence of the Chinese biotech industry has panicked U.S. politicians, but investors and patients caution that a clampdown on pharmaceutical collaboration could hurt everyone."
       }
     ],
     "tier": "second",
