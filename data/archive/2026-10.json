@@ -9015,6 +9015,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "429cf277a373a522300a",
+    "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
+    "category": "Outdoors",
+    "published_at": "2026-10-20T07:00:20Z",
+    "first_seen_at": "2026-10-20T08:46:01.204166Z",
+    "updated_at": "2026-10-20T08:46:01.204166Z",
+    "sources": [
+      {
+        "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
+        "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-20T07:00:20Z",
+        "primary": false,
+        "excerpt": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-have’. But it is a critical asset, and Cop17 must deliver real actionWhen I was five, property developers came to cut down the woods behind my home in La Tuque, Quebec. My mother encouraged me to climb one of the trees in protest, then told the developers, straight-faced, that there was nothing she could do when they asked her to get me down. A few days later, the tree was cut down anyway.I thought about that tree in the early hours of a freezing "
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
