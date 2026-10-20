@@ -9248,6 +9248,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a0eb5e2c952fe37fcb49",
+    "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+    "category": "World",
+    "published_at": "2026-10-20T11:03:52Z",
+    "first_seen_at": "2026-10-20T13:51:23.517775Z",
+    "updated_at": "2026-10-20T13:51:23.517775Z",
+    "sources": [
+      {
+        "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-20T11:03:52Z",
+        "primary": false,
+        "excerpt": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
