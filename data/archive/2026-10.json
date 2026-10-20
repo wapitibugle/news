@@ -8987,6 +8987,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5f4ec105e6c165ded767",
+    "title": "Rays will face Brewers in World Series to produce a first-time champion",
+    "category": "U.S.",
+    "published_at": "2026-10-20T06:28:10Z",
+    "first_seen_at": "2026-10-20T07:50:07.447440Z",
+    "updated_at": "2026-10-20T07:50:07.447440Z",
+    "sources": [
+      {
+        "title": "Rays will face Brewers in World Series to produce a first-time champion",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-20T06:28:10Z",
+        "primary": false,
+        "excerpt": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
