@@ -8074,7 +8074,7 @@
         "excerpt": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9214,6 +9214,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6e245c324d92ae1a5e52",
+    "title": "‘These risks are real’: the threat of AI bioweapons - video",
+    "category": "Science",
+    "published_at": "2026-10-20T12:14:42Z",
+    "first_seen_at": "2026-10-20T12:54:11.742021Z",
+    "updated_at": "2026-10-20T12:54:11.742021Z",
+    "sources": [
+      {
+        "title": "‘These risks are real’: the threat of AI bioweapons - video",
+        "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-20T12:14:42Z",
+        "primary": false,
+        "excerpt": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Continue reading..."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
