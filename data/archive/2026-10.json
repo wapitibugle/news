@@ -6417,7 +6417,7 @@
         "excerpt": "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6445,7 +6445,7 @@
         "excerpt": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6473,7 +6473,7 @@
         "excerpt": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the worldResidents of a remote town in Norway that is in one of the fastest-warming places in the world have been told they must no longer drink tap water due to heavy metal contamination that scientists have linked to the thawing permafrost.Longyearbyen, in the archipelago of Svalbard, gets its main drinking water supply from a 1.5 mile-long (2.5km) dammed lake called Isdammen, or “ice pond”. Higher temperatures as a result of the climate crisis have thawed"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6557,7 +6557,7 @@
         "excerpt": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communitiesThe government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged.Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -7943,5 +7943,988 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "f6977fb08de12e188f46",
+    "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
+    "category": "Elections",
+    "published_at": "2026-10-19T22:10:06Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-19T22:10:06Z",
+        "primary": false,
+        "excerpt": "The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are \"likely noncitizens.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2211d19e85aa435e5ba7",
+    "title": "World Series will have first-time champion as Rays set up showdown with Brewers",
+    "category": "U.S.",
+    "published_at": "2026-10-20T03:13:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "World Series will have first-time champion as Rays set up showdown with Brewers",
+        "url": "https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-20T03:13:00Z",
+        "primary": false,
+        "excerpt": "Tampa Bay beat Guardians to seal ALCS in six games7-3 Game 6 win set up by strong Freddy Peralta startFreddy Peralta threw 5.1 gritty innings, Junior Caminero and Yandy Díaz each hit a two-run homer and the Tampa Bay Rays beat the Cleveland Guardians 7-3 in Game 6 of the American League Championship Series on Monday night to advance to the World Series for the third time in the franchise’s 29 seasons.The Rays will face the Milwaukee Brewers who, like Tampa Bay, are seeking to win their first-ever World Series. A sellout crowd of 40,230 fans waved yellow-and-blue rally towels, rang cowbells and"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2b632be6434a8fc27664",
+    "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+    "category": "Science",
+    "published_at": "2026-10-20T05:27:15Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+        "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-20T05:27:15Z",
+        "primary": false,
+        "excerpt": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "34c583c45af1453981f3",
+    "title": "How is the US economy really doing under President Trump?",
+    "category": "World",
+    "published_at": "2026-10-20T05:00:45Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "How is the US economy really doing under President Trump?",
+        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-20T05:00:45Z",
+        "primary": false,
+        "excerpt": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "912c1c41fe798f96e2f4",
+    "title": "The Human Fingerprint on Earth’s Water Cycle",
+    "category": "Science",
+    "published_at": "2026-10-20T04:01:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "The Human Fingerprint on Earth’s Water Cycle",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-20T04:01:00Z",
+        "primary": true,
+        "excerpt": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e63bd3f5c425523a5a10",
+    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+    "category": "World",
+    "published_at": "2026-10-20T04:13:28Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-20T04:13:28Z",
+        "primary": false,
+        "excerpt": "The president came out in support of Senator Roger Marshall, who is facing and unexpectedly strong challenge from Democrat Adam Hamilton The fact that Donald Trump was here at all said more about a looming electoral disaster facing his Republican party next month than anything contained in his dark and discursive 98-minute stump speech.On Monday, amid raucous chants of “USA! USA!”, the president held his first campaign rally in Kansas for eight years. No Democrat has won a US Senate seat in this ruby-red state since 1932, the year Herbert Hoover was president, Amelia Earhart was the first woma"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ad78dbc76c86778deedc",
+    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "category": "Science",
+    "published_at": "2026-10-20T04:05:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-20T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f5de104106419b7644fe",
+    "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+    "category": "Technology",
+    "published_at": "2026-10-19T22:30:08Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-19T22:30:08Z",
+        "primary": false,
+        "excerpt": "System can estimate a person’s biological age and predict chances of cancer survival from a single photographDoctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face.The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ea075331dec88e3e610",
+    "title": "Activist Mahmoud Khalil asks Supreme Court to let judges quickly reverse immigration detentions",
+    "category": "U.S.",
+    "published_at": "2026-10-19T21:42:41Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Activist Mahmoud Khalil asks Supreme Court to let judges quickly reverse immigration detentions",
+        "url": "https://www.pbs.org/newshour/politics/activist-mahmoud-khalil-asks-supreme-court-to-let-judges-quickly-reverse-immigration-detentions",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T21:42:41Z",
+        "primary": false,
+        "excerpt": "Khalil, a lawful permanent U.S. resident, was detained by immigration authorities last year because of his participation in pro-Palestinian demonstrations at Columbia University in the spring of 2024."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ced3e09efe9b7819f6a",
+    "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+    "category": "U.S.",
+    "published_at": "2026-10-19T21:56:37Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T21:56:37Z",
+        "primary": false,
+        "excerpt": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8efa433127974306fb98",
+    "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+    "category": "World",
+    "published_at": "2026-10-19T22:34:43Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T22:34:43Z",
+        "primary": false,
+        "excerpt": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement “will be made at the appropriate time”. Un"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e296f78fa87c916df9e",
+    "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+    "category": "U.S.",
+    "published_at": "2026-10-19T21:12:30Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-19T21:12:30Z",
+        "primary": false,
+        "excerpt": "The Saudi government did not immediately respond to BBC requests for comment."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "514c8cabb83ac9aef070",
+    "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+    "category": "World",
+    "published_at": "2026-10-19T10:38:03Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-19T10:38:03Z",
+        "primary": false,
+        "excerpt": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1fb07de6126b49b8ab52",
+    "title": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+    "category": "U.S.",
+    "published_at": "2026-10-19T20:15:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+        "url": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-19T20:15:00Z",
+        "primary": false,
+        "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "17995a4060c1209615b6",
+    "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+    "category": "World",
+    "published_at": "2026-10-19T20:00:43Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+        "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-19T20:00:43Z",
+        "primary": false,
+        "excerpt": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ef1b79b9657201e6c16",
+    "title": "Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:55:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine",
+        "url": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:55:00Z",
+        "primary": false,
+        "excerpt": "The war of words between President Trump and Ukraine's Volodymyr Zelenskyy reached another fever pitch on Monday. Trump again excoriated the embattled Ukrainian leader, putting more pressure on Zelenskyy than on the man in Moscow who started this war, Vladimir Putin. The president's comments come after the U.S. has limited a key technology that Ukraine relies on. Nick Schifrin reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7f76c259b63b85d3f299",
+    "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+    "category": "World",
+    "published_at": "2026-10-19T09:54:33Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+        "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T09:54:33Z",
+        "primary": false,
+        "excerpt": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famineThis winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month, the agency’s director for Palestine said.More than a year after a Trump-brokered ceasefire came into force, promised reconstruction has not begun, there are few jobs and the vast majority in Gaza still rely on aid to eat. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "274592c12306438775dd",
+    "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+    "category": "U.S.",
+    "published_at": "2026-10-19T10:00:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+        "url": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-19T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "175e0532f2544baad70e",
+    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+    "category": "World",
+    "published_at": "2026-10-19T09:27:04Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+        "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-19T09:27:04Z",
+        "primary": false,
+        "excerpt": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "785bae0f1b15f0e8d06c",
+    "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:50:35Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says",
+        "url": "https://www.pbs.org/newshour/show/u-s-must-put-pressure-on-russia-so-putin-ends-the-war-ukrainian-official-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:50:35Z",
+        "primary": false,
+        "excerpt": "As Ukraine and Russia trade attacks, President Trump has exempted Russia from sanctions, widening his rift with Ukrainian President Zelenskyy. To discuss the latest developments, Geoff Bennett spoke with Denys Sienik, Ukraine's Deputy Ambassador to the U.S."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2e8dd31db9cf93cf720b",
+    "title": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+    "category": "U.S.",
+    "published_at": "2026-10-19T09:30:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+        "url": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-19T09:30:00Z",
+        "primary": false,
+        "excerpt": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2d8ac4057bf82d6d5500",
+    "title": "French authorities impose curfews after weekend rioting",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:45:22Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "French authorities impose curfews after weekend rioting",
+        "url": "https://www.pbs.org/newshour/show/french-authorities-impose-curfews-after-weekend-rioting",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:45:22Z",
+        "primary": false,
+        "excerpt": "Curfews are in effect in parts of Paris and other French cities as authorities try to restore order following widespread rioting this weekend. Government officials have acknowledged \"failures\" in their handling of the unrest and say an investigation is underway to track down those responsible. Special correspondent Ross Cullen reports from Paris."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f921c1ff7f18345ce0b4",
+    "title": "Schools struggle to measure how much AI experiments are helping",
+    "category": "U.S.",
+    "published_at": "2026-10-19T20:59:57Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Schools struggle to measure how much AI experiments are helping",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T20:59:57Z",
+        "primary": false,
+        "excerpt": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a42d4d71a8e07b44c2cb",
+    "title": "Police used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general",
+    "category": "U.S.",
+    "published_at": "2026-10-20T00:53:37Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Police used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general",
+        "url": "https://www.bbc.co.uk/news/articles/cwj0l72d5pygo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-20T00:53:37Z",
+        "primary": false,
+        "excerpt": "The boy was sitting in his mum's lap in the passenger seat of a car that police say was allegedly being driven at officers."
+      },
+      {
+        "title": "Mississippi attorney general rules fatal police shooting of one-year-old as ‘justified’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/mississippi-attorney-general-kohen-wiley-killing-justified",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-19T20:58:26Z",
+        "primary": false,
+        "excerpt": "Officers responding to an alleged shoplifting call fired into the vehicle of Vellesiya Wiley, killing her son, KohenOn Monday, the office of the Mississippi attorney general, Lynn Fitch, announced that the police shooting of Kohen Wiley, a one-year-old, as he sat in his mother’s lap “was justified”. The statement came four months after the baby was killed in Senatobia, Mississippi.On 14 June, officers in Senatobia, a small city near Memphis, were responding to a shoplifting call alleging Vellesiya Wiley, the baby’s mother, and Latoya Ferrell, a friend, had stolen a pack of diapers. Neither wom"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "757388949320bca5083f",
+    "title": "Ohio becomes midterm battleground after years of Republican wins",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:35:56Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Ohio becomes midterm battleground after years of Republican wins",
+        "url": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:35:56Z",
+        "primary": false,
+        "excerpt": "In recent presidential elections, Ohio has become a reliably Republican state. But in this year's midterms, it's once again a battleground. The races for governor and U.S. Senate are both seen as toss-ups by The Cook Political Report, and there are a handful of competitive House districts. Liz Landers reports on how national issues are affecting Ohio voters as they prepare to head to the polls.",
+        "ai_editor": {
+          "id": "757388949320bca5083f",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports that Cook Political Report rates Ohio’s governor and Senate races as toss-ups. The report examines affordability concerns and competing campaign proposals; its voter interviews are not a representative poll.",
+          "evidence_quote": "The Cook Political Report rates both the governor's race and the U.S. Senate contest as toss-ups.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+          "title": "Ohio becomes midterm battleground after years of Republican wins",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "757388949320bca5083f",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports that Cook Political Report rates Ohio’s governor and Senate races as toss-ups. The report examines affordability concerns and competing campaign proposals; its voter interviews are not a representative poll.",
+      "evidence_quote": "The Cook Political Report rates both the governor's race and the U.S. Senate contest as toss-ups.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+      "title": "Ohio becomes midterm battleground after years of Republican wins",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "075d6c466256cbfa5f44",
+    "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+    "category": "U.S.",
+    "published_at": "2026-10-19T10:37:56Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6007354/rep-don-beyer-d-va-on-trump-waiving-sanctions-on-russia",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T10:37:56Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel asks Democratic Rep. Don Beyer of Virginia about President Trump's decision to waive new sanctions on Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c6682d4b2b17e7a43005",
+    "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:30:45Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low",
+        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-carrie-dann-on-trumps-approval-rating-hitting-a-record-low",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:30:45Z",
+        "primary": false,
+        "excerpt": "NPR's Tamara Keith and Carrie Dann of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including a new poll putting President Trump's approval rating at a record low, the amount of money being spent on Senate races, Trump escalating his feud with Ukraine's president and Trump's attempts to remake Washington."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "50fed9eaa30357c41e08",
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "category": "U.S.",
+    "published_at": "2026-10-19T18:21:54Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-19T18:21:54Z",
+        "primary": false,
+        "excerpt": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "526116a2014d181b738c",
+    "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+    "category": "U.S.",
+    "published_at": "2026-10-19T09:00:00Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T09:00:00Z",
+        "primary": false,
+        "excerpt": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bca75adfe0ce20cf4001",
+    "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+    "category": "U.S.",
+    "published_at": "2026-10-19T23:17:12Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-19T23:17:12Z",
+        "primary": false,
+        "excerpt": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completionColorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly released report, the overpass, which acts as a bridge over a busy stretch of interstate, has helped cut wildlife-vehicle collisions by 91% since its completion 10 months ago.The overpass is the centerpiece of a larger system built by the state to assist wildlife crossing the highway, which also includes miles of 8-ft tall"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "388fcb5083007592fd9f",
+    "title": "Electric aviation takes off as companies seek new era of flight",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:25:57Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Electric aviation takes off as companies seek new era of flight",
+        "url": "https://www.pbs.org/newshour/show/electric-aviation-takes-off-as-companies-seek-new-era-of-flight",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:25:57Z",
+        "primary": false,
+        "excerpt": "Electric aviation is still in the very early stages of its development. But a number of companies are moving forward with more ambitious plans. In contrast to its approach with other forms of electric transportation, the Trump administration seems willing to embrace a bigger rollout. Aviation correspondent Miles O'Brien reports on the promise and the challenges of the budding industry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5fff8695951890bcc806",
+    "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+    "category": "U.S.",
+    "published_at": "2026-10-19T16:48:36Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+        "url": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-19T16:48:36Z",
+        "primary": false,
+        "excerpt": "The network's chief international anchor has covered wars including Rwanda, Afghanistan, Ukraine and Iran."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a314bcba734afb47057",
+    "title": "Morning news brief",
+    "category": "U.S.",
+    "published_at": "2026-10-19T08:46:44Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-19T08:46:44Z",
+        "primary": false,
+        "excerpt": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f96bbba95e18bc464faa",
+    "title": "Arthur Jafa explores complexities of Black American life in new exhibition",
+    "category": "U.S.",
+    "published_at": "2026-10-19T22:20:52Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "Arthur Jafa explores complexities of Black American life in new exhibition",
+        "url": "https://www.pbs.org/newshour/show/arthur-jafa-explores-complexities-of-black-american-life-in-new-exhibition",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-19T22:20:52Z",
+        "primary": false,
+        "excerpt": "As cultural institutions across the country face growing pressure to avoid issues of race, a major new exhibition is confronting them head-on. The work of artist Arthur Jafa spans two floors of New York's New Museum in his largest exhibition to date. Senior arts correspondent Jeffrey Brown met with Jafa for our arts and culture series, CANVAS."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "687bf1e421688411e007",
+    "title": "California to receive $6m settlement after 23andMe data breach",
+    "category": "U.S.",
+    "published_at": "2026-10-19T21:34:30Z",
+    "first_seen_at": "2026-10-20T05:42:19.007288Z",
+    "updated_at": "2026-10-20T05:42:19.007288Z",
+    "sources": [
+      {
+        "title": "California to receive $6m settlement after 23andMe data breach",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-19T21:34:30Z",
+        "primary": false,
+        "excerpt": "Millions of customers’ genetic and personal information exposed in 2023, including more than 855,000 CaliforniansCalifornia’s attorney general, Rob Bonta, on Monday announced the state will receive a $6m settlement payment in 23andMe’s bankruptcy, resolving California’s legal claims related to a 2023 data breach that exposed 6.9 million customers’ ⁠genetic and other ⁠personal information.California had ​unsuccessfully tried to block the $305m sale of 23andMe assets to TTAM Research Institute, a non-profit controlled by the 23andMe ⁠co-founder Anne Wojcicki. The state had argued that the bankru"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
