@@ -9360,6 +9360,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d972583bf794a595b618",
+    "title": "From Iran to AI: the six key voter issues shaping the US midterm elections",
+    "category": "Elections",
+    "published_at": "2026-10-20T16:52:16Z",
+    "first_seen_at": "2026-10-20T17:42:12.843576Z",
+    "updated_at": "2026-10-20T17:42:12.843576Z",
+    "sources": [
+      {
+        "title": "From Iran to AI: the six key voter issues shaping the US midterm elections",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-20T16:52:16Z",
+        "primary": false,
+        "excerpt": "Much of Donald Trump’s unpopularity in polls stems from dissatisfaction over the economy and war on IranUS politics live – latest updates*** Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
