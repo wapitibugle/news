@@ -9276,6 +9276,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8614f5a2000f99308ec4",
+    "title": "JD Vance declines to endorse Netanyahu for reelection, says he's focusing on midterms",
+    "category": "Elections",
+    "published_at": "2026-10-20T14:01:59Z",
+    "first_seen_at": "2026-10-20T14:45:28.253157Z",
+    "updated_at": "2026-10-20T14:45:28.253157Z",
+    "sources": [
+      {
+        "title": "JD Vance declines to endorse Netanyahu for reelection, says he's focusing on midterms",
+        "url": "https://www.pbs.org/newshour/politics/jd-vance-declines-to-endorse-netanyahu-for-reelection-says-hes-focusing-on-midterms",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-20T14:01:59Z",
+        "primary": false,
+        "excerpt": "\"I endorse American candidates, and that's where I'm focused on the midterms,\" Vice President JD Vance said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
