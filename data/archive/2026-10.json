@@ -7601,7 +7601,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "ebe44b85612d8b12495f",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-20T01:44:35.803261+00:00",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -7741,7 +7755,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "3f53ae0124d7270a1a2b",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports rising farm costs and concerns about Republican turnout in traditionally safe Senate states. Interviews illustrate voter frustration but are not polling evidence of a broader electoral shift.",
+      "evidence_quote": "But I think it dampens the enthusiasm for agriculture producers to get to the polls.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-20T01:44:35.803261+00:00",
+      "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/watch-live-trump-heads-to-rally-in-kansas-as-republican-voters-frustrations-deepen",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -7754,7 +7782,7 @@
     "category": "Elections",
     "published_at": "2026-10-19T16:53:36Z",
     "first_seen_at": "2026-10-19T17:42:08.756756Z",
-    "updated_at": "2026-10-19T17:42:08.756756Z",
+    "updated_at": "2026-10-20T01:44:35.803261Z",
     "sources": [
       {
         "title": "Justice Department charges more than 2 dozen foreign nationals in California sweep targeting noncitizen voters",
@@ -7764,6 +7792,32 @@
         "published_at": "2026-10-19T16:53:36Z",
         "primary": false,
         "excerpt": "Last week, the Justice Department sued the state and later warned that local election workers who knowingly process or tabulate ballots submitted by noncitizen voters are at risk of potential prosecution."
+      },
+      {
+        "title": "DoJ charges 28 green card holders in California over alleged voter fraud",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-19T20:07:50Z",
+        "primary": false,
+        "excerpt": "Crackdown marks latest escalation in the Trump justice department’s push to target alleged noncitizen votingThe US Department of Justice has filed criminal charges against 28 green card holders in California accused of fraudulently registering to vote and casting illegal ballots.The crackdown marks another escalation in the federal government’s ongoing efforts against alleged noncitizen voting, efforts that Democrats and voting rights groups say are part of a strategy by the Trump administration to sow doubt in the results of the upcoming midterm elections. Continue reading...",
+        "ai_editor": {
+          "id": "0f02011358c51a211ac1",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Guardian reports charges against 28 lawful permanent residents, with DOJ alleging 21 cast unlawful ballots. These are allegations, not convictions. The enforcement action accompanies a dispute over California voter eligibility lists; a DOJ official acknowledged that some listed people may be citizens.",
+          "evidence_quote": "There may be some names on there who, it turns out, ultimately are citizens.",
+          "related_ids": [
+            "bc95a7824ae34d77ebfd"
+          ],
+          "reviewed_at": "2026-10-20T00:55:41.430507+00:00",
+          "title": "DoJ charges 28 green card holders in California over alleged voter fraud",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+          "group": "0f02011358c51a211ac1"
+        }
       }
     ],
     "tier": "brief",
