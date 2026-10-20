@@ -9332,6 +9332,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5cd19c6e4d3060631c34",
+    "title": "A new poll shows what voters are thinking 2 weeks out from Election Day",
+    "category": "Elections",
+    "published_at": "2026-10-19T22:35:59Z",
+    "first_seen_at": "2026-10-20T16:42:53.208966Z",
+    "updated_at": "2026-10-20T16:42:53.208966Z",
+    "sources": [
+      {
+        "title": "A new poll shows what voters are thinking 2 weeks out from Election Day",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6007856/a-new-poll-shows-what-voters-are-thinking-2-weeks-out-from-election-day",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-19T22:35:59Z",
+        "primary": false,
+        "excerpt": "Midterm election day is just over two weeks away. What are some numbers on the mind of voters?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
