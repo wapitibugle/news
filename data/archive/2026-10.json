@@ -9080,6 +9080,115 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9cd4730afe44214dd056",
+    "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
+    "category": "Elections",
+    "published_at": "2026-10-20T10:23:46Z",
+    "first_seen_at": "2026-10-20T10:42:22.123444Z",
+    "updated_at": "2026-10-20T10:42:22.123444Z",
+    "sources": [
+      {
+        "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-20T10:23:46Z",
+        "primary": false,
+        "excerpt": "The DoJ has charged 28 green card holders in California, accusing them of fraudulently registering to vote. Plus, is the world really ready for AI actors?Good morning. The US Department of Justice has charged 28 green card holders in California, accusing them of fraudulently registering to vote and casting illegal ballots. The arrests – 11 people are in custody – mark the latest escalation in federal efforts against alleged noncitizen voting.The crackdown comes days after the DOJ sued California to block the state from tabulating certain ballots in November’s midterms. California’s secretary o"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9afc6ce53333e1124d25",
+    "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+    "category": "Elections",
+    "published_at": "2026-10-20T10:00:34Z",
+    "first_seen_at": "2026-10-20T10:42:22.123444Z",
+    "updated_at": "2026-10-20T10:42:22.123444Z",
+    "sources": [
+      {
+        "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-20T10:00:34Z",
+        "primary": false,
+        "excerpt": "Kansas has not sent a Democrat to the Senate since 1932 – does Adam Hamilton have the courage, brain and heart to cause an extraordinary upset?Just two years after Donald Trump won Kansas by 16 points in his fight to regain the White House, Republicans in the state are scrambling to retain their dominance. The battle for one of its two seats in the US Senate is too close to call, setting the stage for a potentially extraordinary upset.Some recent polls even put Democrat Adam Hamilton on course for a historic victory. Kansans have not sent a representative of the party to the US Senate since 19"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "65ae24e3caee78600763",
+    "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+    "category": "World",
+    "published_at": "2026-10-20T09:00:21Z",
+    "first_seen_at": "2026-10-20T10:42:22.123444Z",
+    "updated_at": "2026-10-20T10:42:22.123444Z",
+    "sources": [
+      {
+        "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+        "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-20T09:00:21Z",
+        "primary": false,
+        "excerpt": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal caseA Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates.The finding suggests a disturbing new element in the authoritarian Serbian regime’s campaign to undermine what is believed to be the first criminal case related to global moneymaking drive of the US president’s family, which critics describe as a “pay to play” scheme trading the Trump administration’s favour"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "748e51c416b542cdca23",
+    "title": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+    "category": "U.S.",
+    "published_at": "2026-10-20T09:00:00Z",
+    "first_seen_at": "2026-10-20T10:42:22.123444Z",
+    "updated_at": "2026-10-20T10:42:22.123444Z",
+    "sources": [
+      {
+        "title": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+        "url": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-20T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
