@@ -10524,6 +10524,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "86a30cf3f2fd4dad1889",
+    "title": "Morning news brief",
+    "category": "U.S.",
+    "published_at": "2026-10-21T08:42:59Z",
+    "first_seen_at": "2026-10-21T08:48:06.491797Z",
+    "updated_at": "2026-10-21T08:48:06.491797Z",
+    "sources": [
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T08:42:59Z",
+        "primary": false,
+        "excerpt": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to air strikes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
