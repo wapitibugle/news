@@ -8018,7 +8018,7 @@
         "excerpt": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9045,7 +9045,7 @@
         "excerpt": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-have’. But it is a critical asset, and Cop17 must deliver real actionWhen I was five, property developers came to cut down the woods behind my home in La Tuque, Quebec. My mother encouraged me to climb one of the trees in protest, then told the developers, straight-faced, that there was nothing she could do when they asked her to get me down. A few days later, the tree was cut down anyway.I thought about that tree in the early hours of a freezing "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9432,5 +9432,1008 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "50367bd963fad04c5033",
+    "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+    "category": "U.S.",
+    "published_at": "2026-10-21T05:37:28Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T05:37:28Z",
+        "primary": false,
+        "excerpt": "Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "00217a761512a04fc3f8",
+    "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+    "category": "World",
+    "published_at": "2026-10-21T03:59:18Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T03:59:18Z",
+        "primary": false,
+        "excerpt": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7d67685ef0afb46ccf85",
+    "title": "United Nations report highlights significant increase in U.S. climate pollution",
+    "category": "U.S.",
+    "published_at": "2026-10-21T05:00:00Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "United Nations report highlights significant increase in U.S. climate pollution",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T05:00:00Z",
+        "primary": false,
+        "excerpt": "The U.S. is the only major economy where planet-warming pollution dramatically increased last year. The United Nations warns the planet is on track for catastrophic warming."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e8b35793f4d1ede01405",
+    "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+    "category": "Technology",
+    "published_at": "2026-10-21T05:00:05Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+        "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-21T05:00:05Z",
+        "primary": false,
+        "excerpt": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain“Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do.What is worthy of a digital page in the world’s largest and most-read encyclopedia is decided by roughly 270,000 active volunteers, enthusiasts who populate the online resource with information on anything from 19th-century medicine to TikTok trends. Inevitably, some subjects are sidelined – the global south, notable women – but a new batch of Wikipedian recruits are waging war on one n"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d4799de2fda612bbfb5f",
+    "title": "Extratropical Cyclone Whips Past Iceland",
+    "category": "Science",
+    "published_at": "2026-10-21T04:01:00Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Extratropical Cyclone Whips Past Iceland",
+        "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-21T04:01:00Z",
+        "primary": true,
+        "excerpt": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "800812160403a2f6d7e5",
+    "title": "World must cut emissions by 18% in four years ‘to find our way back’, UN says",
+    "category": "Outdoors",
+    "published_at": "2026-10-21T05:00:04Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "World must cut emissions by 18% in four years ‘to find our way back’, UN says",
+        "url": "https://www.theguardian.com/environment/2026/oct/21/world-cut-emissions-un-climate-crisis",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-21T05:00:04Z",
+        "primary": false,
+        "excerpt": "Action needed to avoid disastrous overshoot of climate targets, according to organisation’s environment bodyThe world needs to cut carbon emissions by nearly a fifth in the next four years, and by close to half within a decade, to avoid overshooting climate targets by a disastrous margin.Although the “window has closed” on holding temperature rises to 1.5C, in line with scientific advice, limiting the “overshoot” of that target is still possible, according to the UN Environment Programme (Unep). Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f0938f2048050360ee9f",
+    "title": "Massive wasps' nest in wildlife office dismantled",
+    "category": "Science",
+    "published_at": "2026-10-21T05:35:38Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Massive wasps' nest in wildlife office dismantled",
+        "url": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-21T05:35:38Z",
+        "primary": false,
+        "excerpt": "The insects lived in a nature reserve office for four months."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a869d6dc9dc3375ab569",
+    "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+    "category": "World",
+    "published_at": "2026-10-21T03:45:52Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T03:45:52Z",
+        "primary": false,
+        "excerpt": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6f3fe79e38bf802399c0",
+    "title": "Estate records 'abundance' of wildlife despite drought",
+    "category": "Science",
+    "published_at": "2026-10-21T05:25:33Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Estate records 'abundance' of wildlife despite drought",
+        "url": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-21T05:25:33Z",
+        "primary": false,
+        "excerpt": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2def78dbe0315ab0b633",
+    "title": "Farmer lost out by minutes in race for wildlife funding",
+    "category": "Science",
+    "published_at": "2026-10-21T05:23:26Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Farmer lost out by minutes in race for wildlife funding",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-21T05:23:26Z",
+        "primary": false,
+        "excerpt": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "97ced47d0c1b378f7233",
+    "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+    "category": "Science",
+    "published_at": "2026-10-21T04:44:56Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-21T04:44:56Z",
+        "primary": false,
+        "excerpt": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2460336cbaf6f513dcad",
+    "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+    "category": "Science",
+    "published_at": "2026-10-21T04:13:14Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-21T04:13:14Z",
+        "primary": false,
+        "excerpt": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ad6259a554b0ed37209",
+    "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+    "category": "Science",
+    "published_at": "2026-10-21T04:05:00Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-21T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e48a59ddf6fea20c8440",
+    "title": "How the Trump administration's crackdown on international students could affect the economy",
+    "category": "U.S.",
+    "published_at": "2026-10-20T20:43:11Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "How the Trump administration's crackdown on international students could affect the economy",
+        "url": "https://www.pbs.org/newshour/politics/how-the-trump-administrations-crackdown-on-international-students-could-affect-the-economy",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-20T20:43:11Z",
+        "primary": false,
+        "excerpt": "A new proposed $70,000 fee for international students who are seeking to work in the U.S. after graduation is the latest Trump administration policy targeting scholars from abroad."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21814812d0141af4d344",
+    "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+    "category": "World",
+    "published_at": "2026-10-21T02:37:13Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T02:37:13Z",
+        "primary": false,
+        "excerpt": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "720b42ad4da2fa015cfb",
+    "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+    "category": "U.S.",
+    "published_at": "2026-10-20T09:00:00Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-20T09:00:00Z",
+        "primary": false,
+        "excerpt": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "19ac7d7901fc9bf007ef",
+    "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+    "category": "U.S.",
+    "published_at": "2026-10-20T19:42:32Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-20T19:42:32Z",
+        "primary": false,
+        "excerpt": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0d376549cf45f7415a19",
+    "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+    "category": "World",
+    "published_at": "2026-10-20T19:32:28Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+        "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-20T19:32:28Z",
+        "primary": false,
+        "excerpt": "Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine’s president says: ‘Now it works’The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a meeting with the US envoy Steve Witkoff in Norway.He said Ukraine was again receiving advance warnings of ballistic missile attacks, which were seemingly suspended last week by the White House. “Now it works. It’s great,” he said, adding that the US move would save lives. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7ba7841ee1e8371c8e7e",
+    "title": "Current U.S. support for Ukraine looks very different than it did",
+    "category": "World",
+    "published_at": "2026-10-20T20:27:23Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Current U.S. support for Ukraine looks very different than it did",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-20T20:27:23Z",
+        "primary": false,
+        "excerpt": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b85b0bc1e5fb3e0a3cdf",
+    "title": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+    "category": "U.S.",
+    "published_at": "2026-10-21T01:53:00Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+        "url": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-21T01:53:00Z",
+        "primary": false,
+        "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f2076ff084998d6eb830",
+    "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+    "category": "World",
+    "published_at": "2026-10-20T17:43:40Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+        "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-20T17:43:40Z",
+        "primary": false,
+        "excerpt": "Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargoNato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more vessels were attacked on Tuesday.Russia’s military said it ⁠struck ​three cargo vessels in Ukraine’s ⁠port of Reni and two ⁠other cargo vessels en ​route ‌to ‌Odesa. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec9e6dbecf90d2fae00c",
+    "title": "Florida puts 77-year-old man to death, carrying out its 18th execution of the year",
+    "category": "U.S.",
+    "published_at": "2026-10-21T00:20:44Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Florida puts 77-year-old man to death, carrying out its 18th execution of the year",
+        "url": "https://www.pbs.org/newshour/nation/florida-puts-77-year-old-man-to-death-carrying-out-its-18th-execution-of-the-year",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T00:20:44Z",
+        "primary": false,
+        "excerpt": "Last year, Florida set a state record with 19 executions in a year, and it's poised to tie that mark if another execution is carried out next month as scheduled."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "10926ac467b3e2d88825",
+    "title": "Former U.S. ambassador on Trump's recent moves to embrace Russia",
+    "category": "World",
+    "published_at": "2026-10-20T11:03:48Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Former U.S. ambassador on Trump's recent moves to embrace Russia",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-20T11:03:48Z",
+        "primary": false,
+        "excerpt": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f79da7fade54b1b1afcf",
+    "title": "Nigeria confirms Ebola case in its capital as woman who arrived from Uganda tests positive",
+    "category": "U.S.",
+    "published_at": "2026-10-21T00:06:34Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Nigeria confirms Ebola case in its capital as woman who arrived from Uganda tests positive",
+        "url": "https://www.pbs.org/newshour/world/nigeria-confirms-ebola-case-in-its-capital-as-woman-who-arrived-from-uganda-tests-positive",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T00:06:34Z",
+        "primary": false,
+        "excerpt": "Nigeria is the latest country to report an Ebola case as the latest outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "061e84da9f54ec4085c6",
+    "title": "Trump sued over Canadian tariffs in latest legal challenge",
+    "category": "World",
+    "published_at": "2026-10-20T19:30:05Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-20T19:30:05Z",
+        "primary": false,
+        "excerpt": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ceab8582fef422d4275f",
+    "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
+    "category": "U.S.",
+    "published_at": "2026-10-20T22:55:59Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
+        "url": "https://www.pbs.org/newshour/show/zelenskyy-seeks-to-mend-ties-with-trump-ahead-of-witkoff-putin-meeting",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-20T22:55:59Z",
+        "primary": false,
+        "excerpt": "Ukrainian President Zelenskyy met with U.S. envoy Steve Witkoff and European officials in Norway in a bid to avoid a further diplomatic rupture with President Trump. Over the past week, Trump has criticized Zelenskyy over Ukraine's efforts to inflict heavy losses on Russia. The meeting was aimed at easing tensions ahead of Witkoff's meeting with Vladimir Putin in Russia. Nick Schifrin reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72d24bda76f9ae5223c9",
+    "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
+    "category": "U.S.",
+    "published_at": "2026-10-21T02:04:27Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-21T02:04:27Z",
+        "primary": false,
+        "excerpt": "Student told the university’s police department that assault by two men occurred in August during a night of drinkingA sorority member at the University of Arizona has alleged she was sexually assaulted by two men at a fraternity house during a night of drinking in late August.The student told the university’s police department that she consensually kissed one of the men at one point while at the Sigma Phi Epsilon house on 26 August but doesn’t remember agreeing to sex, according to search warrant records posted Monday night by KOLD-TV in Tucson. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "36b0e46975377736f8c6",
+    "title": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer",
+    "category": "U.S.",
+    "published_at": "2026-10-20T22:50:24Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer",
+        "url": "https://www.pbs.org/newshour/show/tightening-sanctions-on-russia-is-the-way-to-end-this-war-says-david-kramer",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-20T22:50:24Z",
+        "primary": false,
+        "excerpt": "To discuss the tensions between President Trump and Ukrainian President Zelenskyy, Geoff Bennett spoke with David Kramer. He held a number of senior positions at the State Department during the George W. Bush administration. He's now the executive director of the George W. Bush Institute in Dallas, Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b8160b6b2899954eae7",
+    "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+    "category": "U.S.",
+    "published_at": "2026-10-21T02:15:50Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T02:15:50Z",
+        "primary": false,
+        "excerpt": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "36c2ac65128b414fc7b0",
+    "title": "Florida kills 77-year-old man in state’s 18th execution of year",
+    "category": "U.S.",
+    "published_at": "2026-10-20T23:22:21Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Florida kills 77-year-old man in state’s 18th execution of year",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-20T23:22:21Z",
+        "primary": false,
+        "excerpt": "Vietnam veteran William Reaves executed by lethal injection despite letter from fellow veterans urging haltFlorida carried out its 18th execution of the year on Tuesday under Republican governor Ron DeSantis’s aggressive use of the death penalty in his final term.William Reaves, 77, was pronounced dead at 6.12pm following a three-drug injection at Florida state prison near Starke. He was convicted of first-degree murder in the 1986 shooting death of Indian River county deputy Richard Raczkowski. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "33345fea74e761f3ee2c",
+    "title": "How the Kansas Senate race became surprisingly competitive",
+    "category": "U.S.",
+    "published_at": "2026-10-20T22:40:30Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "How the Kansas Senate race became surprisingly competitive",
+        "url": "https://www.pbs.org/newshour/show/how-the-kansas-senate-race-became-surprisingly-competitive",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-20T22:40:30Z",
+        "primary": false,
+        "excerpt": "At a rally in Kansas on Monday, President Trump looked to boost Republican Sen. Roger Marshall in his reelection bid. Marshall faces a surprisingly close race with his Democratic challenger, Pastor Adam Hamilton. William Brangham discusses the Senate race with Jared Cerullo of PBS Kansas, the host of the weekly current affairs show, \"Kansas Week.\"",
+        "ai_editor": {
+          "id": "33345fea74e761f3ee2c",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS examines Marshall’s race against Hamilton, including criticism of medical-debt lawsuits and farmers’ rising costs. The supplied interview describes a competitive contest but provides no polling figures.",
+          "evidence_quote": "Marshall faces a surprisingly close race with his Democratic challenger, Pastor Adam Hamilton.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-21T00:55:08.510850+00:00",
+          "title": "How the Kansas Senate race became surprisingly competitive",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/how-the-kansas-senate-race-became-surprisingly-competitive",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "33345fea74e761f3ee2c",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "PBS examines Marshall’s race against Hamilton, including criticism of medical-debt lawsuits and farmers’ rising costs. The supplied interview describes a competitive contest but provides no polling figures.",
+      "evidence_quote": "Marshall faces a surprisingly close race with his Democratic challenger, Pastor Adam Hamilton.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-21T00:55:08.510850+00:00",
+      "title": "How the Kansas Senate race became surprisingly competitive",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/how-the-kansas-senate-race-became-surprisingly-competitive",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b6c213f9c5fc961fc1b",
+    "title": "Alabama governor commutes sentence of prisoner on death row",
+    "category": "U.S.",
+    "published_at": "2026-10-20T23:18:52Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Alabama governor commutes sentence of prisoner on death row",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-20T23:18:52Z",
+        "primary": false,
+        "excerpt": "Toforest Johnson’s death penalty reduced to life in prison without parole over doubts about his convictionToforest Johnson, an Alabama death row inmate, will no longer face execution after the state’s Republican governor commuted his sentence amid increasing doubts about his conviction.Kay Ivey, the Alabama governor, commuted Johnson’s sentence to life in prison without parole in the 1995 murder of William Hardy, a Jefferson county deputy sheriff. Johnson has long maintained he is innocent, and several former public officials, as well the local district attorney, have argued he should receive "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4a77ec87a5a1aad01757",
+    "title": "Inside Philadelphia's preparations for Election Day",
+    "category": "U.S.",
+    "published_at": "2026-10-20T22:35:17Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Inside Philadelphia's preparations for Election Day",
+        "url": "https://www.pbs.org/newshour/show/inside-philadelphias-preparations-for-election-day",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-20T22:35:17Z",
+        "primary": false,
+        "excerpt": "In the final sprint to Election Day, more than 12 million votes have already been cast nationwide. That includes more than 65,000 in Philadelphia. The city's voting processes have drawn President Trump's ire for more than a decade. In partnership with the Pulitzer Center, Lisa Desjardins takes a closer look at how officials in Philadelphia prepare for voting.",
+        "ai_editor": {
+          "id": "4a77ec87a5a1aad01757",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Philadelphia election officials explain ballot safeguards and counting delays: Pennsylvania law prevents them from preparing mail ballots before Election Day morning. Officials also describe threats and harassment amid unsupported claims of widespread fraud.",
+          "evidence_quote": "In Pennsylvania, we can't start the pre-canvass until election morning, when the polls open at 7:00 a.m.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-21T00:55:08.510850+00:00",
+          "title": "Inside Philadelphia's preparations for Election Day",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/inside-philadelphias-preparations-for-election-day",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "4a77ec87a5a1aad01757",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Philadelphia election officials explain ballot safeguards and counting delays: Pennsylvania law prevents them from preparing mail ballots before Election Day morning. Officials also describe threats and harassment amid unsupported claims of widespread fraud.",
+      "evidence_quote": "In Pennsylvania, we can't start the pre-canvass until election morning, when the polls open at 7:00 a.m.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-21T00:55:08.510850+00:00",
+      "title": "Inside Philadelphia's preparations for Election Day",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/inside-philadelphias-preparations-for-election-day",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "599a5ad58410d6e5d9ba",
+    "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+    "category": "U.S.",
+    "published_at": "2026-10-20T20:19:16Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+        "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-20T20:19:16Z",
+        "primary": false,
+        "excerpt": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fe40a0e31e8f5d5e2ef8",
+    "title": "ADL condemns Trump’s antisemitic slur but fails to mention him by name",
+    "category": "U.S.",
+    "published_at": "2026-10-20T23:06:41Z",
+    "first_seen_at": "2026-10-21T05:42:12.230887Z",
+    "updated_at": "2026-10-21T05:42:12.230887Z",
+    "sources": [
+      {
+        "title": "ADL condemns Trump’s antisemitic slur but fails to mention him by name",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-antisemitic-slur-anti-defamation-league",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-20T23:06:41Z",
+        "primary": false,
+        "excerpt": "Anti-Defamation League post decries ‘shylock’ slur but does not explain that president used it at Kansas rally on MondayThe Anti-Defamation League (ADL) denounced the use of the term “shylock” as antisemitic on Tuesday, without explaining that the slur had been used a day earlier by Donald Trump in a speech in Kansas.Trump used the slur during a Monday night rally in support of Republican senator Roger Marshall, who is locked in a closer-than-expected re-election fight against Democratic challenger Adam Hamilton. Marshall, a doctor, as been criticized for filing lawsuits against more than 700 "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
