@@ -10875,6 +10875,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "15d40e9337ec8d21feba",
+    "title": "Elon Musk’s Super Pac spends $500,000 to back New York Republican in midterms",
+    "category": "Elections",
+    "published_at": "2026-10-21T18:55:24Z",
+    "first_seen_at": "2026-10-21T19:43:17.726361Z",
+    "updated_at": "2026-10-21T19:43:17.726361Z",
+    "sources": [
+      {
+        "title": "Elon Musk’s Super Pac spends $500,000 to back New York Republican in midterms",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/elon-musk-super-pac-new-york-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-21T18:55:24Z",
+        "primary": false,
+        "excerpt": "Incumbent Mike Lawler is fending off a challenge from Democrat Cait Conley in state’s 17th congressional districtUS politics live – latest updatesElon Musk’s Super Pac has spent more than $500,000 in New York’s highly competitive 17th congressional district race to help Mike Lawler, the Republican incumbent, hold on to his seat.Lawler, a moderate Republican, is fending off a challenge from Democrat Cait Conley in the Hudson valley. It is among the most-watched races that could determine whether Republicans hold on to their majority in Congress. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
