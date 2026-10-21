@@ -10791,6 +10791,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3bb08e336b0922b553bd",
+    "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+    "category": "Elections",
+    "published_at": "2026-10-21T16:01:44Z",
+    "first_seen_at": "2026-10-21T16:44:03.390318Z",
+    "updated_at": "2026-10-21T16:44:03.390318Z",
+    "sources": [
+      {
+        "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-21T16:01:44Z",
+        "primary": false,
+        "excerpt": "Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
