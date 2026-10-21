@@ -10608,6 +10608,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c700f90f8b219b25db73",
+    "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
+    "category": "Elections",
+    "published_at": "2026-10-21T10:40:59Z",
+    "first_seen_at": "2026-10-21T11:43:55.657955Z",
+    "updated_at": "2026-10-21T11:43:55.657955Z",
+    "sources": [
+      {
+        "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-21T10:40:59Z",
+        "primary": false,
+        "excerpt": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in LouisianaDon’t already get First Thing in your inbox? Sign up hereGood morning. Vast sums of money are being ploughed into November’s midterms, with the billionaire Michael Bloomberg spending $80m to help Democratic candidates, and Donald Trump announcing he intends to spend $400m to aid Republican candidates, with $300m already disbursed.Bloomberg made the contributions in September and October, particularly focused on Democrats r"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
