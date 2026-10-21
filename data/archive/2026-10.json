@@ -9073,7 +9073,7 @@
         "excerpt": "The rapid emergence of the Chinese biotech industry has panicked U.S. politicians, but investors and patients caution that a clampdown on pharmaceutical collaboration could hurt everyone."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9535,7 +9535,7 @@
         "excerpt": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain“Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do.What is worthy of a digital page in the world’s largest and most-read encyclopedia is decided by roughly 270,000 active volunteers, enthusiasts who populate the online resource with information on anything from 19th-century medicine to TikTok trends. Inevitably, some subjects are sidelined – the global south, notable women – but a new batch of Wikipedian recruits are waging war on one n"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -10543,6 +10543,34 @@
         "published_at": "2026-10-21T08:42:59Z",
         "primary": false,
         "excerpt": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to air strikes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "30c1f044a9f408fbd730",
+    "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+    "category": "World",
+    "published_at": "2026-10-21T09:22:23Z",
+    "first_seen_at": "2026-10-21T09:44:25.062385Z",
+    "updated_at": "2026-10-21T09:44:25.062385Z",
+    "sources": [
+      {
+        "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T09:22:23Z",
+        "primary": false,
+        "excerpt": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
       }
     ],
     "tier": "brief",
