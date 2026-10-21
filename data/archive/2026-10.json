@@ -9255,7 +9255,7 @@
         "excerpt": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9591,7 +9591,7 @@
         "excerpt": "Action needed to avoid disastrous overshoot of climate targets, according to organisation’s environment bodyThe world needs to cut carbon emissions by nearly a fifth in the next four years, and by close to half within a decade, to avoid overshooting climate targets by a disastrous margin.Although the “window has closed” on holding temperature rises to 1.5C, in line with scientific advice, limiting the “overshoot” of that target is still possible, according to the UN Environment Programme (Unep). Continue reading..."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -10627,6 +10627,34 @@
         "published_at": "2026-10-21T10:40:59Z",
         "primary": false,
         "excerpt": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in LouisianaDon’t already get First Thing in your inbox? Sign up hereGood morning. Vast sums of money are being ploughed into November’s midterms, with the billionaire Michael Bloomberg spending $80m to help Democratic candidates, and Donald Trump announcing he intends to spend $400m to aid Republican candidates, with $300m already disbursed.Bloomberg made the contributions in September and October, particularly focused on Democrats r"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "10ec77606458bc93c3c7",
+    "title": "Trump leans into unprecedented power ahead of midterm elections",
+    "category": "Elections",
+    "published_at": "2026-10-21T12:09:41Z",
+    "first_seen_at": "2026-10-21T12:53:49.959877Z",
+    "updated_at": "2026-10-21T12:53:49.959877Z",
+    "sources": [
+      {
+        "title": "Trump leans into unprecedented power ahead of midterm elections",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-21T12:09:41Z",
+        "primary": false,
+        "excerpt": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term."
       }
     ],
     "tier": "brief",
