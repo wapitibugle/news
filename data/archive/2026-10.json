@@ -10819,6 +10819,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "800a3f416a1a55384176",
+    "title": "Why local officials are feeling 'on edge' as election day approaches",
+    "category": "Elections",
+    "published_at": "2026-10-21T16:01:17Z",
+    "first_seen_at": "2026-10-21T17:41:35.928605Z",
+    "updated_at": "2026-10-21T17:41:35.928605Z",
+    "sources": [
+      {
+        "title": "Why local officials are feeling 'on edge' as election day approaches",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-21T16:01:17Z",
+        "primary": false,
+        "excerpt": "Al Schmidt is the chief election official in the state of Pennsylvania. President Trump's insults put him in danger during the 2020 ballot count. Now Schmidt talks about preparing for the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
