@@ -10580,6 +10580,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "dbc23d2a2ed801fe85f6",
+    "title": "Cabinet split widens as minister refuses to back Shabana Mahmood 15-year policy",
+    "category": "World",
+    "published_at": "2026-10-21T10:21:18Z",
+    "first_seen_at": "2026-10-21T10:44:35.579490Z",
+    "updated_at": "2026-10-21T10:44:35.579490Z",
+    "sources": [
+      {
+        "title": "Cabinet split widens as minister refuses to back Shabana Mahmood 15-year policy",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-21T10:21:18Z",
+        "primary": false,
+        "excerpt": "Miatta Fahnbulleh avoids explicitly expressing support for longer path to permanent residency for foreign workersUK politics live – latest updatesA cabinet split over Shabana Mahmood’s immigration policy has deepened after the energy secretary refused to say she backed plans to make foreign workers wait 15 years to claim permanent residency in the UK.Miatta Fahnbulleh said in an interview with Sky News that changes to the immigration system were needed and that they should be “based on the principle of compassion” and recognising contribution. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
