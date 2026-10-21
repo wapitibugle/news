@@ -10664,6 +10664,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2c60c81e21637bf4fd2c",
+    "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+    "category": "Elections",
+    "published_at": "2026-10-21T11:46:59Z",
+    "first_seen_at": "2026-10-21T13:50:41.252895Z",
+    "updated_at": "2026-10-21T13:50:41.252895Z",
+    "sources": [
+      {
+        "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+        "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-21T11:46:59Z",
+        "primary": false,
+        "excerpt": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
