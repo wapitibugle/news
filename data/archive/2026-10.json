@@ -10496,6 +10496,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9531bf389ba4591fbcec",
+    "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
+    "category": "U.S.",
+    "published_at": "2026-10-21T06:07:16Z",
+    "first_seen_at": "2026-10-21T07:51:40.434991Z",
+    "updated_at": "2026-10-21T07:51:40.434991Z",
+    "sources": [
+      {
+        "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T06:07:16Z",
+        "primary": false,
+        "excerpt": "The Sixers got a first look at the potent lineup they put together this summer in hopes of winning their first title since 1983."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
