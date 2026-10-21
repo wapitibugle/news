@@ -10847,6 +10847,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "44a2b6913be278e10fb6",
+    "title": "Bush family members back Democrat James Talarico in Texas Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-21T17:39:56Z",
+    "first_seen_at": "2026-10-21T18:50:39.426321Z",
+    "updated_at": "2026-10-21T18:50:39.426321Z",
+    "sources": [
+      {
+        "title": "Bush family members back Democrat James Talarico in Texas Senate race",
+        "url": "https://www.bbc.co.uk/news/articles/cwx29lk15nxxo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-21T17:39:56Z",
+        "primary": false,
+        "excerpt": "The Bushes could potentially influence some disaffected Republicans when it comes to next month's vote."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
