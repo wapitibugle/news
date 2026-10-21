@@ -10903,6 +10903,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "cc6c8f62add47c045eac",
+    "title": "Epstein’s attorney and accountant accused of ‘facilitating and concealing’ his crimes in lawsuit",
+    "category": "U.S.",
+    "published_at": "2026-10-21T18:40:35Z",
+    "first_seen_at": "2026-10-21T20:44:28.898542Z",
+    "updated_at": "2026-10-21T20:44:28.898542Z",
+    "sources": [
+      {
+        "title": "Epstein’s attorney and accountant accused of ‘facilitating and concealing’ his crimes in lawsuit",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-21T18:40:35Z",
+        "primary": false,
+        "excerpt": "New Mexico lawsuit claims ‘in exchange for furthering Epstein’s criminal project, his associates received generous salaries’The attorney general of New Mexico on Wednesday filed a civil lawsuit against Jeffrey Epstein’s longtime attorney, Darren Indyke, and Epstein’s longtime accountant, Richard Kahn, accusing them of having “facilitated and concealed” Epstein’s crimes, and is seeking to stop them from being paid by Epstein’s estate while the litigation plays out.The lawsuit, filed in the US district court for the district of New Mexico, names Kahn and Indyke as defendants both in their indivi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
