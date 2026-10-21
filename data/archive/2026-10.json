@@ -10763,6 +10763,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "856ee78915f746a62b10",
+    "title": "The US midterm races that will decide control of Congress – mapped",
+    "category": "Elections",
+    "published_at": "2026-10-21T14:50:28Z",
+    "first_seen_at": "2026-10-21T15:46:25.443542Z",
+    "updated_at": "2026-10-21T15:46:25.443542Z",
+    "sources": [
+      {
+        "title": "The US midterm races that will decide control of Congress – mapped",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-21T14:50:28Z",
+        "primary": false,
+        "excerpt": "These graphics explain what the Democrats would need to do to flip the Senate and House of RepresentativesA turning point in Donald Trump’s second term will soon arrive. On 3 November, voters across the US will decide whether to keep the president’s Republican allies in control of Congress, or return Democrats to the majority.Many indicators of voter sentiment suggest the Democrats are favored to take back control of the House of Representatives, and potentially the Senate. Winning either would be a significant victory for the party and give it the power to block Trump’s legislative agenda and"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
