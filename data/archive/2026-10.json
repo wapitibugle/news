@@ -10533,7 +10533,7 @@
     "category": "U.S.",
     "published_at": "2026-10-21T08:42:59Z",
     "first_seen_at": "2026-10-21T08:48:06.491797Z",
-    "updated_at": "2026-10-21T08:48:06.491797Z",
+    "updated_at": "2026-10-22T09:46:23.499989Z",
     "sources": [
       {
         "title": "Morning news brief",
@@ -10543,6 +10543,15 @@
         "published_at": "2026-10-21T08:42:59Z",
         "primary": false,
         "excerpt": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to air strikes."
+      },
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6003503/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T08:57:46Z",
+        "primary": false,
+        "excerpt": "President Trump and former President Obama are on the campaign trail for the midterms, U.S. and Israel are planning for a possible post-midterms attack on Iran, Musk says SpaceX and Tesla could merge."
       }
     ],
     "tier": "brief",
@@ -12100,6 +12109,34 @@
         "published_at": "2026-10-22T08:39:19Z",
         "primary": false,
         "excerpt": "El Salvador's President Nayib Bukele said Wednesday he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fa1de293bf5667698714",
+    "title": "Farm country has beef with Trump as midterms approach",
+    "category": "Elections",
+    "published_at": "2026-10-22T09:00:00Z",
+    "first_seen_at": "2026-10-22T09:46:23.499989Z",
+    "updated_at": "2026-10-22T09:46:23.499989Z",
+    "sources": [
+      {
+        "title": "Farm country has beef with Trump as midterms approach",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-22T09:00:00Z",
+        "primary": false,
+        "excerpt": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states."
       }
     ],
     "tier": "brief",
