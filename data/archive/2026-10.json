@@ -12146,6 +12146,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "828c7b85b4ee481444b8",
+    "title": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+    "category": "Elections",
+    "published_at": "2026-10-22T10:00:00Z",
+    "first_seen_at": "2026-10-22T10:43:15.420175Z",
+    "updated_at": "2026-10-22T10:43:15.420175Z",
+    "sources": [
+      {
+        "title": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+        "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-10-22T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
