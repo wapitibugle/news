@@ -12426,6 +12426,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "74f9ac66fe6c838c6379",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "category": "World",
+    "published_at": "2026-10-22T17:49:13Z",
+    "first_seen_at": "2026-10-22T20:42:29.661269Z",
+    "updated_at": "2026-10-22T20:42:29.661269Z",
+    "sources": [
+      {
+        "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+        "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-22T17:49:13Z",
+        "primary": false,
+        "excerpt": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
