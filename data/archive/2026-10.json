@@ -12398,6 +12398,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "50ef5498183ddd59c961",
+    "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+    "category": "Elections",
+    "published_at": "2026-10-22T19:16:20Z",
+    "first_seen_at": "2026-10-22T19:44:15.034502Z",
+    "updated_at": "2026-10-22T19:44:15.034502Z",
+    "sources": [
+      {
+        "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-22T19:16:20Z",
+        "primary": false,
+        "excerpt": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
