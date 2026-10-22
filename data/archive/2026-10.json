@@ -9535,7 +9535,7 @@
         "excerpt": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain“Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do.What is worthy of a digital page in the world’s largest and most-read encyclopedia is decided by roughly 270,000 active volunteers, enthusiasts who populate the online resource with information on anything from 19th-century medicine to TikTok trends. Inevitably, some subjects are sidelined – the global south, notable women – but a new batch of Wikipedian recruits are waging war on one n"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9591,7 +9591,7 @@
         "excerpt": "Action needed to avoid disastrous overshoot of climate targets, according to organisation’s environment bodyThe world needs to cut carbon emissions by nearly a fifth in the next four years, and by close to half within a decade, to avoid overshooting climate targets by a disastrous margin.Although the “window has closed” on holding temperature rises to 1.5C, in line with scientific advice, limiting the “overshoot” of that target is still possible, according to the UN Environment Programme (Unep). Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9619,7 +9619,7 @@
         "excerpt": "The insects lived in a nature reserve office for four months."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9675,7 +9675,7 @@
         "excerpt": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9703,7 +9703,7 @@
         "excerpt": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -10989,5 +10989,1008 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "b0efcf9d218ecfdcdb31",
+    "title": "US embassy accuses Canada of election meddling ahead of midterms",
+    "category": "Elections",
+    "published_at": "2026-10-22T03:05:28Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "US embassy accuses Canada of election meddling ahead of midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-22T03:05:28Z",
+        "primary": false,
+        "excerpt": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ca66e39a407c4a2fbac",
+    "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+    "category": "World",
+    "published_at": "2026-10-22T05:17:11Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-22T05:17:11Z",
+        "primary": false,
+        "excerpt": "Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping bedsAirbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.The changes, which apply to Airbnb reservations covered by the platform’s global policy, including bookings in Australia, will come into effect on 20 November and limit chores imposed on guests. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "54beb009e8ef6ab29fc0",
+    "title": "History comes home as St Louis City top Columbus Crew to win US Open Cup",
+    "category": "U.S.",
+    "published_at": "2026-10-22T03:38:58Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "History comes home as St Louis City top Columbus Crew to win US Open Cup",
+        "url": "https://www.theguardian.com/football/2026/oct/21/history-comes-home-as-st-louis-city-top-columbus-crew-to-win-us-open-cup",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-22T03:38:58Z",
+        "primary": false,
+        "excerpt": "Title is club’s first-ever since 2023 foundingSt Louis clubs have won 11 Open Cups all-timeDaniel Edelman nets winner in 5-4 win on penaltiesFor much of the 20th century, winning the US Open Cup required a team to beat someone from St Louis. The Gateway City was home to many of the nation’s best teams during some ramshackle eras of soccer in the United States, with six different clubs combining for 10 trophy lifts. The most recent came in 1988, when St Louis Busch Seniors beat San Francisco-based Greek-American AC in the last throes of a tournament history dominated by amateur and semi-pro tea"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6a289d9bd77b228f447",
+    "title": "No order, no seat: Starbucks China rolls out new store policy",
+    "category": "World",
+    "published_at": "2026-10-22T04:02:29Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-22T04:02:29Z",
+        "primary": false,
+        "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2221e77edc9e33a23427",
+    "title": "Anthony Edwards scores 45 as Timberwolves spoil Giannis Antetokounmpo’s Heat debut",
+    "category": "U.S.",
+    "published_at": "2026-10-22T03:30:09Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Anthony Edwards scores 45 as Timberwolves spoil Giannis Antetokounmpo’s Heat debut",
+        "url": "https://www.theguardian.com/sport/2026/oct/21/anthony-edwards-giannis-antetokounmpo-miami-heat-debut-minnesota-timberwolves",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-22T03:30:09Z",
+        "primary": false,
+        "excerpt": "Edwards hits nine threes in 45-point explosionAntetokounmpo scores 35 in first game with HeatMinnesota rout Miami 131-106 in season openerAnthony Edwards scored 45 points as he and the Minnesota Timberwolves spoiled Giannis Antetokounmpo’s debut with the Miami Heat in an emphatic 131-106 season-opening win on Wednesday night.Edwards became just the third player in NBA history to record multiple 40-point games in season openers, joining Wilt Chamberlain and Michael Jordan. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9e04d1bc9e1f6a05577c",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "category": "World",
+    "published_at": "2026-10-22T03:48:50Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-22T03:48:50Z",
+        "primary": false,
+        "excerpt": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c5b220ee62288fba840c",
+    "title": "Fires Char New Guinea",
+    "category": "Science",
+    "published_at": "2026-10-22T04:01:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Fires Char New Guinea",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-22T04:01:00Z",
+        "primary": true,
+        "excerpt": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6d928d65fbac93c5bf32",
+    "title": "UK working to identify exposure after global cyber-security warning",
+    "category": "Technology",
+    "published_at": "2026-10-22T05:37:53Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "UK working to identify exposure after global cyber-security warning",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-10-22T05:37:53Z",
+        "primary": false,
+        "excerpt": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "448b6891182aa35d19bf",
+    "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
+    "category": "Outdoors",
+    "published_at": "2026-10-22T03:15:41Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-22T03:15:41Z",
+        "primary": false,
+        "excerpt": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ approach to remainsGet our breaking news email, free app or daily news podcastA whale carcass has forced the closure of two busy swimming and surfing spots after washing up between Coogee and Maroubra beaches in Sydney – but there are no plans to remove it.The whale’s heavily decomposed body was found on Thursday morning at Lurline Bay, a rocky cove surrounded by cliffs in Sydney’s eastern suburbs. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6bbc0cc255b410c22703",
+    "title": "NI risks missing 2030 energy goals, says Stormont committee",
+    "category": "Science",
+    "published_at": "2026-10-22T05:09:52Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "NI risks missing 2030 energy goals, says Stormont committee",
+        "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-22T05:09:52Z",
+        "primary": false,
+        "excerpt": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "813711696cd81a60554d",
+    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "category": "Science",
+    "published_at": "2026-10-22T04:05:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-22T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4df3d2380c37f3914248",
+    "title": "A company says its polls were fake. Here's what happened",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:50:18Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "A company says its polls were fake. Here's what happened",
+        "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:50:18Z",
+        "primary": false,
+        "excerpt": "A national polling organization revealed on Tuesday that the vast majority of its data had been fabricated, saying it was an \"experimental project to demonstrate the vulnerabilities\" of the modern political polling industry.",
+        "ai_editor": {
+          "id": "4df3d2380c37f3914248",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Wedgewood Polling said most of its data was fabricated; aggregators removed its results. Its claim that this was always an experiment is disputed. FCC Chair Brendan Carr subsequently warned broadcasters about fake polls, while offering no evidence for his broader claim of a surge in them.",
+          "evidence_quote": "the vast majority of its data had been fabricated",
+          "related_ids": [],
+          "reviewed_at": "2026-10-22T00:54:35.357983+00:00",
+          "title": "A company says its polls were fake. Here's what happened",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "4df3d2380c37f3914248",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Wedgewood Polling said most of its data was fabricated; aggregators removed its results. Its claim that this was always an experiment is disputed. FCC Chair Brendan Carr subsequently warned broadcasters about fake polls, while offering no evidence for his broader claim of a surge in them.",
+      "evidence_quote": "the vast majority of its data had been fabricated",
+      "related_ids": [],
+      "reviewed_at": "2026-10-22T00:54:35.357983+00:00",
+      "title": "A company says its polls were fake. Here's what happened",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "555bbf9c8bec7fe9d638",
+    "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+    "category": "U.S.",
+    "published_at": "2026-10-21T15:46:27Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-21T15:46:27Z",
+        "primary": false,
+        "excerpt": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64476b695fb96acfa42a",
+    "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
+    "category": "World",
+    "published_at": "2026-10-22T01:02:30Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-22T01:02:30Z",
+        "primary": false,
+        "excerpt": "Former reality star and wellness influencer stands accused of choking and assaulting wife at Noosa in QueenslandGet our breaking news email, free app or daily news podcastFormer reality television star Sam Wood will go to the Queensland supreme court seeking release from custody, more than two weeks after he was denied bail over allegations he choked and assaulted his wife.Wood, a 46-year-old wellness influencer from Melbourne, was arrested at Noosa on 4 October on domestic violence allegations. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d6663e600720b219bc87",
+    "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:25:35Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
+        "url": "https://www.pbs.org/newshour/show/investigation-finds-hundreds-of-u-s-citizens-detained-by-ice",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:25:35Z",
+        "primary": false,
+        "excerpt": "California officials are calling for an investigation into the actions of federal immigration officers after they allegedly injured and detained a U.S. citizen. Ricardo Gonzalez's detainment comes as an investigation by ProPublica found that more than 500 citizens have been caught up in the administration's immigration operations. William Brangham discussed more with ProPublica's Nicole Foy.",
+        "ai_editor": {
+          "id": "d6663e600720b219bc87",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "ProPublica reporter Nicole Foy says its investigation documented more than 500 U.S. citizens detained during immigration operations, including some seriously injured and others held without access to lawyers or family. The report raises possible constitutional violations, not judicial findings; officials have accused some detainees of assault or interference.",
+          "evidence_quote": "more than 500 that we found were detained so far",
+          "related_ids": [],
+          "reviewed_at": "2026-10-22T00:54:35.357983+00:00",
+          "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/investigation-finds-hundreds-of-u-s-citizens-detained-by-ice",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "d6663e600720b219bc87",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "ProPublica reporter Nicole Foy says its investigation documented more than 500 U.S. citizens detained during immigration operations, including some seriously injured and others held without access to lawyers or family. The report raises possible constitutional violations, not judicial findings; officials have accused some detainees of assault or interference.",
+      "evidence_quote": "more than 500 that we found were detained so far",
+      "related_ids": [],
+      "reviewed_at": "2026-10-22T00:54:35.357983+00:00",
+      "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/investigation-finds-hundreds-of-u-s-citizens-detained-by-ice",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ac1aba64fdd507943cb",
+    "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+    "category": "U.S.",
+    "published_at": "2026-10-21T16:17:51Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T16:17:51Z",
+        "primary": false,
+        "excerpt": "The Supreme Court on Wednesday refused to allow the Trump administration to immediately enforce new medical restrictions for transgender people in prison. The decision leaves in place a lower-court block on the policy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0138bc99c1fcadbd571b",
+    "title": "Supreme court blocks Trump’s bid to restrict gender care for trans prisoners",
+    "category": "U.S.",
+    "published_at": "2026-10-21T17:25:02Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Supreme court blocks Trump’s bid to restrict gender care for trans prisoners",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/supreme-court-trump-gender-affirming-care-trans-prisoners",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-21T17:25:02Z",
+        "primary": false,
+        "excerpt": "Decision stands in contrast to recent trans rights actions from court that often sides with Trump administrationThe US supreme court went against Donald Trump’s administration on Wednesday, refusing to allow the immediate enforcement of sweeping restrictions on gender-affirming care for transgender individuals held in prisons and federal facilities.The decision marks an unusual victory for transgender rights before the nation’s highest court, which has largely sided with the administration and other opponents of transgender rights in several major cases. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c8fbd486e702c8f02d51",
+    "title": "Putin releases American Stephen Hubbard from Russian prison",
+    "category": "World",
+    "published_at": "2026-10-21T22:39:19Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Putin releases American Stephen Hubbard from Russian prison",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-21T22:39:19Z",
+        "primary": false,
+        "excerpt": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "584dbb0198ca3fbed3a5",
+    "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+    "category": "World",
+    "published_at": "2026-10-21T13:28:04Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-21T13:28:04Z",
+        "primary": false,
+        "excerpt": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "711953788f06311dcd0f",
+    "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+    "category": "World",
+    "published_at": "2026-10-21T10:56:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-21T10:56:00Z",
+        "primary": false,
+        "excerpt": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "613eba983ec2191c4a99",
+    "title": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+    "category": "U.S.",
+    "published_at": "2026-10-21T15:35:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+        "url": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-21T15:35:00Z",
+        "primary": false,
+        "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "20c7749d186d0027df13",
+    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+    "category": "World",
+    "published_at": "2026-10-21T10:20:50Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-21T10:20:50Z",
+        "primary": false,
+        "excerpt": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "582db3708ab45f87c19d",
+    "title": "“The River Can’t Be Trusted”",
+    "category": "U.S.",
+    "published_at": "2026-10-21T10:00:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "“The River Can’t Be Trusted”",
+        "url": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-21T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post “The River Can’t Be Trusted” appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d144de760f4e7c0d4883",
+    "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+    "category": "World",
+    "published_at": "2026-10-21T21:27:41Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T21:27:41Z",
+        "primary": false,
+        "excerpt": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c7ac9a410dacdc83a65",
+    "title": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+    "category": "U.S.",
+    "published_at": "2026-10-21T09:55:00Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+        "url": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-21T09:55:00Z",
+        "primary": false,
+        "excerpt": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5039d857d5a92680fc3e",
+    "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+    "category": "World",
+    "published_at": "2026-10-21T05:43:24Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+        "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-21T05:43:24Z",
+        "primary": false,
+        "excerpt": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c6ed286e4692b656c6c3",
+    "title": "American imprisoned by Russia released as Witkoff meets and praises Putin",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:55:40Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "American imprisoned by Russia released as Witkoff meets and praises Putin",
+        "url": "https://www.pbs.org/newshour/show/american-imprisoned-by-russia-released-as-witkoff-meets-and-praises-putin",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:55:40Z",
+        "primary": false,
+        "excerpt": "Russia freed an American imprisoned for the last four years. Stephen Hubbard was captured in Eastern Ukraine and convicted of fighting against Russia. The 74-year-old retired teacher was reportedly freed without a swap. U.S. special envoy Steve Witkoff greeted Hubbard in St. Petersburg. He also met with the Russian president and praised Putin in unusually glowing terms. Nick Schifrin reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a441bdffafc2e0d49fd",
+    "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+    "category": "World",
+    "published_at": "2026-10-22T01:16:20Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+        "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-22T01:16:20Z",
+        "primary": false,
+        "excerpt": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington.Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5130a15e4ad97f78ae88",
+    "title": "How Elon Musk gained so much power over U.S. security interests",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:50:42Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "How Elon Musk gained so much power over U.S. security interests",
+        "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:50:42Z",
+        "primary": false,
+        "excerpt": "According to reports, Elon Musk ordered the slowdown of Ukraine's Starshield defense systems. Nick Schifrin reports, and Amna Nawaz discusses how the world's richest man gained such power over U.S. security interests with Charles Galbreath, a retired Air Force colonel who focused on space operations during his 30-year military career and is now at the Air Force Association's Mitchell Institute."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2ab9af169a9320d122e5",
+    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+    "category": "World",
+    "published_at": "2026-10-21T19:58:06Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T19:58:06Z",
+        "primary": false,
+        "excerpt": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "979ca029599c9b262a12",
+    "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:45:30Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-cybersecurity-threat-prompts-scramble-to-protect-websites-around-the-world",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:45:30Z",
+        "primary": false,
+        "excerpt": "In our news wrap Wednesday, a major cybersecurity threat prompted a scramble to protect websites around the world, 1,000 people were ordered to evacuate their homes in Toledo, Ohio, following a chemical tank explosion and the Supreme Court is blocking the Trump administration from enforcing new restrictions on gender-affirming care for transgender prisoners."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "73ecb0fc2dfa34a1bac0",
+    "title": "Websites taken down worldwide as critical cyber-security update issued",
+    "category": "World",
+    "published_at": "2026-10-21T19:54:57Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-21T19:54:57Z",
+        "primary": false,
+        "excerpt": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "29553dd1898e122076b0",
+    "title": "AIPAC halts endorsements and direct contributions to candidates",
+    "category": "U.S.",
+    "published_at": "2026-10-22T00:22:48Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "AIPAC halts endorsements and direct contributions to candidates",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T00:22:48Z",
+        "primary": false,
+        "excerpt": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7781d9fddabe0a44176c",
+    "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+    "category": "World",
+    "published_at": "2026-10-21T17:57:48Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+        "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-21T17:57:48Z",
+        "primary": false,
+        "excerpt": "Steve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies.Steve Witkoff delivered one as he sat down with Vladimir Putin in St Petersburg on Wednesday, aiming to close the deal on Russia’s land grab in Ukraine with the White House’s strategy of maximum pressure on Kyiv and saccharine flattery of the Kremlin. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c24f0ca3df953f45304",
+    "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
+    "category": "U.S.",
+    "published_at": "2026-10-21T22:40:49Z",
+    "first_seen_at": "2026-10-22T05:41:55.538213Z",
+    "updated_at": "2026-10-22T05:41:55.538213Z",
+    "sources": [
+      {
+        "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
+        "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-the-deeply-personal-attack-ad-in-ohio",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-21T22:40:49Z",
+        "primary": false,
+        "excerpt": "The campaign is in its final stretch and the attacks are getting increasingly personal. In Ohio, Republican gubernatorial candidate Vivek Ramaswamy's campaign is behind an ad featuring the estranged mother of his Democratic opponent, Amy Acton, disputing Acton's account of her childhood. For analysis, Geoff Bennett spoke with Democratic strategist Faiz Shakir and Republican strategist Whit Ayres."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
