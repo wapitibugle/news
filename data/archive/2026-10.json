@@ -12342,6 +12342,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "00b53fe69436ede50e22",
+    "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+    "category": "U.S.",
+    "published_at": "2026-10-22T17:18:12Z",
+    "first_seen_at": "2026-10-22T17:40:20.008465Z",
+    "updated_at": "2026-10-22T17:40:20.008465Z",
+    "sources": [
+      {
+        "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-22T17:18:12Z",
+        "primary": false,
+        "excerpt": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for depositionDonald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit.The lawsuit stems from a Panorama documentary aired by the BBC that spliced together comments made by Trump during a rally on 6 January 2021, before the US Capitol riot. While the broadcast was not readily available to v"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
