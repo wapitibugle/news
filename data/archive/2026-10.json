@@ -12081,6 +12081,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d23a38694f8ff1ff9ffd",
+    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+    "category": "U.S.",
+    "published_at": "2026-10-22T08:39:19Z",
+    "first_seen_at": "2026-10-22T08:49:23.423528Z",
+    "updated_at": "2026-10-22T08:49:23.423528Z",
+    "sources": [
+      {
+        "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T08:39:19Z",
+        "primary": false,
+        "excerpt": "El Salvador's President Nayib Bukele said Wednesday he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
