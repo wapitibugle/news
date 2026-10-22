@@ -12258,6 +12258,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b38537a24a362208de4b",
+    "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+    "category": "Elections",
+    "published_at": "2026-10-22T11:28:24Z",
+    "first_seen_at": "2026-10-22T14:46:06.258468Z",
+    "updated_at": "2026-10-22T14:46:06.258468Z",
+    "sources": [
+      {
+        "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+        "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-22T11:28:24Z",
+        "primary": false,
+        "excerpt": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
