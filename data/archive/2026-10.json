@@ -12174,6 +12174,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d203893215c0538d91de",
+    "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+    "category": "Elections",
+    "published_at": "2026-10-22T11:00:40Z",
+    "first_seen_at": "2026-10-22T11:44:01.978016Z",
+    "updated_at": "2026-10-22T11:44:01.978016Z",
+    "sources": [
+      {
+        "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-22T11:00:40Z",
+        "primary": false,
+        "excerpt": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a resultWith fewer than two weeks until the midterms, US voters are unlikely to see relief on one of this election cycle’s main issues: gas prices.Airing up her car’s tires at a Speedway in Perrysburg, Ohio, Toledo resident Sharie Smith, 41, says soaring costs are having a direct impact on her life. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
