@@ -12286,6 +12286,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4be86fe0b532eae2fe8d",
+    "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+    "category": "Elections",
+    "published_at": "2026-10-22T09:00:00Z",
+    "first_seen_at": "2026-10-22T15:45:46.883205Z",
+    "updated_at": "2026-10-22T15:45:46.883205Z",
+    "sources": [
+      {
+        "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-22T09:00:00Z",
+        "primary": false,
+        "excerpt": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
