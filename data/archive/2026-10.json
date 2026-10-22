@@ -12202,6 +12202,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "59327903f0b1b43d7694",
+    "title": "How Maine voters feel about the high-stakes Senate election",
+    "category": "Elections",
+    "published_at": "2026-10-22T12:26:24Z",
+    "first_seen_at": "2026-10-22T12:53:16.865534Z",
+    "updated_at": "2026-10-22T12:53:16.865534Z",
+    "sources": [
+      {
+        "title": "How Maine voters feel about the high-stakes Senate election",
+        "url": "https://www.pbs.org/newshour/politics/how-maine-voters-feel-about-the-high-stakes-senate-election",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-22T12:26:24Z",
+        "primary": false,
+        "excerpt": "The state is both fired up by this big race and exhausted by its avalanche of ads."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
