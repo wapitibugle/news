@@ -11288,7 +11288,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12047,6 +12047,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5ff13dfa1fe844dbd70f",
+    "title": "Whale carcass closes Maroubra and Coogee beaches in Sydney – video",
+    "category": "Outdoors",
+    "published_at": "2026-10-22T05:38:31Z",
+    "first_seen_at": "2026-10-22T07:53:01.738164Z",
+    "updated_at": "2026-10-22T07:53:01.738164Z",
+    "sources": [
+      {
+        "title": "Whale carcass closes Maroubra and Coogee beaches in Sydney – video",
+        "url": "https://www.theguardian.com/environment/video/2026/oct/22/whale-carcass-closes-maroubra-and-coogee-beaches-in-sydney-video",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-22T05:38:31Z",
+        "primary": false,
+        "excerpt": "Video released by Randwick city council shows a whale carcass floating in the water in a Sydney bay, causing the closure of two busy beaches. The whale's decomposed body was found on Thursday morning at Lurline Bay, a rocky cove surrounded by cliffs in Sydney’s eastern suburbs. It’s believed to be a juvenile humpback‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up Continue reading..."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
