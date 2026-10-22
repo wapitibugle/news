@@ -12370,6 +12370,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8addf5112d54f79eb385",
+    "title": "US judge orders Trump administration to halt noncitizen voting investigation",
+    "category": "Elections",
+    "published_at": "2026-10-22T17:38:47Z",
+    "first_seen_at": "2026-10-22T18:50:14.366085Z",
+    "updated_at": "2026-10-22T18:50:14.366085Z",
+    "sources": [
+      {
+        "title": "US judge orders Trump administration to halt noncitizen voting investigation",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-administration-noncitizen-voting-investigation-ruling",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-22T17:38:47Z",
+        "primary": false,
+        "excerpt": "Federal judge says government’s investigation into alleged noncitizen voting in nine states is relying on flawed dataA federal judge in California has ordered the Trump administration to halt investigations in nine states into whether noncitizens are registered to vote.US district court judge Araceli Martínez-Olguín in Oakland found the government’s effort was relying on data that is full of errors and that it was leading to intimidation of groups performing voter assistance efforts. She said it should be halted until polls close on election day on 3 November. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
