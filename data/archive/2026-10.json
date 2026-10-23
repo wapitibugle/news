@@ -13868,6 +13868,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a3f389e5ed767a657bbc",
+    "title": "Immigrants seeking U.S. citizenship targeted in Trump administration's illegal voting crackdown",
+    "category": "Elections",
+    "published_at": "2026-10-23T17:15:29Z",
+    "first_seen_at": "2026-10-23T18:50:48.730614Z",
+    "updated_at": "2026-10-23T18:50:48.730614Z",
+    "sources": [
+      {
+        "title": "Immigrants seeking U.S. citizenship targeted in Trump administration's illegal voting crackdown",
+        "url": "https://www.pbs.org/newshour/politics/immigrants-seeking-u-s-citizenship-targeted-in-trump-administrations-illegal-voting-crackdown",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-23T17:15:29Z",
+        "primary": false,
+        "excerpt": "Most of the immigrants targeted by federal authorities in California this week for alleged voter fraud had applied for U.S. citizenship and now face charges related to lying on forms or during interviews. Those charges could lead to years in prison and thwart their efforts to naturalize."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
