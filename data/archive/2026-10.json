@@ -13518,6 +13518,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2d8e1b84066be6b2cec3",
+    "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+    "category": "Elections",
+    "published_at": "2026-10-23T09:23:53Z",
+    "first_seen_at": "2026-10-23T09:44:27.450570Z",
+    "updated_at": "2026-10-23T09:44:27.450570Z",
+    "sources": [
+      {
+        "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-23T09:23:53Z",
+        "primary": false,
+        "excerpt": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
