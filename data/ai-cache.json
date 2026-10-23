@@ -2027,5 +2027,103 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/show/investigation-finds-hundreds-of-u-s-citizens-detained-by-ice",
     "group": ""
+  },
+  "20d364ac417de77f28ac879ba2641cf5854e3a4e4918314a8f6063cf3d2545bd": {
+    "id": "b7536005cd8f51c7a48d",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department is seeking to block certification if Sen. Dan Sullivan loses by less than the vote total of another Sullivan on the ballot. It alleges potential voter confusion; the supplied report describes a lawsuit, not a court finding. Alaska’s Supreme Court previously rejected efforts to remove the other candidate.",
+    "evidence_quote": "Previous efforts to remove the other Sullivan, a retired teacher, from the ballot have been rejected",
+    "related_ids": [
+      "8b5e23e79f338403bfdb"
+    ],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "Trump administration sues to block certification of upcoming Alaska election",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o",
+    "group": "8b5e23e79f338403bfdb"
+  },
+  "5cca08475dcc20a7b6c62138cd4b383f2a2507bfde2a79a33111ca09d1013067": {
+    "id": "c9ac25a6124bc2703b64",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Supreme Court blocked student IDs as backup voter identification in New Hampshire, granting an emergency appeal shortly before the midterms. The court cited the principle against judicial changes to voting rules near Election Day. Justice Ketanji Brown Jackson was the only justice to publicly dissent.",
+    "evidence_quote": "blocked the use of student IDs as a backup method of identification",
+    "related_ids": [
+      "02328b6201e0d1b31901"
+    ],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms",
+    "group": "02328b6201e0d1b31901"
+  },
+  "0bc7e4744a8a4a1c3006588eb94dba69611a16efa81073df2b3def254c8e6aa5": {
+    "id": "8b5e23e79f338403bfdb",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department sued to block certification of a Peltola victory while another Sullivan remains on the ballot, alleging election-integrity concerns. Previous removal efforts failed in Alaska’s Supreme Court. Notre Dame law professor Derek Muller disputes the lawsuit’s legal basis; no ruling on this federal suit is reported.",
+    "evidence_quote": "\"The statute simply doesn't let the Department of Justice enjoin certification,\" he said.",
+    "related_ids": [
+      "b7536005cd8f51c7a48d"
+    ],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "Trump administration files lawsuit to block possible Democratic win in Alaska Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/trump-administration-files-lawsuit-to-block-possible-democratic-win-in-alaska-senate-race",
+    "group": "8b5e23e79f338403bfdb"
+  },
+  "54d3a54cbe0ce7ce6a08e61ec3e84894563660d8d752e274c2bedffb27c21bb8": {
+    "id": "02328b6201e0d1b31901",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "c9ac25a6124bc2703b64"
+    ],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+    "group": "02328b6201e0d1b31901"
+  },
+  "b1a137724cf597d7887c8f110e046dcf4c87a3ca03d5a1b9fcdbbaa5e408a08f": {
+    "id": "de13134bc1a25b5ed2b6",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "Trump's midterm campaign tour stops in Iowa",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa",
+    "group": ""
+  },
+  "c2d2eaa82163b46a5f1866a44da1bafc5051e5a909bbe86b3b95f57a15feca6f": {
+    "id": "f0b73ea662cf6d152e92",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+    "title": "These key races in the 2026 midterms will decide who controls the US Senate – video explainer",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.theguardian.com/us-news/video/2026/oct/23/these-key-races-in-the-2026-midterms-will-decide-who-controls-the-us-senate-video-explainer",
+    "group": ""
   }
 }
