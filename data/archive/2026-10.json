@@ -13686,6 +13686,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a88d989228e7af23522b",
+    "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+    "category": "World",
+    "published_at": "2026-10-23T14:48:10Z",
+    "first_seen_at": "2026-10-23T14:49:42.393961Z",
+    "updated_at": "2026-10-23T14:49:42.393961Z",
+    "sources": [
+      {
+        "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-23T14:48:10Z",
+        "primary": false,
+        "excerpt": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
