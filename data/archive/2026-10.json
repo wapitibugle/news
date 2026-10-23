@@ -12671,7 +12671,7 @@
         "excerpt": "Activision; PC, PS5, Switch 2, XboxFrom parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the gameAnd so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extr"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13456,6 +13456,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4ae8de252b8db866ea18",
+    "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+    "category": "Science",
+    "published_at": "2026-10-23T07:00:03Z",
+    "first_seen_at": "2026-10-23T07:51:50.737887Z",
+    "updated_at": "2026-10-23T07:51:50.737887Z",
+    "sources": [
+      {
+        "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+        "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-23T07:00:03Z",
+        "primary": false,
+        "excerpt": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosedThe Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.From next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy of poorer patients either forgoing treatment, selling land or falling into debt to meet the high cost of some medicines, which are making large profits for hospitals and pharmacists. Continue reading..."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
