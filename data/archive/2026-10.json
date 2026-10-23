@@ -13570,7 +13570,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "de13134bc1a25b5ed2b6",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+      "title": "Trump's midterm campaign tour stops in Iowa",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -13654,7 +13668,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "f0b73ea662cf6d152e92",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+      "title": "These key races in the 2026 midterms will decide who controls the US Senate – video explainer",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.theguardian.com/us-news/video/2026/oct/23/these-key-races-in-the-2026-midterms-will-decide-who-controls-the-us-senate-video-explainer",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -13723,7 +13751,7 @@
     "category": "Elections",
     "published_at": "2026-10-23T15:41:49Z",
     "first_seen_at": "2026-10-23T15:48:04.453289Z",
-    "updated_at": "2026-10-23T15:48:04.453289Z",
+    "updated_at": "2026-10-23T16:46:05.794150Z",
     "sources": [
       {
         "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
@@ -13733,6 +13761,76 @@
         "published_at": "2026-10-23T15:41:49Z",
         "primary": false,
         "excerpt": "The Supreme Court cleared the way Thursday for New Hampshire to fully ban the use of student IDs for voting during the midterm elections."
+      },
+      {
+        "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T14:51:46Z",
+        "primary": false,
+        "excerpt": "Voting rights advocates say directive would disenfranchise young and low-income voters, but Republicans say it’s needed to combat voter fraudUS politics live – latest updatesThe US supreme court has cleared the way for New Hampshire to prohibit student IDs as a form of voter identification ahead of November’s midterm elections.In a brief unsigned order, justices sided with a Republican National Committee (RNC)-backed appeal on the matter. They cited a longstanding rule that lower federal courts should not “alter election rules” too close to election day. Continue reading...",
+        "ai_editor": {
+          "id": "02328b6201e0d1b31901",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "c9ac25a6124bc2703b64"
+          ],
+          "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+          "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+          "group": "02328b6201e0d1b31901"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "c9ac25a6124bc2703b64",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Supreme Court blocked student IDs as backup voter identification in New Hampshire, granting an emergency appeal shortly before the midterms. The court cited the principle against judicial changes to voting rules near Election Day. Justice Ketanji Brown Jackson was the only justice to publicly dissent.",
+      "evidence_quote": "blocked the use of student IDs as a backup method of identification",
+      "related_ids": [
+        "02328b6201e0d1b31901"
+      ],
+      "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+      "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms",
+      "group": "02328b6201e0d1b31901"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f7bc7c8813c52c7d1345",
+    "title": "What's behind the early voting surge? It's more than voter enthusiasm, expert says",
+    "category": "Elections",
+    "published_at": "2026-10-23T08:42:03Z",
+    "first_seen_at": "2026-10-23T16:46:05.794150Z",
+    "updated_at": "2026-10-23T16:46:05.794150Z",
+    "sources": [
+      {
+        "title": "What's behind the early voting surge? It's more than voter enthusiasm, expert says",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012308/midterm-elections-early-voting-data",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-23T08:42:03Z",
+        "primary": false,
+        "excerpt": "Nearly 21 million Americans have voted early in the midterms. MIT political scientist Charles Stewart explains what's driving the surge and why it may not mean higher overall turnout."
       }
     ],
     "tier": "brief",
