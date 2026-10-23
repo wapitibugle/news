@@ -11213,7 +11213,7 @@
         "excerpt": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -11269,7 +11269,7 @@
         "excerpt": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12083,7 +12083,7 @@
         "excerpt": "Video released by Randwick city council shows a whale carcass floating in the water in a Sydney bay, causing the closure of two busy beaches. The whale's decomposed body was found on Thursday morning at Lurline Bay, a rocky cove surrounded by cliffs in Sydney’s eastern suburbs. It’s believed to be a juvenile humpback‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12456,5 +12456,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "211926ff58ec9861b14a",
+    "title": "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
+    "category": "Elections",
+    "published_at": "2026-10-22T22:55:44Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
+        "url": "https://www.pbs.org/newshour/show/doj-monitoring-plans-and-dhs-voter-checks-raise-concerns-of-election-interference",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-22T22:55:44Z",
+        "primary": false,
+        "excerpt": "With the midterm elections less than two weeks away, a new legal battle is raising questions about the federal government's role in policing who is eligible to vote. A federal judge in California has blocked a Department of Homeland Security effort to identify noncitizens on voter rolls. White House correspondent Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "908c7432130d43379b12",
+    "title": "What Maine voters are saying about the Collins-Jackson Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-22T22:45:13Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "What Maine voters are saying about the Collins-Jackson Senate race",
+        "url": "https://www.pbs.org/newshour/show/what-maine-voters-are-saying-about-the-collins-jackson-senate-race",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-22T22:45:13Z",
+        "primary": false,
+        "excerpt": "One of the most closely watched Senate races in the country is unfolding in Maine, where five-term Republican Susan Collins faces a tough challenge from Democrat Troy Jackson, a former logger and state legislator. The race is rated a toss-up, with both parties fighting for a seat that could determine control of the Senate. Lisa Desjardins reports from Maine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b0200289641021e447c2",
+    "title": "‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack",
+    "category": "U.S.",
+    "published_at": "2026-10-23T04:29:50Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack",
+        "url": "https://www.theguardian.com/sport/2026/oct/23/lebron-james-donald-trump-national-anthem-76ers",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-23T04:29:50Z",
+        "primary": false,
+        "excerpt": "Trump calls James a ‘TOTAL DISGRACE’ over anthemUS president demands apology for pregame warm-upJames helps Sixers erase 29-point deficit against CavsDonald Trump lashed out at NBA superstar LeBron James on Thursday for what he called disrespectful behavior during the playing of the national anthem.Trump posted a video of the basketball legend making apparent warm-up movements while lined up with his Philadelphia 76ers teammates before their season opener against the New York Knicks on Tuesday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1ab816be79cf2b5bf30f",
+    "title": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+    "category": "World",
+    "published_at": "2026-10-23T04:04:35Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+        "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T04:04:35Z",
+        "primary": false,
+        "excerpt": "Search and rescue efforts under way after quake strikes region’s north, officials say, while at least seven aftershocks recordedA magnitude-7 earthquake has hit China’s Tibet region, killing at least 16 people, injuring 54 and collapsing hundreds of homes in the northern regional city of Nagqu, official media said.Search and rescue efforts continued after the collapse of at least 339 homes and 20 livestock sheds, the Nagqu media office said, citing city government officials. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5cc332512ff9ac96c54a",
+    "title": "Caleb Williams outduels friend and rival Drake Maye as Bears beat Patriots",
+    "category": "U.S.",
+    "published_at": "2026-10-23T03:53:26Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Caleb Williams outduels friend and rival Drake Maye as Bears beat Patriots",
+        "url": "https://www.theguardian.com/sport/2026/oct/22/caleb-williams-outduels-friend-and-rival-drake-maye-as-bears-beat-patriots",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-23T03:53:26Z",
+        "primary": false,
+        "excerpt": "New England Patriots 24–30 Chicago BearsBears QB throws for 308 yards and two TDsCaleb Williams threw for 308 yards and two touchdowns, and the Chicago Bears cooled off Drake Maye and the New England Patriots with a 30-24 win on Thursday night.Williams was 22 of 33 passing in his second game back after being sidelined by a hamstring injury. He became the first Bears quarterback to throw for more than 300 yards in consecutive games since Mitch Trubisky had a three-game run in 2018. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ab71c53943bb2839f34",
+    "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+    "category": "Science",
+    "published_at": "2026-10-23T05:05:03Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+        "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-23T05:05:03Z",
+        "primary": false,
+        "excerpt": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "382da3e46cf635421cce",
+    "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+    "category": "Outdoors",
+    "published_at": "2026-10-23T04:01:01Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+        "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-23T04:01:01Z",
+        "primary": false,
+        "excerpt": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating tollHeat killed a record 50,000 people in European cities this summer, new research suggests, with scientists blaming climate breakdown for two in every three of the deaths.Morgues and funeral homes filled with bodies from June to August as the heat added by planet-baking pollution cut short an extra 32,000 lives in urban areas, the researchers found. Hot days pushed vulnerable bodies into overdrive and warm nights prevented them from recovering. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "49d386d98d396b36d5fb",
+    "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+    "category": "Technology",
+    "published_at": "2026-10-23T04:00:06Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+        "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-23T04:00:06Z",
+        "primary": false,
+        "excerpt": "Activision; PC, PS5, Switch 2, XboxFrom parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the gameAnd so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extr"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec3bc3e869d143fdc02d",
+    "title": "El Niño Then and Now",
+    "category": "Science",
+    "published_at": "2026-10-23T04:00:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "El Niño Then and Now",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-23T04:00:00Z",
+        "primary": true,
+        "excerpt": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b0849f04c9f3097c0244",
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "category": "Science",
+    "published_at": "2026-10-23T04:05:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-23T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6dec1af6d693c4be305",
+    "title": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+    "category": "Technology",
+    "published_at": "2026-10-22T12:34:33Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-22T12:34:33Z",
+        "primary": false,
+        "excerpt": "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOsShowrunner Jonathan Glatzer wanted the tagline of his latest TV creation to be: “We’re so fucked.” He laughs. “Sadly it got rejected by the network. Hey, maybe I can use it for season two!” The show in question is The Audacity, his darkly comic drama about AI tech titans. Instead, it went with the more PG tagline “Move fast and break people” – a twist on “Move fast and break things”, the Facebook motto coined by Mark Zuckerbe"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e827242f542813de0959",
+    "title": "IV team warned Christa Pike's vein might have 'blown' during failed execution, court filing says",
+    "category": "U.S.",
+    "published_at": "2026-10-23T00:35:31Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "IV team warned Christa Pike's vein might have 'blown' during failed execution, court filing says",
+        "url": "https://www.pbs.org/newshour/nation/iv-team-warned-christa-pikes-vein-might-have-blown-during-failed-execution-court-filing-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T00:35:31Z",
+        "primary": false,
+        "excerpt": "Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike's arms before her attempted execution and warned that some of her veins may have ruptured, or \"blown,\" before she was injected with the lethal drug, her attorney wrote in a court document filed Thursday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21d03a4e8d951089a39c",
+    "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+    "category": "Science",
+    "published_at": "2026-10-22T20:47:25Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
+        "publisher": "NPR",
+        "category": "Science",
+        "published_at": "2026-10-22T20:47:25Z",
+        "primary": false,
+        "excerpt": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly to humans."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1d92c6326c55d4e0ca84",
+    "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+    "category": "U.S.",
+    "published_at": "2026-10-22T17:40:42Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+        "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-22T17:40:42Z",
+        "primary": false,
+        "excerpt": "President Donald Trump, who has often avoided depositions, filed his lawsuit against the BBC last December."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0f9cc947591c28f63c2d",
+    "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+    "category": "U.S.",
+    "published_at": "2026-10-23T00:55:02Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-23T00:55:02Z",
+        "primary": false,
+        "excerpt": "Ex-Trump adviser and former top aide for homeland security alleged to have profited off government roleCorey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters ⁠on Thursday.The investigation began with a criminal referral to the justice department from the internal watchdog at DHS, according to the four people. The DHS inspector general’s office has been investiga"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d9c352ebea9b2ed0cda5",
+    "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "category": "World",
+    "published_at": "2026-10-22T21:42:39Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-22T21:42:39Z",
+        "primary": false,
+        "excerpt": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2558efdc9bda0ecf8547",
+    "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
+    "category": "World",
+    "published_at": "2026-10-22T09:59:02Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-22T09:59:02Z",
+        "primary": false,
+        "excerpt": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9c4feb12ad7781552970",
+    "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+    "category": "World",
+    "published_at": "2026-10-22T17:07:03Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-22T17:07:03Z",
+        "primary": false,
+        "excerpt": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6059a50d0ef226f4aa4c",
+    "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+    "category": "World",
+    "published_at": "2026-10-22T08:56:58Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-22T08:56:58Z",
+        "primary": false,
+        "excerpt": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "96af92b359457856fd39",
+    "title": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+    "category": "U.S.",
+    "published_at": "2026-10-22T12:00:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+        "url": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-22T12:00:00Z",
+        "primary": false,
+        "excerpt": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2dce90caa0b8d958fdee",
+    "title": "Oil prices jump to five-month high as attacks threaten global supply",
+    "category": "World",
+    "published_at": "2026-10-22T11:28:11Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Oil prices jump to five-month high as attacks threaten global supply",
+        "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-22T11:28:11Z",
+        "primary": false,
+        "excerpt": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of HormuzShipping workers: how is the Middle East conflict affecting you?Oil prices jumped to a five-month high on Thursday after ​attacks in Saudi Arabia and hits to tankers in the strait of Hormuz threatened further disruptions to the world’s crude supply.Brent crude, the international benchmark for oil prices, rose by 3% to hit $112 a barrel for first time since 18 May. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "91fbfaf7087a6c1b0d94",
+    "title": "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department",
+    "category": "U.S.",
+    "published_at": "2026-10-22T09:00:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department",
+        "url": "https://www.propublica.org/article/civil-rights-office-education-department-investigations",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-22T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d0a9c589ec9c20e48c63",
+    "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    "category": "U.S.",
+    "published_at": "2026-10-22T22:27:53Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-22T22:27:53Z",
+        "primary": false,
+        "excerpt": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a2eb5cc9eb85e0a859c7",
+    "title": "Trump's attacks on the press have become a war",
+    "category": "U.S.",
+    "published_at": "2026-10-22T22:06:17Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Trump's attacks on the press have become a war",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6012340/trumps-attacks-on-the-press-have-become-a-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T22:06:17Z",
+        "primary": false,
+        "excerpt": "The New York Times reported that the Trump Administration is considering physically moving the White House press corps out of the White House."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c55ea51a7512db85a0f2",
+    "title": "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+    "category": "U.S.",
+    "published_at": "2026-10-23T00:51:44Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+        "url": "https://www.pbs.org/newshour/politics/rfk-jr-adviser-calley-means-resigns-amid-growing-maha-discontent-over-lack-of-progress",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T00:51:44Z",
+        "primary": false,
+        "excerpt": "Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f716e7a0c60958a75dd5",
+    "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+    "category": "U.S.",
+    "published_at": "2026-10-22T20:49:12Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-22T20:49:12Z",
+        "primary": false,
+        "excerpt": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "96e7288763adfb8ea3f2",
+    "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+    "category": "U.S.",
+    "published_at": "2026-10-22T13:50:55Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+        "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T13:50:55Z",
+        "primary": false,
+        "excerpt": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "99d0b4aec638edc27017",
+    "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
+    "category": "U.S.",
+    "published_at": "2026-10-23T00:25:01Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
+        "url": "https://www.pbs.org/newshour/politics/rep-ilhan-omar-says-she-will-move-out-of-her-washington-dc-home-after-federal-search",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T00:25:01Z",
+        "primary": false,
+        "excerpt": "U.S. Rep. Ilhan Omar will move out of her Washington, D.C., home that federal agents searched last week, she said Wednesday, noting that attention brought on by the raid has made her feel unsafe there."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2211d1445c21048879ab",
+    "title": "Prominent Virginia senator charged over allegations she ran criminal marijuana scheme",
+    "category": "U.S.",
+    "published_at": "2026-10-22T20:39:16Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Prominent Virginia senator charged over allegations she ran criminal marijuana scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cm20rer9dl8wo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-22T20:39:16Z",
+        "primary": false,
+        "excerpt": "Democratic Senator L Louise Lucas and six other people, including her family members, are accused of illegally distributing the drug."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f2d3bc3b01447ffcf0b4",
+    "title": "Achy from sitting at a desk all day? Try doing this",
+    "category": "U.S.",
+    "published_at": "2026-10-22T09:01:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Achy from sitting at a desk all day? Try doing this",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T09:01:00Z",
+        "primary": false,
+        "excerpt": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d8a073cf5aa90033932f",
+    "title": "Teacher injured in Oregon school shooting says she had no chance to protect students",
+    "category": "U.S.",
+    "published_at": "2026-10-22T23:06:50Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Teacher injured in Oregon school shooting says she had no chance to protect students",
+        "url": "https://www.pbs.org/newshour/nation/teacher-injured-in-oregon-school-shooting-says-she-had-no-chance-to-protect-students",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-22T23:06:50Z",
+        "primary": false,
+        "excerpt": "A teacher wounded in last week's attack on a special education classroom at an Oregon elementary school never had a chance to try to shelter any of the children inside, she said Wednesday in a statement issued by a family friend."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eb34d1eedc60b5555187",
+    "title": "Florida officer accused of stealing dead man's identity and moving into his home",
+    "category": "U.S.",
+    "published_at": "2026-10-22T20:28:28Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "Florida officer accused of stealing dead man's identity and moving into his home",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56qdq9l4po",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-22T20:28:28Z",
+        "primary": false,
+        "excerpt": "Authorities uncovered the plot when the man's heirs tried to sell the south Florida home"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bb76303e4df46b75244f",
+    "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+    "category": "U.S.",
+    "published_at": "2026-10-22T09:00:00Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-22T09:00:00Z",
+        "primary": false,
+        "excerpt": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6d5cea74d3e096299f73",
+    "title": "News Wrap: Virginia state senator charged with running criminal marijuana enterprise",
+    "category": "U.S.",
+    "published_at": "2026-10-22T22:50:52Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "News Wrap: Virginia state senator charged with running criminal marijuana enterprise",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-22T22:50:52Z",
+        "primary": false,
+        "excerpt": "In our news wrap Thursday, federal authorities charged Virginia state Sen. Louise Lucas with running a criminal marijuana enterprise, New York City lawmakers voted to ban horse-drawn carriage rides in Central Park and a judge in Florida ordered President Trump to sit for a deposition in his $10 billion lawsuit against the BBC, or the case could be dismissed."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e7476453d468e2c4aadb",
+    "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+    "category": "U.S.",
+    "published_at": "2026-10-22T19:27:57Z",
+    "first_seen_at": "2026-10-23T05:42:20.754892Z",
+    "updated_at": "2026-10-23T05:42:20.754892Z",
+    "sources": [
+      {
+        "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+        "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-22T19:27:57Z",
+        "primary": false,
+        "excerpt": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
