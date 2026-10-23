@@ -13714,6 +13714,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c9ac25a6124bc2703b64",
+    "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
+    "category": "Elections",
+    "published_at": "2026-10-23T15:41:49Z",
+    "first_seen_at": "2026-10-23T15:48:04.453289Z",
+    "updated_at": "2026-10-23T15:48:04.453289Z",
+    "sources": [
+      {
+        "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-23T15:41:49Z",
+        "primary": false,
+        "excerpt": "The Supreme Court cleared the way Thursday for New Hampshire to fully ban the use of student IDs for voting during the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
