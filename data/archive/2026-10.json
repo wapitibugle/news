@@ -12671,7 +12671,7 @@
         "excerpt": "Activision; PC, PS5, Switch 2, XboxFrom parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the gameAnd so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extr"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13630,7 +13630,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f0b73ea662cf6d152e92",
@@ -13651,6 +13652,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "564659a5fdbe389d735d",
+    "title": "Suit filed to force Trump administration to address cancer-linked pesticide pollution",
+    "category": "Outdoors",
+    "published_at": "2026-10-23T12:00:26Z",
+    "first_seen_at": "2026-10-23T13:50:17.317877Z",
+    "updated_at": "2026-10-23T13:50:17.317877Z",
+    "sources": [
+      {
+        "title": "Suit filed to force Trump administration to address cancer-linked pesticide pollution",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-23T12:00:26Z",
+        "primary": false,
+        "excerpt": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollutionA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting pesticide atrazine – which has regularly been found at levels that threaten wildlife and human health.The cancer-linked chemical is now contaminating nearly 25%, or about 860,000 miles, of all continental US rivers, according to a recent review of federal records. The waterways cover more than 20% of surface drinking water intakes across the country, and more "
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
