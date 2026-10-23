@@ -13546,6 +13546,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "de13134bc1a25b5ed2b6",
+    "title": "Trump's midterm campaign tour stops in Iowa",
+    "category": "Elections",
+    "published_at": "2026-10-23T10:36:09Z",
+    "first_seen_at": "2026-10-23T10:41:56.456721Z",
+    "updated_at": "2026-10-23T10:41:56.456721Z",
+    "sources": [
+      {
+        "title": "Trump's midterm campaign tour stops in Iowa",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-23T10:36:09Z",
+        "primary": false,
+        "excerpt": "Republicans are facing a tough fight in Iowa. President Trump's campaign tour stopped in the state in hopes of rallying voters."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
