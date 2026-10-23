@@ -13490,6 +13490,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c3edf8bc66a87017151c",
+    "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+    "category": "U.S.",
+    "published_at": "2026-10-23T08:17:06Z",
+    "first_seen_at": "2026-10-23T08:46:03.214588Z",
+    "updated_at": "2026-10-23T08:46:03.214588Z",
+    "sources": [
+      {
+        "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+        "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-23T08:17:06Z",
+        "primary": false,
+        "excerpt": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
