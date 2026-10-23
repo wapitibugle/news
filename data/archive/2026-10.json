@@ -13896,6 +13896,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "929db637b8f812fdc6f0",
+    "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+    "category": "World",
+    "published_at": "2026-10-23T18:45:43Z",
+    "first_seen_at": "2026-10-23T19:42:12.118161Z",
+    "updated_at": "2026-10-23T19:42:12.118161Z",
+    "sources": [
+      {
+        "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T18:45:43Z",
+        "primary": false,
+        "excerpt": "Unidentified object vanished suddenly and silently, anonymous senior military observers claimTwo senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site in the western US earlier this year, in the latest tranche of reported UFO sightings released on Friday by the Trump administration.The unidentified object showed none of the characteristics of a conventional military aircraft, their report to the defense department said, and it vanished suddenly and silently within seconds, leaving no exhaust trail or other "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
