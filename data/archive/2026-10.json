@@ -12671,7 +12671,7 @@
         "excerpt": "Activision; PC, PS5, Switch 2, XboxFrom parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the gameAnd so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extr"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12755,7 +12755,7 @@
         "excerpt": "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOsShowrunner Jonathan Glatzer wanted the tagline of his latest TV creation to be: “We’re so fucked.” He laughs. “Sadly it got rejected by the network. Hey, maybe I can use it for season two!” The show in question is The Audacity, his darkly comic drama about AI tech titans. Instead, it went with the more PG tagline “Move fast and break people” – a twist on “Move fast and break things”, the Facebook motto coined by Mark Zuckerbe"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13593,6 +13593,61 @@
         "published_at": "2026-10-23T11:00:31Z",
         "primary": false,
         "excerpt": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaignOmar Muñoz was getting ready to have his morning coffee just after 5am on Monday when he heard a loud bang at the front door of his Los Angeles home.“Open up or else we’ll break down the door, and it’ll be bad for you,” the man on the other side yelled, Muñoz, 72, recalled. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f6592ef3f3be91e0dfd4",
+    "title": "Billionaire tax and trans rights: what are key state ballot initiatives in midterms?",
+    "category": "Elections",
+    "published_at": "2026-10-23T10:00:30Z",
+    "first_seen_at": "2026-10-23T12:52:18.001600Z",
+    "updated_at": "2026-10-23T12:52:18.001600Z",
+    "sources": [
+      {
+        "title": "Billionaire tax and trans rights: what are key state ballot initiatives in midterms?",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/key-midterms-ballot-initiatives",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-23T10:00:30Z",
+        "primary": false,
+        "excerpt": "Voters in 39 states will face an array of referendum issues – including Alabama’s on the national anthem in schoolsAmericans heading to the polls for next month’s midterm elections are not just choosing whom to send to Washington, or their state capitols. There are also 145 statewide measures on ballots across 39 states, polling voters on actions from a novel wealth tax on California’s billionaires to requiring Alabama’s public schools to broadcast or perform the first stanza of the national anthem each week.Voters in Idaho, Nevada and Virginia are asked to protect abortion rights; voters in M"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f0b73ea662cf6d152e92",
+    "title": "These key races in the 2026 midterms will decide who controls the US Senate – video explainer",
+    "category": "Elections",
+    "published_at": "2026-10-23T10:00:22Z",
+    "first_seen_at": "2026-10-23T12:52:18.001600Z",
+    "updated_at": "2026-10-23T12:52:18.001600Z",
+    "sources": [
+      {
+        "title": "These key races in the 2026 midterms will decide who controls the US Senate – video explainer",
+        "url": "https://www.theguardian.com/us-news/video/2026/oct/23/these-key-races-in-the-2026-midterms-will-decide-who-controls-the-us-senate-video-explainer",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-23T10:00:22Z",
+        "primary": false,
+        "excerpt": "To reclaim control of the Senate, Democrats need to retain all the Senate seats they have and flip four more in the 2026 midterm elections. Shrai Popat, the Guardian's US politics reporter, explains which are the key races to watch in November. Continue reading..."
       }
     ],
     "tier": "brief",
