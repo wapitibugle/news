@@ -13574,6 +13574,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "bc7312aeed271808a900",
+    "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
+    "category": "Elections",
+    "published_at": "2026-10-23T11:00:31Z",
+    "first_seen_at": "2026-10-23T11:44:51.367909Z",
+    "updated_at": "2026-10-23T11:44:51.367909Z",
+    "sources": [
+      {
+        "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-23T11:00:31Z",
+        "primary": false,
+        "excerpt": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaignOmar Muñoz was getting ready to have his morning coffee just after 5am on Monday when he heard a loud bang at the front door of his Los Angeles home.“Open up or else we’ll break down the door, and it’ll be bad for you,” the man on the other side yelled, Muñoz, 72, recalled. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
