@@ -15051,6 +15051,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4ca35728e26e6054334d",
+    "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+    "category": "Elections",
+    "published_at": "2026-10-23T23:11:31Z",
+    "first_seen_at": "2026-10-24T08:43:10.188133Z",
+    "updated_at": "2026-10-24T08:43:10.188133Z",
+    "sources": [
+      {
+        "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+        "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-23T23:11:31Z",
+        "primary": false,
+        "excerpt": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
