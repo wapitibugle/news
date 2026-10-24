@@ -15331,6 +15331,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "91c172c9b81d1ba917ea",
+    "title": "New York state woman charged with voting illegally says she recently learned she wasn't a citizen",
+    "category": "Elections",
+    "published_at": "2026-10-24T18:07:33Z",
+    "first_seen_at": "2026-10-24T18:43:29.337499Z",
+    "updated_at": "2026-10-24T18:43:29.337499Z",
+    "sources": [
+      {
+        "title": "New York state woman charged with voting illegally says she recently learned she wasn't a citizen",
+        "url": "https://www.pbs.org/newshour/politics/new-york-state-woman-charged-with-voting-illegally-says-she-recently-learned-she-wasnt-a-citizen",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-24T18:07:33Z",
+        "primary": false,
+        "excerpt": "Marva Cook was adopted as a toddler and had always assumed she was a U.S. citizen, she told Homeland Security investigators earlier this month, according to the criminal complaint."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "339d07d97977a0f0fa33",
+    "title": "Six Flags adding seat belts to Goliath rollercoaster following death",
+    "category": "U.S.",
+    "published_at": "2026-10-24T16:29:31Z",
+    "first_seen_at": "2026-10-24T18:43:29.337499Z",
+    "updated_at": "2026-10-24T18:43:29.337499Z",
+    "sources": [
+      {
+        "title": "Six Flags adding seat belts to Goliath rollercoaster following death",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl9r59g0do",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-24T16:29:31Z",
+        "primary": false,
+        "excerpt": "The CEO of the amusement park chain said the company is evaluating its safety procedures at all of its 34 locations, including adding seat belts to some rides."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
