@@ -15247,6 +15247,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "26b51acb630b06aa3fc7",
+    "title": "DOJ orders some California counties to set aside ballots from suspected noncitizens",
+    "category": "Elections",
+    "published_at": "2026-10-24T14:49:32Z",
+    "first_seen_at": "2026-10-24T15:41:48.154829Z",
+    "updated_at": "2026-10-24T15:41:48.154829Z",
+    "sources": [
+      {
+        "title": "DOJ orders some California counties to set aside ballots from suspected noncitizens",
+        "url": "https://www.pbs.org/newshour/politics/doj-orders-some-california-counties-to-set-aside-ballots-from-suspected-noncitizens",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-24T14:49:32Z",
+        "primary": false,
+        "excerpt": "The letters are the latest escalation in a legal battle between California and President Donald Trump's Department of Justice, which has recently focused on the state in its efforts to root out noncitizen voting ahead of the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
