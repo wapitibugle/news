@@ -15191,6 +15191,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e31bd7e393db2931dc63",
+    "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+    "category": "Elections",
+    "published_at": "2026-10-24T12:00:32Z",
+    "first_seen_at": "2026-10-24T13:40:15.478555Z",
+    "updated_at": "2026-10-24T13:40:15.478555Z",
+    "sources": [
+      {
+        "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+        "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-24T12:00:32Z",
+        "primary": false,
+        "excerpt": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activitiesAs US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background.Political experts believe, however, the Epstein issue is not going away permanently and that many voters can balance day-to-day concerns such as affordability and AI with the scandal involving the late financier and accused sex trafficker whose social circle was widespr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
