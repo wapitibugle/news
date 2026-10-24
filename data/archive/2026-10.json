@@ -15359,7 +15359,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "339d07d97977a0f0fa33",
@@ -15377,6 +15378,34 @@
         "published_at": "2026-10-24T16:29:31Z",
         "primary": false,
         "excerpt": "The CEO of the amusement park chain said the company is evaluating its safety procedures at all of its 34 locations, including adding seat belts to some rides."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9e7822f55bca2db8b50a",
+    "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia",
+    "category": "U.S.",
+    "published_at": "2026-10-24T19:04:00Z",
+    "first_seen_at": "2026-10-24T19:36:27.374171Z",
+    "updated_at": "2026-10-24T19:36:27.374171Z",
+    "sources": [
+      {
+        "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia",
+        "url": "https://www.pbs.org/newshour/politics/republican-billionaire-rick-jackson-is-walking-a-trump-tightrope-in-his-quest-to-lead-georgia",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-24T19:04:00Z",
+        "primary": false,
+        "excerpt": "Jackson's path differs from Donald Trump's, and the 72-year-old healthcare magnate and investor brings a vastly different persona to his first campaign. Unlike Trump, who was born to wealth, Jackson spent his early years bouncing through foster homes before launching his first company as a young man."
       }
     ],
     "tier": "brief",
