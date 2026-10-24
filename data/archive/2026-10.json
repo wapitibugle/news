@@ -13707,7 +13707,7 @@
         "excerpt": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollutionA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting pesticide atrazine – which has regularly been found at levels that threaten wildlife and human health.The cancer-linked chemical is now contaminating nearly 25%, or about 860,000 miles, of all continental US rivers, according to a recent review of federal records. The waterways cover more than 20% of surface drinking water intakes across the country, and more "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -15154,6 +15154,34 @@
         "published_at": "2026-10-23T21:40:02Z",
         "primary": false,
         "excerpt": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "27fbd03964a6675033a5",
+    "title": "The rise of the economic populist: What voters want from both parties this year",
+    "category": "Elections",
+    "published_at": "2026-10-24T11:42:08Z",
+    "first_seen_at": "2026-10-24T12:49:36.218240Z",
+    "updated_at": "2026-10-24T12:49:36.218240Z",
+    "sources": [
+      {
+        "title": "The rise of the economic populist: What voters want from both parties this year",
+        "url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-24T11:42:08Z",
+        "primary": false,
+        "excerpt": "A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability."
       }
     ],
     "tier": "brief",

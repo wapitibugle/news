@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-24T11:41:00.783895Z",
+  "collected_at": "2026-10-24T12:49:36.218240Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -103,5 +103,5 @@
     "accounted_usd": 2.293704,
     "monthly_limit_usd": 20
   },
-  "stories": 491
+  "stories": 492
 }
