@@ -15219,6 +15219,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "64ef784634d14fbc5006",
+    "title": "Ukraine says Starlink connection 'now stable' after network limits",
+    "category": "World",
+    "published_at": "2026-10-24T12:12:40Z",
+    "first_seen_at": "2026-10-24T14:40:53.947117Z",
+    "updated_at": "2026-10-24T14:40:53.947117Z",
+    "sources": [
+      {
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-24T12:12:40Z",
+        "primary": false,
+        "excerpt": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
