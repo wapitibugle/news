@@ -15303,6 +15303,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "635b8bce61536b66c45a",
+    "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
+    "category": "U.S.",
+    "published_at": "2026-10-24T17:32:10Z",
+    "first_seen_at": "2026-10-24T17:38:57.643167Z",
+    "updated_at": "2026-10-24T17:38:57.643167Z",
+    "sources": [
+      {
+        "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
+        "url": "https://www.pbs.org/newshour/nation/six-flags-says-it-will-install-seat-belts-on-georgia-roller-coaster-after-riders-death",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-24T17:32:10Z",
+        "primary": false,
+        "excerpt": "The theme park operator announced the extra safeguard less than two weeks after 42-year-old Hassan Jihad Ibn Kariem of Atlanta died after being ejected from his seat on the Goliath coaster at Six Flags Over Georgia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
