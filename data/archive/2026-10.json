@@ -15079,6 +15079,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "35f149b1133c1371f573",
+    "title": "This decade has been missing its big-impact midterm",
+    "category": "Elections",
+    "published_at": "2026-10-24T09:00:00Z",
+    "first_seen_at": "2026-10-24T09:41:39.547700Z",
+    "updated_at": "2026-10-24T09:41:39.547700Z",
+    "sources": [
+      {
+        "title": "This decade has been missing its big-impact midterm",
+        "url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-24T09:00:00Z",
+        "primary": false,
+        "excerpt": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
