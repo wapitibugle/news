@@ -15275,6 +15275,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4bd07663470201bea77e",
+    "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+    "category": "World",
+    "published_at": "2026-10-24T15:47:20Z",
+    "first_seen_at": "2026-10-24T16:42:08.992282Z",
+    "updated_at": "2026-10-24T16:42:08.992282Z",
+    "sources": [
+      {
+        "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+        "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-24T15:47:20Z",
+        "primary": false,
+        "excerpt": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government has said, 10 days after its ability to use the satellite communications system was suddenly restricted.The Starlink satellite terminals, which are produced by Elon Musk’s SpaceX but managed by the US government, are a key component of Ukraine’s military operations. Sudden speed restrictions on the terminals, which capped operations at speeds of 160km/h (99mph), led to the failure of several Ukrainian c"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
