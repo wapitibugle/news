@@ -15135,6 +15135,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "68d5cc45d56fca083f6d",
+    "title": "Russia steps up election influence efforts in final stretch of midterms",
+    "category": "Elections",
+    "published_at": "2026-10-23T21:40:02Z",
+    "first_seen_at": "2026-10-24T11:41:00.783895Z",
+    "updated_at": "2026-10-24T11:41:00.783895Z",
+    "sources": [
+      {
+        "title": "Russia steps up election influence efforts in final stretch of midterms",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-23T21:40:02Z",
+        "primary": false,
+        "excerpt": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
