@@ -12615,7 +12615,7 @@
         "excerpt": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13926,5 +13926,1041 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "4b98ea5272fdb459378f",
+    "title": "The rise of AI election ads in US midterms campaign",
+    "category": "Elections",
+    "published_at": "2026-10-24T05:03:44Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "The rise of AI election ads in US midterms campaign",
+        "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-24T05:03:44Z",
+        "primary": false,
+        "excerpt": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "859723a7e2d992d691d4",
+    "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
+    "category": "Elections",
+    "published_at": "2026-10-24T02:00:13Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-24T02:00:13Z",
+        "primary": false,
+        "excerpt": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraudFederal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of Justice said may belong to noncitizens, according to the Los Angeles county registrar and a letter obtained by the Associated Press.The letters are the latest escalation in a legal battle between California and Donald Trump’s Department of Justice, which has recently focused on the state in its efforts to root out noncitizen"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ad6cd9e7e3b2e89f182",
+    "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+    "category": "Elections",
+    "published_at": "2026-10-23T18:30:00Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-23T18:30:00Z",
+        "primary": false,
+        "excerpt": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8b5e23e79f338403bfdb",
+    "title": "WATCH: Trump says he ordered DOJ lawsuit over Alaska Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-23T15:14:18Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "WATCH: Trump says he ordered DOJ lawsuit over Alaska Senate race",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-files-lawsuit-to-block-possible-democratic-win-in-alaska-senate-race",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-23T15:14:18Z",
+        "primary": false,
+        "excerpt": "The lawsuit centers on one of the president's longstanding complaints in the Senate race — the presence of a second candidate named Dan Sullivan who Republicans fear could siphon away votes from the incumbent in what's likely to be a photo-finish contest with Democrat Mary Peltola."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fbc5a92b0de90295c9c4",
+    "title": "The sexual assault scandal rocked gymnastics – but has pace of change in the sport been too slow?",
+    "category": "U.S.",
+    "published_at": "2026-10-24T05:00:25Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "The sexual assault scandal rocked gymnastics – but has pace of change in the sport been too slow?",
+        "url": "https://www.theguardian.com/sport/2026/oct/24/sexual-assault-scandal-rocked-gymnastics-larry-nassar-sport-change-slow",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-24T05:00:25Z",
+        "primary": false,
+        "excerpt": "Former USA team doctor Larry Nassar’s 2018 conviction sparked a global reckoning in gymnastics, yet gymnasts say they are still being let downIt has been 10 years since the Indianapolis Star published allegations of sexual abuse by Larry Nassar, the former team doctor for USA Gymnastics, setting off a chain of events that would lead to a reckoning for the sport. Hundreds of women came forward with their own allegations against Nassar, who also worked at Michigan State University, leading to his conviction and jailing.The exposure of his crimes sparked a wider investigation into how gymnastics "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1334f6710d601d802628",
+    "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+    "category": "World",
+    "published_at": "2026-10-24T05:00:24Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-24T05:00:24Z",
+        "primary": false,
+        "excerpt": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general electionThey chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the crowd that has gathered to hear Gadi Eisenkot, the former general who is the lead opposition challenger in Tuesday’s Israeli election, is a man who is not there. It is the man Eisenkot seeks to replace as prime minister, the man who first served in that role three decades ago and who has held it, on and off, for 19 of th"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c2ce42a8f1ec43431e50",
+    "title": "Brewers survive chaotic ninth-inning replay drama to beat Rays in World Series opener",
+    "category": "U.S.",
+    "published_at": "2026-10-24T03:40:41Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Brewers survive chaotic ninth-inning replay drama to beat Rays in World Series opener",
+        "url": "https://www.theguardian.com/sport/2026/oct/23/brewers-rays-world-series-game-one-christian-yelich",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-24T03:40:41Z",
+        "primary": false,
+        "excerpt": "Brewers claim 3-2 victory in Game 1 of World SeriesYelich triples home a run and scores in first inningMisiorowski and Megill hold off late Rays fightbackTrevor Megill struck out Jonny DeLuca with runners on second and third to escape a ninth-inning jam as the Milwaukee Brewers held on for a 3-2 victory over the Tampa Bay Rays in Game 1 of the World Series on Friday night.DeLuca’s strikeout came after Tampa Bay’s Liam Hicks had grounded into an apparent game-ending double play that was overturned after a video review. Replays showed that Brewers shortstop Cooper Pratt’s right foot was slightly"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "487b26071cce147b0cad",
+    "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
+    "category": "World",
+    "published_at": "2026-10-24T02:52:47Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-24T02:52:47Z",
+        "primary": false,
+        "excerpt": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from MuskJames Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy political influence and declaring: “Texas is not for sale.”Talarico held a campaign rally on Friday at the University of Texas at Austin, packing an auditorium at his alma mater with hundreds of students and other supporters, who cheered, whooped and waved campaign signs. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8360b681ee239812a572",
+    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "category": "Science",
+    "published_at": "2026-10-24T04:05:00Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-24T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d6509d210808bda6f34c",
+    "title": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
+    "category": "U.S.",
+    "published_at": "2026-10-23T17:45:00Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
+        "url": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-23T17:45:00Z",
+        "primary": false,
+        "excerpt": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b7536005cd8f51c7a48d",
+    "title": "Trump administration sues to block certification of upcoming Alaska election",
+    "category": "World",
+    "published_at": "2026-10-23T18:49:14Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Trump administration sues to block certification of upcoming Alaska election",
+        "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-23T18:49:14Z",
+        "primary": false,
+        "excerpt": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+        "ai_editor": {
+          "id": "b7536005cd8f51c7a48d",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Justice Department is seeking to block certification if Sen. Dan Sullivan loses by less than the vote total of another Sullivan on the ballot. It alleges potential voter confusion; the supplied report describes a lawsuit, not a court finding. Alaska’s Supreme Court previously rejected efforts to remove the other candidate.",
+          "evidence_quote": "Previous efforts to remove the other Sullivan, a retired teacher, from the ballot have been rejected",
+          "related_ids": [
+            "8b5e23e79f338403bfdb"
+          ],
+          "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+          "title": "Trump administration sues to block certification of upcoming Alaska election",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o",
+          "group": "8b5e23e79f338403bfdb"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "b7536005cd8f51c7a48d",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Justice Department is seeking to block certification if Sen. Dan Sullivan loses by less than the vote total of another Sullivan on the ballot. It alleges potential voter confusion; the supplied report describes a lawsuit, not a court finding. Alaska’s Supreme Court previously rejected efforts to remove the other candidate.",
+      "evidence_quote": "Previous efforts to remove the other Sullivan, a retired teacher, from the ballot have been rejected",
+      "related_ids": [
+        "8b5e23e79f338403bfdb"
+      ],
+      "reviewed_at": "2026-10-23T16:46:05.794150+00:00",
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o",
+      "group": "8b5e23e79f338403bfdb"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4a2197c94357d90d6400",
+    "title": "News Wrap: White House says Melania Trump brokered localized ceasefire deal in Oleshky",
+    "category": "U.S.",
+    "published_at": "2026-10-23T22:50:35Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "News Wrap: White House says Melania Trump brokered localized ceasefire deal in Oleshky",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-white-house-says-melania-trump-brokered-localized-ceasefire-deal-in-oleshky",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T22:50:35Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, the White House says Melania Trump brokered a localized ceasefire deal in the Ukrainian city of Oleshky, Romania's president blamed Russia for a drone strike that sank a cargo ship in the Black Sea and Israeli Prime Minister Netanyahu ordered the army there to prepare for a full closure of the occupied West Bank."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c8e6e831fd9bb9989d4",
+    "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
+    "category": "World",
+    "published_at": "2026-10-24T01:21:26Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-24T01:21:26Z",
+        "primary": false,
+        "excerpt": "Defense secretary Pete Hegseth alleges Confucius Institutes operating in disguise on US university campusesThe ⁠US defense department has designated Chinese-funded cultural centers on university campuses ⁠known as Confucius ⁠Institutes ​as a threat to US national security, defense secretary Pete ⁠Hegseth said on Friday.Washington has long accused Confucius Institutes of being Chinese propaganda ⁠tools and has taken steps to ​crack down on them. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7b5791c482a420ea5d8b",
+    "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+    "category": "U.S.",
+    "published_at": "2026-10-23T19:31:15Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-23T19:31:15Z",
+        "primary": false,
+        "excerpt": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6e021d913e165294aecd",
+    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "category": "U.S.",
+    "published_at": "2026-10-24T00:36:47Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-24T00:36:47Z",
+        "primary": false,
+        "excerpt": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "ai_editor": {
+          "id": "6e021d913e165294aecd",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The White House says selected Canadian goods will receive tariff relief starting October 30, while other products face new tariffs. Sen. Susan Collins says she sought exemptions benefiting Maine agriculture; the announcement comes shortly before the midterms.",
+          "evidence_quote": "Starting on 30 October, tariffs will be eased on products",
+          "related_ids": [],
+          "reviewed_at": "2026-10-24T01:48:47.100905+00:00",
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "6e021d913e165294aecd",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The White House says selected Canadian goods will receive tariff relief starting October 30, while other products face new tariffs. Sen. Susan Collins says she sought exemptions benefiting Maine agriculture; the announcement comes shortly before the midterms.",
+      "evidence_quote": "Starting on 30 October, tariffs will be eased on products",
+      "related_ids": [],
+      "reviewed_at": "2026-10-24T01:48:47.100905+00:00",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "40ebfe23495bcfafd1ac",
+    "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
+    "category": "U.S.",
+    "published_at": "2026-10-23T20:16:57Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
+        "url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T20:16:57Z",
+        "primary": false,
+        "excerpt": "The agency regularly monitors polling places. But this year's effort on Nov. 3 will more than double the number of federal monitors deployed during the 2022 midterms.",
+        "ai_editor": {
+          "id": "40ebfe23495bcfafd1ac",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-10-24T01:48:47.100905+00:00",
+          "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "40ebfe23495bcfafd1ac",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-24T01:48:47.100905+00:00",
+      "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a35c4f32043074cb4804",
+    "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+    "category": "U.S.",
+    "published_at": "2026-10-23T12:41:39Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+        "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-23T12:41:39Z",
+        "primary": false,
+        "excerpt": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0863c6dfb7a3dc8782bd",
+    "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
+    "category": "U.S.",
+    "published_at": "2026-10-23T18:56:29Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
+        "url": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T18:56:29Z",
+        "primary": false,
+        "excerpt": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "582e5b4faf3ef7608407",
+    "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+    "category": "U.S.",
+    "published_at": "2026-10-23T15:24:35Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-23T15:24:35Z",
+        "primary": false,
+        "excerpt": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "33de1911df5750d2d4e0",
+    "title": "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules",
+    "category": "U.S.",
+    "published_at": "2026-10-23T08:41:38Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012695/trump-must-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-judge-rules",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-23T08:41:38Z",
+        "primary": false,
+        "excerpt": "A magistrate judge orders President Trump to sit for a deposition in a case he's brought against the BBC for defamation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "69430866457a4200a420",
+    "title": "Trump administration offers mixed messages on limits to Ukraine's Starshield access",
+    "category": "U.S.",
+    "published_at": "2026-10-23T16:36:07Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Trump administration offers mixed messages on limits to Ukraine's Starshield access",
+        "url": "https://www.pbs.org/newshour/world/trump-administration-offers-mixed-messages-on-limits-to-ukraines-starshield-access",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T16:36:07Z",
+        "primary": false,
+        "excerpt": "Recent efforts to throttle Ukraine's access to satellite systems have created a blame game of sorts among Trump administration officials and their allies, who have offered mixed messages about what led to the sudden restrictions on Kyiv's ability to intercept Russian strikes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a02e8056ff53dd8f2b4d",
+    "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
+    "category": "U.S.",
+    "published_at": "2026-10-23T19:46:51Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-23T19:46:51Z",
+        "primary": false,
+        "excerpt": "Trump justice department claims there could be ‘confusion’ about two Republicans on the ballot named Dan SullivanDonald Trump said he ordered the justice department to file a lawsuit to block the certification of Alaska’s US Senate results if the Republican incumbent loses, a move that voting rights experts called an “unprecedented intervention” by the federal government with control of Congress in the balance.“I’m the one that said do it,” the president told reporters as he landed in Florida for a campaign rally on Friday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "464c8d092f4329e287ac",
+    "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "category": "World",
+    "published_at": "2026-10-23T20:18:13Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+        "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-23T20:18:13Z",
+        "primary": false,
+        "excerpt": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "759e14c20a684a4b31d6",
+    "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+    "category": "World",
+    "published_at": "2026-10-23T10:36:15Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-23T10:36:15Z",
+        "primary": false,
+        "excerpt": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "235b5642d43137126bd6",
+    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+    "category": "World",
+    "published_at": "2026-10-24T02:22:32Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+        "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-24T02:22:32Z",
+        "primary": false,
+        "excerpt": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelledTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast.Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA). Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6457775024a112732cc1",
+    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+    "category": "World",
+    "published_at": "2026-10-23T17:22:11Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+        "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T17:22:11Z",
+        "primary": false,
+        "excerpt": "Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfightIsrael has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoint outside the city.Benjamin Netanyahu announced a siege on Hebron and neighbouring Halhul and said residents of the gunmen’s home neighbourhoods would all be forced out. He promised mass demolitions of homes. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "122682f064c9f7c66c2c",
+    "title": "US and Israel are warned against launching fresh strikes on Iran",
+    "category": "World",
+    "published_at": "2026-10-23T17:18:34Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "US and Israel are warned against launching fresh strikes on Iran",
+        "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T17:18:34Z",
+        "primary": false,
+        "excerpt": "Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisisForeign ministers at a summit of eight European and Middle Eastern countries have urged the US and Israel not to renews their attacks on Iran, warning a fresh outbreak of fighting would spread conflict and push oil prices even higher.The development of a new multinational “anti-war bloc” represents a challenge to the increasingly open plans by the US and Israel to relaunch strikes on Iran while talks on Tehran’s nuclear programme remain deadlocked. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1d17155788833fd03f86",
+    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+    "category": "World",
+    "published_at": "2026-10-23T16:48:28Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T16:48:28Z",
+        "primary": false,
+        "excerpt": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "44dd36b0bc691377315b",
+    "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+    "category": "World",
+    "published_at": "2026-10-23T16:10:34Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-23T16:10:34Z",
+        "primary": false,
+        "excerpt": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weedsThe White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a statement on Friday, the White House said both sides had agreed to halt all military operations in the city from 27 October to allow humanitarian aid deliveries and preparations for the evacuation of civilians. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d6ee8630509cbb98babd",
+    "title": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
+    "category": "U.S.",
+    "published_at": "2026-10-23T16:00:00Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
+        "url": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-23T16:00:00Z",
+        "primary": false,
+        "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e62f40ff6058fad35c3a",
+    "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+    "category": "U.S.",
+    "published_at": "2026-10-23T09:00:00Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+        "url": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-23T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "286ae822823c45e3e587",
+    "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+    "category": "U.S.",
+    "published_at": "2026-10-24T00:40:42Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-24T00:40:42Z",
+        "primary": false,
+        "excerpt": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "227505a677580c78b05b",
+    "title": "Rollins says USDA is 'full-bore ahead' on Forest Service reorganization",
+    "category": "U.S.",
+    "published_at": "2026-10-23T23:52:37Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Rollins says USDA is 'full-bore ahead' on Forest Service reorganization",
+        "url": "https://www.pbs.org/newshour/politics/rollins-says-usda-is-full-bore-ahead-on-forest-service-reorganization",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T23:52:37Z",
+        "primary": false,
+        "excerpt": "The Trump administration wants to move Forest Service headquarters from Washington to Salt Lake City, shutter 23 research stations, and close many regional offices and replace them with state offices."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7aad93f0705f416fa90e",
+    "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+    "category": "U.S.",
+    "published_at": "2026-10-23T22:47:07Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-23T22:47:07Z",
+        "primary": false,
+        "excerpt": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d34a339e478fb1d63270",
+    "title": "Treasury proposes rule to curb high-tech investments in China and other adversaries",
+    "category": "U.S.",
+    "published_at": "2026-10-23T23:19:32Z",
+    "first_seen_at": "2026-10-24T05:42:20.969292Z",
+    "updated_at": "2026-10-24T05:42:20.969292Z",
+    "sources": [
+      {
+        "title": "Treasury proposes rule to curb high-tech investments in China and other adversaries",
+        "url": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-23T23:19:32Z",
+        "primary": false,
+        "excerpt": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other \"countries of concern.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
