@@ -15107,6 +15107,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0dcf5e5574600150d136",
+    "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+    "category": "Elections",
+    "published_at": "2026-10-24T09:00:28Z",
+    "first_seen_at": "2026-10-24T10:41:20.011725Z",
+    "updated_at": "2026-10-24T10:41:20.011725Z",
+    "sources": [
+      {
+        "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-24T09:00:28Z",
+        "primary": false,
+        "excerpt": "Vice-president’s visibility has risen as Trump’s popularity wanes, but path to inherit Maga throne is more complicated than it may seemA day after JD Vance suggested Donald Trump would endorse him if he runs for president, the vice-president shifted awkwardly in the Oval Office as his boss was asked about the remark.“He’s a very talented person, and he’s a very good person,” Trump said of the man standing behind him, with a forced smile this week. “But we’ve literally – I don’t think we’ve ever talked about,” the president claimed, leaving the assertion unconfirmed. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
