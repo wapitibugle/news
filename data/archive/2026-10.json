@@ -13483,7 +13483,7 @@
         "excerpt": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosedThe Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.From next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy of poorer patients either forgoing treatment, selling land or falling into debt to meet the high cost of some medicines, which are making large profits for hospitals and pharmacists. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -15017,6 +15017,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2f85a91b545e153ef535",
+    "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+    "category": "U.S.",
+    "published_at": "2026-10-24T07:04:13Z",
+    "first_seen_at": "2026-10-24T07:43:23.475895Z",
+    "updated_at": "2026-10-24T07:43:23.475895Z",
+    "sources": [
+      {
+        "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+        "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-24T07:04:13Z",
+        "primary": false,
+        "excerpt": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
