@@ -16926,7 +16926,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2d09be0be4ed9d273fda",
@@ -16953,7 +16954,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1a02eeec2c6f318a44f2",
@@ -16980,7 +16982,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "517d1048cb110599df40",
@@ -16998,6 +17001,34 @@
         "published_at": "2026-10-25T10:00:00Z",
         "primary": false,
         "excerpt": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5e6b2ecf01122be9cb3c",
+    "title": "How to build a police state | William Wheeler",
+    "category": "U.S.",
+    "published_at": "2026-10-25T13:00:03Z",
+    "first_seen_at": "2026-10-25T13:40:41.357270Z",
+    "updated_at": "2026-10-25T13:40:41.357270Z",
+    "sources": [
+      {
+        "title": "How to build a police state | William Wheeler",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-25T13:00:03Z",
+        "primary": false,
+        "excerpt": "To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib BukeleOne afternoon last year, Donald Trump welcomed “a friend” to the White House – El Salvador’s Nayib Bukele, the world’s most popular authoritarian. “I knew him as a very young man,” the US president said before the cameras. “He’s done a fantastic job. Mr President, it’s an honor to have you.”Since March 2022, when gangs in El Salvador murdered 87 people over a weekend, Bukele has maintained a state of emergency in which key civil liberties are suspende"
       }
     ],
     "tier": "brief",
