@@ -16583,7 +16583,7 @@
         "excerpt": "Editor in Chief Nancy Shute discusses the power of the human voice, hopeful advances in treating stiff person syndrome and new controversy about using AI in mathematics."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -16805,6 +16805,88 @@
         "published_at": "2026-10-25T10:00:02Z",
         "primary": false,
         "excerpt": "Democratic and independent candidates stump the US midwest and prairie states, hoping to win over Republican strongholdsIn this final stretch of the US midterm elections, Democrats and independents could win back communities and towns across America’s rural heartlands through a combination of resurgent “prairie populism”, local despair over the impact of Donald Trump’s agenda and an old-fashioned tenet of shoe-leather politics: showing up everywhere.When Dan Osborn rolled into one of the most rural counties in Nebraska earlier this month, he started walking into businesses in the tiny main dra"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "762ce20814ba756438cf",
+    "title": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+    "category": "Elections",
+    "published_at": "2026-10-25T11:00:02Z",
+    "first_seen_at": "2026-10-25T11:40:28.488411Z",
+    "updated_at": "2026-10-25T11:40:28.488411Z",
+    "sources": [
+      {
+        "title": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-25T11:00:02Z",
+        "primary": false,
+        "excerpt": "James Blair’s data-driven approach delivered victory in 2024 but president’s unpopularity and idiosyncratic style do not bode well this timeThey are both young, bald and fathers of four. They are also the brains behind Donald Trump. But while Stephen Miller is infamous as the US president’s ideological enforcer, James Blair could, in the words of Time magazine, “be the most important person in Donald Trump’s Washington you’ve never heard of”.That imbalance is deceptive, however. Blair has sufficiently impressed Trump to earn the nickname “Brilliant James”. And a well-positioned source told the"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b7e04f9be95fc98c2fe4",
+    "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+    "category": "World",
+    "published_at": "2026-10-25T11:00:02Z",
+    "first_seen_at": "2026-10-25T11:40:28.488411Z",
+    "updated_at": "2026-10-25T11:40:28.488411Z",
+    "sources": [
+      {
+        "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-25T11:00:02Z",
+        "primary": false,
+        "excerpt": "Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effectEnrollment in the Supplemental Nutrition Assistance Program (Snap) has decreased significantly over the past year in the US following restrictions imposed by the Trump administration, which has forced more people to seek help from food banks or go hungry, stakeholders say.The number of people who receive food stamps has dropped from 41.6 million in July 2025, before the One Big Beautiful Act took effect, to 36.5 million in June 2026, a 13% decrease, according to the latest data from the US Depa"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c603104c41fb0a588650",
+    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+    "category": "U.S.",
+    "published_at": "2026-10-25T11:24:58Z",
+    "first_seen_at": "2026-10-25T11:40:28.488411Z",
+    "updated_at": "2026-10-25T11:40:28.488411Z",
+    "sources": [
+      {
+        "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+        "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-25T11:24:58Z",
+        "primary": false,
+        "excerpt": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset."
       }
     ],
     "tier": "brief",
