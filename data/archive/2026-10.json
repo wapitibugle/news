@@ -16786,6 +16786,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b95d9364e510aefa1e4d",
+    "title": "‘Talking to every single person matters’: ‘prairie populists’ canvass the rural US heartland to win in midterms",
+    "category": "Elections",
+    "published_at": "2026-10-25T10:00:02Z",
+    "first_seen_at": "2026-10-25T10:41:07.727492Z",
+    "updated_at": "2026-10-25T10:41:07.727492Z",
+    "sources": [
+      {
+        "title": "‘Talking to every single person matters’: ‘prairie populists’ canvass the rural US heartland to win in midterms",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-25T10:00:02Z",
+        "primary": false,
+        "excerpt": "Democratic and independent candidates stump the US midwest and prairie states, hoping to win over Republican strongholdsIn this final stretch of the US midterm elections, Democrats and independents could win back communities and towns across America’s rural heartlands through a combination of resurgent “prairie populism”, local despair over the impact of Donald Trump’s agenda and an old-fashioned tenet of shoe-leather politics: showing up everywhere.When Dan Osborn rolled into one of the most rural counties in Nebraska earlier this month, he started walking into businesses in the tiny main dra"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
