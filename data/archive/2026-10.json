@@ -17038,6 +17038,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1989a3464cfd8c0ed4a5",
+    "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+    "category": "Elections",
+    "published_at": "2026-10-25T14:35:09Z",
+    "first_seen_at": "2026-10-25T14:40:33.694063Z",
+    "updated_at": "2026-10-25T14:40:33.694063Z",
+    "sources": [
+      {
+        "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+        "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-25T14:35:09Z",
+        "primary": false,
+        "excerpt": "Obama remains the Democratic Party's best motivator nearly a decade after leaving the White House. And he's taking his star power on the road in the final days of the midterm elections, which will help determine the balance of power in American politics on Nov. 3."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e00ec80248dadd37ebf4",
+    "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
+    "category": "U.S.",
+    "published_at": "2026-10-25T14:16:37Z",
+    "first_seen_at": "2026-10-25T14:40:33.694063Z",
+    "updated_at": "2026-10-25T14:40:33.694063Z",
+    "sources": [
+      {
+        "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-25T14:16:37Z",
+        "primary": false,
+        "excerpt": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlierA man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the highway.Alyssa Wilson, 17, was shot and killed as she drove down Interstate 170 in Overland, Missouri, on 14 October. The teen was on her way to a Halloween party at St Louis Zoo, called Boo at the Zoo, when a suspect fired a single shot into the back of Wilson’s Buick Encore. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
