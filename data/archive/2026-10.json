@@ -15072,7 +15072,7 @@
         "excerpt": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -15597,7 +15597,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86b9cd1edccbbfd4b90b",
@@ -15624,7 +15625,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e8468a3d976b7a037780",
@@ -15651,7 +15653,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "04f3bd642c46b0c42226",
@@ -15678,7 +15681,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72802e646fb4b99a235f",
@@ -15734,7 +15738,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4d5e52cf2ccc8bf7c61a",
@@ -15761,7 +15766,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "80cc172a909493aa6b7d",
@@ -15817,7 +15823,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1f6258bca171e5fea12a",
@@ -15844,7 +15851,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ef3479ff7eb2d75b9fd",
@@ -15871,7 +15879,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7d8558df6ba982bc2281",
@@ -15898,7 +15907,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "077396b23a98de669837",
@@ -15925,7 +15935,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "be50c6766703c13ad6f7",
@@ -15952,7 +15963,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "926fcd6d1d5b5749ad72",
@@ -15979,7 +15991,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "879f5568c6b1ab361127",
@@ -16006,7 +16019,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "666f5eaf49bbf319c198",
@@ -16033,7 +16047,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2c09084d43e34df4f2f7",
@@ -16089,7 +16104,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "34577aaac7d0a60937df",
@@ -16116,7 +16132,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a579ea488c181a448b9a",
@@ -16143,7 +16160,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b439647212e6e2fc9f36",
@@ -16170,7 +16188,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c1d44ee3e562a6a4c360",
@@ -16197,7 +16216,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c82d4c2fb894a357575d",
@@ -16224,7 +16244,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d4f305f0f7f002cdb557",
@@ -16251,7 +16272,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f82f6495e3cb4d9a6b98",
@@ -16278,7 +16300,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5fe105728dcc6fd2327e",
@@ -16305,7 +16328,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "814b472dc544ebdd2a2b",
@@ -16332,7 +16356,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a1f5fac839a4b34f941b",
@@ -16359,7 +16384,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7bf824d6910514a6216a",
@@ -16415,7 +16441,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aa2c3b3a25bd9a23025b",
@@ -16442,7 +16469,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "97677e7897f02058145f",
@@ -16469,7 +16497,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7882edc0a8e9c8c799b4",
@@ -16496,7 +16525,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86dc8704a4a77347ff78",
@@ -16523,7 +16553,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bebc136f5e800d1b6e3d",
@@ -16550,7 +16581,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7ba9e85f5ffae357fe7c",
@@ -16577,7 +16609,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ab41ea1975a15ceb1e76",
@@ -16604,7 +16637,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "391d880c63c0160258b2",
@@ -16625,6 +16659,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "dbae4e96ceadf1c9a20f",
+    "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+    "category": "World",
+    "published_at": "2026-10-25T05:45:31Z",
+    "first_seen_at": "2026-10-25T06:51:35.891647Z",
+    "updated_at": "2026-10-25T06:51:35.891647Z",
+    "sources": [
+      {
+        "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-25T05:45:31Z",
+        "primary": false,
+        "excerpt": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
