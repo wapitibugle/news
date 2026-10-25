@@ -16611,7 +16611,7 @@
         "excerpt": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -16842,7 +16842,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b7e04f9be95fc98c2fe4",
@@ -16869,7 +16870,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c603104c41fb0a588650",
@@ -16887,6 +16889,115 @@
         "published_at": "2026-10-25T11:24:58Z",
         "primary": false,
         "excerpt": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3f950d451db2905dc323",
+    "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+    "category": "Elections",
+    "published_at": "2026-10-25T12:06:29Z",
+    "first_seen_at": "2026-10-25T12:48:48.158160Z",
+    "updated_at": "2026-10-25T12:48:48.158160Z",
+    "sources": [
+      {
+        "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-25T12:06:29Z",
+        "primary": false,
+        "excerpt": "If you look at the few truly competitive seats, polls show a more complicated picture of momentum toward the Democratic Party in midterm House races. For the Senate, Republicans are on defense."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2d09be0be4ed9d273fda",
+    "title": "Democrats see an opportunity to tilt Pennsylvania's state legislature their way",
+    "category": "U.S.",
+    "published_at": "2026-10-25T12:06:25Z",
+    "first_seen_at": "2026-10-25T12:48:48.158160Z",
+    "updated_at": "2026-10-25T12:48:48.158160Z",
+    "sources": [
+      {
+        "title": "Democrats see an opportunity to tilt Pennsylvania's state legislature their way",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6003880/democrats-see-an-opportunity-to-tilt-pennsylvanias-state-legislature-their-way",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-25T12:06:25Z",
+        "primary": false,
+        "excerpt": "Statehouse elections this fall could swing the balance of power in state capitals. In Pennsylvania, Democrats could take control of what has been a divided legislature."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1a02eeec2c6f318a44f2",
+    "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+    "category": "U.S.",
+    "published_at": "2026-10-25T12:00:03Z",
+    "first_seen_at": "2026-10-25T12:48:48.158160Z",
+    "updated_at": "2026-10-25T12:48:48.158160Z",
+    "sources": [
+      {
+        "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-25T12:00:03Z",
+        "primary": false,
+        "excerpt": "State veterinarian attempted to get help from federal government but was told USDA didn’t regulate mink farmsAn outbreak of bird flu at a mink farm in Utah – and the response from its owner and regulators – have sparked concerns from infectious disease experts about the Trump administration’s ability to manage such viruses.While the mink becoming sick is unlikely to produce a “tidal wave of human infections”, an apparent lack of transparency from government officials about the infections is very troubling, said Jennifer Nuzzo, an epidemiology professor and director of the pandemic center at Br"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "517d1048cb110599df40",
+    "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+    "category": "U.S.",
+    "published_at": "2026-10-25T10:00:00Z",
+    "first_seen_at": "2026-10-25T12:48:48.158160Z",
+    "updated_at": "2026-10-25T12:48:48.158160Z",
+    "sources": [
+      {
+        "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
       }
     ],
     "tier": "brief",
