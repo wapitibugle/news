@@ -15860,7 +15860,7 @@
     "category": "U.S.",
     "published_at": "2026-10-24T19:50:31Z",
     "first_seen_at": "2026-10-25T05:40:42.020075Z",
-    "updated_at": "2026-10-25T05:40:42.020075Z",
+    "updated_at": "2026-10-25T07:45:04.586569Z",
     "sources": [
       {
         "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
@@ -15870,6 +15870,15 @@
         "published_at": "2026-10-24T19:50:31Z",
         "primary": false,
         "excerpt": "The demonstration in Milan remained peaceful, but there were brief clashes with police in both Rome and Turin."
+      },
+      {
+        "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-25T07:15:00Z",
+        "primary": false,
+        "excerpt": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
       }
     ],
     "tier": "brief",
@@ -16630,7 +16639,7 @@
         "excerpt": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk BroadsPolluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk Broads, have now scored a hat-trick of landmark legal victories to save an internationally important wetland after they won again in the high court this month.Lady Justice Lieven found that Natural England failed in its statutory duty to protect Catfield Fen from pollution after nitrate"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -16684,6 +16693,34 @@
         "published_at": "2026-10-25T05:45:31Z",
         "primary": false,
         "excerpt": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fb58b8073e648ab3ed3a",
+    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "category": "World",
+    "published_at": "2026-10-25T05:15:52Z",
+    "first_seen_at": "2026-10-25T07:45:04.586569Z",
+    "updated_at": "2026-10-25T07:45:04.586569Z",
+    "sources": [
+      {
+        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+        "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-25T05:15:52Z",
+        "primary": false,
+        "excerpt": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
       }
     ],
     "tier": "brief",
