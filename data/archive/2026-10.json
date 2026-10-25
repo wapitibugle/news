@@ -16758,6 +16758,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d0d7efd77349885ad95f",
+    "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+    "category": "Elections",
+    "published_at": "2026-10-25T09:00:00Z",
+    "first_seen_at": "2026-10-25T09:41:53.028816Z",
+    "updated_at": "2026-10-25T09:41:53.028816Z",
+    "sources": [
+      {
+        "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-25T09:00:00Z",
+        "primary": false,
+        "excerpt": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
