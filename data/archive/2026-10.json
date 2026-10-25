@@ -16730,6 +16730,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1274cfcb90c20a7da494",
+    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "category": "World",
+    "published_at": "2026-10-25T08:15:24Z",
+    "first_seen_at": "2026-10-25T08:42:43.398615Z",
+    "updated_at": "2026-10-25T08:42:43.398615Z",
+    "sources": [
+      {
+        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-25T08:15:24Z",
+        "primary": false,
+        "excerpt": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
