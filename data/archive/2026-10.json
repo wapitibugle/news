@@ -18519,6 +18519,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "55a1d8772ca656673046",
+    "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+    "category": "World",
+    "published_at": "2026-10-26T07:40:57Z",
+    "first_seen_at": "2026-10-26T07:59:34.820615Z",
+    "updated_at": "2026-10-26T07:59:34.820615Z",
+    "sources": [
+      {
+        "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-26T07:40:57Z",
+        "primary": false,
+        "excerpt": "The highly secretive four-day Plenum starts Monday in Beijing."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
