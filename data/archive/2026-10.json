@@ -18575,6 +18575,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "903ec736b0126acc31fc",
+    "title": "What are the US midterm elections and why do they matter?",
+    "category": "Elections",
+    "published_at": "2026-10-26T09:00:27Z",
+    "first_seen_at": "2026-10-26T09:54:17.152227Z",
+    "updated_at": "2026-10-26T09:54:17.152227Z",
+    "sources": [
+      {
+        "title": "What are the US midterm elections and why do they matter?",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-26T09:00:27Z",
+        "primary": false,
+        "excerpt": "On 3 November, US citizens will decide whether Republicans will retain control of Congress or whether Democrats will come to power to stymie Trump’s agendaDonald Trump will still be US president on the morning of 4 November. But he could be facing a very different political landscape, depending on the results of the US midterm elections held the previous day.As the name implies, midterm elections fall nearly halfway through a president’s term. They are often a telling referendum on the sitting president’s performance, something Trump is actively encouraging by telling voters “pretend I’m on th"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
