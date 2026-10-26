@@ -18631,6 +18631,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "413fb5569da42d9c03b7",
+    "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+    "category": "Elections",
+    "published_at": "2026-10-26T11:11:00Z",
+    "first_seen_at": "2026-10-26T12:38:25.581107Z",
+    "updated_at": "2026-10-26T12:38:25.581107Z",
+    "sources": [
+      {
+        "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+        "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-26T11:11:00Z",
+        "primary": false,
+        "excerpt": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "659f32db019a965313c3",
+    "title": "Political consultant on the impact of Republicans' gerrymandering efforts",
+    "category": "Elections",
+    "published_at": "2026-10-26T10:46:25Z",
+    "first_seen_at": "2026-10-26T12:38:25.581107Z",
+    "updated_at": "2026-10-26T12:38:25.581107Z",
+    "sources": [
+      {
+        "title": "Political consultant on the impact of Republicans' gerrymandering efforts",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6016194/political-consultant-on-the-impact-of-republicans-gerrymandering-efforts",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-26T10:46:25Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel speaks with political consultant Mike Madrid about how Republicans' gerrymandering efforts have backfired."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
