@@ -18603,6 +18603,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9e92d35a7b88d56c0704",
+    "title": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+    "category": "Elections",
+    "published_at": "2026-10-26T10:00:00Z",
+    "first_seen_at": "2026-10-26T10:50:35.451763Z",
+    "updated_at": "2026-10-26T10:50:35.451763Z",
+    "sources": [
+      {
+        "title": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+        "url": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-10-26T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
