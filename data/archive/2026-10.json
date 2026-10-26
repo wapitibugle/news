@@ -18547,6 +18547,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6fe9a58d837ef61572cd",
+    "title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+    "category": "Health",
+    "published_at": "2026-10-26T08:42:43Z",
+    "first_seen_at": "2026-10-26T08:54:31.045920Z",
+    "updated_at": "2026-10-26T08:54:31.045920Z",
+    "sources": [
+      {
+        "title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6013568/mercks-melanoma-vaccine-trial-shows-reduced-recurrence-or-death-from-skin-cancer",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-10-26T08:42:43Z",
+        "primary": false,
+        "excerpt": "Merck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
