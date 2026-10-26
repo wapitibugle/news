@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26T03:46:11.843897Z",
+  "collected_at": "2026-10-26T04:45:40.912830Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -43,7 +43,8 @@
     },
     {
       "feed": "NASA",
-      "ok": true
+      "ok": false,
+      "error": "HTTPError"
     },
     {
       "feed": "NPR World",
