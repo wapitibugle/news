@@ -18780,7 +18780,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b91c111b3c41de893c3e",
@@ -18807,7 +18808,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d2ea62fb459b8dc749a9",
@@ -18825,6 +18827,88 @@
         "published_at": "2026-10-26T15:05:34Z",
         "primary": false,
         "excerpt": "Two bishops express regret after the White House posts photos and video of a prayer with them in the Oval OfficeTwo Catholic bishops who bowed their heads with Donald Trump in the Oval Office now say they regret it, accusing the White House of turning a private prayer into a campaign photo opportunity before next week’s US elections.Archbishop Jeffrey Grob of Milwaukee and bishop William Joensen of Des Moines, who were among the 12 bishops who met administration officials last Thursday, issued separate statements of regret over the weekend. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2cad39b5332d62820722",
+    "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-26T15:46:04Z",
+    "first_seen_at": "2026-10-26T16:54:52.008063Z",
+    "updated_at": "2026-10-26T16:54:52.008063Z",
+    "sources": [
+      {
+        "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-26T15:46:04Z",
+        "primary": false,
+        "excerpt": "The BBC's Sarah Smith asks Democrat Abdul El-Sayed why polls suggest his contest against Republican Mike Rogers is so close."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c1ddff7cb393fd4cc006",
+    "title": "Maurene Comey was illegally fired as federal prosecutor, judge rules",
+    "category": "U.S.",
+    "published_at": "2026-10-26T16:31:05Z",
+    "first_seen_at": "2026-10-26T16:54:52.008063Z",
+    "updated_at": "2026-10-26T16:54:52.008063Z",
+    "sources": [
+      {
+        "title": "Maurene Comey was illegally fired as federal prosecutor, judge rules",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-26T16:31:05Z",
+        "primary": false,
+        "excerpt": "Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praisedMaurene Comey, the daughter of the former FBI director James Comey, was unlawfully fired from her job as a federal prosecutor in New York last year, a federal judge ruled on Monday.Judge Jesse Furman said that Comey, who was an assistant US attorney for a decade, was illegally fired in July 2025 despite her work on some of the nation’s highest-profile cases and consistently receiving “the highest accolades from supervisors and peers alike”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "88f4b748f1fd8a8c5e3a",
+    "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+    "category": "World",
+    "published_at": "2026-10-26T14:03:06Z",
+    "first_seen_at": "2026-10-26T16:54:52.008063Z",
+    "updated_at": "2026-10-26T16:54:52.008063Z",
+    "sources": [
+      {
+        "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+        "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-26T14:03:06Z",
+        "primary": false,
+        "excerpt": "Senior officials from Saudi Arabia, Pakistan and Turkey travel to Tehran as bellicose rhetoric heightensHigh-level diplomatic delegations from Saudi Arabia, Turkey and Pakistan have travelled to Tehran in an attempt to prevent renewed fighting between Iran and the US and Israel as rhetoric sharpens on both sides.Security officials and diplomats at Monday’s meeting were expected to discuss how Iran could persuade the Houthis in Yemen to end their crippling missile and drone attacks on infrastructure in Saudi Arabia. With fighting raging across Yemen, the Houthis claimed to have closed Riyadh ai"
       }
     ],
     "tier": "brief",
