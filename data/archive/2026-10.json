@@ -18724,7 +18724,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2ce28fb14e335c30d030",
@@ -18742,6 +18743,88 @@
         "published_at": "2026-10-26T14:29:25Z",
         "primary": false,
         "excerpt": "The effort among Democratic and nonprofit groups includes training volunteers to stand watch outside polling places and report activities they consider concerning."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "aa1f50310729d48cbf68",
+    "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
+    "category": "Elections",
+    "published_at": "2026-10-26T13:53:18Z",
+    "first_seen_at": "2026-10-26T16:12:33.083645Z",
+    "updated_at": "2026-10-26T16:12:33.083645Z",
+    "sources": [
+      {
+        "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-26T13:53:18Z",
+        "primary": false,
+        "excerpt": "Mary Peltola, who suffered minor injuries, is running in one of the most closely watched races in the upcoming elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b91c111b3c41de893c3e",
+    "title": "Trump promised to stop inflation. Now Republicans may pay the price in the midterm elections",
+    "category": "Elections",
+    "published_at": "2026-10-26T15:27:02Z",
+    "first_seen_at": "2026-10-26T16:12:33.083645Z",
+    "updated_at": "2026-10-26T16:12:33.083645Z",
+    "sources": [
+      {
+        "title": "Trump promised to stop inflation. Now Republicans may pay the price in the midterm elections",
+        "url": "https://www.pbs.org/newshour/politics/trump-promised-to-stop-inflation-now-republicans-may-pay-the-price-in-the-midterm-elections",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-26T15:27:02Z",
+        "primary": false,
+        "excerpt": "Voters blame Trump, pointing to the Republican president's tariff policies and the war he started with Iran."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d2ea62fb459b8dc749a9",
+    "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+    "category": "World",
+    "published_at": "2026-10-26T15:05:34Z",
+    "first_seen_at": "2026-10-26T16:12:33.083645Z",
+    "updated_at": "2026-10-26T16:12:33.083645Z",
+    "sources": [
+      {
+        "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-26T15:05:34Z",
+        "primary": false,
+        "excerpt": "Two bishops express regret after the White House posts photos and video of a prayer with them in the Oval OfficeTwo Catholic bishops who bowed their heads with Donald Trump in the Oval Office now say they regret it, accusing the White House of turning a private prayer into a campaign photo opportunity before next week’s US elections.Archbishop Jeffrey Grob of Milwaukee and bishop William Joensen of Des Moines, who were among the 12 bishops who met administration officials last Thursday, issued separate statements of regret over the weekend. Continue reading..."
       }
     ],
     "tier": "brief",
