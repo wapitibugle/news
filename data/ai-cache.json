@@ -2575,5 +2575,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/world/israel-presses-ahead-with-west-bank-operation-as-election-approaches",
     "group": ""
+  },
+  "d204da8056420c9c3c855c603bce1d740d28796469edd6bb87dcbfc31893c340": {
+    "id": "ff852a54a4eb688bfb34",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "DOJ demanded California counties set aside ballots tied to suspected noncitizens and provide sensitive voter data within 48 hours. California officials dispute the list’s accuracy; a Los Angeles County court filing said nearly four in ten people in a preliminary 200-name sample were US-born. The allegations do not establish that those listed voted illegally.",
+    "evidence_quote": "nearly 4 in 10 were born in the United States.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots",
+    "group": ""
+  },
+  "4533c20780d1fb3595eff257ee2fc5a7f355c29e6afcd354ea7e3f8f029f2cf3": {
+    "id": "b95d9364e510aefa1e4d",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic and independent candidates are campaigning in rural Republican strongholds on economic populism, farm concerns and opposition to corporate influence. This reported campaign feature describes their strategy, not polling evidence that rural voters are shifting.",
+    "evidence_quote": "Osborn is touring all 93 counties in the state before election day",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "‘Prairie Populists’ fight to win back rural voters long ceded to Republicans",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+    "group": ""
+  },
+  "f0950cb5c6099677218f528b224b75e9a2860423fd7b21756ad866ccf04879e9": {
+    "id": "1989a3464cfd8c0ed4a5",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "dbf108630aaa5f0e528b"
+    ],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+    "group": "1989a3464cfd8c0ed4a5"
+  },
+  "2c3220233794eeaf6f5abf0ebf5bc8464a4e2dadea8742b7af7b262c3ddb31b7": {
+    "id": "3f950d451db2905dc323",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
+    "group": ""
+  },
+  "f5c852e170495f7c1b4205ff70de5fd543c6b099e475e2b85f89aea179dc7568": {
+    "id": "d0d7efd77349885ad95f",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+    "group": ""
+  },
+  "297a6db626864c27127bb310d6716fe57fae6b104cf9ebaa714758ba18057397": {
+    "id": "dbf108630aaa5f0e528b",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "Coverage of the same Obama campaign appearances also reports Trump’s Georgia rally, where he promoted tariffs and immigration policies and repeated a conditional promise of $5,000 payments to American adults. The article does not establish funding or implementation details for that pledge.",
+    "evidence_quote": "repeated his pledge to offer every adult American a $5,000 (£3,700) payout if Republicans win both chambers of Congress.",
+    "related_ids": [
+      "1989a3464cfd8c0ed4a5"
+    ],
+    "reviewed_at": "2026-10-26T01:05:36.978988+00:00",
+    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+    "group": "1989a3464cfd8c0ed4a5"
   }
 }
