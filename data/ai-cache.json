@@ -2759,5 +2759,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
     "group": ""
+  },
+  "c557210b51868005a979b82d370984234c8baa747aecb74d7bf9f59add12872c": {
+    "id": "0d074eb7e47a153d9ea9",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Ahead of a senior Communist party meeting, the report examines how Xi’s continuing corruption investigations reinforce political discipline. It reports that purges have reduced the Central Military Commission from its usual seven members to two.",
+    "evidence_quote": "the CMC, which normally has seven members, has been reduced to just two",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+    "group": ""
+  },
+  "2fbf771e19f97c8b2d2a79c45273ba0b1d7379e2fe1bd50f82f17ec5cd439641": {
+    "id": "28f7062affb3fb06789e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Brazil's left-wing President Lula elected for fourth term",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+    "group": ""
+  },
+  "94cfb5e0a2abe84db576eaa13c4be74bdc78eef0edd6dfe85c40c358365d1077": {
+    "id": "f94c3ae8999c3e7e4f13",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+    "group": ""
+  },
+  "ae3c99ffc7d1b7e320844304d4aefe8e5eb6a140a9fe08b8adeeeb7408096941": {
+    "id": "e7c7c39a5f4493d804d0",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "e9b6b2aaac1093937e7b"
+    ],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Deeply divided Israel braces for pivotal election",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+    "group": "e7c7c39a5f4493d804d0"
+  },
+  "a7e5218611f54530e7e0d0154d80462b8ee2f1595b399d2107890d0ae9971040": {
+    "id": "e9b6b2aaac1093937e7b",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "e7c7c39a5f4493d804d0"
+    ],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Why Israel's election is one of the most important in its history",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
+    "group": "e7c7c39a5f4493d804d0"
+  },
+  "9039cb1e4b8b7d357a77967feb46ce2bb8bb2957792ee877e70f4002dc6edc68": {
+    "id": "c4a7aeca42b25a98ca17",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Vucic conceded Serbia’s parliamentary election to a student-backed opposition after 14 years of his party’s rule. His party projected an opposition majority of 135–140 seats out of 250; those figures are party projections, not certified results.",
+    "evidence_quote": "his party projects that his opponents, the youth-backed Students' List, will take between 135 and 140 seats",
+    "related_ids": [],
+    "reviewed_at": "2026-10-26T02:45:49.869067+00:00",
+    "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
+    "group": ""
   }
 }
