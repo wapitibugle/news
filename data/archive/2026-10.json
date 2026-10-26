@@ -17247,11 +17247,20 @@
     "category": "Science",
     "published_at": "2026-10-26T04:05:00Z",
     "first_seen_at": "2026-10-26T05:45:41.165533Z",
-    "updated_at": "2026-10-26T05:45:41.165533Z",
+    "updated_at": "2026-10-26T15:13:34.040812Z",
     "sources": [
       {
         "title": "2026 October 26 – M42: The Great Nebula in Orion",
         "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-26T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]"
+      },
+      {
+        "title": "2026 October 26 – M42: The Great Nebula in Orion",
+        "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
         "publisher": "NASA",
         "category": "Science",
         "published_at": "2026-10-26T04:05:00Z",
@@ -18659,7 +18668,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "659f32db019a965313c3",
@@ -18677,6 +18687,61 @@
         "published_at": "2026-10-26T10:46:25Z",
         "primary": false,
         "excerpt": "NPR's Leila Fadel speaks with political consultant Mike Madrid about how Republicans' gerrymandering efforts have backfired."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "14450c721f2880c9f1f0",
+    "title": "Democratic candidates like Abdul El-Sayed are embracing universal healthcare – could it win them US elections?",
+    "category": "Elections",
+    "published_at": "2026-10-26T13:00:42Z",
+    "first_seen_at": "2026-10-26T15:13:34.040812Z",
+    "updated_at": "2026-10-26T15:13:34.040812Z",
+    "sources": [
+      {
+        "title": "Democratic candidates like Abdul El-Sayed are embracing universal healthcare – could it win them US elections?",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-26T13:00:42Z",
+        "primary": false,
+        "excerpt": "Democrats in the midterms are finally backing Medicare for All as a campaign issue amid a rising tide of voter supportAbdul El-Sayed, the Democratic US Senate candidate, starts this day on the campaign trail in Escanaba, Michigan, where nearby Wisconsin dairy country spills into dense forests and the sandy shores of Green Bay.This is the upper peninsula – the “UP” – a rural slash of land north of Michigan’s mitt. Electorally, it’s crimson. Donald Trump won some districts near Escanaba by more than 41%. But at the county fairgrounds, past sheds labeled “Beef” and “Swine”, hundreds of locals on "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2ce28fb14e335c30d030",
+    "title": "Thousands of observers from the right and left will descend on polling places to monitor the vote on Election Day",
+    "category": "Elections",
+    "published_at": "2026-10-26T14:29:25Z",
+    "first_seen_at": "2026-10-26T15:13:34.040812Z",
+    "updated_at": "2026-10-26T15:13:34.040812Z",
+    "sources": [
+      {
+        "title": "Thousands of observers from the right and left will descend on polling places to monitor the vote on Election Day",
+        "url": "https://www.pbs.org/newshour/politics/thousands-of-observers-from-the-right-and-left-will-descend-on-polling-places-to-monitor-the-vote-on-election-day",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-26T14:29:25Z",
+        "primary": false,
+        "excerpt": "The effort among Democratic and nonprofit groups includes training volunteers to stand watch outside polling places and report activities they consider concerning."
       }
     ],
     "tier": "brief",
