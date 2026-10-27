@@ -20453,6 +20453,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2c430273b8d15b51d020",
+    "title": "Key things to know about Israel's election",
+    "category": "Elections",
+    "published_at": "2026-10-27T14:00:31Z",
+    "first_seen_at": "2026-10-27T16:55:59.826396Z",
+    "updated_at": "2026-10-27T16:55:59.826396Z",
+    "sources": [
+      {
+        "title": "Key things to know about Israel's election",
+        "url": "https://www.pbs.org/newshour/world/key-things-to-know-about-israels-election",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T14:00:31Z",
+        "primary": false,
+        "excerpt": "After polls close late Tuesday, the jostling for power is likely to begin — between parties small and big — to achieve a governing coalition and name the next prime minister."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
