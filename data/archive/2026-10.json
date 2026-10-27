@@ -20369,6 +20369,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "758a9638b389ec3df00b",
+    "title": "Israelis are voting on whether to oust Netanyahu in first election since Oct. 7 attack",
+    "category": "Elections",
+    "published_at": "2026-10-27T13:40:49Z",
+    "first_seen_at": "2026-10-27T13:59:07.680529Z",
+    "updated_at": "2026-10-27T13:59:07.680529Z",
+    "sources": [
+      {
+        "title": "Israelis are voting on whether to oust Netanyahu in first election since Oct. 7 attack",
+        "url": "https://www.pbs.org/newshour/world/israelis-are-voting-on-whether-to-oust-netanyahu-in-first-election-since-oct-7-attack",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T13:40:49Z",
+        "primary": false,
+        "excerpt": "Israelis are voting in a pivotal election Tuesday as their country wrestles with unresolved wars, continues to reel from Hamas' 2023 attack and is deeply divided over the character of the state and the right person to lead it."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
