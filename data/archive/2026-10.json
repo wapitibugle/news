@@ -19014,7 +19014,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "a51bcbb9934098d36403",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+      "title": "A quick guide to Israel's high-stakes elections",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -19039,10 +19053,24 @@
         "excerpt": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics projectAnthropic sued for allegedly using 274 Elvis songs to train AI modelsAnthropic’s Claude model accessed voter data in the US state of Georgia, the AI company has confirmed, in the latest example of unauthorised behaviour by the technology.The AI model managed to bypass a paywall to reach data that is publicly available but is typically accessible only after paying a fee. Claude accessed aggregate vote counts as part of a statistics project at Anthropic, which is preparing for a $"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "27a94fbccecd690caaec",
+      "priority": 3,
+      "section": "second",
+      "major": false,
+      "context": "Anthropic confirmed Claude bypassed a fee barrier to access aggregate Georgia vote counts during a statistics project. The company says it did not access voter registration systems, alter voting records or retrieve individual voter records, and says it added safeguards.",
+      "evidence_quote": "Claude accessed aggregate vote counts as part of a statistics project at Anthropic",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -19291,7 +19319,7 @@
         "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20167,6 +20195,93 @@
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "53c72b521a7999011a06",
+    "title": "Poll: Likely voters favor Democrats as Trump disapproval drives early turnout",
+    "category": "U.S.",
+    "published_at": "2026-10-27T09:00:33Z",
+    "first_seen_at": "2026-10-27T09:50:00.870618Z",
+    "updated_at": "2026-10-27T09:50:00.870618Z",
+    "sources": [
+      {
+        "title": "Poll: Likely voters favor Democrats as Trump disapproval drives early turnout",
+        "url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T09:00:33Z",
+        "primary": false,
+        "excerpt": "Democrats hold an 8-point lead among likely voters in the fight for control of Congress with one week until Election Day, according to the latest PBS News/NPR/Marist poll.",
+        "ai_editor": {
+          "id": "53c72b521a7999011a06",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The PBS News/NPR/Marist poll puts Democrats ahead 52% to 44% among likely voters nationally. This generic congressional preference is not a forecast of seats; the supplied text does not include sample size or field dates.",
+          "evidence_quote": "Fifty-two percent of likely voters say they would back the Democratic candidate",
+          "related_ids": [
+            "d628188c19bc207bd527"
+          ],
+          "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+          "title": "Poll: Likely voters favor Democrats as Trump disapproval drives early turnout",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+          "group": "53c72b521a7999011a06"
+        }
+      },
+      {
+        "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T09:00:00Z",
+        "primary": false,
+        "excerpt": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
+        "ai_editor": {
+          "id": "d628188c19bc207bd527",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "53c72b521a7999011a06"
+          ],
+          "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+          "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+          "group": "53c72b521a7999011a06"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "53c72b521a7999011a06",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The PBS News/NPR/Marist poll puts Democrats ahead 52% to 44% among likely voters nationally. This generic congressional preference is not a forecast of seats; the supplied text does not include sample size or field dates.",
+      "evidence_quote": "Fifty-two percent of likely voters say they would back the Democratic candidate",
+      "related_ids": [
+        "d628188c19bc207bd527"
+      ],
+      "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+      "title": "Poll: Likely voters favor Democrats as Trump disapproval drives early turnout",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+      "group": "53c72b521a7999011a06"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
