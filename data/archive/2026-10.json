@@ -20481,6 +20481,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "36920d00202b28908682",
+    "title": "How congressional Democrats are preparing for claims of election fraud by Trump",
+    "category": "Elections",
+    "published_at": "2026-10-27T08:48:04Z",
+    "first_seen_at": "2026-10-27T17:53:22.658321Z",
+    "updated_at": "2026-10-27T17:53:22.658321Z",
+    "sources": [
+      {
+        "title": "How congressional Democrats are preparing for claims of election fraud by Trump",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6013555/congressional-democrats-are-forming-a-task-force-to-protect-election-results",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T08:48:04Z",
+        "primary": false,
+        "excerpt": "Democrats in Congress are bracing for what they fear could be meddling by President Trump or his allies with the results of this year's midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
