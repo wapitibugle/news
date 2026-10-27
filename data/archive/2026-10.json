@@ -20537,6 +20537,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5dfdc6c7416f13bd981c",
+    "title": "Judge scolds DOJ over case against ex-FBI officials accused of false statements about Hunter Biden's laptop",
+    "category": "U.S.",
+    "published_at": "2026-10-27T17:34:26Z",
+    "first_seen_at": "2026-10-27T19:49:28.684887Z",
+    "updated_at": "2026-10-27T19:49:28.684887Z",
+    "sources": [
+      {
+        "title": "Judge scolds DOJ over case against ex-FBI officials accused of false statements about Hunter Biden's laptop",
+        "url": "https://www.pbs.org/newshour/nation/judge-scolds-doj-over-case-against-ex-fbi-officials-accused-of-false-statements-about-hunter-bidens-laptop",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T17:34:26Z",
+        "primary": false,
+        "excerpt": "A federal judge has scolded the Justice Department for its unorthodox handling of a criminal case against two former FBI officials."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
