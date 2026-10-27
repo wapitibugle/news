@@ -20285,6 +20285,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "355749e93235aa71a17a",
+    "title": "These four elections could change the world in 10 days – Stateside with Kai and Carter",
+    "category": "Elections",
+    "published_at": "2026-10-27T10:00:11Z",
+    "first_seen_at": "2026-10-27T10:48:00.490803Z",
+    "updated_at": "2026-10-27T10:48:00.490803Z",
+    "sources": [
+      {
+        "title": "These four elections could change the world in 10 days – Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-27T10:00:11Z",
+        "primary": false,
+        "excerpt": "Benjamin Netanyahu is in the fight of his political life. Voters in Israel are heading to the polls on Tuesday to decide an election that could determine whether Netanyahu will remain the country's prime minister (and affect the outcome of the corruption charges against him). But the Israeli election also arrives at a time when voters around the world seem to be rejecting authoritarianism. A student-run movement stunned the world on Sunday when its candidates routed Serbia's long-serving leader, Aleksandar Vučić. That same day, Brazilians beat back a campaign by Flávio Bolsonaro – the son of J"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
