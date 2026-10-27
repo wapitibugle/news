@@ -20341,6 +20341,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0cdf83d86143130dfbf4",
+    "title": "North Carolina legislators closed their on-campus voting sites. HBCU students marched miles to vote anyway",
+    "category": "Elections",
+    "published_at": "2026-10-27T12:00:37Z",
+    "first_seen_at": "2026-10-27T12:55:50.771429Z",
+    "updated_at": "2026-10-27T12:55:50.771429Z",
+    "sources": [
+      {
+        "title": "North Carolina legislators closed their on-campus voting sites. HBCU students marched miles to vote anyway",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/north-carolina-at-hbcu-student-voters",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-27T12:00:37Z",
+        "primary": false,
+        "excerpt": "Last year, the state’s board of elections removed several polling sites from local colleges – and students have taken it upon themselves to organize votingOn 15 October, the first day of early voting in North Carolina, mostly Black students from North Carolina Agricultural & Technical State University (NC A&T), Bennett College and University of North Carolina at Greensboro (UNCG) marched from their college campuses to their nearest polling sites for the first day of early voting.Previously, students were able to vote on their respective campuses; however, late last year, with Republicans at th"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
