@@ -18992,5 +18992,1066 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "a51bcbb9934098d36403",
+    "title": "A quick guide to Israel's high-stakes elections",
+    "category": "Elections",
+    "published_at": "2026-10-27T04:54:30Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "A quick guide to Israel's high-stakes elections",
+        "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T04:54:30Z",
+        "primary": false,
+        "excerpt": "Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "27a94fbccecd690caaec",
+    "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+    "category": "Elections",
+    "published_at": "2026-10-26T11:03:33Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-26T11:03:33Z",
+        "primary": false,
+        "excerpt": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics projectAnthropic sued for allegedly using 274 Elvis songs to train AI modelsAnthropic’s Claude model accessed voter data in the US state of Georgia, the AI company has confirmed, in the latest example of unauthorised behaviour by the technology.The AI model managed to bypass a paywall to reach data that is publicly available but is typically accessible only after paying a fee. Claude accessed aggregate vote counts as part of a statistics project at Anthropic, which is preparing for a $"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1fa24dedc7c445b42a7a",
+    "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+    "category": "U.S.",
+    "published_at": "2026-10-27T05:26:58Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+        "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T05:26:58Z",
+        "primary": false,
+        "excerpt": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6d594ea2a28ff43dd71",
+    "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+    "category": "World",
+    "published_at": "2026-10-27T04:42:50Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T04:42:50Z",
+        "primary": false,
+        "excerpt": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other indexes of major companies dropped by about 20% over the same time period. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b1845b0abc05764d9519",
+    "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+    "category": "U.S.",
+    "published_at": "2026-10-27T05:22:24Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T05:22:24Z",
+        "primary": false,
+        "excerpt": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7be1f4f1e47bba15fc7",
+    "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+    "category": "World",
+    "published_at": "2026-10-27T02:50:31Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+        "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T02:50:31Z",
+        "primary": false,
+        "excerpt": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxisOne of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday.The ban, which went into effect this week at Kadena airbase on the southern Japanese island of Okinawa, has fueled speculation that similar measures could be taken at other US military facilities as part of Washington’s crackdown on Chinese technology it suspects of being used to collect sensitive inf"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e5de0133073b7b531d7f",
+    "title": "Eagles’ nightmare season deepens as Cowboys hand Philadelphia fifth straight loss",
+    "category": "U.S.",
+    "published_at": "2026-10-27T04:39:28Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Eagles’ nightmare season deepens as Cowboys hand Philadelphia fifth straight loss",
+        "url": "https://www.theguardian.com/sport/2026/oct/27/cowboys-eagles-dak-prescott-javonte-williams-nfl-monday-night-football",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-27T04:39:28Z",
+        "primary": false,
+        "excerpt": "Prescott throws three touchdowns in Dallas victoryJavonte Williams rushes for career-high 155 yardsEagles fall to 2-5 amid Jalen Hurts injury absenceDak Prescott threw for 212 yards and three touchdowns, two to CeeDee Lamb, and the Dallas Cowboys beat Philadelphia 38-21 on Monday night to hand the Eagles their fifth straight loss.Javonte Williams ran for a career-high 155 yards and a touchdown, and the Cowboys (3-4) remained in contention for the NFC East title. The New York Giants lead the division at 4-2-1. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "36a0d4a988cde3970914",
+    "title": "Ruthless Brewers close in on World Series sweep after crushing Rays 10-1 in Game 3",
+    "category": "U.S.",
+    "published_at": "2026-10-27T03:22:00Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Ruthless Brewers close in on World Series sweep after crushing Rays 10-1 in Game 3",
+        "url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-27T03:22:00Z",
+        "primary": false,
+        "excerpt": "Milwaukee one win from first World Series titleBrewers lead series 3-0 after resounding win in TampaJackson Chourio and Brice Turang sparked Milwaukee’s eight-run fifth inning, and the Brewers routed the Tampa Bay Rays 10-1 on Monday night to move within one victory of their first World Series title.Rookie left-hander Robert Gasser pitched one-hit ball and faced the minimum through six innings as Milwaukee rolled to a 3-0 lead in the World Series. Game 4 is Tuesday night at Tropicana Field, where many Brewers fans showed up Monday and cheered from behind the visitors’ dugout. Continue reading."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7431546e45029f5b446",
+    "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+    "category": "Science",
+    "published_at": "2026-10-27T04:13:56Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+        "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-27T04:13:56Z",
+        "primary": false,
+        "excerpt": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "104cdcb3000408dbefd3",
+    "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
+    "category": "Outdoors",
+    "published_at": "2026-10-27T05:00:02Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-10-27T05:00:02Z",
+        "primary": false,
+        "excerpt": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of climate breakdown, they are also increasingly cashing in on the catastrophic consequences, according to a study by Oxfam.The global equality organisation has found that the richest 0.1% of the world’s population are heavily invested in disaster preparedness, recovery and reconstruction – a market that is projected to grow from $70bn to $92bn a year by 2029. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a3dad32dd0ee3f0a309",
+    "title": "A-81 Reaches South Georgia",
+    "category": "Science",
+    "published_at": "2026-10-27T04:00:00Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "A-81 Reaches South Georgia",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-27T04:00:00Z",
+        "primary": true,
+        "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2c71f5adc580b614d5e1",
+    "title": "Country diary: Our tiny island is awash with waxcaps | Tim Earl",
+    "category": "Science",
+    "published_at": "2026-10-27T05:30:02Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Country diary: Our tiny island is awash with waxcaps | Tim Earl",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-27T05:30:02Z",
+        "primary": false,
+        "excerpt": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all. We took a special trip as part of that projectThe bird observatory on the Calf of Man was sulking under a low cloud base as we stepped ashore at South Harbour. The dank mist was perfect for our surprise visit to the island, as it was not for the birds we had come across, but fungi – in particular, waxcaps.My wife, Liz, and I had taken the chance to accompany Nev Kilkenny, a visiting mycologist, who would help identify and study some autumn mushrooms and toadstools – and contribute to a map that is "
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0b000e259d5b670ac879",
+    "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+    "category": "Science",
+    "published_at": "2026-10-27T05:00:04Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-10-27T05:00:04Z",
+        "primary": false,
+        "excerpt": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guiseFor a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was al"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cdbd5ceb87f55bd02dda",
+    "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+    "category": "Science",
+    "published_at": "2026-10-27T04:05:00Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-27T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "85fdce1232a6e4e7df06",
+    "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+    "category": "World",
+    "published_at": "2026-10-26T19:27:21Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-26T19:27:21Z",
+        "primary": false,
+        "excerpt": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "009a30739b3f9670c519",
+    "title": "Five ways Trump has changed immigration in the US",
+    "category": "World",
+    "published_at": "2026-10-26T11:29:02Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Five ways Trump has changed immigration in the US",
+        "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-26T11:29:02Z",
+        "primary": false,
+        "excerpt": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b7a53c8f63ad9db44b62",
+    "title": "Trump administration charges former FBI Director James Comey for the third time",
+    "category": "U.S.",
+    "published_at": "2026-10-26T22:01:32Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration charges former FBI Director James Comey for the third time",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T22:01:32Z",
+        "primary": false,
+        "excerpt": "The Trump administration is attempting to prosecute former FBI Director James Comey for what it calls disclosing classified information, employing the unusual maneuver of bypassing a grand jury."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c7cd3909f9cfdf62cdd8",
+    "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+    "category": "World",
+    "published_at": "2026-10-27T01:26:57Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T01:26:57Z",
+        "primary": false,
+        "excerpt": "This is the latest sign of the administration’s attempts to challenge states with competitive midterm races that could determine control of CongressThe Trump administration on Monday asked Washington state to set aside any ballots received from more than 400 people it alleges are registered to vote without US citizenship, less than two weeks after making a similar demand in California.The announcement is the latest sign of the administration’s attempts to sow doubts about the election or its outcome in states with races that will help determine control of the US Senate and House. Continue read",
+        "ai_editor": {
+          "id": "c7cd3909f9cfdf62cdd8",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Justice Department asked Washington to segregate ballots from 405 people it suspects are noncitizens. Their ineligibility has not been established; the department acknowledged some may since have naturalized. Secretary of State Steve Hobbs said he was reviewing the request.",
+          "evidence_quote": "some of the people it suspects registered without citizenship may have since become naturalized.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+          "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "c7cd3909f9cfdf62cdd8",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Justice Department asked Washington to segregate ballots from 405 people it suspects are noncitizens. Their ineligibility has not been established; the department acknowledged some may since have naturalized. Secretary of State Steve Hobbs said he was reviewing the request.",
+      "evidence_quote": "some of the people it suspects registered without citizenship may have since become naturalized.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+      "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d519072a42831ee0b1a2",
+    "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+    "category": "U.S.",
+    "published_at": "2026-10-26T21:52:57Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T21:52:57Z",
+        "primary": false,
+        "excerpt": "The effort is the latest by the administration to identify noncitizen voters, even though noncitizen voting is exceptionally rare.",
+        "ai_editor": {
+          "id": "d519072a42831ee0b1a2",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Justice Department asked Washington to set aside ballots from more than 400 suspected noncitizens pending eligibility checks. These are allegations, not established findings; the department acknowledged some people may since have naturalized. Washington’s secretary of state was reviewing the demand.",
+          "evidence_quote": "some of the people it suspects registered without citizenship may have since become naturalized.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+          "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "d519072a42831ee0b1a2",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Justice Department asked Washington to set aside ballots from more than 400 suspected noncitizens pending eligibility checks. These are allegations, not established findings; the department acknowledged some people may since have naturalized. Washington’s secretary of state was reviewing the demand.",
+      "evidence_quote": "some of the people it suspects registered without citizenship may have since become naturalized.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+      "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8c0ec09ed663e739d2ff",
+    "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+    "category": "World",
+    "published_at": "2026-10-27T00:31:37Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T00:31:37Z",
+        "primary": false,
+        "excerpt": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizensA US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that the justice department claims are non-citizens.The court on Monday ruled 2-1 against Donald ⁠Trump’s ​justice department in the dispute, denying the administration’s demand that election officials segregate the thousands of ballots until people on the list could verify their citizenship. The justice department had given the California secre",
+        "ai_editor": {
+          "id": "8c0ec09ed663e739d2ff",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "A federal appeals court denied the administration’s demand to segregate ballots from 20,000 California registrants it alleges are noncitizens. The report says the list’s accuracy remains uncertain; Los Angeles officials found US-born people in a sample.",
+          "evidence_quote": "denying the administration’s demand that election officials segregate the thousands of ballots",
+          "related_ids": [],
+          "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+          "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "8c0ec09ed663e739d2ff",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "A federal appeals court denied the administration’s demand to segregate ballots from 20,000 California registrants it alleges are noncitizens. The report says the list’s accuracy remains uncertain; Los Angeles officials found US-born people in a sample.",
+      "evidence_quote": "denying the administration’s demand that election officials segregate the thousands of ballots",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+      "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a426df27867e5809f43",
+    "title": "After a flurry of ethics cases, sexual harassment rules for Congress are under review",
+    "category": "U.S.",
+    "published_at": "2026-10-26T20:24:06Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "After a flurry of ethics cases, sexual harassment rules for Congress are under review",
+        "url": "https://www.pbs.org/newshour/politics/after-a-flurry-of-ethics-cases-sexual-harassment-rules-for-congress-are-under-review",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T20:24:06Z",
+        "primary": false,
+        "excerpt": "Lawmakers reviewing the issue of sexual harassment on Capitol Hill say they're disturbed by what they've found."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64c0713e5cbbbcc01ac1",
+    "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+    "category": "U.S.",
+    "published_at": "2026-10-27T00:31:45Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T00:31:45Z",
+        "primary": false,
+        "excerpt": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cb7809dc9676d9cc4c33",
+    "title": "Catholic bishops say White House prayer photo with Trump was used politically",
+    "category": "U.S.",
+    "published_at": "2026-10-26T20:02:13Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Catholic bishops say White House prayer photo with Trump was used politically",
+        "url": "https://www.pbs.org/newshour/politics/catholic-bishops-say-white-house-prayer-photo-with-trump-was-used-politically",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T20:02:13Z",
+        "primary": false,
+        "excerpt": "Two Catholic bishops have expressed regret that they agreed to a White House meeting that produced a publicly distributed photo of them praying with President Donald Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eed6526b334c407688f2",
+    "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+    "category": "U.S.",
+    "published_at": "2026-10-26T18:41:43Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-26T18:41:43Z",
+        "primary": false,
+        "excerpt": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cdad3c6fd61b4e4fa829",
+    "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
+    "category": "U.S.",
+    "published_at": "2026-10-26T17:11:17Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
+        "url": "https://www.pbs.org/newshour/politics/trump-doj-illegally-fired-ex-fbi-directors-daughter-maurene-comey-as-a-federal-prosecutor-judge-rules",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T17:11:17Z",
+        "primary": false,
+        "excerpt": "The judge noted that Comey had worked on some of the nation's highest-profile cases and consistently received stellar reviews."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "236699c65f01a9406acf",
+    "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+    "category": "U.S.",
+    "published_at": "2026-10-26T18:38:01Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+        "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-26T18:38:01Z",
+        "primary": false,
+        "excerpt": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "632a5a5e22e22a74ae63",
+    "title": "Israel and the US are both going to the polls - the consequences will be global",
+    "category": "World",
+    "published_at": "2026-10-26T16:30:34Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Israel and the US are both going to the polls - the consequences will be global",
+        "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-26T16:30:34Z",
+        "primary": false,
+        "excerpt": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+        "ai_editor": {
+          "id": "632a5a5e22e22a74ae63",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "BBC analysis examines how the Israeli election and US midterms could affect policy toward Iran and energy costs. Scenarios involving renewed attacks are speculative, not announced decisions.",
+          "evidence_quote": "So might an attack on Iran, then, be delayed until after the elections?",
+          "related_ids": [],
+          "reviewed_at": "2026-10-27T02:43:03.275036+00:00",
+          "title": "Israel and the US are both going to the polls - the consequences will be global",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "632a5a5e22e22a74ae63",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "BBC analysis examines how the Israeli election and US midterms could affect policy toward Iran and energy costs. Scenarios involving renewed attacks are speculative, not announced decisions.",
+      "evidence_quote": "So might an attack on Iran, then, be delayed until after the elections?",
+      "related_ids": [],
+      "reviewed_at": "2026-10-27T02:43:03.275036+00:00",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0708177204a2858bc224",
+    "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+    "category": "World",
+    "published_at": "2026-10-26T08:42:00Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-10-26T08:42:00Z",
+        "primary": false,
+        "excerpt": "Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4acb1fe84ef739b7da19",
+    "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+    "category": "World",
+    "published_at": "2026-10-26T19:21:36Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+        "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-26T19:21:36Z",
+        "primary": false,
+        "excerpt": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in pollsBenjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run elections.The Israeli prime minister posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d4759a2e2fd24c378469",
+    "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+    "category": "World",
+    "published_at": "2026-10-26T09:47:14Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+        "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-26T09:47:14Z",
+        "primary": false,
+        "excerpt": "Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks.Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing. “No cats, no dating, I started raising a brick,” wrote one brick parent on social media. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "48b3f289c926ed08e4d1",
+    "title": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
+    "category": "U.S.",
+    "published_at": "2026-10-26T09:00:00Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
+        "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-26T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8bdd49ce3f74207cec40",
+    "title": "Ex-FBI chief James Comey faces federal charges for third time",
+    "category": "U.S.",
+    "published_at": "2026-10-27T02:01:27Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-27T02:01:27Z",
+        "primary": false,
+        "excerpt": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2567ea521c77d1eba78e",
+    "title": "Candidates enter final week of campaigning with control of Congress at stake",
+    "category": "U.S.",
+    "published_at": "2026-10-26T22:55:02Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Candidates enter final week of campaigning with control of Congress at stake",
+        "url": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T22:55:02Z",
+        "primary": false,
+        "excerpt": "It's crunch time for candidates across the country with Election Day just over a week away. On Monday, President Trump campaigned in ruby-red Mississippi, a state he won by almost 23 points two years ago. Over the weekend, the battleground state of Michigan saw a political heavyweight bout between Trump and former President Obama. Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fd7378ca1ba5119dd570",
+    "title": "Trump faces backlash after invoking 9/11 in verbal assault on El-Sayed",
+    "category": "U.S.",
+    "published_at": "2026-10-26T20:41:43Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "Trump faces backlash after invoking 9/11 in verbal assault on El-Sayed",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryxlkq5qro",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-26T20:41:43Z",
+        "primary": false,
+        "excerpt": "The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d21e74cdc84d064796f1",
+    "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+    "category": "U.S.",
+    "published_at": "2026-10-26T22:50:40Z",
+    "first_seen_at": "2026-10-27T05:43:40.415973Z",
+    "updated_at": "2026-10-27T05:43:40.415973Z",
+    "sources": [
+      {
+        "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-26T22:50:40Z",
+        "primary": false,
+        "excerpt": "In our news wrap Monday, AI giant Anthropic officially kicked off what could be one of the biggest initial public offerings ever, at least two Catholic bishops have expressed regret for taking part in a White House meeting that was later made public and a federal judge ruled that the Trump administration acted illegally when it fired Maureen Comey, daughter of former FBI Director James Comey."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
