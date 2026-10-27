@@ -19319,7 +19319,7 @@
         "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20304,6 +20304,34 @@
         "published_at": "2026-10-27T10:00:11Z",
         "primary": false,
         "excerpt": "Benjamin Netanyahu is in the fight of his political life. Voters in Israel are heading to the polls on Tuesday to decide an election that could determine whether Netanyahu will remain the country's prime minister (and affect the outcome of the corruption charges against him). But the Israeli election also arrives at a time when voters around the world seem to be rejecting authoritarianism. A student-run movement stunned the world on Sunday when its candidates routed Serbia's long-serving leader, Aleksandar Vučić. That same day, Brazilians beat back a campaign by Flávio Bolsonaro – the son of J"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1930dec01d8d66a6d968",
+    "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+    "category": "Elections",
+    "published_at": "2026-10-27T11:39:52Z",
+    "first_seen_at": "2026-10-27T11:46:15.178597Z",
+    "updated_at": "2026-10-27T11:46:15.178597Z",
+    "sources": [
+      {
+        "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+        "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T11:39:52Z",
+        "primary": false,
+        "excerpt": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership."
       }
     ],
     "tier": "brief",
