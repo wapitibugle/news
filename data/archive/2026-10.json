@@ -18577,7 +18577,7 @@
         "excerpt": "Merck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -19291,7 +19291,7 @@
         "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20133,6 +20133,34 @@
         "published_at": "2026-10-27T07:15:08Z",
         "primary": false,
         "excerpt": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4e43fe007903ba78d56c",
+    "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+    "category": "World",
+    "published_at": "2026-10-27T08:01:22Z",
+    "first_seen_at": "2026-10-27T08:52:15.858988Z",
+    "updated_at": "2026-10-27T08:52:15.858988Z",
+    "sources": [
+      {
+        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+        "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T08:01:22Z",
+        "primary": false,
+        "excerpt": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians."
       }
     ],
     "tier": "brief",
