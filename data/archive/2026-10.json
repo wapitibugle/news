@@ -19319,7 +19319,7 @@
         "excerpt": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20503,6 +20503,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "221eaac47b00ec436bd9",
+    "title": "How brain implants turn thoughts into speech",
+    "category": "Science",
+    "published_at": "2026-10-27T18:35:43Z",
+    "first_seen_at": "2026-10-27T18:53:31.208723Z",
+    "updated_at": "2026-10-27T18:53:31.208723Z",
+    "sources": [
+      {
+        "title": "How brain implants turn thoughts into speech",
+        "url": "https://www.sciencenews.org/article/brain-implants-thoughts-speech-podcast",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-10-27T18:35:43Z",
+        "primary": false,
+        "excerpt": "New brain-computer interfaces turn attempted speech into words and can speak them in a voice resembling the user’s own."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
