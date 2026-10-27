@@ -20397,6 +20397,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e75740fdb164b39a65cf",
+    "title": "Why it could be weeks or months before Israel's election winner is known",
+    "category": "Elections",
+    "published_at": "2026-10-27T14:43:19Z",
+    "first_seen_at": "2026-10-27T14:56:50.906175Z",
+    "updated_at": "2026-10-27T14:56:50.906175Z",
+    "sources": [
+      {
+        "title": "Why it could be weeks or months before Israel's election winner is known",
+        "url": "https://www.pbs.org/newshour/world/why-it-could-be-weeks-or-months-before-israels-election-winner-is-known",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T14:43:19Z",
+        "primary": false,
+        "excerpt": "The next prime minister will have to cobble together a coalition."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
