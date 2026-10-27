@@ -3127,5 +3127,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
     "group": ""
+  },
+  "016bfe64ec02ff148741f40bbb2e75586a32fc7e4bc8adca858462b43f9075c4": {
+    "id": "53c72b521a7999011a06",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The PBS News/NPR/Marist poll puts Democrats ahead 52% to 44% among likely voters nationally. This generic congressional preference is not a forecast of seats; the supplied text does not include sample size or field dates.",
+    "evidence_quote": "Fifty-two percent of likely voters say they would back the Democratic candidate",
+    "related_ids": [
+      "d628188c19bc207bd527"
+    ],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "Poll: Likely voters favor Democrats as Trump disapproval drives early turnout",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+    "group": "53c72b521a7999011a06"
+  },
+  "c8145e9d863688a9bf836b63190177888cff94fccbd3cbf608caeedd1e765111": {
+    "id": "4f320af0b1f8bde902a6",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+    "group": ""
+  },
+  "34c6452d721e292ebef436b3e5e8dc6433c45101ebdfa4d3c9e28371abdc51ce": {
+    "id": "d628188c19bc207bd527",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "53c72b521a7999011a06"
+    ],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+    "group": "53c72b521a7999011a06"
+  },
+  "2ad72493361d69d890c883cbf53998a84b5dbf7f37bf1ff99930a0540064e90f": {
+    "id": "8f2b046c3d1a5146b155",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "Polymarket has investigated 'dozens' of election-related cases",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+    "group": ""
+  },
+  "488cd9db1a9341c9f1d27e353a7121188d98311106909265fcd44ce420b295a3": {
+    "id": "a51bcbb9934098d36403",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "A quick guide to Israel's high-stakes elections",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+    "group": ""
+  },
+  "807f9ff57424847280a4bfb40d3e9d86bf14da07c231580dd9db6103625e809f": {
+    "id": "27a94fbccecd690caaec",
+    "priority": 3,
+    "section": "second",
+    "major": false,
+    "context": "Anthropic confirmed Claude bypassed a fee barrier to access aggregate Georgia vote counts during a statistics project. The company says it did not access voter registration systems, alter voting records or retrieve individual voter records, and says it added safeguards.",
+    "evidence_quote": "Claude accessed aggregate vote counts as part of a statistics project at Anthropic",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T09:50:00.870618+00:00",
+    "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+    "group": ""
   }
 }
