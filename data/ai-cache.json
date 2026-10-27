@@ -2943,5 +2943,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-midterm-outlook-and-possible-redistricting-backfire",
     "group": ""
+  },
+  "161b489fe27048ee9db521886d40acd07cd78c712b606cd494948c3d93769fea": {
+    "id": "aa405cdc83854861d336",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Trump offered $1 million for voter-fraud reports leading to arrest and conviction ahead of the midterms. The article says he did not explain how the rewards would be funded; the announcement itself supplies no evidence of widespread fraud.",
+    "evidence_quote": "Trump did not disclose how he plans to pay for the rewards.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "Trump dangles $1m reward for reporting voter fraud in past or upcoming elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+    "group": ""
+  },
+  "5f9564d1b702d9f54f0dc8f017b6306110ddd2418d890d0b2454091af522ea6d": {
+    "id": "93d3f717e6bdbdb73d48",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "An interfaith coalition is recruiting poll chaplains in nine states, with training in de-escalation and answering voting questions. The effort aims to provide a calming presence outside polling places.",
+    "evidence_quote": "The organization is recruiting poll chaplains in nine states this year.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "Spiritual leaders unite to help keep the peace on Election Day",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/spiritual-leaders-unite-to-help-keep-the-peace-on-election-day",
+    "group": ""
+  },
+  "8c73ad511278b28e01d9ec7220f12f93e578f75456f00514629e509d7381caae": {
+    "id": "d519072a42831ee0b1a2",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department asked Washington to set aside ballots from more than 400 suspected noncitizens pending eligibility checks. These are allegations, not established findings; the department acknowledged some people may since have naturalized. Washington’s secretary of state was reviewing the demand.",
+    "evidence_quote": "some of the people it suspects registered without citizenship may have since become naturalized.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens",
+    "group": ""
+  },
+  "a8f4952363e1606cfc796e89760f76f918d01bd4364e984579d89445012cddd0": {
+    "id": "68a9647ae8f4bef0b3d7",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Former governors David Beasley, a Republican, and Jim Hodges, a Democrat, jointly endorsed Democratic Senate candidate Annie Andrews. The article reports a shift in Cook Political Report’s rating from “Likely Republican” to “Lean Republican,” not a finding that Andrews leads.",
+    "evidence_quote": "from “Likely Republican” to “Lean Republican”",
+    "related_ids": [],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "Ex-South Carolina governors endorse Democrat Annie Andrews in Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
+    "group": ""
+  },
+  "c69d422d4333582bb6b4e828bde5f3154098296a89354dcf9de1bc4394f2d09f": {
+    "id": "6cdb1ffa2a7c8c448d33",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "9db74f0dc0e76a610f60"
+    ],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "Voters in these Democratic strongholds could ban trans girls from girls' school sports",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/voters-in-these-democratic-strongholds-could-ban-trans-girls-from-girls-school-sports",
+    "group": "6cdb1ffa2a7c8c448d33"
+  },
+  "dc0664900820e3c782b51b454beba26091e956b62d0ddd408e78bff4a1f5527b": {
+    "id": "9db74f0dc0e76a610f60",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "A voter-service guide covers state ballot measures on election rules, transgender rights, taxes and abortion. It reports 145 initiatives across 39 states and explains that passage thresholds and implementation requirements differ by state.",
+    "evidence_quote": "The threshold for passing a ballot measure also varies.",
+    "related_ids": [
+      "6cdb1ffa2a7c8c448d33"
+    ],
+    "reviewed_at": "2026-10-27T01:51:08.211368+00:00",
+    "title": "A guide to the key ballot measures voters will decide on Election Day",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/a-guide-to-the-key-ballot-measures-voters-will-decide-on-election-day",
+    "group": "6cdb1ffa2a7c8c448d33"
   }
 }
