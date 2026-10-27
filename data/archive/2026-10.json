@@ -20114,6 +20114,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3aa99fa67a6b8131837c",
+    "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+    "category": "World",
+    "published_at": "2026-10-27T07:15:08Z",
+    "first_seen_at": "2026-10-27T07:54:37.363229Z",
+    "updated_at": "2026-10-27T07:54:37.363229Z",
+    "sources": [
+      {
+        "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T07:15:08Z",
+        "primary": false,
+        "excerpt": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
