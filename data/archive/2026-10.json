@@ -20565,6 +20565,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8c16bdc9a707781c04ac",
+    "title": "No clear winner in Israeli election, exit polls indicate, as Netanyahu's fate hangs in the balance",
+    "category": "Elections",
+    "published_at": "2026-10-27T20:11:31Z",
+    "first_seen_at": "2026-10-27T20:45:12.336253Z",
+    "updated_at": "2026-10-27T20:45:12.336253Z",
+    "sources": [
+      {
+        "title": "No clear winner in Israeli election, exit polls indicate, as Netanyahu's fate hangs in the balance",
+        "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T20:11:31Z",
+        "primary": false,
+        "excerpt": "Final results are expected in the coming days and may vary from the exit polls."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
