@@ -21858,6 +21858,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "23855d994607aa8ed8fc",
+    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+    "category": "Elections",
+    "published_at": "2026-10-28T11:28:55Z",
+    "first_seen_at": "2026-10-28T13:05:19.303299Z",
+    "updated_at": "2026-10-28T13:05:19.303299Z",
+    "sources": [
+      {
+        "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+        "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-28T11:28:55Z",
+        "primary": false,
+        "excerpt": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "24350fb4261b73b28af1",
+    "title": "Fed set to hold interest rates steady in last decision before midterms",
+    "category": "Elections",
+    "published_at": "2026-10-28T10:00:03Z",
+    "first_seen_at": "2026-10-28T13:05:19.303299Z",
+    "updated_at": "2026-10-28T13:05:19.303299Z",
+    "sources": [
+      {
+        "title": "Fed set to hold interest rates steady in last decision before midterms",
+        "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-28T10:00:03Z",
+        "primary": false,
+        "excerpt": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald TrumpThe US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.Last month, Fed officials raised rates for the first time since 2023, citing rising inflation. Inflation has hovered for years above the Fed’s target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
