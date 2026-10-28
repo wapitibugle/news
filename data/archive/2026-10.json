@@ -21830,6 +21830,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1c7e1d52891dca66fbfb",
+    "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
+    "category": "Elections",
+    "published_at": "2026-10-28T11:33:27Z",
+    "first_seen_at": "2026-10-28T11:52:49.065159Z",
+    "updated_at": "2026-10-28T11:52:49.065159Z",
+    "sources": [
+      {
+        "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-28T11:33:27Z",
+        "primary": false,
+        "excerpt": "Benjamin Netanyahu vows to form new coalition while opposition bloc leader says result shows prime minister should step down. Plus, a scathing review of Elon Musk’s AI-generated version of The OdysseyGood morning. Israel could be in for weeks of political haggling after exit polls and partial official results showed neither Benjamin Netanyahu’s coalition nor the opposition bloc led by the former general Gadi Eisenkot had won enough seats to form a government.With 70% of the vote, or 4m ballots, counted so far, the Netanyahu bloc had 54 seats, the Eisenkot-led Change bloc 47 seats, and the Pale"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
