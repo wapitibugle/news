@@ -21802,6 +21802,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9096a07383e90a11a45d",
+    "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+    "category": "Elections",
+    "published_at": "2026-10-28T09:00:00Z",
+    "first_seen_at": "2026-10-28T10:54:46.844850Z",
+    "updated_at": "2026-10-28T10:54:46.844850Z",
+    "sources": [
+      {
+        "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+        "url": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-28T09:00:00Z",
+        "primary": false,
+        "excerpt": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
