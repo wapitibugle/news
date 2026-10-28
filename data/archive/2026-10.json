@@ -21942,6 +21942,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3d0fc0166eedaf6e5275",
+    "title": "How Trump is trying to disrupt the midterms – video explainer",
+    "category": "Elections",
+    "published_at": "2026-10-28T14:03:03Z",
+    "first_seen_at": "2026-10-28T15:01:42.204916Z",
+    "updated_at": "2026-10-28T15:01:42.204916Z",
+    "sources": [
+      {
+        "title": "How Trump is trying to disrupt the midterms – video explainer",
+        "url": "https://www.theguardian.com/us-news/video/2026/oct/28/how-trump-is-trying-to-disrupt-the-midterms-video-explainer",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-28T14:03:03Z",
+        "primary": false,
+        "excerpt": "From redrawing electoral maps to installing a sense of uncertainty around the electoral process ahead of the midterms elections on 3 November, Republicans have deployed several tactics to try and skew the vote in their favor. As the president's popularity continues to drop, it is crucial for him and his administration to retain a majority in Congress or they could face investigations and even impeachment. Guardian political reporter Shrai Popat looks at the ways the Republicans have tried and are still trying to influence the electionThe US midterm races that will decide control of Congress – "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
