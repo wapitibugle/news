@@ -19291,7 +19291,7 @@
         "excerpt": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of climate breakdown, they are also increasingly cashing in on the catastrophic consequences, according to a study by Oxfam.The global equality organisation has found that the richest 0.1% of the world’s population are heavily invested in disaster preparedness, recovery and reconstruction – a market that is projected to grow from $70bn to $92bn a year by 2029. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -19347,7 +19347,7 @@
         "excerpt": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all. We took a special trip as part of that projectThe bird observatory on the Calf of Man was sulking under a low cloud base as we stepped ashore at South Harbour. The dank mist was perfect for our surprise visit to the island, as it was not for the birds we had come across, but fungi – in particular, waxcaps.My wife, Liz, and I had taken the chance to accompany Nev Kilkenny, a visiting mycologist, who would help identify and study some autumn mushrooms and toadstools – and contribute to a map that is "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -19375,7 +19375,7 @@
         "excerpt": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guiseFor a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was al"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20595,5 +20595,1067 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "a90a8c4af771b226f8ef",
+    "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+    "category": "Elections",
+    "published_at": "2026-10-27T20:45:39Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T20:45:39Z",
+        "primary": false,
+        "excerpt": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a1654b9d65a38edf37c9",
+    "title": "WATCH LIVE: 2026 midterms preview, plus your questions on voting",
+    "category": "Elections",
+    "published_at": "2026-10-27T20:00:17Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: 2026 midterms preview, plus your questions on voting",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-2026-midterms-preview-plus-your-questions-on-voting",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T20:00:17Z",
+        "primary": false,
+        "excerpt": "Ahead of Election Day, our politics crew takes a closer look at what to watch in the 2026 elections and take your questions around election security and voting rights."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec4fabfdd8d1edd82a39",
+    "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+    "category": "Elections",
+    "published_at": "2026-10-27T10:00:10Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-27T10:00:10Z",
+        "primary": false,
+        "excerpt": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling liesSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according to experts, who warn many posts are probably “slipping through the cracks”.As tens of millions of Americans prepare to cast their vote, social media companies have scaled back their efforts to protect voters from lies meant to manipulate elections. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7d0ada2a8a0dafd3707",
+    "title": "Brazil's Flávio Bolsonaro and his family will get U.S. visas after presidential election loss",
+    "category": "Elections",
+    "published_at": "2026-10-27T19:44:42Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Brazil's Flávio Bolsonaro and his family will get U.S. visas after presidential election loss",
+        "url": "https://www.pbs.org/newshour/world/brazils-flavio-bolsonaro-leaves-brazil-for-the-united-states-after-presidential-loss-according-to-multiple-media-reports",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-27T19:44:42Z",
+        "primary": false,
+        "excerpt": "A senior State Department official said Tuesday that Flávio Bolsonaro and his family will be granted U.S. visas after his weekend loss to incumbent Brazilian President Luiz Inácio Lula da Silva in a hotly contested race that bucked a trend of conservative electoral results in Latin America."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3537a1510a2f31652776",
+    "title": "Data centers are a hot-button issue for Ohioans as midterms near",
+    "category": "Elections",
+    "published_at": "2026-10-27T08:45:52Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Data centers are a hot-button issue for Ohioans as midterms near",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-5989174/candidates-work-to-ease-concerns-as-data-centers-become-hot-button-issue-for-ohioans",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T08:45:52Z",
+        "primary": false,
+        "excerpt": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot-button issue in the midterms, as political candidates from both parties try to ease voter concerns."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92ae74f544c192eed693",
+    "title": "As campaign rhetoric escalates, Michigan voters say they're burned out",
+    "category": "Elections",
+    "published_at": "2026-10-27T08:45:44Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "As campaign rhetoric escalates, Michigan voters say they're burned out",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6018541/michigan-voters-election-fatigue-campaign-rhetoric",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-27T08:45:44Z",
+        "primary": false,
+        "excerpt": "From college football tailgates to conversations in Ann Arbor, Michigan voters tell NPR they're worried about everyday costs, frustrated with the two-party system and increasingly reluctant to discuss politics openly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "95c18621d456731ef723",
+    "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginko’s 167-year journey to Victorian tree of the year",
+    "category": "World",
+    "published_at": "2026-10-28T05:32:13Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginko’s 167-year journey to Victorian tree of the year",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T05:32:13Z",
+        "primary": false,
+        "excerpt": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spacesFollow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastFor more than 160 years, a humble ginkgo tree raised from seed in Geelong’s botanic gardens has been the backdrop to “countless local love stories”. Standing beneath it is the most popular spot to get married at the park, its branches forming the backdrop of many wedding photos.Now, in addition to being the largest ginkgo biloba in the state – and possibly Australia "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "14d1add285c7ec8db94b",
+    "title": "Rays rally in 12th inning to stun Brewers and stave off World Series sweep",
+    "category": "U.S.",
+    "published_at": "2026-10-28T04:54:59Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Rays rally in 12th inning to stun Brewers and stave off World Series sweep",
+        "url": "https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-28T04:54:59Z",
+        "primary": false,
+        "excerpt": "Tampa Bay force Game 5 with extra-innings rallyMilwaukee denied first World Series championshipBrewers still hold 3-1 lead in best-of-seven seriesJonny DeLuca and pinch-hitter Ben Williamson singled home runs in a stunning 12th-inning rally, and the Tampa Bay Rays staved off World Series elimination with a 4-3 win over the Milwaukee Brewers on Tuesday night that forced Game 5.Cooper Pratt hit a tiebreaking home run off Ian Seymour in the top of the 12th for his fourth hit of the game as Milwaukee neared a sweep and their first World Series title. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "54aa39fb67995ee02839",
+    "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+    "category": "World",
+    "published_at": "2026-10-28T05:00:55Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+        "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T05:00:55Z",
+        "primary": false,
+        "excerpt": "Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in YemenA multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial forces inside Yemen are at the heart of Gulf states’ plans to avert what they regard as a disastrous renewal of war between Iran and the US.The US is aware of the talks’ progress but is holding out for a concession that European powers suggest could involve Iran allowing UN weapons inspectors back into the country. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5e6655e875970dccddcd",
+    "title": "Anthony Edwards to undergo knee surgery as Timberwolves star faces up to two months out",
+    "category": "U.S.",
+    "published_at": "2026-10-28T02:59:38Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Anthony Edwards to undergo knee surgery as Timberwolves star faces up to two months out",
+        "url": "https://www.theguardian.com/sport/2026/oct/27/anthony-edwards-knee-surgery-minnesota-timberwolves-nba",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-28T02:59:38Z",
+        "primary": false,
+        "excerpt": "Four-time All-Star needs arthroscopic procedure on kneeEdwards averaging 33.3 points through first four gamesAbsence could rule Wolves star out of awards contentionMinnesota guard Anthony Edwards needs an arthroscopic procedure to alleviate issues with his right knee and will miss several weeks, a person with knowledge of the matter said Tuesday.The person spoke to the Associated Press on condition of anonymity because the Timberwolves had yet to make any public announcements of Edwards’ plan to have the operation. A more precise timetable for Edwards’ return will be known after surgery, the p"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "04104e8e8863440fcbde",
+    "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+    "category": "Science",
+    "published_at": "2026-10-28T05:39:46Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-28T05:39:46Z",
+        "primary": true,
+        "excerpt": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aa30c4ded451b6799c25",
+    "title": "The Land of the Standing-Up Rocks",
+    "category": "Science",
+    "published_at": "2026-10-28T04:01:00Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "The Land of the Standing-Up Rocks",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-28T04:01:00Z",
+        "primary": true,
+        "excerpt": "A national monument since the 1920s, Chiricahua is America’s newest national park."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "232bbc9efcfd689d012c",
+    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+    "category": "Science",
+    "published_at": "2026-10-28T04:05:00Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-28T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e715b46f5e4541bcc80f",
+    "title": "Projections show no clear winner in Israel's election",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:55:25Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Projections show no clear winner in Israel's election",
+        "url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:55:25Z",
+        "primary": false,
+        "excerpt": "Israelis turned out in record numbers for their first election since the Oct. 7 attacks and the war in Gaza. Projections show opposition parties won more seats than the coalition led by Prime Minister Netanyahu, potentially setting the stage for a change in government. But Netanyahu's opponents do not have enough seats to form a majority, leading to weeks of negotiations. Nick Schifrin reports.",
+        "ai_editor": {
+          "id": "e715b46f5e4541bcc80f",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports that election projections leave neither Netanyahu’s coalition nor Eisenkot’s opposition coalition with a parliamentary majority. Coalition negotiations could take weeks or months; the projected seat totals are not final results.",
+          "evidence_quote": "Eisenkot's coalition is estimated to have won more, 53, but not enough to secure a majority.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+          "title": "Projections show no clear winner in Israel's election",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "e715b46f5e4541bcc80f",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports that election projections leave neither Netanyahu’s coalition nor Eisenkot’s opposition coalition with a parliamentary majority. Coalition negotiations could take weeks or months; the projected seat totals are not final results.",
+      "evidence_quote": "Eisenkot's coalition is estimated to have won more, 53, but not enough to secure a majority.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+      "title": "Projections show no clear winner in Israel's election",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6f245b9bb8c142f8baef",
+    "title": "Poll gauges voter enthusiasm for both parties a week before election",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:45:04Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Poll gauges voter enthusiasm for both parties a week before election",
+        "url": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:45:04Z",
+        "primary": false,
+        "excerpt": "A new PBS News/NPR/Marist poll released on Tuesday shows Democrats hold an eight-point lead among likely voters. With independents, that lead grows to 13 points. Geoff Bennett breaks down the poll results and what it tells us with Domenico Montanaro of NPR.",
+        "ai_editor": {
+          "id": "6f245b9bb8c142f8baef",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The PBS News/NPR/Marist poll reports an eight-point Democratic lead among likely voters on the generic congressional ballot. The supplied report does not give sample size, field dates or margin of error, and national polling does not establish individual race outcomes.",
+          "evidence_quote": "It shows Democrats holding an eight-point lead among likely voters.",
+          "related_ids": [
+            "0eb1f45b2fca5d70d8fe"
+          ],
+          "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+          "title": "Poll gauges voter enthusiasm for both parties a week before election",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
+          "group": "0eb1f45b2fca5d70d8fe"
+        }
+      },
+      {
+        "title": "Why Trump's coalition of evangelical voters could be fraying",
+        "url": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:30:42Z",
+        "primary": false,
+        "excerpt": "White evangelical Christians have been among President Trump's most loyal supporters for more than a decade, and our new PBS News/NPR/Marist poll shows that most still approve of him. But signs of slippage are emerging ahead of the midterms. Stephanie Sy reports on the overlap of politics and faith.",
+        "ai_editor": {
+          "id": "0eb1f45b2fca5d70d8fe",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "The PBS News/NPR/Marist poll finds 66% approval for Trump among white evangelical Christians and nearly three-quarters backing congressional Republicans. Interviews illustrate individual doubts but do not establish their prevalence; the supplied text gives no subgroup sample size or margin of error.",
+          "evidence_quote": "66 percent say they approve of the job Trump is doing as president",
+          "related_ids": [
+            "6f245b9bb8c142f8baef"
+          ],
+          "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+          "title": "Why Trump's coalition of evangelical voters could be fraying",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
+          "group": "0eb1f45b2fca5d70d8fe"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "6f245b9bb8c142f8baef",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The PBS News/NPR/Marist poll reports an eight-point Democratic lead among likely voters on the generic congressional ballot. The supplied report does not give sample size, field dates or margin of error, and national polling does not establish individual race outcomes.",
+      "evidence_quote": "It shows Democrats holding an eight-point lead among likely voters.",
+      "related_ids": [
+        "0eb1f45b2fca5d70d8fe"
+      ],
+      "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+      "title": "Poll gauges voter enthusiasm for both parties a week before election",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
+      "group": "0eb1f45b2fca5d70d8fe"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4d426a977447ab5efea7",
+    "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+    "category": "U.S.",
+    "published_at": "2026-10-27T17:01:37Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T17:01:37Z",
+        "primary": false,
+        "excerpt": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a726ceb69052d1cac00c",
+    "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:40:06Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+        "url": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:40:06Z",
+        "primary": false,
+        "excerpt": "It's the latest setback in the Justice Department's efforts to charge Trump's perceived adversaries."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2cb0fdabd5c37ea2e61e",
+    "title": "Federal judge disqualifies Trump-appointed prosecutor for ‘unlawfully serving’ in role",
+    "category": "U.S.",
+    "published_at": "2026-10-28T01:52:44Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Federal judge disqualifies Trump-appointed prosecutor for ‘unlawfully serving’ in role",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-28T01:52:44Z",
+        "primary": false,
+        "excerpt": "Bill Essayli, a former GOP lawmaker and ally of president, has not been confirmed by the Senate in his roleA US judge ruled on Tuesday that Bill Essayli, the top federal prosecutor in southern California, was “unlawfully serving” as the head of the US attorney’s office and was disqualified from overseeing two criminal prosecutions.The order, however, will not immediately go into effect, and the Department of Justice (DoJ) has said it intends to appeal. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e193a61e75ccedb03fc9",
+    "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:40:27Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:40:27Z",
+        "primary": false,
+        "excerpt": "Cassidy Hutchinson had implicated Donald Trump in US Capitol attack during testimony before House committeeThe justice department on Tuesday failed to secure a grand jury indictment against a former White House staffer who provided dramatic but disputed testimony against Donald Trump before a House committee investigating the 6 January 2021 US Capitol insurrection, according to two people familiar with the matter.A grand jury in Washington rejected prosecutors’ request to return an indictment charging Cassidy Hutchinson, said the people, who spoke to the Associated Press on the condition of an"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "095d2bb0e82854440c32",
+    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "category": "World",
+    "published_at": "2026-10-27T22:11:08Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T22:11:08Z",
+        "primary": false,
+        "excerpt": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "05b10c926121a8558c30",
+    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "category": "World",
+    "published_at": "2026-10-27T20:42:38Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+        "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T20:42:38Z",
+        "primary": false,
+        "excerpt": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7f9b98980d08f0e459fd",
+    "title": "Netherlands pulls out of Eurovision again over Israel participation",
+    "category": "World",
+    "published_at": "2026-10-27T11:23:19Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Netherlands pulls out of Eurovision again over Israel participation",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T11:23:19Z",
+        "primary": false,
+        "excerpt": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0127739f712808db8246",
+    "title": "What does Israel's election mean for Gaza and the wider world?",
+    "category": "World",
+    "published_at": "2026-10-27T10:17:36Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-27T10:17:36Z",
+        "primary": false,
+        "excerpt": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "896135c9b237f994322a",
+    "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+    "category": "World",
+    "published_at": "2026-10-27T23:57:50Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+        "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T23:57:50Z",
+        "primary": false,
+        "excerpt": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governingIsraeli elections: live updatesFull report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tiedIsrael election: what we know so farThe big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental challenge to the country’s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival.In the wake of Tuesday’s exit polls, the leader of the opposition b"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0f9f4ace40a03e9c2996",
+    "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+    "category": "World",
+    "published_at": "2026-10-27T20:56:23Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+        "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T20:56:23Z",
+        "primary": false,
+        "excerpt": "Early indications suggest it will be some time before the shape of new government and who will lead it is clearIsrael election – live updatesIsrael election: what we know so farRise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s election appeared to have delivered no clear winner on Tuesday night after a historic turnout by voters for an election described by some as the most consequential in the country’s history, and marked by a record participation by Israeli Arab voters. Exit polls published on Tuesday evening suggested that the opposition bloc of parti"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2415b114f565c6856f16",
+    "title": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+    "category": "U.S.",
+    "published_at": "2026-10-27T09:00:00Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+        "url": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-27T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c0f9ea0e572ba303e075",
+    "title": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
+    "category": "World",
+    "published_at": "2026-10-27T19:24:29Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-27T19:24:29Z",
+        "primary": false,
+        "excerpt": "Two men charged under National Security Act were directed by handler believed to have been working for Iranian intelligence, court toldA group of men were directed to drive vans loaded with petrol to Fairford RAF base by a handler known as Ali, who police believe was working on behalf of Iran, a court heard on Tuesday.One of the five men tasked with driving to the base called police in the early hours of 27 September after the handler warned the group about a bomb in the vans, prosecutors told Westminster magistrates court. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5e089a28d0b4dc09a3bd",
+    "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+    "category": "U.S.",
+    "published_at": "2026-10-28T02:51:25Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-28T02:51:25Z",
+        "primary": false,
+        "excerpt": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7a3dbed4764357dc1b0",
+    "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+    "category": "U.S.",
+    "published_at": "2026-10-28T01:58:08Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-28T01:58:08Z",
+        "primary": false,
+        "excerpt": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5534a575653feda622ab",
+    "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+    "category": "U.S.",
+    "published_at": "2026-10-28T02:47:45Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-28T02:47:45Z",
+        "primary": false,
+        "excerpt": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "abf119f5c00403e10dfa",
+    "title": "Democrats put economy and affordability at center of final campaign push",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:50:38Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Democrats put economy and affordability at center of final campaign push",
+        "url": "https://www.pbs.org/newshour/show/democrats-put-economy-and-affordability-at-center-of-final-campaign-push",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:50:38Z",
+        "primary": false,
+        "excerpt": "With one week until Election Day, the final push is on. President Trump is making a swing through Texas, a state Republicans have long counted on, but where Democrats see an opportunity to make gains. With voters pointing to the cost of everyday necessities, the economy is looming large in the final week of the campaign. Lisa Desjardins reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b0d2f33f5f31a3d4f7ea",
+    "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+    "category": "U.S.",
+    "published_at": "2026-10-27T21:17:57Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T21:17:57Z",
+        "primary": false,
+        "excerpt": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6db3eebd6f0981a303de",
+    "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "category": "U.S.",
+    "published_at": "2026-10-28T02:20:25Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+        "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-28T02:20:25Z",
+        "primary": false,
+        "excerpt": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "24f646c1a86636a2ed2f",
+    "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+    "category": "U.S.",
+    "published_at": "2026-10-27T22:40:23Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-27T22:40:23Z",
+        "primary": false,
+        "excerpt": "In our news wrap Tuesday, the State Department said it will provide U.S. visas to Flavio Bolsonaro and his family following his loss in Brazil's election, President Trump insists the East Potomac Golf Course will close for renovations despite a judge's order blocking major changes and a ceasefire in the Russian-occupied city of Oleshky was holding as a humanitarian truce took effect.",
+        "ai_editor": {
+          "id": "24f646c1a86636a2ed2f",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The wrap reports that the State Department will provide visas to Flavio Bolsonaro and his family after his election defeat. Brazilian police had ordered him to surrender his passport in a money-laundering investigation; he denies wrongdoing. It also covers Justice Department efforts to set aside Washington state ballots.",
+          "evidence_quote": "police ordered Bolsonaro to hand over his passport as part of a money laundering investigation.",
+          "related_ids": [],
+          "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+          "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "24f646c1a86636a2ed2f",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The wrap reports that the State Department will provide visas to Flavio Bolsonaro and his family after his election defeat. Brazilian police had ordered him to surrender his passport in a money-laundering investigation; he denies wrongdoing. It also covers Justice Department efforts to set aside Washington state ballots.",
+      "evidence_quote": "police ordered Bolsonaro to hand over his passport as part of a money laundering investigation.",
+      "related_ids": [],
+      "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+      "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c363224a6712b0a2eebc",
+    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+    "category": "U.S.",
+    "published_at": "2026-10-27T19:53:12Z",
+    "first_seen_at": "2026-10-28T05:52:01.892487Z",
+    "updated_at": "2026-10-28T05:52:01.892487Z",
+    "sources": [
+      {
+        "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+        "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-27T19:53:12Z",
+        "primary": false,
+        "excerpt": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
