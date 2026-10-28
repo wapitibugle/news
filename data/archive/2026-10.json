@@ -21972,5 +21972,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "38e45a4b05185c8e9389",
+    "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+    "category": "Elections",
+    "published_at": "2026-10-28T15:58:22Z",
+    "first_seen_at": "2026-10-28T16:58:54.865923Z",
+    "updated_at": "2026-10-28T16:58:54.865923Z",
+    "sources": [
+      {
+        "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+        "url": "https://www.pbs.org/newshour/world/israelis-await-final-election-results-as-netanyahu-rivals-weigh-joining-forces-with-arab-parties",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T15:58:22Z",
+        "primary": false,
+        "excerpt": "Anxious Israelis watched election results near completion Wednesday after the highest voter turnout in over a quarter-century, as no clear winner emerged and weeks of negotiating could lie ahead for Prime Minister Benjamin Netanyahu and an array of opposition parties trying to unseat him."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
