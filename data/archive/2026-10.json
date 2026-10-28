@@ -22082,6 +22082,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "41b71a42d290e8eb4c39",
+    "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+    "category": "Elections",
+    "published_at": "2026-10-28T20:22:49Z",
+    "first_seen_at": "2026-10-28T20:52:07.469021Z",
+    "updated_at": "2026-10-28T20:52:07.469021Z",
+    "sources": [
+      {
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-28T20:22:49Z",
+        "primary": false,
+        "excerpt": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
