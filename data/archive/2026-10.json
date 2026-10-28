@@ -20530,7 +20530,7 @@
         "excerpt": "New brain-computer interfaces turn attempted speech into words and can speak them in a voice resembling the user’s own."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -22017,6 +22017,34 @@
         "published_at": "2026-10-28T16:30:29Z",
         "primary": false,
         "excerpt": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "37d9aa2ce3e354227053",
+    "title": "FDA scientists opposed Trump administration’s move to ease peptide access",
+    "category": "World",
+    "published_at": "2026-10-28T18:35:40Z",
+    "first_seen_at": "2026-10-28T18:58:22.723295Z",
+    "updated_at": "2026-10-28T18:58:22.723295Z",
+    "sources": [
+      {
+        "title": "FDA scientists opposed Trump administration’s move to ease peptide access",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/peptides-fda-health-human-services-department",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T18:35:40Z",
+        "primary": false,
+        "excerpt": "Effort to loosen rules on unproven peptide drugs, favored by RFK Jr, faced fierce pushback from agency scientistsA plan to give people in the United States easier access to unproven peptide drugs favored by the US health secretary, Robert F Kennedy Jr, was opposed by most Food and Drug Administration scientific staff members, who had limited input in drafting the policy, according to six people familiar with its development.The document posted online on Wednesday by Kennedy’s Department of Health and Human Services (HHS) covers a handful of injectable peptides promoted within the wellness indu"
       }
     ],
     "tier": "brief",
