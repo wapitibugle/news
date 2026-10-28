@@ -21998,6 +21998,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ecc9e7f2a8dad2a53bbf",
+    "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+    "category": "Elections",
+    "published_at": "2026-10-28T16:30:29Z",
+    "first_seen_at": "2026-10-28T17:55:01.286842Z",
+    "updated_at": "2026-10-28T17:55:01.286842Z",
+    "sources": [
+      {
+        "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+        "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-28T16:30:29Z",
+        "primary": false,
+        "excerpt": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
