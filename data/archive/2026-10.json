@@ -21886,7 +21886,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "24350fb4261b73b28af1",
@@ -21904,6 +21905,34 @@
         "published_at": "2026-10-28T10:00:03Z",
         "primary": false,
         "excerpt": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald TrumpThe US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.Last month, Fed officials raised rates for the first time since 2023, citing rising inflation. Inflation has hovered for years above the Fed’s target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ebbedb2c11e2916d3523",
+    "title": "Budget 2026: John Healey offers £100 payments to households to help navigate ‘global economic storms’",
+    "category": "World",
+    "published_at": "2026-10-28T13:17:31Z",
+    "first_seen_at": "2026-10-28T14:07:16.246112Z",
+    "updated_at": "2026-10-28T14:07:16.246112Z",
+    "sources": [
+      {
+        "title": "Budget 2026: John Healey offers £100 payments to households to help navigate ‘global economic storms’",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T13:17:31Z",
+        "primary": false,
+        "excerpt": "Payment to 20m homes part of package to help cut energy bills and ease cost-of-living crisis, paid for by smaller than expected bank windfall taxBudget 2026: key points at a glanceBudget 2026 live – latest updatesJohn Healey promised to steer Britain through “global economic storms,” as he announced a package of measures to cut consumers’ energy bills, funded by a smaller-than-expected windfall tax on banks.In his first budget, the chancellor said 20m households in council tax bands A to D would receive a £100 payment – a measure he said would cost £2.6bn. Continue reading..."
       }
     ],
     "tier": "brief",
