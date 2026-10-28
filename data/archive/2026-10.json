@@ -21776,5 +21776,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "678bd4db663f29a78f60",
+    "title": "Why many student voters have a right to choose where to register to vote",
+    "category": "Elections",
+    "published_at": "2026-10-28T09:00:00Z",
+    "first_seen_at": "2026-10-28T09:57:13.085527Z",
+    "updated_at": "2026-10-28T09:57:13.085527Z",
+    "sources": [
+      {
+        "title": "Why many student voters have a right to choose where to register to vote",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-28T09:00:00Z",
+        "primary": false,
+        "excerpt": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
