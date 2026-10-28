@@ -22054,6 +22054,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "64642ac3736699b85c4c",
+    "title": "WATCH LIVE: Obama stumps for Ossoff and Bottoms at Georgia midterm rally",
+    "category": "Elections",
+    "published_at": "2026-10-28T19:22:59Z",
+    "first_seen_at": "2026-10-28T19:54:32.672305Z",
+    "updated_at": "2026-10-28T19:54:32.672305Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Obama stumps for Ossoff and Bottoms at Georgia midterm rally",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-obama-stumps-for-ossoff-and-bottoms-at-georgia-midterm-rally",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T19:22:59Z",
+        "primary": false,
+        "excerpt": "Former President Barack Obama, the last Democratic president to serve two terms, is increasingly campaigning for his party, acting as a foil to President Donald Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
