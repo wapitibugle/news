@@ -3221,5 +3221,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
     "group": ""
+  },
+  "2e93ffbc7cfeb3008ac04fdf40ef760dbcfc35fa941a3e5689058bc722614b43": {
+    "id": "e715b46f5e4541bcc80f",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that election projections leave neither Netanyahu’s coalition nor Eisenkot’s opposition coalition with a parliamentary majority. Coalition negotiations could take weeks or months; the projected seat totals are not final results.",
+    "evidence_quote": "Eisenkot's coalition is estimated to have won more, 53, but not enough to secure a majority.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "Projections show no clear winner in Israel's election",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+    "group": ""
+  },
+  "07a55124ab4618f5472db20c8eed8d80214ade14561ff4096aba7267be2e8373": {
+    "id": "6f245b9bb8c142f8baef",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The PBS News/NPR/Marist poll reports an eight-point Democratic lead among likely voters on the generic congressional ballot. The supplied report does not give sample size, field dates or margin of error, and national polling does not establish individual race outcomes.",
+    "evidence_quote": "It shows Democrats holding an eight-point lead among likely voters.",
+    "related_ids": [
+      "0eb1f45b2fca5d70d8fe"
+    ],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "Poll gauges voter enthusiasm for both parties a week before election",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
+    "group": "0eb1f45b2fca5d70d8fe"
+  },
+  "8644b1021e484180102778195f772bf1766f9262aabba7caea2930d400c17f20": {
+    "id": "24f646c1a86636a2ed2f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The wrap reports that the State Department will provide visas to Flavio Bolsonaro and his family after his election defeat. Brazilian police had ordered him to surrender his passport in a money-laundering investigation; he denies wrongdoing. It also covers Justice Department efforts to set aside Washington state ballots.",
+    "evidence_quote": "police ordered Bolsonaro to hand over his passport as part of a money laundering investigation.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+    "group": ""
+  },
+  "c51ff0cad81dc185cbff7b845870549e89a12a1eea62d6c0196819798d6cb9eb": {
+    "id": "96bb84d5626d4fd8551f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS examines Georgia’s public voting-equipment tests and resistance to federal requests for sensitive voter data. It distinguishes recount errors from intentional misconduct: a state review found some double counting but said the errors did not change election results.",
+    "evidence_quote": "the review said that this was due to human error, not intentional misconduct",
+    "related_ids": [],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "Inside Georgia's push to rebuild trust in elections after Trump's false claims",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/inside-georgias-push-to-rebuild-trust-in-elections-after-trumps-false-claims",
+    "group": ""
+  },
+  "5954913e63e5c14d1e201cb31adfa797da3f84a178b49258498f6c8f65a9af82": {
+    "id": "0eb1f45b2fca5d70d8fe",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "The PBS News/NPR/Marist poll finds 66% approval for Trump among white evangelical Christians and nearly three-quarters backing congressional Republicans. Interviews illustrate individual doubts but do not establish their prevalence; the supplied text gives no subgroup sample size or margin of error.",
+    "evidence_quote": "66 percent say they approve of the job Trump is doing as president",
+    "related_ids": [
+      "6f245b9bb8c142f8baef"
+    ],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "Why Trump's coalition of evangelical voters could be fraying",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
+    "group": "0eb1f45b2fca5d70d8fe"
+  },
+  "e7541b6ea4de54e29dffb57e2e1df215562feeba0d9400b42ded3674dfaca94f": {
+    "id": "9ef325f513770ca810dc",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "BBC Verify reviews studies and conviction records that contradict claims of widespread postal and noncitizen voting fraud. It reports a Brookings analysis finding about four fraud cases per 10 million postal votes across four elections. Conviction databases measure documented cases, not every possible undetected instance.",
+    "evidence_quote": "found an average of about four cases of fraud out of every 10 million postal votes.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-28T01:08:42.105730+00:00",
+    "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o",
+    "group": ""
   }
 }
