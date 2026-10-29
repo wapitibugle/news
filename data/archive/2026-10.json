@@ -23239,6 +23239,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d6c4809edcedd534dd97",
+    "title": "Voter voices: Which issues matter most to Americans?",
+    "category": "Elections",
+    "published_at": "2026-10-29T10:52:33Z",
+    "first_seen_at": "2026-10-29T11:53:51.666912Z",
+    "updated_at": "2026-10-29T11:53:51.666912Z",
+    "sources": [
+      {
+        "title": "Voter voices: Which issues matter most to Americans?",
+        "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-29T10:52:33Z",
+        "primary": false,
+        "excerpt": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
