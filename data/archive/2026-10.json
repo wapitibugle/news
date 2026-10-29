@@ -23379,6 +23379,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8da2ab988e1599686c0c",
+    "title": "Senate race in once reliably Republican South Carolina tied in final stretch – poll",
+    "category": "Elections",
+    "published_at": "2026-10-29T14:42:38Z",
+    "first_seen_at": "2026-10-29T16:02:06.615027Z",
+    "updated_at": "2026-10-29T16:02:06.615027Z",
+    "sources": [
+      {
+        "title": "Senate race in once reliably Republican South Carolina tied in final stretch – poll",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-29T14:42:38Z",
+        "primary": false,
+        "excerpt": "Democrat Annie Andrews neck-and-neck with Republican incumbent, Darline Graham, sister to Lindsey GrahamUS politics live – latest updatesA US Senate race in one of the most Republican states in the country is now a dead heat, according to a new poll showing Annie Andrews, a Democrat, tied with Darline Graham, the Republican incumbent senator.South Carolina has not elected a Democrat to the Senate since 1998, and Donald Trump won it by nearly 18 points in 2024, but a New York Times/Siena poll this week has the two candidates neck and neck, at 48% each. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
