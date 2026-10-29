@@ -23407,6 +23407,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "367fe1d4e37392b2b3e8",
+    "title": "Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort",
+    "category": "Elections",
+    "published_at": "2026-10-29T16:44:08Z",
+    "first_seen_at": "2026-10-29T17:01:24.710191Z",
+    "updated_at": "2026-10-29T17:01:24.710191Z",
+    "sources": [
+      {
+        "title": "Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-ballot-stacking-allegation-explained",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-29T16:44:08Z",
+        "primary": false,
+        "excerpt": "Democrat Mary Peltola’s campaign reportedly recruited a second Dan Sullivan in the race in what Republicans call a ploy to split votesUS politics live – latest updatesRepublican officials have called for an investigation into an alleged ballot-stacking scheme in Alaska’s competitive Senate race by Democrat Mary Peltola’s campaign.For months, Donald Trump and others accused Peltola and Democrats of recruiting candidates with the same name as her Republican opponent, Dan Sullivan, to purposefully confuse voters when they cast their ballots in November’s midterms. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
