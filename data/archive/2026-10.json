@@ -20894,7 +20894,7 @@
         "excerpt": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -22112,5 +22112,959 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "5bb5accaf7a01fbc8353",
+    "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
+    "category": "Elections",
+    "published_at": "2026-10-29T01:54:47Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-29T01:54:47Z",
+        "primary": false,
+        "excerpt": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizensA federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms.The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Lo"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0884e8514b63839104d3",
+    "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+    "category": "Elections",
+    "published_at": "2026-10-29T00:52:50Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-29T00:52:50Z",
+        "primary": false,
+        "excerpt": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4389bb31eaa8746f473d",
+    "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:55:56Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+        "url": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:55:56Z",
+        "primary": false,
+        "excerpt": "President Trump headed to Ohio to rally voters in a race that could determine control of the Senate. That stop comes after dueling rallies in another key state offered a snapshot of the divisions shaping the midterm elections. Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4ae198c56b0fd1a93b09",
+    "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
+    "category": "Elections",
+    "published_at": "2026-10-28T19:42:42Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
+        "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-28T19:42:42Z",
+        "primary": false,
+        "excerpt": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c14677a40d90a53f835c",
+    "title": "What's next for Israel after election produces political gridlock",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:50:09Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "What's next for Israel after election produces political gridlock",
+        "url": "https://www.pbs.org/newshour/show/whats-next-for-israel-after-election-produces-political-gridlock",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:50:09Z",
+        "primary": false,
+        "excerpt": "In Israel, nearly all the votes have been counted in Tuesday's election. Prime Minister Benjamin Netanyahu and his allies emerged as the largest bloc, but lost seats and fell short of the majority needed to form a government. The results leave Israel facing the prospect of political gridlock. Nick Schifrin reports from Tel Aviv."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "20e1357a6bd7c9228e3c",
+    "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+    "category": "Elections",
+    "published_at": "2026-10-28T20:15:07Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+        "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-28T20:15:07Z",
+        "primary": false,
+        "excerpt": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US electionsThe US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries.On Wednesday, CTV news reported that Pete Hoekstra told business leaders at a closed door meeting that if a number of swing races – including Maine and Michigan – go to the Democrats, it could make thi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "432ac328f2d10371d595",
+    "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
+    "category": "Elections",
+    "published_at": "2026-10-28T08:47:18Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-28T08:47:18Z",
+        "primary": false,
+        "excerpt": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d10e406c94455d0a8a6b",
+    "title": "Brazil's Flávio Bolsonaro flees to U.S. after election loss",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:35:56Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Brazil's Flávio Bolsonaro flees to U.S. after election loss",
+        "url": "https://www.pbs.org/newshour/show/brazils-flavio-bolsonaro-flees-to-u-s-after-election-loss",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:35:56Z",
+        "primary": false,
+        "excerpt": "Another member of Brazil's Bolsonaro family has found haven from possible prosecution by fleeing to the U.S., where they have an ally in President Trump. Just three days after losing Brazil's presidential election, Flávio Bolsonaro, who faces multiple criminal investigations, defied a Brazilian court and left the country. Stephanie Sy discussed more with Brian Winter of America's Quarterly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ea239b93919b7b5716c8",
+    "title": "Brewers beat the Rays to win the first World Series title in franchise history",
+    "category": "U.S.",
+    "published_at": "2026-10-29T04:49:24Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Brewers beat the Rays to win the first World Series title in franchise history",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-29T04:49:24Z",
+        "primary": false,
+        "excerpt": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time. The championship comes in the 58th season for a franchise that began as the Seattle Pilots in 1969."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "39eff1b7a0b83f6fee36",
+    "title": "Milwaukee Brewers close out Tampa Bay Rays to end 57-year wait for first World Series title",
+    "category": "U.S.",
+    "published_at": "2026-10-29T03:18:07Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Milwaukee Brewers close out Tampa Bay Rays to end 57-year wait for first World Series title",
+        "url": "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-29T03:18:07Z",
+        "primary": false,
+        "excerpt": "Brewers win first championship with 4-1 win in Game 5Misiorowski hurls five and two-thirds scoreless inningsContreras named World Series MVP after batting .381The Milwaukee Brewers captured their first World Series crown on Wednesday night, defeating the Tampa Bay Rays 4-1 to complete a four-games-to-one victory and end more than half a century of waiting for baseball’s biggest prize.Rookie shortstop Cooper Pratt drove in two runs and Jacob Misiorowski pitched five and two-thirds scoreless innings as Milwaukee put the finishing touches on a charmed season that began in spring training with cha"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9afd989ede6392353c99",
+    "title": "Hackers expose the identities of more than 40,000 DHS employees",
+    "category": "U.S.",
+    "published_at": "2026-10-29T03:28:50Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Hackers expose the identities of more than 40,000 DHS employees",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-29T03:28:50Z",
+        "primary": false,
+        "excerpt": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e9bfba10ec085dbed72d",
+    "title": "Arnab Strikes India",
+    "category": "Science",
+    "published_at": "2026-10-29T04:01:00Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Arnab Strikes India",
+        "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-29T04:01:00Z",
+        "primary": true,
+        "excerpt": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "684a0e80dde93c2c3a3c",
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "category": "Science",
+    "published_at": "2026-10-29T04:05:00Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "APOD: 29 October 2026 – The Horns of Venus",
+        "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-29T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1aab3cdba181336af195",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "category": "U.S.",
+    "published_at": "2026-10-29T01:30:43Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-29T01:30:43Z",
+        "primary": false,
+        "excerpt": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52119b3ebc7cea83594f",
+    "title": "US civil rights leader Dolores Huerta dies aged 96",
+    "category": "U.S.",
+    "published_at": "2026-10-28T18:48:15Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "US civil rights leader Dolores Huerta dies aged 96",
+        "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-28T18:48:15Z",
+        "primary": false,
+        "excerpt": "Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0364db0aefe8e279fe04",
+    "title": "Remembering pioneering labor leader and civil rights icon Dolores Huerta",
+    "category": "U.S.",
+    "published_at": "2026-10-28T22:10:30Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Remembering pioneering labor leader and civil rights icon Dolores Huerta",
+        "url": "https://www.pbs.org/newshour/show/remembering-labor-and-civil-rights-leader-dolores-huerta",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-28T22:10:30Z",
+        "primary": false,
+        "excerpt": "Dolores Huerta, the pioneering labor leader and civil rights icon, died Wednesday from cancer at her home in Bakersfield, California. Amna Nawaz looks back at Huerta's life and legacy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "275b234f50f1241c96f8",
+    "title": "Four investigations Democrats could launch if they win control of Congress",
+    "category": "U.S.",
+    "published_at": "2026-10-28T11:00:12Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Four investigations Democrats could launch if they win control of Congress",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-28T11:00:12Z",
+        "primary": false,
+        "excerpt": "Democrats have promised a wave of probes into the Trump administration if they win back the House."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "47f081073bd6b00481fc",
+    "title": "Trump administration will allow pharmacies to make popular peptides",
+    "category": "U.S.",
+    "published_at": "2026-10-28T22:26:48Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Trump administration will allow pharmacies to make popular peptides",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-28T22:26:48Z",
+        "primary": false,
+        "excerpt": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ca59db0242eb228fbd9",
+    "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-28T19:48:44Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-28T19:48:44Z",
+        "primary": false,
+        "excerpt": "Republicans have condemned the presence of two Dan Sullivans on the ballot, calling it a ploy to split votesAlaska Democrat Mary Peltola’s campaign was behind an effort to recruit a challenger with almost the same name as the Republican US senator Dan Sullivan, both of whom will appear on the ballot in next week’s midterm elections, the New York Times reported on Wednesday.Republicans have condemned the presence in the race of two candidates named Dan Sullivan – one the two-term US senator, the second a retiree living in south-eastern Alaska with scant political experience – calling the newcom"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "29136583bb6ae18b58d2",
+    "title": "Alvin Hellerstein, federal judge who handled cases on Trump, Maduro and 9/11, dies at 92",
+    "category": "U.S.",
+    "published_at": "2026-10-28T21:49:10Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Alvin Hellerstein, federal judge who handled cases on Trump, Maduro and 9/11, dies at 92",
+        "url": "https://www.pbs.org/newshour/politics/alvin-hellerstein-federal-judge-who-handled-cases-on-trump-maduro-and-9-11-dies-at-92",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-28T21:49:10Z",
+        "primary": false,
+        "excerpt": "Just two weeks ago, Hellerstein presided over the arraignment of former Venezuelan President Nicolás Maduro and Maduro's wife, Cilia Flores, on torture charges that were added to their ongoing narco-terrorism conspiracy case."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "214f590527ac28545f14",
+    "title": "Democratic and GOP strategists assess midterm landscape in final week",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:25:03Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Democratic and GOP strategists assess midterm landscape in final week",
+        "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-assess-midterm-landscape-in-final-week",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:25:03Z",
+        "primary": false,
+        "excerpt": "To discuss how the midterm races are shaping up in the final days, Amna Nawaz sat down with Democratic strategist Mo Elleithee and Republican strategist Doug Heye."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eda4f2e22f56a9031c1d",
+    "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+    "category": "U.S.",
+    "published_at": "2026-10-28T21:15:09Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-28T21:15:09Z",
+        "primary": false,
+        "excerpt": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "62b7429fadd3110a1d21",
+    "title": "How the Associated Press tracks and calls races on Election Night",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:20:09Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "How the Associated Press tracks and calls races on Election Night",
+        "url": "https://www.pbs.org/newshour/show/how-the-associated-press-tracks-and-calls-races-on-election-night",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:20:09Z",
+        "primary": false,
+        "excerpt": "Nearly 40 million votes have already been cast for races that will determine not only who controls Congress, but also governors, mayors and city councils. For many years, PBS News has relied on the Associated Press to keep track of results, and we will again next Tuesday. Deema Zein takes a closer look at how the AP counts the vote."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ec4a361d5b75b0893c6",
+    "title": "AP report: FDA scientists opposed the Trump administration's move to ease peptides access",
+    "category": "U.S.",
+    "published_at": "2026-10-28T21:20:55Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "AP report: FDA scientists opposed the Trump administration's move to ease peptides access",
+        "url": "https://www.pbs.org/newshour/health/ap-report-fda-scientists-opposed-the-trump-administrations-move-to-ease-peptides-access",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-28T21:20:55Z",
+        "primary": false,
+        "excerpt": "A plan to give people in the United States easier access to unproven peptide drugs favored by Health Secretary Robert F. Kennedy Jr. was opposed by most Food and Drug Administration scientific staff members, who had limited input in drafting the policy, according to six people familiar with its development."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b08cd64cc73a3c47617",
+    "title": "Minnesota becomes battleground as political clashes shape Senate race",
+    "category": "Elections",
+    "published_at": "2026-10-28T08:45:25Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Minnesota becomes battleground as political clashes shape Senate race",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019356/minnesota-becomes-battleground-as-political-clashes-shape-senate-race",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-28T08:45:25Z",
+        "primary": false,
+        "excerpt": "Minnesota has become a flashpoint in the political dispute between President Trump and Democrats. Clashes over immigration and recent accusations of fraud are spilling into the U.S. Senate race."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ea58f2a9f0e8d1b10639",
+    "title": "Dolores Huerta, labor and civil rights icon, dies at 96",
+    "category": "U.S.",
+    "published_at": "2026-10-28T16:36:07Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Dolores Huerta, labor and civil rights icon, dies at 96",
+        "url": "https://www.pbs.org/newshour/nation/dolores-huerta-labor-and-civil-rights-icon-dies-at-96",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-28T16:36:07Z",
+        "primary": false,
+        "excerpt": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry."
+      },
+      {
+        "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-28T16:10:43Z",
+        "primary": false,
+        "excerpt": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ac982066a170efbeff6",
+    "title": "America's long history of gerrymandering and its role in this year's midterms",
+    "category": "Elections",
+    "published_at": "2026-10-28T22:15:18Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "America's long history of gerrymandering and its role in this year's midterms",
+        "url": "https://www.pbs.org/newshour/show/americas-long-history-of-gerrymandering-and-its-role-in-this-years-midterms",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T22:15:18Z",
+        "primary": false,
+        "excerpt": "Following partisan battles over political maps, nearly 35 million Americans will vote in congressional districts redrawn ahead of this year's midterms. As the nation marks its 250th anniversary, Judy Woodruff explores the origins of gerrymandering and why this centuries-old practice remains one of the most powerful tools in American politics. It's part of her series, Crossroads: America at 250."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "43f2743d49018842940c",
+    "title": "WATCH: Defeated Brazilian candidate Flávio Bolsonaro arrives in U.S. amid investigation",
+    "category": "U.S.",
+    "published_at": "2026-10-28T14:54:35Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "WATCH: Defeated Brazilian candidate Flávio Bolsonaro arrives in U.S. amid investigation",
+        "url": "https://www.pbs.org/newshour/world/watch-defeated-brazilian-candidate-flavio-bolsonaro-arrives-in-u-s-amid-investigation",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-28T14:54:35Z",
+        "primary": false,
+        "excerpt": "The stunning move came after 48 hours in which Bolsonaro refused to concede to Brazilian President Luiz Inácio Lula da Silva and then threatened to attempt to annul the election result. He is under investigation by Brazil's Supreme Court for alleged corruption, money laundering and tax evasion in two cases."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3080baa21ef50783377c",
+    "title": "4 takeaways from Israel's inconclusive election",
+    "category": "Elections",
+    "published_at": "2026-10-28T20:47:47Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "4 takeaways from Israel's inconclusive election",
+        "url": "https://www.pbs.org/newshour/world/4-takeaways-from-israels-inconclusive-election",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T20:47:47Z",
+        "primary": false,
+        "excerpt": "Prime Minister Benjamin Netanyahu is down but not out."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bedc6611e4f75e2f8da1",
+    "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
+    "category": "Elections",
+    "published_at": "2026-10-28T17:22:30Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-voters-in-ohio-after-divisive-ramaswamy-campaign-ad",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-28T17:22:30Z",
+        "primary": false,
+        "excerpt": "President Donald Trump is finishing the midterms with a cross-country blitz of campaign rallies that allow him to bask in applause when he's otherwise profoundly unpopular."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "911c5c87c882e840099a",
+    "title": "Israel's election deadlock is a sign of the country's deep divisions",
+    "category": "World",
+    "published_at": "2026-10-28T20:53:02Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Israel's election deadlock is a sign of the country's deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-28T20:53:02Z",
+        "primary": false,
+        "excerpt": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5f020f87a8c302a54d60",
+    "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+    "category": "Business",
+    "published_at": "2026-10-28T09:00:00Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-10-28T09:00:00Z",
+        "primary": false,
+        "excerpt": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f1af0c279dfde4d45e2a",
+    "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+    "category": "World",
+    "published_at": "2026-10-28T19:58:27Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+        "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T19:58:27Z",
+        "primary": false,
+        "excerpt": "Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decadesIsrael election – live updatesAnalysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscapeIsrael’s future hung in the balance on Wednesday as it became clear that Benjamin Netanyahu had lost his governing majority. His political fate now depends on whether opposition Jewish parties are prepared to forge a common front with Palestinian parties, whose support surged in Tuesday’s elections.The leader of the Jewish opposition bloc, the retired general Gadi Eisen"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "efde69e8a22c8d9436f1",
+    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "category": "World",
+    "published_at": "2026-10-28T20:24:39Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-28T20:24:39Z",
+        "primary": false,
+        "excerpt": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9bf7dffdb405f76783a9",
+    "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+    "category": "World",
+    "published_at": "2026-10-28T18:54:10Z",
+    "first_seen_at": "2026-10-29T05:53:19.982010Z",
+    "updated_at": "2026-10-29T05:53:19.982010Z",
+    "sources": [
+      {
+        "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+        "url": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-28T18:54:10Z",
+        "primary": false,
+        "excerpt": "Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating himIsrael election – live updatesFull report: Coalition talks loom in IsraelAnalysis: Rise of Palestinian parties will redraw political landscapeHours before the final results from Israel’s elections were in, several things were clear. Benjamin Netanyahu’s far-right coalition had lost its mandate, and the opposition had a firm majority.But most of Israel’s Jewish opposition ruled out governing with Palestinian-led parties, in the course of a racist election campaign in which Netanyahu "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
