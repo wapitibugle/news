@@ -23183,6 +23183,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5a88b6931826edc47cff",
+    "title": "Data Center Health Worries Animate Midterm Campaigns",
+    "category": "Elections",
+    "published_at": "2026-10-29T09:00:00Z",
+    "first_seen_at": "2026-10-29T09:01:18.214216Z",
+    "updated_at": "2026-10-29T09:01:18.214216Z",
+    "sources": [
+      {
+        "title": "Data Center Health Worries Animate Midterm Campaigns",
+        "url": "https://kffhealthnews.org/elections/data-centers-midterm-campaigns-health-pollution-noise-light-arizona-ohio/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-10-29T09:00:00Z",
+        "primary": false,
+        "excerpt": "Opposition to the rapid emergence of data centers in states such as Ohio and Arizona has ginned up activism and unified voters. A range of public health issues have played into the resistance."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
