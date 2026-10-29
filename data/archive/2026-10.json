@@ -23491,6 +23491,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7972cb15561e95e012db",
+    "title": "How Trump's immigration crackdown sparked a backlash that could undermine Republicans' campaigns",
+    "category": "U.S.",
+    "published_at": "2026-10-29T19:23:23Z",
+    "first_seen_at": "2026-10-29T20:53:31.789831Z",
+    "updated_at": "2026-10-29T20:53:31.789831Z",
+    "sources": [
+      {
+        "title": "How Trump's immigration crackdown sparked a backlash that could undermine Republicans' campaigns",
+        "url": "https://www.pbs.org/newshour/politics/how-trumps-immigration-crackdown-sparked-a-backlash-that-could-undermine-republicans-campaigns",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-29T19:23:23Z",
+        "primary": false,
+        "excerpt": "More Americans now disapprove of Trump's approach to immigration than approve of it, a striking turnaround that followed a nationwide crackdown."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
