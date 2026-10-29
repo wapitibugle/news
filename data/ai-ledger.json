@@ -1516,7 +1516,10 @@
       "day": "2026-10-29",
       "model": "gpt-6.1-sol",
       "reserved_micro_usd": 68679,
-      "state": "pending"
+      "state": "settled",
+      "charged_micro_usd": 12048,
+      "input_tokens": 1666,
+      "output_tokens": 470
     }
   ]
 }
