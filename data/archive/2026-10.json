@@ -23127,7 +23127,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a72b15c0e1517e3d32b4",
@@ -23148,6 +23149,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "24dd61db10af48de433f",
+    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "category": "World",
+    "published_at": "2026-10-29T07:54:33Z",
+    "first_seen_at": "2026-10-29T08:09:31.918049Z",
+    "updated_at": "2026-10-29T08:09:31.918049Z",
+    "sources": [
+      {
+        "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-29T07:54:33Z",
+        "primary": false,
+        "excerpt": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
