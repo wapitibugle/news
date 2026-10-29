@@ -23351,6 +23351,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "eb173c239b34297a3df0",
+    "title": "A volcanic eruption and Obama on the midterm campaign trail: photos of the day – Thursday",
+    "category": "Elections",
+    "published_at": "2026-10-29T14:01:44Z",
+    "first_seen_at": "2026-10-29T15:05:18.333774Z",
+    "updated_at": "2026-10-29T15:05:18.333774Z",
+    "sources": [
+      {
+        "title": "A volcanic eruption and Obama on the midterm campaign trail: photos of the day – Thursday",
+        "url": "https://www.theguardian.com/news/gallery/2026/oct/29/volcanic-eruption-and-obama-on-the-midterm-campaign-trail-photos-of-the-day-thursday",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-29T14:01:44Z",
+        "primary": false,
+        "excerpt": "The Guardian’s picture editors select photographs from around the world Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]

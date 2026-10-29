@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-29T14:11:16.457530Z",
+  "collected_at": "2026-10-29T15:05:18.333774Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -43,7 +43,8 @@
     },
     {
       "feed": "NASA",
-      "ok": true
+      "ok": false,
+      "error": "ValueError"
     },
     {
       "feed": "NPR World",
@@ -103,5 +104,5 @@
     "accounted_usd": 3.503952,
     "monthly_limit_usd": 20
   },
-  "stories": 744
+  "stories": 745
 }
