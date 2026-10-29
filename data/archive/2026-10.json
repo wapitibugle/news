@@ -23267,6 +23267,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3384a2b4f9d019d27174",
+    "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+    "category": "Elections",
+    "published_at": "2026-10-29T13:05:03Z",
+    "first_seen_at": "2026-10-29T13:07:12.325461Z",
+    "updated_at": "2026-10-29T13:07:12.325461Z",
+    "sources": [
+      {
+        "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-29T13:05:03Z",
+        "primary": false,
+        "excerpt": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "31a4004be51c787ae3e2",
+    "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+    "category": "Elections",
+    "published_at": "2026-10-29T11:34:30Z",
+    "first_seen_at": "2026-10-29T13:07:12.325461Z",
+    "updated_at": "2026-10-29T13:07:12.325461Z",
+    "sources": [
+      {
+        "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+        "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-29T11:34:30Z",
+        "primary": false,
+        "excerpt": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
