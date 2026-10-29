@@ -23463,6 +23463,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "664fb44b60f56be3a9cd",
+    "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
+    "category": "U.S.",
+    "published_at": "2026-10-29T19:53:52Z",
+    "first_seen_at": "2026-10-29T19:56:24.385845Z",
+    "updated_at": "2026-10-29T19:56:24.385845Z",
+    "sources": [
+      {
+        "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
+        "url": "https://www.pbs.org/newshour/politics/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-29T19:53:52Z",
+        "primary": false,
+        "excerpt": "Twenty-five states sued the Trump administration in June over the new Centers for Medicare and Medicaid Services guidance tied to the 2025 law known as the \"One Big Beautiful Bill.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
