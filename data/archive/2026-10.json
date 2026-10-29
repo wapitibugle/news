@@ -23437,5 +23437,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "5ee884afee61859f83e9",
+    "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+    "category": "U.S.",
+    "published_at": "2026-10-29T17:50:00Z",
+    "first_seen_at": "2026-10-29T18:59:54.273832Z",
+    "updated_at": "2026-10-29T18:59:54.273832Z",
+    "sources": [
+      {
+        "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+        "url": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-29T17:50:00Z",
+        "primary": false,
+        "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
