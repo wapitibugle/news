@@ -23295,7 +23295,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "31a4004be51c787ae3e2",
@@ -23313,6 +23314,34 @@
         "published_at": "2026-10-29T11:34:30Z",
         "primary": false,
         "excerpt": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "efcdb4e2ded9d58c32bb",
+    "title": "Alaska governor orders investigation into Democrat Mary Peltola’s Senate campaign",
+    "category": "World",
+    "published_at": "2026-10-29T13:10:39Z",
+    "first_seen_at": "2026-10-29T14:11:16.457530Z",
+    "updated_at": "2026-10-29T14:11:16.457530Z",
+    "sources": [
+      {
+        "title": "Alaska governor orders investigation into Democrat Mary Peltola’s Senate campaign",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-investigation-mary-peltola-dan-sullivan",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-29T13:10:39Z",
+        "primary": false,
+        "excerpt": "Republican Mike Dunleavy plans search after Peltola accused of recruiting Dan Sullivan to confuse votersThe Republican governor of Alaska announced plans to launch a criminal investigation after a report accused the campaign of Democratic senate candidate Mary Peltola of trying to confuse voters by recruiting a candidate with the same name as her opponent.Governor Mike Dunleavy wrote on social media that he was “directing the Department of Public Safety to investigate whether this scheme violated Alaska’s laws and whether criminal charges or civil action are warranted”. Continue reading..."
       }
     ],
     "tier": "brief",
