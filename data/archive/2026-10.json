@@ -23213,5 +23213,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "07cf9866f57f9c0fdb44",
+    "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+    "category": "U.S.",
+    "published_at": "2026-10-29T09:00:00Z",
+    "first_seen_at": "2026-10-29T10:56:07.170682Z",
+    "updated_at": "2026-10-29T10:56:07.170682Z",
+    "sources": [
+      {
+        "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-29T09:00:00Z",
+        "primary": false,
+        "excerpt": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
