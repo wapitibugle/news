@@ -24934,5 +24934,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "2105479f31dc5d10234c",
+    "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+    "category": "Elections",
+    "published_at": "2026-10-30T15:10:00Z",
+    "first_seen_at": "2026-10-30T16:55:23.668733Z",
+    "updated_at": "2026-10-30T16:55:23.668733Z",
+    "sources": [
+      {
+        "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+        "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-10-30T15:10:00Z",
+        "primary": false,
+        "excerpt": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
