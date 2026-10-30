@@ -24764,6 +24764,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e8a69b66e71503be9f16",
+    "title": "Government corruption a top issue for US midterm voters, exclusive poll finds",
+    "category": "Elections",
+    "published_at": "2026-10-30T10:00:52Z",
+    "first_seen_at": "2026-10-30T10:54:26.934736Z",
+    "updated_at": "2026-10-30T10:54:26.934736Z",
+    "sources": [
+      {
+        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T10:00:52Z",
+        "primary": false,
+        "excerpt": "Harris poll for Guardian finds 76% believe officials care more about self-enrichment than helping everyday AmericansGovernment corruption has emerged as a top issue in the upcoming US midterm elections, with an overwhelming majority of Americans saying US government officials use their public office for personal financial gain, according to an exclusive Harris poll for the Guardian.Nearly nine out of 10 Americans said that government corruption, as defined as elected officials putting their own or their donors’ financial interests ahead of the public’s, is a problem, according to the survey. C"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
