@@ -23941,7 +23941,7 @@
         "excerpt": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24624,7 +24624,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4f2d511bb4fd35c18415",
@@ -24642,6 +24643,34 @@
         "published_at": "2026-10-30T06:22:37Z",
         "primary": false,
         "excerpt": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "663f794f31d33de0cdae",
+    "title": "How video game remakes tap the power of nostalgia",
+    "category": "Technology",
+    "published_at": "2026-10-30T07:45:00Z",
+    "first_seen_at": "2026-10-30T08:09:31.520487Z",
+    "updated_at": "2026-10-30T08:09:31.520487Z",
+    "sources": [
+      {
+        "title": "How video game remakes tap the power of nostalgia",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-10-30T07:45:00Z",
+        "primary": false,
+        "excerpt": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
       }
     ],
     "tier": "second",
