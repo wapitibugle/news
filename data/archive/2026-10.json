@@ -24848,7 +24848,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "53a7d311fb5a407532f2",
@@ -24866,6 +24867,34 @@
         "published_at": "2026-10-30T11:54:22Z",
         "primary": false,
         "excerpt": "DoJ reportedly issues subpoenas after reports Democrat campaign sought candidate with same name as Republican incumbent. Plus, tributes pour in for Patrick StewartGood morning. The US justice department is said to have issued subpoenas after a report that the Alaska Democrat Mary Peltola’s campaign collaborated with party operatives to get a challenger with the same name as the Republican senator Dan Sullivan on to the midterm ballot.Ballot stacking is a political tactic used in elections to draw votes away from an opponent by “stacking” the ballot with other candidates. While it is not illega"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ad263103f3acb7123db9",
+    "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation",
+    "category": "U.S.",
+    "published_at": "2026-10-30T13:45:06Z",
+    "first_seen_at": "2026-10-30T14:07:52.997968Z",
+    "updated_at": "2026-10-30T14:07:52.997968Z",
+    "sources": [
+      {
+        "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation",
+        "url": "https://www.pbs.org/newshour/politics/peltola-denies-knowing-about-alaska-spoiler-candidate-as-justice-department-escalates-investigation",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-30T13:45:06Z",
+        "primary": false,
+        "excerpt": "Democratic Senate candidate Mary Peltola denied Thursday that she knew anything about an effort to put another candidate on the Alaska ballot with the same name as the Republican incumbent as the Justice Department escalated a criminal investigation with new grand jury subpoenas."
       }
     ],
     "tier": "brief",
