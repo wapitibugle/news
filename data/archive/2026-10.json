@@ -24988,6 +24988,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "54b48fe33b333a558ba0",
+    "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+    "category": "Elections",
+    "published_at": "2026-10-30T18:17:27Z",
+    "first_seen_at": "2026-10-30T18:55:17.045495Z",
+    "updated_at": "2026-10-30T18:55:17.045495Z",
+    "sources": [
+      {
+        "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-30T18:17:27Z",
+        "primary": false,
+        "excerpt": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
