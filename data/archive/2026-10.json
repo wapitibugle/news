@@ -24708,7 +24708,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "53c8dc208e5b6a782a92",
@@ -24726,6 +24727,34 @@
         "published_at": "2026-10-30T08:00:49Z",
         "primary": false,
         "excerpt": "Voters who backed the US president in the last election are saying they can’t vote for him today: ‘This is an abomination’Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts of Philadelphia, a banner expressed unqualified gratitude: “Thank you USA for supporting Ukraine.”Inside, however, the sentiment was altogether different. Irene Skulsky, a retired teacher in her late 70s, voiced indignation at Donald Trump’s sudden turn against her ancestral homeland, which she believed had come close to killing her son, Darko, and a desire t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b19f82e28d44f69cbe79",
+    "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+    "category": "U.S.",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-30T09:58:58.276374Z",
+    "updated_at": "2026-10-30T09:58:58.276374Z",
+    "sources": [
+      {
+        "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+        "url": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica."
       }
     ],
     "tier": "brief",
