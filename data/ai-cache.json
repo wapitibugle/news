@@ -3315,5 +3315,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o",
     "group": ""
+  },
+  "d2ffa44dc7021dded5583f017e9d7b576f0398726ec45d1788b168c108a3fda2": {
+    "id": "cbe94cc3f26c0216b36a",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "University of Florida Election Lab data indicate more than 43 million early votes. Party-registration figures cover only roughly half the states and do not establish which candidates voters supported.",
+    "evidence_quote": "the data does not show which candidates they chose",
+    "related_ids": [],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "More than 43 million ballots cast so far in midterms early voting surge",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko",
+    "group": ""
+  },
+  "9f56e09a18d1e815566b4adb28311e45826a2fc604c949b66f97657475bee80b": {
+    "id": "18cd2121c29de2f36391",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "Justice Department issues subpoenas to California election workers",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+    "group": ""
+  },
+  "728efdc079a72775a14f60c6df287063aa57e71686385b2792e506c97e67201a": {
+    "id": "4ba04591ea1922dd7449",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Election officials reported Netanyahu's bloc won 53 of 120 seats, short of a majority; certification remains pending. Likud's claims of a stolen election are unsubstantiated. The election committee said allegations of systematic electoral violations were baseless, while an interference investigation continues.",
+    "evidence_quote": "allegations of systematic violations of electoral integrity are baseless.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
+    "group": ""
+  },
+  "f09786fcb674196b03d6990f3c59688f253a0db3e67d5b2ab070500eb355870c": {
+    "id": "53451107c26f6879b8a8",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "A federal judge rejected the administration's request to hold up processing ballots from up to 20,000 California voters alleged to be noncitizens. The judge warned of disruption and disenfranchisement; the allegations are not established findings. Prosecutors said they would appeal.",
+    "evidence_quote": "risk disenfranchising an untold number of voters.",
+    "related_ids": [
+      "9a20c590e69417be1ec0"
+    ],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/judge-denies-federal-request-to-segregate-california-ballots-says-it-would-wreak-havoc-on-voting",
+    "group": "53451107c26f6879b8a8"
+  },
+  "8c8101d398f4637b48e0f013b3aa099081f845ebd897002f628feb715bab81af": {
+    "id": "35aab0a76e91d70acfba",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "AP explains its race-calling process and new voter survey. It says calls depend on competitors no longer having a path to victory, not on survey results.",
+    "evidence_quote": "While races can't be called from this data",
+    "related_ids": [],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "WATCH: How does The Associated Press call 2026 midterm election winners? 4 things to know",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
+    "group": ""
+  },
+  "7c2456dca509cb0c46ff680a447ec6c500da85de83e2917da263ac42103e5d53": {
+    "id": "9a20c590e69417be1ec0",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Alaska's governor ordered an investigation following reporting that Mary Peltola's campaign recruited a similarly named challenger to Republican Sen. Dan Sullivan. The investigation concerns possible state-law violations; the supplied report establishes no finding of illegality.",
+    "evidence_quote": "ordering an investigation into whether Peltola's campaign violated Alaska's laws.",
+    "related_ids": [
+      "53451107c26f6879b8a8"
+    ],
+    "reviewed_at": "2026-10-30T04:55:55.155014+00:00",
+    "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
+    "group": "53451107c26f6879b8a8"
   }
 }
