@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-29T23:46:59.547232Z",
+  "collected_at": "2026-10-30T01:09:15.207504Z",
   "feeds": [
     {
       "feed": "BBC World",
@@ -43,8 +43,7 @@
     },
     {
       "feed": "NASA",
-      "ok": false,
-      "error": "ValueError"
+      "ok": true
     },
     {
       "feed": "NPR World",
@@ -95,13 +94,13 @@
       "ok": true
     }
   ],
-  "ai_accounted_usd": 3.503952,
+  "ai_accounted_usd": 3.535518,
   "ai_enabled": true,
   "ai": {
-    "state": "budget_pause",
+    "state": "assessment_rejected",
     "model": "gpt-6.1-sol",
-    "calls_this_run": 0,
-    "accounted_usd": 3.503952,
+    "calls_this_run": 1,
+    "accounted_usd": 3.535518,
     "monthly_limit_usd": 20
   },
   "stories": 750
