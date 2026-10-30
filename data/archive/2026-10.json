@@ -24680,6 +24680,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ca8b76188c615b0e27f6",
+    "title": "Court rules man should be resentenced after AI video of victim was shown in court",
+    "category": "U.S.",
+    "published_at": "2026-10-30T08:47:13Z",
+    "first_seen_at": "2026-10-30T09:01:18.658848Z",
+    "updated_at": "2026-10-30T09:01:18.658848Z",
+    "sources": [
+      {
+        "title": "Court rules man should be resentenced after AI video of victim was shown in court",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6017962/court-rules-man-should-be-resentenced-after-ai-video-of-victim-was-shown-in-court",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-30T08:47:13Z",
+        "primary": false,
+        "excerpt": "Can an AI-generated video of a victim that's played in criminal court influence someone's sentence? A case in Arizona prompted courts to dig in."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "53c8dc208e5b6a782a92",
+    "title": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
+    "category": "Elections",
+    "published_at": "2026-10-30T08:00:49Z",
+    "first_seen_at": "2026-10-30T09:01:18.658848Z",
+    "updated_at": "2026-10-30T09:01:18.658848Z",
+    "sources": [
+      {
+        "title": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T08:00:49Z",
+        "primary": false,
+        "excerpt": "Voters who backed the US president in the last election are saying they can’t vote for him today: ‘This is an abomination’Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts of Philadelphia, a banner expressed unqualified gratitude: “Thank you USA for supporting Ukraine.”Inside, however, the sentiment was altogether different. Irene Skulsky, a retired teacher in her late 70s, voiced indignation at Donald Trump’s sudden turn against her ancestral homeland, which she believed had come close to killing her son, Darko, and a desire t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
