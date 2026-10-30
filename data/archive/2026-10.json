@@ -24792,6 +24792,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "977751fba06629cccdbc",
+    "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+    "category": "Elections",
+    "published_at": "2026-10-30T11:20:26Z",
+    "first_seen_at": "2026-10-30T11:51:09.719798Z",
+    "updated_at": "2026-10-30T11:51:09.719798Z",
+    "sources": [
+      {
+        "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+        "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T11:20:26Z",
+        "primary": false,
+        "excerpt": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
