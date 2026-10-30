@@ -24960,6 +24960,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3f0589cb7924b5e59111",
+    "title": "WATCH LIVE: Election night 2026 PBS News special coverage",
+    "category": "Elections",
+    "published_at": "2026-10-30T17:42:42Z",
+    "first_seen_at": "2026-10-30T17:50:46.924013Z",
+    "updated_at": "2026-10-30T17:50:46.924013Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Election night 2026 PBS News special coverage",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-election-night-2026-pbs-news-special-coverage",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T17:42:42Z",
+        "primary": false,
+        "excerpt": "PBS News' live special coverage of the 2026 midterms will begin at 6 p.m. EST on Tuesday, Nov. 3."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
