@@ -23969,7 +23969,7 @@
         "excerpt": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24811,6 +24811,61 @@
         "published_at": "2026-10-30T11:20:26Z",
         "primary": false,
         "excerpt": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5595af6a4200f0e18224",
+    "title": "A proof-of-concept test can spot bladder cancer in urine",
+    "category": "Science",
+    "published_at": "2026-10-30T13:00:00Z",
+    "first_seen_at": "2026-10-30T13:04:42.232908Z",
+    "updated_at": "2026-10-30T13:04:42.232908Z",
+    "sources": [
+      {
+        "title": "A proof-of-concept test can spot bladder cancer in urine",
+        "url": "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-10-30T13:00:00Z",
+        "primary": false,
+        "excerpt": "Using a proof-of-concept test to analyze fragments of RNA in urine, researchers can detect cases of bladder cancer."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "53a7d311fb5a407532f2",
+    "title": "First Thing: Alaska Senate race descends into legal acrimony over second Dan Sullivan",
+    "category": "Elections",
+    "published_at": "2026-10-30T11:54:22Z",
+    "first_seen_at": "2026-10-30T13:04:42.232908Z",
+    "updated_at": "2026-10-30T13:04:42.232908Z",
+    "sources": [
+      {
+        "title": "First Thing: Alaska Senate race descends into legal acrimony over second Dan Sullivan",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T11:54:22Z",
+        "primary": false,
+        "excerpt": "DoJ reportedly issues subpoenas after reports Democrat campaign sought candidate with same name as Republican incumbent. Plus, tributes pour in for Patrick StewartGood morning. The US justice department is said to have issued subpoenas after a report that the Alaska Democrat Mary Peltola’s campaign collaborated with party operatives to get a challenger with the same name as the Republican senator Dan Sullivan on to the midterm ballot.Ballot stacking is a political tactic used in elections to draw votes away from an opponent by “stacking” the ballot with other candidates. While it is not illega"
       }
     ],
     "tier": "brief",
