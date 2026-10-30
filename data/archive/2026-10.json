@@ -24904,6 +24904,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d0e7d7018d20ad65fb56",
+    "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+    "category": "Elections",
+    "published_at": "2026-10-30T14:48:22Z",
+    "first_seen_at": "2026-10-30T15:03:29.561250Z",
+    "updated_at": "2026-10-30T15:03:29.561250Z",
+    "sources": [
+      {
+        "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-30T14:48:22Z",
+        "primary": false,
+        "excerpt": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
