@@ -26497,7 +26497,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4bc39062b6cd2154f84b",
@@ -26515,6 +26516,34 @@
         "published_at": "2026-10-31T14:00:44Z",
         "primary": false,
         "excerpt": "The administration’s efforts have raised concerns among experts about potential disruptions after election dayDonald Trump is waging a brazen effort to interfere with voting in this year’s midterm elections, escalating concerns that the federal government will try to slow down certification of election results – a strategy that could create chaos when the new Congress is seated next year.Experts are certain the administration’s efforts to subvert America’s elections will not work. And some have bemoaned “fearmongering” about far-fetched scenarios that are unlikely to go anywhere in court. Cont"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9b4d107a890793d1fd2e",
+    "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+    "category": "Elections",
+    "published_at": "2026-10-31T16:13:17Z",
+    "first_seen_at": "2026-10-31T16:45:15.261771Z",
+    "updated_at": "2026-10-31T16:45:15.261771Z",
+    "sources": [
+      {
+        "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T16:13:17Z",
+        "primary": false,
+        "excerpt": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that informationThere has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress.More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida. This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022. Cont"
       }
     ],
     "tier": "brief",
