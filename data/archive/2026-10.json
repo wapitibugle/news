@@ -26152,6 +26152,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c9149c60242688fd5cbc",
+    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "category": "World",
+    "published_at": "2026-10-31T08:49:35Z",
+    "first_seen_at": "2026-10-31T08:51:49.434054Z",
+    "updated_at": "2026-10-31T08:51:49.434054Z",
+    "sources": [
+      {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-31T08:49:35Z",
+        "primary": false,
+        "excerpt": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
