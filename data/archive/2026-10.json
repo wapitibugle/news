@@ -26264,7 +26264,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1552105f73be796f72b4",
@@ -26282,6 +26283,61 @@
         "published_at": "2026-10-31T09:00:00Z",
         "primary": false,
         "excerpt": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are finding creative ways to bring their numbers back up."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "35250f643fc17a4a1826",
+    "title": "Trump beware: US voters are concerned about government corruption",
+    "category": "Elections",
+    "published_at": "2026-10-31T10:00:41Z",
+    "first_seen_at": "2026-10-31T10:44:50.661779Z",
+    "updated_at": "2026-10-31T10:44:50.661779Z",
+    "sources": [
+      {
+        "title": "Trump beware: US voters are concerned about government corruption",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T10:00:41Z",
+        "primary": false,
+        "excerpt": "Alleged self-dealing by the president and his allies doesn’t look so good as corruption emerges as a key issue for midterm votersGovernment corruption a top issue for US midterm voters, exclusive poll findsVoters under 50 probably won’t remember the “welfare queen”. But she once embodied Republicans’ claim of the underlying reason for US societal decay: the poor are a bunch of fraudsters.Ronald Reagan introduced Linda Taylor to US voters at a rally during the Republican presidential primary season in 1976. A resident of Chicago’s South Side, Taylor had been arrested for welfare fraud. “She use"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d6f64195eca2e8fbe2bb",
+    "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+    "category": "Elections",
+    "published_at": "2026-10-31T10:00:40Z",
+    "first_seen_at": "2026-10-31T10:44:50.661779Z",
+    "updated_at": "2026-10-31T10:44:50.661779Z",
+    "sources": [
+      {
+        "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T10:00:40Z",
+        "primary": false,
+        "excerpt": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US historyElon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the Tesla Diner in Los Angeles, Musk could order more than 31.9m cheeseburgers with the money he has spent on the midterms.Musk, the world’s richest person, has funnelled at least $445.77m into Republican-aligned political action committees (Pacs) and groups since last year, accor"
       }
     ],
     "tier": "brief",
