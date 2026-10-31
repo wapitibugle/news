@@ -23997,7 +23997,7 @@
         "excerpt": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24025,7 +24025,7 @@
         "excerpt": "Loch Insh, Cairngorms: In my three decades in Scotland I’ve adjusted to the darkness of this time of year, and found glory in the quality of lightIt is the one clear day in a fortnight of heavy cloud, wind and rain, so I am out by the loch, basking in the rays of light, breathing them in, hoarding for the weeks to come.This time of year makes them all the more precious. Here in the Highlands, once we are past the autumnal equinox, we can almost feel the Earth tipping away from the sun as the light grows shorter each day and the night steals back. It’s a turn that is especially obvious when the"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -25089,5 +25089,979 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "a4bd900e36b0c55294f3",
+    "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+    "category": "Elections",
+    "published_at": "2026-10-31T01:30:07Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T01:30:07Z",
+        "primary": false,
+        "excerpt": "Order says local officials can’t be forced to separate or stop counting ballots that the government deems to be disputedA federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots.The order issued late Friday also bars the justice department from demanding local election officials segregate or not count ballots that the federal government deems may have been cast by ineligible voters. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "88c34ac4a29abba0883e",
+    "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+    "category": "Elections",
+    "published_at": "2026-10-30T16:53:35Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+        "url": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T16:53:35Z",
+        "primary": false,
+        "excerpt": "Leo XIV has become the first pope to vote in a U.S. general election, casting a mail-in ballot in a contest that will decide America's future as the Trump era slowly comes to an end."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d870a7467c8a6ca48517",
+    "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+    "category": "Elections",
+    "published_at": "2026-10-30T15:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T15:00:00Z",
+        "primary": false,
+        "excerpt": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8dff7a47d4a002f43bee",
+    "title": "What's at stake for Trump in the US midterms?",
+    "category": "Elections",
+    "published_at": "2026-10-30T10:19:48Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "What's at stake for Trump in the US midterms?",
+        "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-10-30T10:19:48Z",
+        "primary": false,
+        "excerpt": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9632d066af14864de96c",
+    "title": "Israel's election results are in. Here's what could happen next",
+    "category": "Elections",
+    "published_at": "2026-10-30T16:27:48Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Israel's election results are in. Here's what could happen next",
+        "url": "https://www.pbs.org/newshour/world/israels-election-results-are-in-heres-what-could-happen-next",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T16:27:48Z",
+        "primary": false,
+        "excerpt": "Israeli election results are in, showing the makeup of the country's next parliament but leaving open the question of who will be prime minister."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fc76defcb27c5371a229",
+    "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
+    "category": "Elections",
+    "published_at": "2026-10-30T15:28:49Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T15:28:49Z",
+        "primary": false,
+        "excerpt": "The president cancelled the events in favor of tele-rallies, as Republicans face a fight to retain control of CongressDonald Trump cancelled, and then promptly uncancelled, two in-person rallies in Kansas and Iowa this weekend as polls suggest US midterm election races in the previous Republican strongholds could go down to the wire.On Thursday, just five days before election day, the Republican National Committee (RNC) announced the president would no longer host the Kansas and Iowa rallies and instead participate in “a large number of tele-rallies”. The RNC claimed it felt it was in a “stron"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72a42f4720d1bef582d8",
+    "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+    "category": "Elections",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1116465394eb8345f60c",
+    "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era",
+    "category": "Elections",
+    "published_at": "2026-10-30T15:21:39Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era",
+        "url": "https://www.pbs.org/newshour/politics/a-midterm-crossroads-for-both-parties-eyeing-the-beginning-of-the-end-of-the-trump-era",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T15:21:39Z",
+        "primary": false,
+        "excerpt": "The nation's major political parties are at a crossroads. Win or lose Tuesday, the end of the 2026 midterms marks the beginning of a high-stakes fight over the direction of the Republican and Democratic parties as the Trump era nears its end."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8543a13724f643a2d2c5",
+    "title": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
+    "category": "U.S.",
+    "published_at": "2026-10-31T04:09:50Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-31T04:09:50Z",
+        "primary": false,
+        "excerpt": "Mangione pleaded guilty in August in federal case in the killing of UnitedHealthcare executive Brian ThompsonLuigi Mangione’s lawyers filed paperwork on Friday once again pushing for dismissal of his state-level case in the killing of UnitedHealthcare executive Brian Thompson following his federal guilty plea.Mangione pleaded guilty on 14 August to federal charges in Thompson’s grisly death outside a Manhattan hotel on 4 December 2024. The shocking plea came less than a month before his state murder and weapons trial, which had been scheduled for 8 September. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "57e15e8cac6085fc5e9a",
+    "title": "‘Apologies for any confusion!’: how to write the perfect passive-aggressive email",
+    "category": "Technology",
+    "published_at": "2026-10-31T05:00:33Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "‘Apologies for any confusion!’: how to write the perfect passive-aggressive email",
+        "url": "https://www.theguardian.com/technology/2026/oct/31/apologies-for-any-confusion-how-to-write-the-perfect-passive-aggressive-email",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-10-31T05:00:33Z",
+        "primary": false,
+        "excerpt": "In a survey, ‘just to be clear’ came out as the most loathed phrase. But I think I can do betterA new contender for the most passive-aggressive email phrase has emerged. “Just to be clear” was chosen by 52% of desk jockeys in a survey by email verification company ZeroBounce, closely followed by the perennial pass-ag fave, “per my last email” (40%), which tied with the identical-in-intent “as previously discussed”. Further down the list came “for future reference” and “kindly note”.If you ask me, these all verge on actual aggressive. Imagine saying “just to be clear” out loud to another person"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ebf9e7f0e97f4b65a13c",
+    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+    "category": "Science",
+    "published_at": "2026-10-31T04:05:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-10-31T04:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "17faa79b102d034dab90",
+    "title": "Judge investigating whether Trump administration lied about golf course renovations",
+    "category": "U.S.",
+    "published_at": "2026-10-30T21:19:23Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Judge investigating whether Trump administration lied about golf course renovations",
+        "url": "https://www.bbc.co.uk/news/articles/cmj6jpn8px28o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-10-30T21:19:23Z",
+        "primary": false,
+        "excerpt": "A judge grilled Trump lawyers about what they knew of plans to close the golf course next month and said ."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "29becde5067415cec1e1",
+    "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
+    "category": "Science",
+    "published_at": "2026-10-30T21:56:39Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6013638/this-week-in-science-mysterious-x-rays-movement-and-learning-and-memory-formation",
+        "publisher": "NPR",
+        "category": "Science",
+        "published_at": "2026-10-30T21:56:39Z",
+        "primary": false,
+        "excerpt": "Emily Kwong and Ari Daniel of NPR's Short Wave talk about mysterious X-ray objects, the link between movement and learning and how a small part of the brain triggers memory formation."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2998741d41ca76810f22",
+    "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
+    "category": "U.S.",
+    "published_at": "2026-10-30T22:57:18Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
+        "url": "https://www.pbs.org/newshour/politics/judge-orders-3-taxpayer-funded-trump-administration-ads-to-be-pulled-from-tv-social-media",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-30T22:57:18Z",
+        "primary": false,
+        "excerpt": "The federal government must pull three taxpayer-funded Trump administration ads that appear to have been made for political or propaganda purposes, including one touting the president's claim that every American will get $5,000 if Republicans keep control of Congress in the upcoming election, a judge ruled Friday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f37eef7180111eed386c",
+    "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+    "category": "U.S.",
+    "published_at": "2026-10-30T22:06:18Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-30T22:06:18Z",
+        "primary": false,
+        "excerpt": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "87a4313a59188bf829c9",
+    "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
+    "category": "U.S.",
+    "published_at": "2026-10-30T22:45:35Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-judge-investigating-if-trump-officials-misled-court-about-d-c-golf-course-plan",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-30T22:45:35Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, a federal judge is opening an investigation into whether Justice Department lawyers misled the court about plans to renovate a D.C. golf course, the DOJ told a judge that it may bring more charges against former FBI Director James Comey and Christa Pike says she's in constant pain following her botched execution in Tennessee last month."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "617f834f717294490509",
+    "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+    "category": "U.S.",
+    "published_at": "2026-10-30T21:56:52Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-10-30T21:56:52Z",
+        "primary": false,
+        "excerpt": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "19e165434dce2f894173",
+    "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+    "category": "U.S.",
+    "published_at": "2026-10-30T20:56:32Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+        "url": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-30T20:56:32Z",
+        "primary": false,
+        "excerpt": "The administration has alleged California sent ballots to some 20,000 people who may not be U.S. citizens. It wants the state to set those ballots aside and not count them until citizenship can be verified.",
+        "ai_editor": {
+          "id": "19e165434dce2f894173",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "A divided federal appeals panel rejected the Justice Department’s request to segregate disputed California ballots. The government alleges possible noncitizen registrations; California disputes the list’s reliability. The majority found segregation infeasible without potentially catastrophic effects on the voting system.",
+          "evidence_quote": "there is no feasible way to identify and segregate the ballots of specific individuals without potentially catastrophic effects",
+          "related_ids": [],
+          "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+          "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "19e165434dce2f894173",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "A divided federal appeals panel rejected the Justice Department’s request to segregate disputed California ballots. The government alleges possible noncitizen registrations; California disputes the list’s reliability. The majority found segregation infeasible without potentially catastrophic effects on the voting system.",
+      "evidence_quote": "there is no feasible way to identify and segregate the ballots of specific individuals without potentially catastrophic effects",
+      "related_ids": [],
+      "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+      "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a37ddbc5d2224ef67390",
+    "title": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+    "category": "Elections",
+    "published_at": "2026-10-30T15:00:19Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T15:00:19Z",
+        "primary": false,
+        "excerpt": "It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in oppositionOne year ago, the idea of a billionaire tax in California was still in its infancy.It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2aa9217ba353bb4e037b",
+    "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+    "category": "Elections",
+    "published_at": "2026-10-30T11:30:52Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-30T11:30:52Z",
+        "primary": false,
+        "excerpt": "Voters are feeling the pinch of Trump’s anti-climate agenda as energy costs rise, but a shake-up in Congress could shift thingsIf the polls can be believed, the US could see a blue wave in the midterms, giving Democrats a chance to take back the House and Senate, and gaining up to four governor’s seats.These wins could give Democrats new power to resist Donald Trump’s anti-climate agenda, and to push forward climate policies at the state level. But if Republicans maintain power, it could further embolden Trump’s “drill, baby, drill” agenda and leave intact his administration’s latitude to cont"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bfcee92456d83a76500e",
+    "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
+    "category": "Elections",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f841b9325da9cab66be8",
+    "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+    "category": "Elections",
+    "published_at": "2026-10-30T14:44:02Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+        "url": "https://www.pbs.org/newshour/politics/millions-more-americans-vote-ahead-of-election-day-as-early-voting-jumps-across-senate-battlegrounds",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T14:44:02Z",
+        "primary": false,
+        "excerpt": "The surge is especially pronounced in Texas, where voters are deciding closely watched Senate, House and governor's races. More than 6.3 million Texans had voted early as of Wednesday, compared with 4.2 million at the same point four years ago, a 50% increase."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "74dfe1b38cd4024e4f86",
+    "title": "Here are the Senate races to watch ahead of Election Day",
+    "category": "Elections",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Here are the Senate races to watch ahead of Election Day",
+        "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5755a70ca4416e1a23e6",
+    "title": "2026 midterm election voter guides: Find local resources in your community",
+    "category": "Elections",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "2026 midterm election voter guides: Find local resources in your community",
+        "url": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "NPR member stations are gathering information for voters — from voter guides down to local races. Scroll through to find your state and the resources available from your local member station."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e2ea646d3931cb75f306",
+    "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+    "category": "World",
+    "published_at": "2026-10-31T02:39:25Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+        "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-31T02:39:25Z",
+        "primary": false,
+        "excerpt": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "df3709e29a0e1df92daa",
+    "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
+    "category": "Business",
+    "published_at": "2026-10-30T09:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-10-30T09:00:00Z",
+        "primary": false,
+        "excerpt": "Critics say the tech entrepreneur's enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he's not unique."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d41c61efcc542c79efdd",
+    "title": "Global nature talks reach deal but money remains an issue",
+    "category": "World",
+    "published_at": "2026-10-31T01:27:05Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Global nature talks reach deal but money remains an issue",
+        "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-31T01:27:05Z",
+        "primary": false,
+        "excerpt": "Countries have been trying to get a global agreement to halt nature decline back on track."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c4be8a86a27201ba5cdd",
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "category": "World",
+    "published_at": "2026-10-31T00:40:43Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-31T00:40:43Z",
+        "primary": false,
+        "excerpt": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "91d07f4dc6b96ec4d1af",
+    "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+    "category": "World",
+    "published_at": "2026-10-30T23:19:17Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+        "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-30T23:19:17Z",
+        "primary": false,
+        "excerpt": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "70715445a9d34eff2a0c",
+    "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+    "category": "World",
+    "published_at": "2026-10-31T02:18:17Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+        "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-31T02:18:17Z",
+        "primary": false,
+        "excerpt": "The Ukrainian president called the US decision strong, but added that delivery of 500 Patriot PAC-3 missiles ⁠could take yearsThe US has approved the sale ⁠of 500 Patriot PAC-3 missiles ⁠to Ukraine for an estimated $2.1bn, but Volodymyr Zelenskyy has warned deliveries could take years and stockpiles were needed now to counter Russian ballistic missile attacks.“The proposed sale will improve Ukraine’s capability to meet current and future threats by improving its integrated air and missile defense capabilities,” the US state department said in a statement on Friday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1956b15a16b79552c6cb",
+    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+    "category": "World",
+    "published_at": "2026-10-30T22:11:52Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-30T22:11:52Z",
+        "primary": false,
+        "excerpt": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b3293af492d639bf23c5",
+    "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+    "category": "World",
+    "published_at": "2026-10-31T00:29:28Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+        "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-31T00:29:28Z",
+        "primary": false,
+        "excerpt": "Marco Rubio pulls plug on traditional photo op at meeting of foreign ministers after about one-third of countries threaten boycottThe traditional “family photo” to open the G20 foreign ministers’ meeting has been abruptly cancelled in the US after a host of nations – including Australia and the UK – refused to appear beside the Russian foreign minister, Sergei Lavrov.The US secretary of state, Marco Rubio, pulled the plug after several European officials, the UK and Australia made it known they would boycott or walk out of the snapshot that often kicks off such international gatherings. Contin"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "033b9792f322bd7d552c",
+    "title": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+    "category": "U.S.",
+    "published_at": "2026-10-30T10:00:00Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+        "url": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-10-30T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f15e9d76acc84d00cf7b",
+    "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+    "category": "World",
+    "published_at": "2026-10-30T20:41:51Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+        "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-10-30T20:41:51Z",
+        "primary": false,
+        "excerpt": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e1ca73531fa01d92f468",
+    "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+    "category": "U.S.",
+    "published_at": "2026-10-31T00:01:16Z",
+    "first_seen_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "sources": [
+      {
+        "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+        "url": "https://www.pbs.org/newshour/science/for-many-striped-bass-fishing-is-a-way-of-life-but-the-iconic-species-could-face-collapse",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-31T00:01:16Z",
+        "primary": false,
+        "excerpt": "Scientists who study striped bass say anglers on the East Coast are right to be concerned, and they say years of overfishing are just part of the problem."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
