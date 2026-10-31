@@ -24841,7 +24841,7 @@
         "excerpt": "Using a proof-of-concept test to analyze fragments of RNA in urine, researchers can detect cases of bladder cancer."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26395,6 +26395,34 @@
         "published_at": "2026-10-31T11:46:45Z",
         "primary": false,
         "excerpt": "When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4773b551abd0863fc8ff",
+    "title": "Affordability, AI and Iran: Americans on the key issues guiding their midterm votes",
+    "category": "Elections",
+    "published_at": "2026-10-31T13:00:45Z",
+    "first_seen_at": "2026-10-31T13:51:38.281421Z",
+    "updated_at": "2026-10-31T13:51:38.281421Z",
+    "sources": [
+      {
+        "title": "Affordability, AI and Iran: Americans on the key issues guiding their midterm votes",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T13:00:45Z",
+        "primary": false,
+        "excerpt": "Guardian readers share their concerns and disillusionment with the political climate under Trump as elections loomMillions of Americans will head to the polls on 3 November in elections that will determine control of the Republican-held House of Representatives and Senate, as well as the governorships of 36 states.The midterms come amid mounting public frustration over issues ranging from the rising cost of living and immigration to the climate crisis, artificial intelligence, big tech and the US’s overseas wars. Donald Trump’s approval rating has fallen to 36%, according to a New York Times/S"
       }
     ],
     "tier": "brief",
