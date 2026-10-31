@@ -26376,6 +26376,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ebf0ca10338398f1281b",
+    "title": "The Healthcare Election: Florida",
+    "category": "Elections",
+    "published_at": "2026-10-31T11:46:45Z",
+    "first_seen_at": "2026-10-31T12:56:45.659030Z",
+    "updated_at": "2026-10-31T12:56:45.659030Z",
+    "sources": [
+      {
+        "title": "The Healthcare Election: Florida",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-31T11:46:45Z",
+        "primary": false,
+        "excerpt": "When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
