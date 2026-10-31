@@ -25116,15 +25116,17 @@
       "priority": 4,
       "section": "brief",
       "major": false,
-      "context": "A federal judge barred the Justice Department from coercing election workers to stop processing ballots or demanding that disputed ballots be segregated or withheld from counting. A separate appeals ruling rejected the department’s request to set aside California ballots; California officials dispute the reliability of its list of potentially ineligible voters.",
+      "context": "A federal judge issued a temporary restraining order barring Justice Department threats or coercion aimed at stopping ballot processing. The order also bars demands to segregate or withhold ballots the government disputes. This is temporary relief, not a final resolution of the lawsuit.",
       "evidence_quote": "A federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots.",
-      "related_ids": [],
-      "reviewed_at": "2026-10-31T09:48:55.577197+00:00",
+      "related_ids": [
+        "431845f94f2ce9d84431"
+      ],
+      "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
       "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
       "state": "assessed",
       "evidence_depth": "article",
       "source_url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
-      "group": ""
+      "group": "431845f94f2ce9d84431"
     },
     "withdrawn": false,
     "correction": "",
@@ -25500,7 +25502,7 @@
         "excerpt": "Emily Kwong and Ari Daniel of NPR's Short Wave talk about mysterious X-ray objects, the link between movement and learning and how a small part of the brain triggers memory formation."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
