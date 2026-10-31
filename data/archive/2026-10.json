@@ -24645,7 +24645,7 @@
         "excerpt": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -25115,7 +25115,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "88c34ac4a29abba0883e",
@@ -25142,7 +25143,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d870a7467c8a6ca48517",
@@ -25169,7 +25171,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8dff7a47d4a002f43bee",
@@ -25196,7 +25199,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9632d066af14864de96c",
@@ -25223,7 +25227,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fc76defcb27c5371a229",
@@ -25250,7 +25255,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72a42f4720d1bef582d8",
@@ -25277,7 +25283,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1116465394eb8345f60c",
@@ -25304,7 +25311,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8543a13724f643a2d2c5",
@@ -25331,7 +25339,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "57e15e8cac6085fc5e9a",
@@ -25358,7 +25367,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ebf9e7f0e97f4b65a13c",
@@ -25378,14 +25388,15 @@
         "excerpt": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "17faa79b102d034dab90",
@@ -25412,7 +25423,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "29becde5067415cec1e1",
@@ -25439,7 +25451,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2998741d41ca76810f22",
@@ -25466,7 +25479,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f37eef7180111eed386c",
@@ -25493,7 +25507,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "87a4313a59188bf829c9",
@@ -25520,7 +25535,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "617f834f717294490509",
@@ -25547,7 +25563,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "19e165434dce2f894173",
@@ -25603,7 +25620,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a37ddbc5d2224ef67390",
@@ -25630,7 +25648,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2aa9217ba353bb4e037b",
@@ -25657,7 +25676,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bfcee92456d83a76500e",
@@ -25684,7 +25704,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f841b9325da9cab66be8",
@@ -25711,7 +25732,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "74dfe1b38cd4024e4f86",
@@ -25738,7 +25760,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5755a70ca4416e1a23e6",
@@ -25765,7 +25788,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e2ea646d3931cb75f306",
@@ -25792,7 +25816,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "df3709e29a0e1df92daa",
@@ -25819,7 +25844,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d41c61efcc542c79efdd",
@@ -25846,7 +25872,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c4be8a86a27201ba5cdd",
@@ -25873,7 +25900,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "91d07f4dc6b96ec4d1af",
@@ -25900,7 +25928,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "70715445a9d34eff2a0c",
@@ -25927,7 +25956,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1956b15a16b79552c6cb",
@@ -25954,7 +25984,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b3293af492d639bf23c5",
@@ -25981,7 +26012,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "033b9792f322bd7d552c",
@@ -26008,7 +26040,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f15e9d76acc84d00cf7b",
@@ -26035,7 +26068,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e1ca73531fa01d92f468",
@@ -26053,6 +26087,34 @@
         "published_at": "2026-10-31T00:01:16Z",
         "primary": false,
         "excerpt": "Scientists who study striped bass say anglers on the East Coast are right to be concerned, and they say years of overfishing are just part of the problem."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6ebcebac0fc421de083a",
+    "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+    "category": "U.S.",
+    "published_at": "2026-10-31T06:00:38Z",
+    "first_seen_at": "2026-10-31T06:59:59.739093Z",
+    "updated_at": "2026-10-31T06:59:59.739093Z",
+    "sources": [
+      {
+        "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-10-31T06:00:38Z",
+        "primary": false,
+        "excerpt": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by AmericaNever has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehran, the mountains of south-west Yemen, the steppe of the Donbas, the still bloody wasteland that is Gaza and even the elegant boulevards of Paris and Milan have a common thread.One cannot understand one set of conflicts without weaving them into another, and it is this very interdependence that is making each"
       }
     ],
     "tier": "brief",
