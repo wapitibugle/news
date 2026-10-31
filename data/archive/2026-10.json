@@ -24997,7 +24997,7 @@
     "category": "Elections",
     "published_at": "2026-10-30T18:17:27Z",
     "first_seen_at": "2026-10-30T18:55:17.045495Z",
-    "updated_at": "2026-10-30T18:55:17.045495Z",
+    "updated_at": "2026-10-31T01:07:50.562177Z",
     "sources": [
       {
         "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -25007,12 +25007,83 @@
         "published_at": "2026-10-30T18:17:27Z",
         "primary": false,
         "excerpt": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
+      },
+      {
+        "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-10-30T23:13:17Z",
+        "primary": false,
+        "excerpt": "Mary Peltola denies knowledge as party accused of recruiting spoiler candidate with same name as sitting RepublicanAlaska Senate race: what to know about Democrats’ alleged ballot-stacking effortThe top federal prosecutor in Alaska confirmed on Friday the existence of a criminal and a civil investigation into an alleged scheme by Democrats to confuse voters by recruiting a spoiler candidate on the ballot for US Senate who shares a name with the Republican incumbent, senator Dan Sullivan.Speaking at a news conference in Anchorage on Friday, US attorney Michael Heyman cited reporting by the New ",
+        "ai_editor": {
+          "id": "df76289b9795df7f4fe0",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Federal prosecutors confirmed criminal and civil investigations into alleged recruitment of a same-name Alaska Senate candidate. DOJ also sought to block certification if the incumbent loses because of the other candidate’s presence. Peltola denies prior knowledge; prosecutors did not identify potential crimes.",
+          "evidence_quote": "Heyman would not say what potential crimes authorities are looking into.",
+          "related_ids": [
+            "54b48fe33b333a558ba0",
+            "f6920ff8586723e070c0"
+          ],
+          "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+          "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+          "group": "54b48fe33b333a558ba0"
+        }
+      },
+      {
+        "title": "Candidates make final midterm stops as early voting surges",
+        "url": "https://www.pbs.org/newshour/show/candidates-make-final-midterm-stops-as-early-voting-surges",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-30T22:55:00Z",
+        "primary": false,
+        "excerpt": "Candidates around the country are making their final campaign stops before Election Day with just the weekend left to go. President Trump is in Florida and will then head to Iowa and Kansas -- a last-minute change after initially cancelling those rallies. Lisa Desjardins reports.",
+        "ai_editor": {
+          "id": "f6920ff8586723e070c0",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "54b48fe33b333a558ba0",
+            "df76289b9795df7f4fe0"
+          ],
+          "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+          "title": "Candidates make final midterm stops as early voting surges",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/candidates-make-final-midterm-stops-as-early-voting-surges",
+          "group": "54b48fe33b333a558ba0"
+        }
       }
     ],
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "54b48fe33b333a558ba0",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Justice Department is investigating alleged recruitment of a same-name Senate candidate and seeking segregation of ballots ranking him. Peltola denies knowledge; no charges had been filed Friday evening. The allegations remain unproven, while the federal legal action could affect a race important to Senate control.",
+      "evidence_quote": "No charges had been filed as of Friday evening.",
+      "related_ids": [
+        "df76289b9795df7f4fe0",
+        "f6920ff8586723e070c0"
+      ],
+      "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+      "group": "54b48fe33b333a558ba0"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
