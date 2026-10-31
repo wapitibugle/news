@@ -26432,6 +26432,43 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "55fb6ffb99c7c18a829a",
+    "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+    "category": "Elections",
+    "published_at": "2026-10-31T13:50:58Z",
+    "first_seen_at": "2026-10-31T14:44:52.353823Z",
+    "updated_at": "2026-10-31T14:44:52.353823Z",
+    "sources": [
+      {
+        "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-10-31T13:50:58Z",
+        "primary": false,
+        "excerpt": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race."
+      },
+      {
+        "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+        "url": "https://www.pbs.org/newshour/politics/top-federal-prosecutor-in-alaska-says-criminal-probe-underway-over-would-be-spoiler-senate-candidate",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-30T22:12:36Z",
+        "primary": false,
+        "excerpt": "The dueling developments came days before Tuesday's ranked choice general election, in a race headlined by two-term Republican Sen. Dan Sullivan and Democratic former U.S. Rep. Mary Peltola. The race is among a handful nationwide expected to determine control of the Senate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
