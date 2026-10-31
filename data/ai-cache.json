@@ -3409,5 +3409,104 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
     "group": "53451107c26f6879b8a8"
+  },
+  "32e4387a7702a95bf27a2868124c26b4658f3d4ffa7ec6a5cddcb00af4bf268d": {
+    "id": "54b48fe33b333a558ba0",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Justice Department is investigating alleged recruitment of a same-name Senate candidate and seeking segregation of ballots ranking him. Peltola denies knowledge; no charges had been filed Friday evening. The allegations remain unproven, while the federal legal action could affect a race important to Senate control.",
+    "evidence_quote": "No charges had been filed as of Friday evening.",
+    "related_ids": [
+      "df76289b9795df7f4fe0",
+      "f6920ff8586723e070c0"
+    ],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+    "group": "54b48fe33b333a558ba0"
+  },
+  "192daf711215c2d769faba73ca5755d3bac56d461fced5e370f752ca11b03901": {
+    "id": "b7d85893b3c10a3373a5",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o",
+    "group": ""
+  },
+  "cdc1dcea06297558c8ae47aafac24fa83defb2d280b10f45bcd74679e3fd1664": {
+    "id": "df76289b9795df7f4fe0",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Federal prosecutors confirmed criminal and civil investigations into alleged recruitment of a same-name Alaska Senate candidate. DOJ also sought to block certification if the incumbent loses because of the other candidate’s presence. Peltola denies prior knowledge; prosecutors did not identify potential crimes.",
+    "evidence_quote": "Heyman would not say what potential crimes authorities are looking into.",
+    "related_ids": [
+      "54b48fe33b333a558ba0",
+      "f6920ff8586723e070c0"
+    ],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+    "group": "54b48fe33b333a558ba0"
+  },
+  "aa9bd8dd4af542a97ec1d1b9ac185d62594d9f4b676894be984c72844b096ceb": {
+    "id": "f6920ff8586723e070c0",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "54b48fe33b333a558ba0",
+      "df76289b9795df7f4fe0"
+    ],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "Candidates make final midterm stops as early voting surges",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/candidates-make-final-midterm-stops-as-early-voting-surges",
+    "group": "54b48fe33b333a558ba0"
+  },
+  "8b7d456d581242039827e8c02e717c552f881b811b863e26c0ad642459d4017f": {
+    "id": "4e9817838fee8331dbc9",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "In an interview tied to his new book, Republican Senator Thom Tillis argues Congress has failed to assert its authority and criticizes the administration’s policy timing and execution. These are his assessments, not independent findings.",
+    "evidence_quote": "we needed a consistent, separate, but equal sort of posture with the president",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "Trump should 'take stock' and 'own' election outcome, Sen. Tillis says",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/trump-should-take-stock-and-own-election-outcome-sen-tillis-says",
+    "group": ""
+  },
+  "5ab4fadcd1857bb32accab73e78ba10aded86e843df224dd9bf3455c5d70e2ed": {
+    "id": "32d16dbdf2dcaaf41b51",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Rahm Emanuel urges Democrats to prioritize ethics legislation, a minimum-wage increase and tariff restrictions rather than impeachment if they regain power. His remarks are proposed strategy, not enacted policy or evidence of the election’s outcome.",
+    "evidence_quote": "What you should do immediately within the first three months is pass an ethics package",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T01:07:50.562177+00:00",
+    "title": "'A down payment on change': Rahm Emanuel on what Democrats should do after midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/a-down-payment-on-change-rahm-emanuel-on-what-democrats-should-do-after-midterms",
+    "group": ""
   }
 }
