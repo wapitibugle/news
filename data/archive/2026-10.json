@@ -24673,7 +24673,7 @@
         "excerpt": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26118,6 +26118,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1d074e48fb2181d3c4fb",
+    "title": "Rewilding project aims to restore peatland",
+    "category": "Science",
+    "published_at": "2026-10-31T06:58:30Z",
+    "first_seen_at": "2026-10-31T07:58:06.455388Z",
+    "updated_at": "2026-10-31T07:58:06.455388Z",
+    "sources": [
+      {
+        "title": "Rewilding project aims to restore peatland",
+        "url": "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-10-31T06:58:30Z",
+        "primary": false,
+        "excerpt": "Cumbria Wildlife Trust starts work repairing damage to Skiddaw Forest's peatland."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
