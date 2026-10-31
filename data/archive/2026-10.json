@@ -26320,7 +26320,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d6f64195eca2e8fbe2bb",
@@ -26338,6 +26339,34 @@
         "published_at": "2026-10-31T10:00:40Z",
         "primary": false,
         "excerpt": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US historyElon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the Tesla Diner in Los Angeles, Musk could order more than 31.9m cheeseburgers with the money he has spent on the midterms.Musk, the world’s richest person, has funnelled at least $445.77m into Republican-aligned political action committees (Pacs) and groups since last year, accor"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "78d43a9de2c14285260b",
+    "title": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
+    "category": "Elections",
+    "published_at": "2026-10-31T11:00:44Z",
+    "first_seen_at": "2026-10-31T11:44:34.681632Z",
+    "updated_at": "2026-10-31T11:44:34.681632Z",
+    "sources": [
+      {
+        "title": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T11:00:44Z",
+        "primary": false,
+        "excerpt": "Days away from a national verdict on Trump 2.0, we check in with nine midterm voters across the US and the political spectrumUS voters will soon deliver a national verdict on the second presidency of Donald Trump. On 3 November, millions of Americans will vote in midterm elections to decide control of the House of Representatives and Senate, as well as the governorships in 36 states and state legislatures across the country. The results could have a huge impact on Trump’s final two years in office.Our reporters have interviewed nine voters across the country and the political spectrum about ex"
       }
     ],
     "tier": "brief",
