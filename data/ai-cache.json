@@ -3688,5 +3688,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
     "group": ""
+  },
+  "0e1513b896066fc96ec6f6f9bcd63ed93cbf12e6917acb02497c67cc78ab8e41": {
+    "id": "f00dcd14b90dd44a4d26",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Alaska’s Republican-led government asked a federal judge to dismiss the Justice Department’s bid to block certification of a possible Democratic Senate victory. State attorneys say separating ballots for the second Sullivan would violate voter privacy. The filing is an argument before the court, not a ruling.",
+    "evidence_quote": "there would be no way to do that without violating voter privacy.",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
+    "group": ""
+  },
+  "60e55e1104d6c3b1c6de85154a63e17282c2add976829c7316bb845cb4235fde": {
+    "id": "daea98ecc87483c88219",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "What a midterm race in Kentucky says about how Democrats may do in Trump strongholds",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
+    "group": ""
+  },
+  "a95b5bae473b19aabb43d607d5de7cc1870b28aae548074b50e58c91f37e85d9": {
+    "id": "d9fc988cc4638c1256de",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "Mixed economic forecast weighs heavy ahead of midterms",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "group": ""
+  },
+  "14c969cf0eee08e8d7632eb1e15e924435b2e30ac40aee144c1e9c05feaada86": {
+    "id": "8782b376da7d385a4f8d",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "Election officials worry about DOJ monitoring of Tuesday's vote",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
+    "group": ""
+  },
+  "33867c011ff1e26aea96c16dcec07fe67436b51f415b2a3de14ff33a971ca774": {
+    "id": "431845f94f2ce9d84431",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "UCLA Voting Rights Project analysts reported in a plaintiffs’ court filing that 42% of names on the Justice Department’s list did not match California’s current voter file. They confirmed at least 22 citizens were listed; broader estimates of incorrectly flagged naturalized citizens remain probabilistic, not confirmed individual findings.",
+    "evidence_quote": "8,880 of the names, representing 42% of the entire list, do not correspond to anyone in California's current voter file.",
+    "related_ids": [
+      "a4bd900e36b0c55294f3"
+    ],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
+    "group": "431845f94f2ce9d84431"
+  },
+  "30347dd0786646ac5cabde828bc3691e5f418b44f5ce20d9fc97eb9de658d106": {
+    "id": "a4bd900e36b0c55294f3",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "A federal judge issued a temporary restraining order barring Justice Department threats or coercion aimed at stopping ballot processing. The order also bars demands to segregate or withhold ballots the government disputes. This is temporary relief, not a final resolution of the lawsuit.",
+    "evidence_quote": "A federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots.",
+    "related_ids": [
+      "431845f94f2ce9d84431"
+    ],
+    "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+    "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
+    "group": "431845f94f2ce9d84431"
   }
 }
