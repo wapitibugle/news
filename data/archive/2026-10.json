@@ -26553,6 +26553,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "543326ea9b8e9326dfe8",
+    "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
+    "category": "Elections",
+    "published_at": "2026-10-31T17:02:17Z",
+    "first_seen_at": "2026-10-31T17:41:27.184082Z",
+    "updated_at": "2026-10-31T17:41:27.184082Z",
+    "sources": [
+      {
+        "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
+        "url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-10-31T17:02:17Z",
+        "primary": false,
+        "excerpt": "In past elections, elected leaders, candidates and social media users have spread falsehoods that \"late night\" arrivals of \"ballot dumps\" or \"suitcases\" of ballots are signs of fraud, or that only Democratic-led cities take days to count votes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
