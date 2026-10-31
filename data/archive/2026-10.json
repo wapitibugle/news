@@ -25096,7 +25096,7 @@
     "category": "Elections",
     "published_at": "2026-10-31T01:30:07Z",
     "first_seen_at": "2026-10-31T05:49:39.679551Z",
-    "updated_at": "2026-10-31T05:49:39.679551Z",
+    "updated_at": "2026-10-31T23:42:43.989113Z",
     "sources": [
       {
         "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
@@ -25106,6 +25106,32 @@
         "published_at": "2026-10-31T01:30:07Z",
         "primary": false,
         "excerpt": "Order says local officials can’t be forced to separate or stop counting ballots that the government deems to be disputedA federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots.The order issued late Friday also bars the justice department from demanding local election officials segregate or not count ballots that the federal government deems may have been cast by ineligible voters. Continue reading..."
+      },
+      {
+        "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
+        "url": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-10-31T20:03:15Z",
+        "primary": false,
+        "excerpt": "It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials. The analysis also found that thousands of U.S. citizens appear to be flagged as ineligible to vote on the government's list.",
+        "ai_editor": {
+          "id": "431845f94f2ce9d84431",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "UCLA Voting Rights Project analysts reported in a plaintiffs’ court filing that 42% of names on the Justice Department’s list did not match California’s current voter file. They confirmed at least 22 citizens were listed; broader estimates of incorrectly flagged naturalized citizens remain probabilistic, not confirmed individual findings.",
+          "evidence_quote": "8,880 of the names, representing 42% of the entire list, do not correspond to anyone in California's current voter file.",
+          "related_ids": [
+            "a4bd900e36b0c55294f3"
+          ],
+          "reviewed_at": "2026-10-31T22:43:17.731114+00:00",
+          "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
+          "group": "431845f94f2ce9d84431"
+        }
       }
     ],
     "tier": "brief",
