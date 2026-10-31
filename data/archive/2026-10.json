@@ -26469,6 +26469,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f2cc0b51c6cd78dffbcd",
+    "title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
+    "category": "Elections",
+    "published_at": "2026-10-31T15:00:45Z",
+    "first_seen_at": "2026-10-31T15:43:36.074008Z",
+    "updated_at": "2026-10-31T15:43:36.074008Z",
+    "sources": [
+      {
+        "title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T15:00:45Z",
+        "primary": false,
+        "excerpt": "But select Democrats, too, are being accused of having ties to the late sex offender as country prepares to voteIn races across the country, Democratic candidates or groups that support them have released ads accusing Republicans of protecting pedophiles by voting against legislation to release files related to Jeffrey Epstein.The ads appear intended to evoke an emotional response by accusing candidates of “protecting” Epstein, a notorious pedophile accused of running a sex-trafficking ring involving minors. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4bc39062b6cd2154f84b",
+    "title": "How Trump and his allies seek to interfere in the US midterm elections",
+    "category": "Elections",
+    "published_at": "2026-10-31T14:00:44Z",
+    "first_seen_at": "2026-10-31T15:43:36.074008Z",
+    "updated_at": "2026-10-31T15:43:36.074008Z",
+    "sources": [
+      {
+        "title": "How Trump and his allies seek to interfere in the US midterm elections",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-10-31T14:00:44Z",
+        "primary": false,
+        "excerpt": "The administration’s efforts have raised concerns among experts about potential disruptions after election dayDonald Trump is waging a brazen effort to interfere with voting in this year’s midterm elections, escalating concerns that the federal government will try to slow down certification of election results – a strategy that could create chaos when the new Congress is seated next year.Experts are certain the administration’s efforts to subvert America’s elections will not work. And some have bemoaned “fearmongering” about far-fetched scenarios that are unlikely to go anywhere in court. Cont"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
