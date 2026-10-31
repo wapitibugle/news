@@ -1620,6 +1620,13 @@
       "charged_micro_usd": 36333,
       "input_tokens": 9041,
       "output_tokens": 614
+    },
+    {
+      "id": "582b6dd88b1f407c92248b9ca4de7319",
+      "day": "2026-10-31",
+      "model": "gpt-6.1-sol",
+      "reserved_micro_usd": 150510,
+      "state": "pending"
     }
   ]
 }
