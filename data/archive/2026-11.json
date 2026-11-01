@@ -914,7 +914,7 @@
         "excerpt": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to halt the destruction of the natural world, with governments likely on track to continue their record of never having met a target in the 34-year history of the convention.Two weeks of negotiations at biodiversity Cop17 in Yerevan, Armenia, concluded on Saturday morning with countries vowing to redouble their efforts to meet this decade’s "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1033,7 +1033,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ef386139bbea906a3aef",
@@ -1054,6 +1055,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "db83bc77d8660dc23bb3",
+    "title": "Rhino siblings celebrate first birthday with cake",
+    "category": "Science",
+    "published_at": "2026-11-01T07:11:35Z",
+    "first_seen_at": "2026-11-01T08:05:47.076976Z",
+    "updated_at": "2026-11-01T08:05:47.076976Z",
+    "sources": [
+      {
+        "title": "Rhino siblings celebrate first birthday with cake",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkypljk526o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-01T07:11:35Z",
+        "primary": false,
+        "excerpt": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
