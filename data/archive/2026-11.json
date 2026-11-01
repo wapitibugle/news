@@ -174,7 +174,7 @@
     "category": "U.S.",
     "published_at": "2026-10-31T21:32:54Z",
     "first_seen_at": "2026-11-01T05:53:19.148202Z",
-    "updated_at": "2026-11-01T05:53:19.148202Z",
+    "updated_at": "2026-11-01T09:52:45.076440Z",
     "sources": [
       {
         "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
@@ -184,6 +184,15 @@
         "published_at": "2026-10-31T21:32:54Z",
         "primary": false,
         "excerpt": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
+      },
+      {
+        "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T08:20:19Z",
+        "primary": false,
+        "excerpt": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein."
       }
     ],
     "tier": "brief",
@@ -858,7 +867,7 @@
         "excerpt": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptionsIt’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defense Fund.The analysis, which looked at the 184 operating coal plants that are connected to the grid, found that 90 received support from the Trump administration through “cash handouts, free passes to pollute, and requirements to sta"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1091,5 +1100,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "aabfb280f0873a88635a",
+    "title": "Spill from vandalised home oil tank kills 13 birds",
+    "category": "Science",
+    "published_at": "2026-11-01T08:57:56Z",
+    "first_seen_at": "2026-11-01T09:52:45.076440Z",
+    "updated_at": "2026-11-01T09:52:45.076440Z",
+    "sources": [
+      {
+        "title": "Spill from vandalised home oil tank kills 13 birds",
+        "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-01T08:57:56Z",
+        "primary": false,
+        "excerpt": "A number of birds are also injured after the spill from the oil tank earlier this week."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
