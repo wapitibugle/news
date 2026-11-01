@@ -1182,6 +1182,115 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0db19a6c87663d9e83ce",
+    "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+    "category": "Elections",
+    "published_at": "2026-11-01T12:00:11Z",
+    "first_seen_at": "2026-11-01T12:57:35.607939Z",
+    "updated_at": "2026-11-01T12:57:35.607939Z",
+    "sources": [
+      {
+        "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-01T12:00:11Z",
+        "primary": false,
+        "excerpt": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family services have been on strike since February 2026, the longest public sector strike in Ohio history and on pace to break the US record for longest public sector strike. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "519066bc8f56c7f7e4d3",
+    "title": "Judge orders Trump administration to stop threatening US election officials",
+    "category": "Elections",
+    "published_at": "2026-11-01T00:27:33Z",
+    "first_seen_at": "2026-11-01T12:57:35.607939Z",
+    "updated_at": "2026-11-01T12:57:35.607939Z",
+    "sources": [
+      {
+        "title": "Judge orders Trump administration to stop threatening US election officials",
+        "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-01T00:27:33Z",
+        "primary": false,
+        "excerpt": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f063ceae6ff751ba9d7c",
+    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "category": "World",
+    "published_at": "2026-11-01T12:00:12Z",
+    "first_seen_at": "2026-11-01T12:57:35.607939Z",
+    "updated_at": "2026-11-01T12:57:35.607939Z",
+    "sources": [
+      {
+        "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-01T12:00:12Z",
+        "primary": false,
+        "excerpt": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e42b7225893e1691d90a",
+    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+    "category": "U.S.",
+    "published_at": "2026-11-01T12:00:00Z",
+    "first_seen_at": "2026-11-01T12:57:35.607939Z",
+    "updated_at": "2026-11-01T12:57:35.607939Z",
+    "sources": [
+      {
+        "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T12:00:00Z",
+        "primary": false,
+        "excerpt": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
