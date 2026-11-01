@@ -1154,6 +1154,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b33c9492db464d0741cf",
+    "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+    "category": "Elections",
+    "published_at": "2026-11-01T09:00:00Z",
+    "first_seen_at": "2026-11-01T11:44:13.409849Z",
+    "updated_at": "2026-11-01T11:44:13.409849Z",
+    "sources": [
+      {
+        "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-01T09:00:00Z",
+        "primary": false,
+        "excerpt": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
