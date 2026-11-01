@@ -1434,6 +1434,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a148f1e82896a9d50811",
+    "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+    "category": "Elections",
+    "published_at": "2026-11-01T15:39:02Z",
+    "first_seen_at": "2026-11-01T15:43:46.142667Z",
+    "updated_at": "2026-11-01T15:43:46.142667Z",
+    "sources": [
+      {
+        "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-01T15:39:02Z",
+        "primary": false,
+        "excerpt": "Senator was allegedly targeted in ballot-stacking ploy by his Democratic opponent to peel away votes from himSenator Dan Sullivan, the Alaska Republican allegedly targeted in a ballot-stacking ploy by his Democratic opponent, Mary Peltola, told CNN this morning that he would accept the results of his upcoming election.According to a recent New York Times investigation, aides from Peltola’s campaign recruited another man who shared Sullivan’s name to join the race in a ploy to peel away votes from the Republican incumbent. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ac162776014eb02a7ef3",
+    "title": "Mike Lawler flipped a New York district red in 2022. But his ties to Trump might bite him in the midterms",
+    "category": "Elections",
+    "published_at": "2026-11-01T15:00:15Z",
+    "first_seen_at": "2026-11-01T15:43:46.142667Z",
+    "updated_at": "2026-11-01T15:43:46.142667Z",
+    "sources": [
+      {
+        "title": "Mike Lawler flipped a New York district red in 2022. But his ties to Trump might bite him in the midterms",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-01T15:00:15Z",
+        "primary": false,
+        "excerpt": "Republican congressman’s support of many of the president’s policies has infuriated some of his constituentsThe Republican congressman Mike Lawler is in danger of losing his seat next week. Again.In the last two elections, Lawler, 40, has defeated Democratic opponents in New York’s 17th congressional district – one of the closest-run battlegrounds in this year’s midterms – with moderate policies. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
