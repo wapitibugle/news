@@ -1378,7 +1378,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ddd034da3805a2bc826e",
@@ -1396,6 +1397,34 @@
         "published_at": "2026-11-01T13:00:13Z",
         "primary": false,
         "excerpt": "One man’s campaign finance operation in Wisconsin exemplifies the opacity of the US political funding systemIn the summer of 2024, a non-profit called the Green Dragon Coalition wired the last $20,000 of a $445,000 grant to a Super Pac. Its tax return for that year would describe the purpose of the transfer as “educational”.The same day, according to Federal Election Commission (FEC) records, the Super Pac spent $8,000 attacking Celeste Maloy, the Republican congresswoman for Utah’s second district, four days before the primary that would decide whether she kept her seat. It had already spent "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "de8dea8ea7fb5f088f5f",
+    "title": "Living with high prices in Virginia's 1st Congressional District",
+    "category": "U.S.",
+    "published_at": "2026-11-01T13:00:00Z",
+    "first_seen_at": "2026-11-01T14:46:54.944634Z",
+    "updated_at": "2026-11-01T14:46:54.944634Z",
+    "sources": [
+      {
+        "title": "Living with high prices in Virginia's 1st Congressional District",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T13:00:00Z",
+        "primary": false,
+        "excerpt": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times."
       }
     ],
     "tier": "brief",
