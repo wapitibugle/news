@@ -1126,6 +1126,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "30a663d7ce422f8b6b83",
+    "title": "Here's how to watch election night as the polls close, hour-by-hour",
+    "category": "Elections",
+    "published_at": "2026-11-01T09:00:00Z",
+    "first_seen_at": "2026-11-01T10:48:22.364188Z",
+    "updated_at": "2026-11-01T10:48:22.364188Z",
+    "sources": [
+      {
+        "title": "Here's how to watch election night as the polls close, hour-by-hour",
+        "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-01T09:00:00Z",
+        "primary": false,
+        "excerpt": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
