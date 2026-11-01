@@ -3782,5 +3782,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
     "group": "431845f94f2ce9d84431"
+  },
+  "4930813b03c644b39c2120f05ee3bdc34dc0b52d7533ef28643ffba1f286b3ff": {
+    "id": "543326ea9b8e9326dfe8",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "An election-process explainer details why close races and mail-ballot processing can delay projections. Changing leads during counting are not, by themselves, evidence of fraud; official certification deadlines extend beyond election night.",
+    "evidence_quote": "No state is required to complete the official count on election night.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+    "group": ""
+  },
+  "ecabb4fb870868bd49c733c1c3cc65fe229ad58481ab90fcb4cbf147f152b287": {
+    "id": "9b4d107a890793d1fd2e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+    "group": ""
+  },
+  "63e719c78d1b2fc56beeaeaeef27a21cc55b34aed04fe39b64f992efa0e4b7b9": {
+    "id": "f2cc0b51c6cd78dffbcd",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
+    "group": ""
+  },
+  "db4d096a2af2c24f06a1525b9d11a68257ac3c91ea27f4920013d8c05cb738f0": {
+    "id": "4bc39062b6cd2154f84b",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian documents federal efforts to influence election administration, including a Justice Department lawsuit seeking to block Alaska certification pending an investigation of votes for a similarly named candidate. Legal experts quoted question the lawsuit’s basis and caution that broader disruption scenarios remain uncertain.",
+    "evidence_quote": "Trump said he ordered the justice department to file the lawsuit.",
+    "related_ids": [
+      "55fb6ffb99c7c18a829a"
+    ],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "How Trump and his allies seek to interfere in the US midterm elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
+    "group": "4bc39062b6cd2154f84b"
+  },
+  "bcf9a6aa85493264c38971c2fa1bedac3136d6f10ad19e79ce0dd309db7eb578": {
+    "id": "55fb6ffb99c7c18a829a",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "4bc39062b6cd2154f84b"
+    ],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+    "group": "4bc39062b6cd2154f84b"
+  },
+  "af6b8f1c24e38d3561b8fba7eac6f96729cccbdf8185d02c7c5f184c49e10892": {
+    "id": "4773b551abd0863fc8ff",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "Guardian readers describe concerns about affordability, war, AI and the environment. These selected reader accounts illustrate individual views, not a representative measure of Americans’ voting priorities.",
+    "evidence_quote": "Guardian readers share their concerns and disillusionment with the political climate under Trump as elections loom",
+    "related_ids": [],
+    "reviewed_at": "2026-11-01T01:18:06.080544+00:00",
+    "title": "Affordability, AI and Iran: Americans on the key issues guiding their midterm votes",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
+    "group": ""
   }
 }
