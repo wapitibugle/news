@@ -20,7 +20,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "371ca254a421bd0bf9c7",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-01T13:52:57.851455+00:00",
+      "title": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -101,7 +115,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -895,7 +909,7 @@
         "excerpt": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1150,7 +1164,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "30a663d7ce422f8b6b83",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-01T13:52:57.851455+00:00",
+      "title": "Here's how to watch election night as the polls close, hour-by-hour",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -1178,7 +1206,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "b33c9492db464d0741cf",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-01T13:52:57.851455+00:00",
+      "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -1206,11 +1248,26 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "0db19a6c87663d9e83ce",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Workers interviewed describe pressure from healthcare and other essential costs ahead of the midterms. The article also cites a United for Alice report estimating that 41.3% of US households faced financial hardship in 2024. These interviews illustrate individual experiences, not a representative survey of voters.",
+      "evidence_quote": "41.3% of US households, more than 54.5m households, faced financial hardship in 2024",
+      "related_ids": [],
+      "reviewed_at": "2026-11-01T13:52:57.851455+00:00",
+      "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "519066bc8f56c7f7e4d3",
@@ -1237,7 +1294,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f063ceae6ff751ba9d7c",
@@ -1264,7 +1322,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e42b7225893e1691d90a",
@@ -1282,6 +1341,61 @@
         "published_at": "2026-11-01T12:00:00Z",
         "primary": false,
         "excerpt": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e02ca802476feecf38e7",
+    "title": "‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants",
+    "category": "U.S.",
+    "published_at": "2026-11-01T13:00:13Z",
+    "first_seen_at": "2026-11-01T13:52:57.851455Z",
+    "updated_at": "2026-11-01T13:52:57.851455Z",
+    "sources": [
+      {
+        "title": "‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/ohio-haitians-ice-immigration-crackdown",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T13:00:13Z",
+        "primary": false,
+        "excerpt": "Haitian community in Springfield demands dignity and better rights for immigrants as ICE crackdown ramps upMichaelle Louis’s feet and legs are aching. She can barely walk.Surrounded by corn fields and the distant hum of a busy highway, the native of Haiti and dozens of other activists are 23 miles into a 45-mile march from Springfield to Ohio’s statehouse in Columbus to demand better rights for Haitian immigrants. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ddd034da3805a2bc826e",
+    "title": "‘Dark money made darker’: funding labyrinth conceals donors to Republican campaigns",
+    "category": "U.S.",
+    "published_at": "2026-11-01T13:00:13Z",
+    "first_seen_at": "2026-11-01T13:52:57.851455Z",
+    "updated_at": "2026-11-01T13:52:57.851455Z",
+    "sources": [
+      {
+        "title": "‘Dark money made darker’: funding labyrinth conceals donors to Republican campaigns",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/republican-campaign-funding-labyrinth",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T13:00:13Z",
+        "primary": false,
+        "excerpt": "One man’s campaign finance operation in Wisconsin exemplifies the opacity of the US political funding systemIn the summer of 2024, a non-profit called the Green Dragon Coalition wired the last $20,000 of a $445,000 grant to a Super Pac. Its tax return for that year would describe the purpose of the transfer as “educational”.The same day, according to Federal Election Commission (FEC) records, the Super Pac spent $8,000 attacking Celeste Maloy, the Republican congresswoman for Utah’s second district, four days before the primary that would decide whether she kept her seat. It had already spent "
       }
     ],
     "tier": "brief",
