@@ -3057,7 +3057,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9bb5f49f5e2bca5570e4",
@@ -3075,6 +3076,34 @@
         "published_at": "2026-11-02T14:00:42Z",
         "primary": false,
         "excerpt": "Young voters have many of the same concerns as the larger voting cohort, even if many are not registered to voteThe 2026 US midterms are approaching against a backdrop of growing political uncertainty, with young voters increasingly mobilizing around concerns about the country’s future.Although nearly 50 million Americans aged 18 to 29 are eligible to vote in the midterms, almost half remain either unregistered or civically disengaged, according to US Census Bureau data. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "863c53c58505e93ac7e8",
+    "title": "What Vance's midterm push reveals about his potential 2028 bid",
+    "category": "Elections",
+    "published_at": "2026-11-02T10:00:00Z",
+    "first_seen_at": "2026-11-02T16:09:29.458809Z",
+    "updated_at": "2026-11-02T16:09:29.458809Z",
+    "sources": [
+      {
+        "title": "What Vance's midterm push reveals about his potential 2028 bid",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-02T10:00:00Z",
+        "primary": false,
+        "excerpt": "Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA."
       }
     ],
     "tier": "brief",
