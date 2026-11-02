@@ -3197,6 +3197,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b73062affd917576eb8c",
+    "title": "Evidence suggests parts of jet broke off before Florida crash, NTSB investigator says",
+    "category": "U.S.",
+    "published_at": "2026-11-02T19:31:24Z",
+    "first_seen_at": "2026-11-02T19:58:42.076555Z",
+    "updated_at": "2026-11-02T19:58:42.076555Z",
+    "sources": [
+      {
+        "title": "Evidence suggests parts of jet broke off before Florida crash, NTSB investigator says",
+        "url": "https://www.pbs.org/newshour/nation/evidence-suggests-parts-of-jet-broke-off-before-florida-crash-ntsb-investigator-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T19:31:24Z",
+        "primary": false,
+        "excerpt": "National Transportation Safety Board member Tom Chapman said that evidence found at the crash site indicates the aircraft was breaking up before making impact impact on Sunday. He says parts of the plane may be found some distance away."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
