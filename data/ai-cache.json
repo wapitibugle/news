@@ -4060,5 +4060,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
     "group": "0acbc0ede9c6ec9fe234"
+  },
+  "ca34e086a39d7be95b3701ddde80f3c950b3b621f801b1656c11c5e90e42a925": {
+    "id": "210b7aad7bac61021acb",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "21415126850b8b727581"
+    ],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "WATCH: Trump rallies in Iowa as part of final push before Election Day",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
+    "group": "210b7aad7bac61021acb"
+  },
+  "99b76670a36ea56367eddcbb1e2e856e5b7d2919e8f03b601efe62a8a36c3c69": {
+    "id": "67d6f00df069b362f4be",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "How to think about the midterms — and the political moment the country is in",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+    "group": ""
+  },
+  "e5c627f3cd310e303fb064245a6bb0df9dd36094fefd1a1d9a17807118f0e81c": {
+    "id": "0693f8ec138ede77f953",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Three key takeaways from early voting in midterm elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+    "group": ""
+  },
+  "262c16312ac2c14d0dc96238b730d3c3bb9fa5c7c24bcb6cb42d82cffdd4c18c": {
+    "id": "01224729f03f130b4833",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "The midterms will test the nation's political direction and confidence",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+    "group": ""
+  },
+  "94397b9a3e6a24809211235af279b1e2a280fbb5494353df8a41c9a10ce28fdb": {
+    "id": "21415126850b8b727581",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers two days before Michigan’s Senate election, after losing the Democratic primary to Abdul El-Sayed. The endorsement prompted her chief of staff’s resignation; its electoral effect remains unknown.",
+    "evidence_quote": "Stevens endorsed Rogers after attending a Detroit church service with him.",
+    "related_ids": [
+      "210b7aad7bac61021acb"
+    ],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+    "group": "210b7aad7bac61021acb"
+  },
+  "fc55f7a494062076c2bb339a1cfb235cc649b906f7e3718713857270ae8b2825": {
+    "id": "f93a69e013edde94f112",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "A federal judge dismissed the Justice Department’s attempt to block certification if Sen. Dan Sullivan loses, finding its proposed ballot review infeasible and lacking protections for voter secrecy. DOJ filed notice of appeal. Allegations about recruiting a same-name candidate remain distinct from the court’s ruling on the requested relief.",
+    "evidence_quote": "the relief the federal government sought was \"infeasible\" because many voters have already cast their ballots.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+    "group": ""
   }
 }
