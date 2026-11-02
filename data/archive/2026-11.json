@@ -1150,7 +1150,7 @@
         "excerpt": "A number of birds are also injured after the spill from the oil tank earlier this week."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1738,7 +1738,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -2852,6 +2852,61 @@
         "published_at": "2026-11-02T04:40:00Z",
         "primary": false,
         "excerpt": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "db46cc045c487a2fcbe7",
+    "title": "North Carolina voters weigh up Trump's track record on cost of living",
+    "category": "Elections",
+    "published_at": "2026-11-01T22:25:51Z",
+    "first_seen_at": "2026-11-02T09:15:25.675886Z",
+    "updated_at": "2026-11-02T09:15:25.675886Z",
+    "sources": [
+      {
+        "title": "North Carolina voters weigh up Trump's track record on cost of living",
+        "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-01T22:25:51Z",
+        "primary": false,
+        "excerpt": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f4c5be0a71e76073b830",
+    "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+    "category": "U.S.",
+    "published_at": "2026-11-02T07:19:35Z",
+    "first_seen_at": "2026-11-02T09:15:25.675886Z",
+    "updated_at": "2026-11-02T09:15:25.675886Z",
+    "sources": [
+      {
+        "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-02T07:19:35Z",
+        "primary": false,
+        "excerpt": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front."
       }
     ],
     "tier": "brief",
