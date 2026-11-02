@@ -4154,5 +4154,104 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
     "group": ""
+  },
+  "95f0adbceb48e088726dc2ba8ab50d5c933d8bf5effc3e185ba8418a7b3fd0c4": {
+    "id": "519066bc8f56c7f7e4d3",
+    "priority": 5,
+    "section": "brief",
+    "major": true,
+    "context": "A federal judge ordered the administration to stop threatening election officials over ballot processing days before the midterms. The judge warned that the actions could interfere with election administration and disenfranchise lawful voters; the administration’s claims about noncitizen ballots remain allegations.",
+    "evidence_quote": "their actions are likely to have the effect of interfering with election administration and disenfranchising lawful voters",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "Judge orders Trump administration to stop threatening US election officials",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+    "group": ""
+  },
+  "ffbb70be174a3043db7f5e076413ad916f1350bcbd3c4e4e5bae0d0f6b29e9dd": {
+    "id": "d6f64195eca2e8fbe2bb",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+    "group": ""
+  },
+  "50dda1b57d7358a2a81b9b386bb1c77465c355ce2c783e9af5dd9452bf43f83d": {
+    "id": "b192a5a37889615063b1",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+    "group": ""
+  },
+  "1088598f3d5551bda4e8178043064c41d4af1978c70571f399c4b90761d1a28f": {
+    "id": "645cfb424c5956249bfe",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "e769a6524efeb8c6841a",
+      "56275b05fb77f2ca55cd"
+    ],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+    "group": "56275b05fb77f2ca55cd"
+  },
+  "6cd277f2525ee8b23f68945600cd33e1035236c1c840b90ca2ce54c82109490a": {
+    "id": "e769a6524efeb8c6841a",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "645cfb424c5956249bfe",
+      "56275b05fb77f2ca55cd"
+    ],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
+    "group": "56275b05fb77f2ca55cd"
+  },
+  "b3a22e40e2b8a8027478c111d7c9985a8b86d7e2a5104fac3ce0d9a35ac1e434": {
+    "id": "56275b05fb77f2ca55cd",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "A federal judge dismissed Trump’s $10 billion defamation lawsuit against the Wall Street Journal and Rupert Murdoch with prejudice, finding the amended complaint insufficient to plead actual malice. Trump denies writing the Epstein birthday letter described in the reporting; the dismissal does not establish its authorship.",
+    "evidence_quote": "The Amended Complaint falls short of pleading actual malice",
+    "related_ids": [
+      "645cfb424c5956249bfe",
+      "e769a6524efeb8c6841a"
+    ],
+    "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+    "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+    "group": "56275b05fb77f2ca55cd"
   }
 }
