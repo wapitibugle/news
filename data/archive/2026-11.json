@@ -3141,6 +3141,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2a05d2c080e3b13d528e",
+    "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+    "category": "U.S.",
+    "published_at": "2026-11-02T17:45:00Z",
+    "first_seen_at": "2026-11-02T18:03:57.090383Z",
+    "updated_at": "2026-11-02T18:03:57.090383Z",
+    "sources": [
+      {
+        "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+        "url": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-02T17:45:00Z",
+        "primary": false,
+        "excerpt": "The post After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
