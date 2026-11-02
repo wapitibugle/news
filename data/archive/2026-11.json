@@ -3169,6 +3169,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "47a3663619495d74c032",
+    "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+    "category": "U.S.",
+    "published_at": "2026-11-02T18:54:01Z",
+    "first_seen_at": "2026-11-02T19:04:25.530954Z",
+    "updated_at": "2026-11-02T19:04:25.530954Z",
+    "sources": [
+      {
+        "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+        "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-02T18:54:01Z",
+        "primary": false,
+        "excerpt": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
