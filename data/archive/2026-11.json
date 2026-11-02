@@ -1066,7 +1066,7 @@
         "excerpt": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1122,7 +1122,7 @@
         "excerpt": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1523,5 +1523,1282 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "f85c339ec781424571ff",
+    "title": "Trump makes fevered campaign push in final weekend before election",
+    "category": "Elections",
+    "published_at": "2026-11-02T04:04:28Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Trump makes fevered campaign push in final weekend before election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-02T04:04:28Z",
+        "primary": false,
+        "excerpt": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "544e8cb6ae732e5bd52e",
+    "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+    "category": "Elections",
+    "published_at": "2026-11-01T23:43:49Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+        "url": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-01T23:43:49Z",
+        "primary": false,
+        "excerpt": "The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6cd71b5be87f0a6668cb",
+    "title": "UK making up China policy ‘as it goes along’, MPs warn",
+    "category": "World",
+    "published_at": "2026-11-02T05:00:33Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "UK making up China policy ‘as it goes along’, MPs warn",
+        "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T05:00:33Z",
+        "primary": false,
+        "excerpt": "Commons committee says lack of coherent strategy is hampering business and leaving national security risks unaddressedThe UK is making up policy on China “as it goes along” and risks having its strategy dictated by Washington or Beijing, a parliamentary report has concluded.An investigation by the Commons business, innovation, science and trade select committee said Labour’s failure to formulate a coherent strategy since 2024 “combined the worst of both worlds” for the UK in relation to China. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "10b2cfbe94432620fe2f",
+    "title": "Pennsylvania’s Grand Canyon",
+    "category": "Science",
+    "published_at": "2026-11-02T05:01:00Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Pennsylvania’s Grand Canyon",
+        "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-02T05:01:00Z",
+        "primary": true,
+        "excerpt": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9557f28c29bffb9d0316",
+    "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+    "category": "Outdoors",
+    "published_at": "2026-11-02T05:00:32Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+        "url": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-02T05:00:32Z",
+        "primary": false,
+        "excerpt": "A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceansMarine biologist Alice Barbarioli waits with her camera trained on the horizon. A few minutes earlier, the hydrophone beneath the Pelagos research vessel detected codas – the sequence of clicks sperm whales use to communicate.The sperm whale reveals its head and dorsal fin as those onboard the vessel in the Pelagos sanctuary, a conservation area established to protect marine mammals in the north-western Mediterranean, ru"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21e0fdc0ffe2e76e529f",
+    "title": "Binance users withdraw $3.6bn after record crypto hack",
+    "category": "Technology",
+    "published_at": "2026-11-02T03:32:14Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-02T03:32:14Z",
+        "primary": false,
+        "excerpt": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "555ecf237a0cbcae93d8",
+    "title": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
+    "category": "Science",
+    "published_at": "2026-11-02T06:00:34Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
+        "url": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-02T06:00:34Z",
+        "primary": false,
+        "excerpt": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the star Spica in the morning sky.The chart shows the view looking east-south-east from London at 0600 GMT on 7 November. Venus will be the easiest object to identify, shining brilliantly. Next to it will be Spica, the brightest star in the constellation of Virgo, the virgin, situated about 250 light years from Earth. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52a09350e0c433fa0b23",
+    "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+    "category": "Science",
+    "published_at": "2026-11-02T05:05:00Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-02T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7b7ddc5a85e83a719914",
+    "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+    "category": "U.S.",
+    "published_at": "2026-11-01T23:18:16Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+        "url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T23:18:16Z",
+        "primary": false,
+        "excerpt": "Attorneys for an immigrant rights group on Saturday filed court papers revealing that their analysis found more than 40% of the people on the list do not appear in the state's voter file.",
+        "ai_editor": {
+          "id": "7b7ddc5a85e83a719914",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "DOJ suggested possible criminal contempt proceedings over an immigrant rights group’s analysis of its alleged noncitizen voter list. The group reported that more than 40% of listed people were absent from California’s voter file. DOJ alleges the analysis violated a court order; plaintiffs’ counsel disputes that claim.",
+          "evidence_quote": "The filing also suggested Boasberg refer the matter to the Justice Department for investigation for possible criminal contempt of court.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "7b7ddc5a85e83a719914",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "DOJ suggested possible criminal contempt proceedings over an immigrant rights group’s analysis of its alleged noncitizen voter list. The group reported that more than 40% of listed people were absent from California’s voter file. DOJ alleges the analysis violated a court order; plaintiffs’ counsel disputes that claim.",
+      "evidence_quote": "The filing also suggested Boasberg refer the matter to the Justice Department for investigation for possible criminal contempt of court.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f93a69e013edde94f112",
+    "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+    "category": "U.S.",
+    "published_at": "2026-11-01T16:40:55Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+        "url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T16:40:55Z",
+        "primary": false,
+        "excerpt": "Tuesday's ranked-choice election includes two candidates who have done little campaigning, one of whom shares the incumbent's name. It was that candidate's presence on the ballot that prompted Trump to push for the lawsuit out of fear he would siphon votes from the incumbent.",
+        "ai_editor": {
+          "id": "f93a69e013edde94f112",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "A federal judge dismissed the Justice Department’s attempt to block certification if Sen. Dan Sullivan loses, finding its proposed ballot review infeasible and lacking protections for voter secrecy. DOJ filed notice of appeal. Allegations about recruiting a same-name candidate remain distinct from the court’s ruling on the requested relief.",
+          "evidence_quote": "the relief the federal government sought was \"infeasible\" because many voters have already cast their ballots.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "f93a69e013edde94f112",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "A federal judge dismissed the Justice Department’s attempt to block certification if Sen. Dan Sullivan loses, finding its proposed ballot review infeasible and lacking protections for voter secrecy. DOJ filed notice of appeal. Allegations about recruiting a same-name candidate remain distinct from the court’s ruling on the requested relief.",
+      "evidence_quote": "the relief the federal government sought was \"infeasible\" because many voters have already cast their ballots.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d3f7d1e5f61ff83c2dc5",
+    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "category": "World",
+    "published_at": "2026-11-02T01:45:42Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T01:45:42Z",
+        "primary": false,
+        "excerpt": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "ai_editor": {
+          "id": "d3f7d1e5f61ff83c2dc5",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers after losing the Michigan Senate primary to Abdul El-Sayed. The break comes two days before a competitive contest that could affect Senate control.",
+          "evidence_quote": "That's why I am endorsing Mike Rogers",
+          "related_ids": [
+            "0acbc0ede9c6ec9fe234"
+          ],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+          "group": "0acbc0ede9c6ec9fe234"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "d3f7d1e5f61ff83c2dc5",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers after losing the Michigan Senate primary to Abdul El-Sayed. The break comes two days before a competitive contest that could affect Senate control.",
+      "evidence_quote": "That's why I am endorsing Mike Rogers",
+      "related_ids": [
+        "0acbc0ede9c6ec9fe234"
+      ],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+      "group": "0acbc0ede9c6ec9fe234"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "35c2e38b2bb7bd4eaa59",
+    "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+    "category": "U.S.",
+    "published_at": "2026-11-01T22:19:13Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T22:19:13Z",
+        "primary": false,
+        "excerpt": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4e387c12c29164c51e70",
+    "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+    "category": "World",
+    "published_at": "2026-11-02T01:07:23Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T01:07:23Z",
+        "primary": false,
+        "excerpt": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike RogersDonald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progressive as a “jihadist”.Trump’s comments aimed to influence a neck-and-neck race that will play an outsized role in determining which party controls the senate after Tuesday’s midterm elections. Continue reading...",
+        "ai_editor": {
+          "id": "4e387c12c29164c51e70",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Trump repeatedly called Michigan Democratic Senate candidate Abdul El-Sayed, a practicing Muslim, a “jihadist” at an Iowa rally. He also praised Democrat Haley Stevens for endorsing El-Sayed’s Republican opponent, Mike Rogers.",
+          "evidence_quote": "Congress would have to “get a special metal detector for Abdul” if he were elected.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+          "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "4e387c12c29164c51e70",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Trump repeatedly called Michigan Democratic Senate candidate Abdul El-Sayed, a practicing Muslim, a “jihadist” at an Iowa rally. He also praised Democrat Haley Stevens for endorsing El-Sayed’s Republican opponent, Mike Rogers.",
+      "evidence_quote": "Congress would have to “get a special metal detector for Abdul” if he were elected.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b192a5a37889615063b1",
+    "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+    "category": "U.S.",
+    "published_at": "2026-11-01T18:00:37Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T18:00:37Z",
+        "primary": false,
+        "excerpt": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+        "ai_editor": {
+          "id": "b192a5a37889615063b1",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+          "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "b192a5a37889615063b1",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4db04d3582c885532244",
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "category": "World",
+    "published_at": "2026-11-02T01:18:27Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T01:18:27Z",
+        "primary": false,
+        "excerpt": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+        "ai_editor": {
+          "id": "4db04d3582c885532244",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Ukrainian authorities said false radiation and other emergency alerts appeared after apparent interference with an air-raid app. Officials said there was no radiation threat. Russia later reported an attack on its own emergency app; claims about the Russian alerts were not independently verified by the BBC.",
+          "evidence_quote": "There is no radiation threat!",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "4db04d3582c885532244",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Ukrainian authorities said false radiation and other emergency alerts appeared after apparent interference with an air-raid app. Officials said there was no radiation threat. Russia later reported an attack on its own emergency app; claims about the Russian alerts were not independently verified by the BBC.",
+      "evidence_quote": "There is no radiation threat!",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "03ac225b7200320a0a35",
+    "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+    "category": "U.S.",
+    "published_at": "2026-11-01T22:05:03Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+        "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T22:05:03Z",
+        "primary": false,
+        "excerpt": "The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed to the Bahamas, according to the Federal Aviation Administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3c055ae03fcdc13ba59b",
+    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+    "category": "World",
+    "published_at": "2026-11-02T00:12:17Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T00:12:17Z",
+        "primary": false,
+        "excerpt": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of her party’s nominee on the eve of the midterm elections.Her endorsement came in a video posted to X after she attended an event with Rogers at the predominantly Black Perfecting church in Detroit on Sunday. Stevens’s endorsement was the culmination of an escalating feud between the former primary rivals – primarily over support for Israel – ",
+        "ai_editor": {
+          "id": "3c055ae03fcdc13ba59b",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Democratic Representative Haley Stevens endorsed Republican Mike Rogers after losing Michigan’s Senate primary to Abdul El-Sayed. The late endorsement followed a dispute over Israel-related campaign messaging and drew condemnation from Democratic leaders and members of her staff.",
+          "evidence_quote": "endorsed his Republican rival, Mike Rogers",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+          "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "3c055ae03fcdc13ba59b",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Democratic Representative Haley Stevens endorsed Republican Mike Rogers after losing Michigan’s Senate primary to Abdul El-Sayed. The late endorsement followed a dispute over Israel-related campaign messaging and drew condemnation from Democratic leaders and members of her staff.",
+      "evidence_quote": "endorsed his Republican rival, Mike Rogers",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "37e801fe78288201236e",
+    "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+    "category": "U.S.",
+    "published_at": "2026-11-01T17:33:21Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T17:33:21Z",
+        "primary": false,
+        "excerpt": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7f103b13f262cd445336",
+    "title": "Democrats have high hopes for midterms, but polls have let them down before",
+    "category": "World",
+    "published_at": "2026-11-02T00:25:12Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Democrats have high hopes for midterms, but polls have let them down before",
+        "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T00:25:12Z",
+        "primary": false,
+        "excerpt": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+        "ai_editor": {
+          "id": "7f103b13f262cd445336",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "7f103b13f262cd445336",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "90310dab04ec3a54c435",
+    "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+    "category": "U.S.",
+    "published_at": "2026-11-01T21:20:25Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+        "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T21:20:25Z",
+        "primary": false,
+        "excerpt": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "be41816f66c3e52b2456",
+    "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+    "category": "World",
+    "published_at": "2026-11-01T22:37:36Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-01T22:37:36Z",
+        "primary": false,
+        "excerpt": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosageA woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue OpenAI earlier this week.The legal action is the latest lawsuit that in which plaintiffs allege that a bot provided counsel to a user that ultimately led to their death. Continue reading...",
+        "ai_editor": {
+          "id": "be41816f66c3e52b2456",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Bowen Wan’s parents sued OpenAI, alleging ChatGPT encouraged her to stop anti-seizure medication and conceal the plan from her doctor before her fatal seizure. These are lawsuit allegations, not court findings. OpenAI said she used a discontinued version and that newer versions better recognize urgent situations.",
+          "evidence_quote": "a regimen no physician had prescribed, the lawsuit states",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+          "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "be41816f66c3e52b2456",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Bowen Wan’s parents sued OpenAI, alleging ChatGPT encouraged her to stop anti-seizure medication and conceal the plan from her doctor before her fatal seizure. These are lawsuit allegations, not court findings. OpenAI said she used a discontinued version and that newer versions better recognize urgent situations.",
+      "evidence_quote": "a regimen no physician had prescribed, the lawsuit states",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T03:06:32.535246+00:00",
+      "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b08525a6f32436739917",
+    "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+    "category": "U.S.",
+    "published_at": "2026-11-01T19:57:09Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+        "url": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T19:57:09Z",
+        "primary": false,
+        "excerpt": "By casting doubt on the vote, Netanyahu appears to be trying to block any potential alliance in the opposition with the Arab parties that could force him from office.",
+        "ai_editor": {
+          "id": "b08525a6f32436739917",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Israeli election officials say the results will stand even if foreign-interference suspicions are substantiated. Netanyahu’s bloc lost its parliamentary majority, but whether opposition parties can form a government remains unresolved. Likud’s claim that Arab-led parties stole the election was made without evidence, AP reports.",
+          "evidence_quote": "Netanyahu's Likud party has said, without giving evidence, that Arab-led parties \"stole\" the elections",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "b08525a6f32436739917",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Israeli election officials say the results will stand even if foreign-interference suspicions are substantiated. Netanyahu’s bloc lost its parliamentary majority, but whether opposition parties can form a government remains unresolved. Likud’s claim that Arab-led parties stole the election was made without evidence, AP reports.",
+      "evidence_quote": "Netanyahu's Likud party has said, without giving evidence, that Arab-led parties \"stole\" the elections",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6f410f12736757208d1b",
+    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+    "category": "World",
+    "published_at": "2026-11-01T21:55:01Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-01T21:55:01Z",
+        "primary": false,
+        "excerpt": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cba49d5b31c9fabefb50",
+    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal",
+    "category": "U.S.",
+    "published_at": "2026-11-01T18:00:43Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal",
+        "url": "https://www.pbs.org/newshour/world/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-u-s-midterms",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T18:00:43Z",
+        "primary": false,
+        "excerpt": "Carney said the conversation built on recent discussions about the outlines of a deal that would create jobs, lower costs for families and protect Canada's languages, culture and sovereignty."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ba56f3fae090328f881",
+    "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+    "category": "World",
+    "published_at": "2026-11-01T17:49:28Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+        "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-01T17:49:28Z",
+        "primary": false,
+        "excerpt": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopeningOfficials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday.Indirect talks in Doha ran into a third day on Sunday with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme. Continue reading"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e882c03dd197c5fd7e7b",
+    "title": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
+    "category": "U.S.",
+    "published_at": "2026-11-01T17:49:59Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
+        "url": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T17:49:59Z",
+        "primary": false,
+        "excerpt": "The deadliest violence occurred in Dallas, where a handful of shootings in the city's Deep Ellum neighborhood, a center of music, restaurants and nightlife, killed four people and injured 15 others, police said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92b80558bb9d5ea8ac2e",
+    "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+    "category": "World",
+    "published_at": "2026-11-01T17:20:18Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-01T17:20:18Z",
+        "primary": false,
+        "excerpt": "Kremlin says Kyiv is ‘simply ignoring’ US wishes days before midterm elections after reported strikes on two oil sitesUkraine has resumed its attacks on Russian oil refineries in defiance of pressure from Donald Trump ahead of the US midterm elections, as a ceasefire in the occupied town of Oleshky ended on Sunday night.Russian state media said on Sunday Ukrainian long-range drones had set fire to the Kstovo refinery in Nizhny Novgorod oblast overnight, soon after a major strike against another big refinery in Samara oblast, owned by the Russian state energy giant Rosneft. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2287c79dfbe2a119fa2a",
+    "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+    "category": "U.S.",
+    "published_at": "2026-11-02T02:59:02Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-02T02:59:02Z",
+        "primary": false,
+        "excerpt": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "59b82274b7b89ca83a91",
+    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+    "category": "World",
+    "published_at": "2026-11-01T17:06:32Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-01T17:06:32Z",
+        "primary": false,
+        "excerpt": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b75d7f336ff283e3022b",
+    "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+    "category": "U.S.",
+    "published_at": "2026-11-01T16:20:20Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+        "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T16:20:20Z",
+        "primary": false,
+        "excerpt": "The bureau said in a statement that the attack was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c0c78270002cbe49b3d5",
+    "title": "All nine people aboard business jet that crashed in Florida have died",
+    "category": "U.S.",
+    "published_at": "2026-11-01T21:13:23Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "All nine people aboard business jet that crashed in Florida have died",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T21:13:23Z",
+        "primary": false,
+        "excerpt": "Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes near a busy roadway, killing everyone onboard.Video recorded by people inside their cars captured the terrifying moment the Bahamas-bound aircraft plunged from the sky before striking near the Palm Beach county roadway and exploding. Flames flickered around chunks of pavement lining a crater as people milled about, expressing shock that"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "38c1cb57860dd48aa79e",
+    "title": "ICE agent charged with assault for hitting fleeing man with car in Houston will turn himself in, attorney says",
+    "category": "U.S.",
+    "published_at": "2026-11-01T16:01:18Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "ICE agent charged with assault for hitting fleeing man with car in Houston will turn himself in, attorney says",
+        "url": "https://www.pbs.org/newshour/nation/ice-agent-charged-with-assault-for-hitting-fleeing-man-with-car-in-houston-will-turn-himself-in-attorney-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-01T16:01:18Z",
+        "primary": false,
+        "excerpt": "Mario Alberto Morales, a U.S. Immigration and Customs Enforcement officer, struck Miguel Parra Hernandez, a 48-year-old construction worker, with his unmarked SUV on Oct. 10, as he chased Parra Hernandez through a parking lot."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c8084194f506d9d60a06",
+    "title": "Connecticut senator Chris Murphy hospitalized after stroke",
+    "category": "U.S.",
+    "published_at": "2026-11-01T19:27:44Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Connecticut senator Chris Murphy hospitalized after stroke",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T19:27:44Z",
+        "primary": false,
+        "excerpt": "Democratic senator was at his son’s hockey game when he felt a numbness in his arm and was in Johns Hopkins Democratic US Senator Chris Murphy has been hospitalized after suffering a stroke.Murphy, 53, started feeling numbness in his arm while attending his son’s hockey game on Saturday, according to the Connecticut senator’s chief of staff, Allison Herwitt. A hospital visit confirmed that Murphy had experienced a stroke. Continue reading..."
+      },
+      {
+        "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-01T19:00:58Z",
+        "primary": false,
+        "excerpt": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0693f8ec138ede77f953",
+    "title": "Three key takeaways from early voting in midterm elections",
+    "category": "U.S.",
+    "published_at": "2026-11-01T18:19:54Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "Three key takeaways from early voting in midterm elections",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T18:19:54Z",
+        "primary": false,
+        "excerpt": "Voting is particularly high in states with tight Senate races that could determine which party controls the chamberUS citizens are casting ballots in record numbers ahead of the midterm elections on Tuesday, another potential indication, analysts say, of voter dissatisfaction with Republicans and Donald Trump.Voting was particularly high in states that feature tight Senate races that could determine which party controls the chamber. Continue reading...",
+        "ai_editor": {
+          "id": "0693f8ec138ede77f953",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+          "title": "Three key takeaways from early voting in midterm elections",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "0693f8ec138ede77f953",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+      "title": "Three key takeaways from early voting in midterm elections",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "69c245550d646a9db4cd",
+    "title": "An embattled Karen Bass is fighting tooth and nail to keep her mayorship in LA. It might be too late",
+    "category": "U.S.",
+    "published_at": "2026-11-01T18:19:06Z",
+    "first_seen_at": "2026-11-02T06:11:40.146858Z",
+    "updated_at": "2026-11-02T06:11:40.146858Z",
+    "sources": [
+      {
+        "title": "An embattled Karen Bass is fighting tooth and nail to keep her mayorship in LA. It might be too late",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-01T18:19:06Z",
+        "primary": false,
+        "excerpt": "With affordability a major election issue, the incumbent is trying to ward off her democratic socialist challengerAt the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and Houston – all had Black mayors. It was a historic alignment made possible by the aftereffects of the Black Lives Matter civil rights movement and the unprecedented wave of protests following the killing of George Floyd in 2020.Six years on, only one of those mayors remains: the embattled Karen Bass of Los Angeles, who is facing a strong challenge from a younger, even more progressive challenger. Bas"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
