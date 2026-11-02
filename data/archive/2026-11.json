@@ -3113,6 +3113,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "55bc5f8f13d1d56a1ced",
+    "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+    "category": "World",
+    "published_at": "2026-11-02T16:04:52Z",
+    "first_seen_at": "2026-11-02T17:12:53.488525Z",
+    "updated_at": "2026-11-02T17:12:53.488525Z",
+    "sources": [
+      {
+        "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T16:04:52Z",
+        "primary": false,
+        "excerpt": "Exception for care workers will allow up to 300,000 people to apply for indefinite leave to remain after five yearsUK politics live – latest updatesShabana Mahmood has softened plans to force low-paid workers to wait 15 years before settlement in the UK following a backlash from fellow cabinet ministers and backbench Labour MPs.Under pressure from health unions to make an exception for care workers, the home secretary has moved to allow up to 300,000 people to apply for indefinite leave to remain after five years. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
