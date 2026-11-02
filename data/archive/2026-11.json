@@ -3225,6 +3225,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2ec847015cb7db4e71f3",
+    "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+    "category": "Elections",
+    "published_at": "2026-11-02T20:02:41Z",
+    "first_seen_at": "2026-11-02T20:52:40.732547Z",
+    "updated_at": "2026-11-02T20:52:40.732547Z",
+    "sources": [
+      {
+        "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-02T20:02:41Z",
+        "primary": false,
+        "excerpt": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
