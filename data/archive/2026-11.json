@@ -2889,7 +2889,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f4c5be0a71e76073b830",
@@ -2907,6 +2908,34 @@
         "published_at": "2026-11-02T07:19:35Z",
         "primary": false,
         "excerpt": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "705d28cce4bcd0bec54c",
+    "title": "A GOP Congressman Backed Medicaid Work Requirements. His Voters Might Be Exempt.",
+    "category": "Elections",
+    "published_at": "2026-11-02T10:00:00Z",
+    "first_seen_at": "2026-11-02T10:20:58.936561Z",
+    "updated_at": "2026-11-02T10:20:58.936561Z",
+    "sources": [
+      {
+        "title": "A GOP Congressman Backed Medicaid Work Requirements. His Voters Might Be Exempt.",
+        "url": "https://kffhealthnews.org/elections/medicaid-work-rules-california-valadao-villegas-22nd-district-unemployment-exempt/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-02T10:00:00Z",
+        "primary": false,
+        "excerpt": "A California congressman voted for the GOP’s One Big Beautiful Bill, which is projected to reduce Medicaid spending by $900 billion. Now Rep. David Valadao, whose House race will help decide control of Congress, is telling his constituents they may not have to follow the new rules."
       }
     ],
     "tier": "brief",
