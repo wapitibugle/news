@@ -3966,5 +3966,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
     "group": ""
+  },
+  "d81ed3909c8fb7ff8d4e9be12f3e4fb9ef4d17f4cb324c223e03c9f6f5ec219f": {
+    "id": "7f103b13f262cd445336",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Democrats have high hopes for midterms, but polls have let them down before",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+    "group": ""
+  },
+  "40a49b84a870fcb457a9ee424402044eeadfad48d07dc67c623ab2a4d4839f5c": {
+    "id": "d3f7d1e5f61ff83c2dc5",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers after losing the Michigan Senate primary to Abdul El-Sayed. The break comes two days before a competitive contest that could affect Senate control.",
+    "evidence_quote": "That's why I am endorsing Mike Rogers",
+    "related_ids": [
+      "0acbc0ede9c6ec9fe234"
+    ],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+    "group": "0acbc0ede9c6ec9fe234"
+  },
+  "c24363e7705b79b4f849fb9abef91ba7dde4b6744dc30bf676b4a861bade0122": {
+    "id": "7b7ddc5a85e83a719914",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "DOJ suggested possible criminal contempt proceedings over an immigrant rights group’s analysis of its alleged noncitizen voter list. The group reported that more than 40% of listed people were absent from California’s voter file. DOJ alleges the analysis violated a court order; plaintiffs’ counsel disputes that claim.",
+    "evidence_quote": "The filing also suggested Boasberg refer the matter to the Justice Department for investigation for possible criminal contempt of court.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+    "group": ""
+  },
+  "e8ff174d5de6efb4e7f70f4c1e927a1e9830e6bf9d07ee776d3fe5fe356864e7": {
+    "id": "a148f1e82896a9d50811",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "A judge dismissed DOJ’s attempt to block certification of Alaska’s Senate race if incumbent Dan Sullivan loses; DOJ plans to appeal. The lawsuit concerns two candidates sharing Sullivan’s name. Peltola denies knowledge of the reported recruitment scheme, and Sullivan says he will accept the results.",
+    "evidence_quote": "A judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska’s US Senate race",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+    "group": ""
+  },
+  "d20d04e1694f512479957bde29eea40234949c4964fab469ac6e8c0a4e64a557": {
+    "id": "b08525a6f32436739917",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Israeli election officials say the results will stand even if foreign-interference suspicions are substantiated. Netanyahu’s bloc lost its parliamentary majority, but whether opposition parties can form a government remains unresolved. Likud’s claim that Arab-led parties stole the election was made without evidence, AP reports.",
+    "evidence_quote": "Netanyahu's Likud party has said, without giving evidence, that Arab-led parties \"stole\" the elections",
+    "related_ids": [],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
+    "group": ""
+  },
+  "9ccf87f88f825352e717fe143bba8541ccf5057a72fedb57ce12957ff63e608a": {
+    "id": "0acbc0ede9c6ec9fe234",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "d3f7d1e5f61ff83c2dc5"
+    ],
+    "reviewed_at": "2026-11-02T01:15:46.351269+00:00",
+    "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+    "group": "0acbc0ede9c6ec9fe234"
   }
 }
