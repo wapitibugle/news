@@ -2945,6 +2945,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2eaf7f9eb8d07b310830",
+    "title": "“Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day",
+    "category": "Elections",
+    "published_at": "2026-11-02T11:00:00Z",
+    "first_seen_at": "2026-11-02T12:00:18.659285Z",
+    "updated_at": "2026-11-02T12:00:18.659285Z",
+    "sources": [
+      {
+        "title": "“Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day",
+        "url": "https://www.propublica.org/article/five-voting-disruptions-midterm-election",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-02T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post “Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "846b3cc3b53b8c692eab",
+    "title": "6 things to watch for on election night",
+    "category": "Elections",
+    "published_at": "2026-11-02T10:00:00Z",
+    "first_seen_at": "2026-11-02T12:00:18.659285Z",
+    "updated_at": "2026-11-02T12:00:18.659285Z",
+    "sources": [
+      {
+        "title": "6 things to watch for on election night",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-02T10:00:00Z",
+        "primary": false,
+        "excerpt": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
