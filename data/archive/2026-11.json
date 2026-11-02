@@ -3029,6 +3029,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1465906be98b0dbf106d",
+    "title": "WATCH LIVE: Trump delivers last pitch before midterms at Reflecting Pool, site of botched renovation",
+    "category": "Elections",
+    "published_at": "2026-11-02T14:55:57Z",
+    "first_seen_at": "2026-11-02T15:02:37.644714Z",
+    "updated_at": "2026-11-02T15:02:37.644714Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Trump delivers last pitch before midterms at Reflecting Pool, site of botched renovation",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-last-pitch-before-midterms-at-reflecting-pool-site-of-botched-renovation",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-02T14:55:57Z",
+        "primary": false,
+        "excerpt": "Rather than using Monday to travel to key states and try to energize his \"Make America Great Again\" supporters as his Republican Party tries to maintain control of Congress, President Donald Trump opted for an event at a Washington renovation project that has been embarrassing and contentious."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9bb5f49f5e2bca5570e4",
+    "title": "ICE, inflation and Trump: gen Z readers share their concerns heading into the voting both",
+    "category": "Elections",
+    "published_at": "2026-11-02T14:00:42Z",
+    "first_seen_at": "2026-11-02T15:02:37.644714Z",
+    "updated_at": "2026-11-02T15:02:37.644714Z",
+    "sources": [
+      {
+        "title": "ICE, inflation and Trump: gen Z readers share their concerns heading into the voting both",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/gen-z-voting-issues",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-02T14:00:42Z",
+        "primary": false,
+        "excerpt": "Young voters have many of the same concerns as the larger voting cohort, even if many are not registered to voteThe 2026 US midterms are approaching against a backdrop of growing political uncertainty, with young voters increasingly mobilizing around concerns about the country’s future.Although nearly 50 million Americans aged 18 to 29 are eligible to vote in the midterms, almost half remain either unregistered or civically disengaged, according to US Census Bureau data. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
