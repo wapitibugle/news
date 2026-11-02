@@ -2973,7 +2973,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "846b3cc3b53b8c692eab",
@@ -2991,6 +2992,34 @@
         "published_at": "2026-11-02T10:00:00Z",
         "primary": false,
         "excerpt": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d992fac837796203a06f",
+    "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+    "category": "Elections",
+    "published_at": "2026-11-02T11:08:09Z",
+    "first_seen_at": "2026-11-02T13:18:16.345432Z",
+    "updated_at": "2026-11-02T13:18:16.345432Z",
+    "sources": [
+      {
+        "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+        "url": "https://www.bbc.co.uk/news/articles/c699z8v3282xo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-02T11:08:09Z",
+        "primary": false,
+        "excerpt": "But she refuses to be drawn on her rationale for switching candidates in the closely-fought US Senate race."
       }
     ],
     "tier": "brief",
