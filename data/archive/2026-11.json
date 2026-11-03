@@ -4572,7 +4572,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "21b02d360bb8b4f47c95",
@@ -4590,6 +4591,34 @@
         "published_at": "2026-11-03T07:55:34Z",
         "primary": false,
         "excerpt": "Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9ee5087bf627a08b0c5f",
+    "title": "We Can’t Predict What Will Happen on Election Day. But We’ll Be Here to Cover It.",
+    "category": "Elections",
+    "published_at": "2026-11-03T11:00:00Z",
+    "first_seen_at": "2026-11-03T11:01:54.345073Z",
+    "updated_at": "2026-11-03T11:01:54.345073Z",
+    "sources": [
+      {
+        "title": "We Can’t Predict What Will Happen on Election Day. But We’ll Be Here to Cover It.",
+        "url": "https://www.propublica.org/article/propublica-approach-2026-midterm-elections",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-03T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post We Can’t Predict What Will Happen on Election Day. But We’ll Be Here to Cover It. appeared first on ProPublica."
       }
     ],
     "tier": "brief",
