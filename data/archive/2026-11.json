@@ -4740,7 +4740,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f4c590586079f686d3c4",
@@ -4758,6 +4759,34 @@
         "published_at": "2026-11-03T15:40:03Z",
         "primary": false,
         "excerpt": "History, polling and vibes suggest it could be an ugly night for President Trump's Republican Party. But the political map, not to mention Republican gerrymandering, could limit Democratic gains."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "73d63f341a0bf201f348",
+    "title": "Will ranked choice voting affect timing of Maine and Alaska's Senate race results? Here's what we know",
+    "category": "Elections",
+    "published_at": "2026-11-03T16:48:59Z",
+    "first_seen_at": "2026-11-03T17:04:53.124835Z",
+    "updated_at": "2026-11-03T17:04:53.124835Z",
+    "sources": [
+      {
+        "title": "Will ranked choice voting affect timing of Maine and Alaska's Senate race results? Here's what we know",
+        "url": "https://www.pbs.org/newshour/politics/will-ranked-choice-voting-affect-timing-of-maine-and-alaskas-senate-race-results-heres-what-we-know",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-03T16:48:59Z",
+        "primary": false,
+        "excerpt": "Most U.S. voters who are deciding Senate races Tuesday will pick one candidate. For voters in Alaska and Maine, their ballots instead will offer the chance to rank candidates in what is known as ranked choice voting."
       }
     ],
     "tier": "brief",
