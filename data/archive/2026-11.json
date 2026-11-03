@@ -4796,6 +4796,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fd8a350e86bd6ff49fe0",
+    "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+    "category": "U.S.",
+    "published_at": "2026-11-03T17:02:21Z",
+    "first_seen_at": "2026-11-03T17:57:17.736623Z",
+    "updated_at": "2026-11-03T17:57:17.736623Z",
+    "sources": [
+      {
+        "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-03T17:02:21Z",
+        "primary": false,
+        "excerpt": "Person arrested after fire at police department where officer who shot and killed one-year-old Kohen Wiley had workedIn the early hours of 31 October, a fire broke out at the Senatobia police department in Mississippi, which has been embroiled in controversy recently after one of its officers shot and killed Kohen Wiley, a one-year-old. Though the cause of the fire has not been reported, it is being investigated as arson by agents with the US Bureau of Alcohol, Tobacco, Firearms and Explosives.In June, then Senatobia police sergeant Hunter Foster shot Kohen as he sat in his mother’s arms in a "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3dd211fa30827581670",
+    "title": "Voters decide key ballot measures on abortion rights, congressional redistricting and voter ID laws",
+    "category": "Elections",
+    "published_at": "2026-11-03T17:30:12Z",
+    "first_seen_at": "2026-11-03T17:57:17.736623Z",
+    "updated_at": "2026-11-03T17:57:17.736623Z",
+    "sources": [
+      {
+        "title": "Voters decide key ballot measures on abortion rights, congressional redistricting and voter ID laws",
+        "url": "https://www.pbs.org/newshour/politics/voters-decide-key-ballot-measures-on-abortion-rights-congressional-redistricting-and-voter-id-laws",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-03T17:30:12Z",
+        "primary": false,
+        "excerpt": "2026 ELECTION COVERAGE: Watch Live | Poll Closing Times | All Live Results | Live Updates | Live Fact Check WASHINGTON (AP) — A battle over abortion rights is playing out in several states Tuesday as voters decide 145 proposed laws and constitutional amendments, including some that could affect voting for future elections. The ballot measures provide a political undercard for a high-profile midterm election that will determine which party controls Congress, state legislatures and..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
