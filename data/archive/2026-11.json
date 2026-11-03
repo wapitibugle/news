@@ -4824,7 +4824,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f3dd211fa30827581670",
@@ -4842,6 +4843,61 @@
         "published_at": "2026-11-03T17:30:12Z",
         "primary": false,
         "excerpt": "2026 ELECTION COVERAGE: Watch Live | Poll Closing Times | All Live Results | Live Updates | Live Fact Check WASHINGTON (AP) — A battle over abortion rights is playing out in several states Tuesday as voters decide 145 proposed laws and constitutional amendments, including some that could affect voting for future elections. The ballot measures provide a political undercard for a high-profile midterm election that will determine which party controls Congress, state legislatures and..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c61af5d442117c928213",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "category": "Elections",
+    "published_at": "2026-11-03T18:03:53Z",
+    "first_seen_at": "2026-11-03T19:01:59.640742Z",
+    "updated_at": "2026-11-03T19:01:59.640742Z",
+    "sources": [
+      {
+        "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-03T18:03:53Z",
+        "primary": false,
+        "excerpt": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agendaThe US legislature, Congress, has two chambers: the House of Representatives and the Senate. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f17ce1dec3c51b2dfe71",
+    "title": "California voters consider proposition to tax billionaires' wealth",
+    "category": "Elections",
+    "published_at": "2026-11-03T17:04:13Z",
+    "first_seen_at": "2026-11-03T19:01:59.640742Z",
+    "updated_at": "2026-11-03T19:01:59.640742Z",
+    "sources": [
+      {
+        "title": "California voters consider proposition to tax billionaires' wealth",
+        "url": "https://www.pbs.org/newshour/politics/california-voters-consider-proposition-to-tax-billionaires-wealth",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-03T17:04:13Z",
+        "primary": false,
+        "excerpt": "Proposition 40 would impose a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion, with most of the revenue dedicated to replacing federal funding cuts to healthcare."
       }
     ],
     "tier": "brief",
