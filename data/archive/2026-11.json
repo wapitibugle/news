@@ -4630,5 +4630,59 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "b5734ddf501d6b262634",
+    "title": "Four types of House races to watch on election night to know how it might go",
+    "category": "Elections",
+    "published_at": "2026-11-03T11:00:00Z",
+    "first_seen_at": "2026-11-03T13:13:29.003271Z",
+    "updated_at": "2026-11-03T13:13:29.003271Z",
+    "sources": [
+      {
+        "title": "Four types of House races to watch on election night to know how it might go",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-03T11:00:00Z",
+        "primary": false,
+        "excerpt": "As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0d6f5e939e8c714a9bf3",
+    "title": "Live fact check: Election Day 2026",
+    "category": "Elections",
+    "published_at": "2026-11-03T11:00:29Z",
+    "first_seen_at": "2026-11-03T13:13:29.003271Z",
+    "updated_at": "2026-11-03T13:13:29.003271Z",
+    "sources": [
+      {
+        "title": "Live fact check: Election Day 2026",
+        "url": "https://www.pbs.org/newshour/politics/live-fact-check-election-day-2026",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-03T11:00:29Z",
+        "primary": false,
+        "excerpt": "Our partners at PolitiFact are fact-checking multiple competitive 2026 midterm races across the United States on Election Day."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
