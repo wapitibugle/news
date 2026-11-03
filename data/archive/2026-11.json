@@ -4656,7 +4656,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0d6f5e939e8c714a9bf3",
@@ -4677,6 +4678,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "266d0551be2adfd94ed4",
+    "title": "A drug-free diabetes treatment? An implant lowers blood sugar in mice",
+    "category": "Science",
+    "published_at": "2026-11-03T14:00:00Z",
+    "first_seen_at": "2026-11-03T14:24:38.822597Z",
+    "updated_at": "2026-11-03T14:24:38.822597Z",
+    "sources": [
+      {
+        "title": "A drug-free diabetes treatment? An implant lowers blood sugar in mice",
+        "url": "https://www.sciencenews.org/article/diabetes-device-experiment-blood-sugar",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-11-03T14:00:00Z",
+        "primary": false,
+        "excerpt": "The wireless implant rids mice's bodies of excess sugar on demand, and helps them shed weight. It could one day help treat diabetes and obesity."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
