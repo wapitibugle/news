@@ -4876,7 +4876,25 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "c61af5d442117c928213",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "A nationwide election-results resource covering congressional and gubernatorial races, with results attributed to the Associated Press. The supplied text explains electoral rules and competitive-seat ratings but contains no actual race results.",
+      "evidence_quote": "The election results on this page are reported by the Associated Press.",
+      "related_ids": [
+        "b02fca6ede1e513370f8",
+        "b3657a3b1a561f9680ed",
+        "c188960c1e14ab59e8d0"
+      ],
+      "reviewed_at": "2026-11-03T20:56:07.227509+00:00",
+      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+      "group": "b02fca6ede1e513370f8"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
