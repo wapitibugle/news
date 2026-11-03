@@ -4516,6 +4516,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7105d39b36aafcf53ad4",
+    "title": "When will we know the US midterms results?",
+    "category": "Elections",
+    "published_at": "2026-11-03T07:56:09Z",
+    "first_seen_at": "2026-11-03T08:59:49.124984Z",
+    "updated_at": "2026-11-03T08:59:49.124984Z",
+    "sources": [
+      {
+        "title": "When will we know the US midterms results?",
+        "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-03T07:56:09Z",
+        "primary": false,
+        "excerpt": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
