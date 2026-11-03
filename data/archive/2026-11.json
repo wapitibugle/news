@@ -1710,7 +1710,7 @@
         "excerpt": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the star Spica in the morning sky.The chart shows the view looking east-south-east from London at 0600 GMT on 7 November. Venus will be the easiest object to identify, shining brilliantly. Next to it will be Spica, the brightest star in the constellation of Virgo, the virgin, situated about 250 light years from Earth. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -1738,7 +1738,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -3269,5 +3269,1191 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "755dc0d6ff7699420144",
+    "title": "Here's when polls are closing in your state this midterm election",
+    "category": "Elections",
+    "published_at": "2026-11-02T17:46:35Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Here's when polls are closing in your state this midterm election",
+        "url": "https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-02T17:46:35Z",
+        "primary": false,
+        "excerpt": "While tens of millions of Americans have already cast their early votes in the 2026 midterm elections, millions more are expected to vote in person on Election Day."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fd98d40db8729390b8df",
+    "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+    "category": "Elections",
+    "published_at": "2026-11-02T16:34:17Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-02T16:34:17Z",
+        "primary": false,
+        "excerpt": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83b33195243c7a276ccb",
+    "title": "What are Americans voting for in this election?",
+    "category": "Elections",
+    "published_at": "2026-11-02T09:22:55Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "What are Americans voting for in this election?",
+        "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-02T09:22:55Z",
+        "primary": false,
+        "excerpt": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1475f81f3ad6a4ea5dc7",
+    "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+    "category": "Elections",
+    "published_at": "2026-11-02T10:00:00Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-02T10:00:00Z",
+        "primary": false,
+        "excerpt": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bbb9adae9a48a69ade94",
+    "title": "US strikes Iran ahead of midterm elections",
+    "category": "World",
+    "published_at": "2026-11-03T03:39:08Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "US strikes Iran ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-03T03:39:08Z",
+        "primary": false,
+        "excerpt": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+        "ai_editor": {
+          "id": "bbb9adae9a48a69ade94",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "US officials told CBS that American forces struck Iran’s Qeshm Island, describing the strikes as limited and a response to IRGC fire on a US aircraft. The BBC had sought comment from US Central Command; Iranian state media reported explosions.",
+          "evidence_quote": "US officials described the strikes as limited",
+          "related_ids": [],
+          "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+          "title": "US strikes Iran ahead of midterm elections",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "bbb9adae9a48a69ade94",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "US officials told CBS that American forces struck Iran’s Qeshm Island, describing the strikes as limited and a response to IRGC fire on a US aircraft. The BBC had sought comment from US Central Command; Iranian state media reported explosions.",
+      "evidence_quote": "US officials described the strikes as limited",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+      "title": "US strikes Iran ahead of midterm elections",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c58d85bb8a405fa99a4b",
+    "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+    "category": "World",
+    "published_at": "2026-11-03T03:32:36Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-03T03:32:36Z",
+        "primary": false,
+        "excerpt": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "16c7feffce38adf000fb",
+    "title": "Caleb Williams and new arrival Jeffery Simmons power Bears past sputtering Seahawks",
+    "category": "U.S.",
+    "published_at": "2026-11-03T04:55:38Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Caleb Williams and new arrival Jeffery Simmons power Bears past sputtering Seahawks",
+        "url": "https://www.theguardian.com/sport/2026/nov/02/bears-seahawks-caleb-williams-jeffery-simmons-monday-night-football",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-03T04:55:38Z",
+        "primary": false,
+        "excerpt": "Star defensive lineman has one sack, six tacklesD’Andre Swift rushes for three touchdownsSeattle have lost three of their last four gamesCaleb Williams threw a touchdown pass on the opening drive and Jeffery Simmons delivered just what Chicago needed on defense as the Bears beat the host Seattle Seahawks 34-17 on Monday night.Williams was extremely efficient for the Bears (6-2) against one of the NFL’s stingiest defenses, committing no turnovers, taking just one sack and throwing for 247 yards while completing 71% of his passes. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7b110d4ba11c553df930",
+    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+    "category": "U.S.",
+    "published_at": "2026-11-03T03:13:06Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-03T03:13:06Z",
+        "primary": false,
+        "excerpt": "Footage from prosecutors shows aftermath of shooting of Tyrin Johnson, 20, shot and killed by national guard in JulyTennessee national guard troops in Memphis last summer trained their handguns on a man as he lay dying on a sidewalk after a guard member shot him in the back, video released Monday by county prosecutors shows.A Memphis police officer can be heard in the footage from an officer’s body camera calling for an ambulance and then asking the troops: “Hey, you guys got a medical kit or anything?” Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "87efcfd56daab67ae866",
+    "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+    "category": "World",
+    "published_at": "2026-11-03T03:18:36Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+        "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-03T03:18:36Z",
+        "primary": false,
+        "excerpt": "Iranian state media reported the sound of explosions on the island in the strait of Hormuz, coming on the eve of crucial US midtermsThe ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, ⁠according to reports in US media, hours after US vice-president JD Vance said he was optimistic diplomatic efforts to end the war were moving in the right direction.The strikes were reported as being “defensive”, and not thought to be a signal of a return to full hostilities, but came on the eve of crucial midterm elections in which Donald Trump’s Republican party is expected to be punished "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec7dda0931a2f12c4c61",
+    "title": "Scientists detect signals at the smallest scale ever explored",
+    "category": "Science",
+    "published_at": "2026-11-03T06:01:23Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Scientists detect signals at the smallest scale ever explored",
+        "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-03T06:01:23Z",
+        "primary": false,
+        "excerpt": "Researchers have detected signals from the smallest distances ever probed."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a05addb38119929fd9aa",
+    "title": "Boulders dropped off coast to disrupt deep fishing",
+    "category": "Science",
+    "published_at": "2026-11-03T05:44:42Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Boulders dropped off coast to disrupt deep fishing",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-03T05:44:42Z",
+        "primary": false,
+        "excerpt": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b4f31ba855cdf3d8074",
+    "title": "How to watch the US midterms in Australia, and what you need to know",
+    "category": "U.S.",
+    "published_at": "2026-11-03T03:30:39Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "How to watch the US midterms in Australia, and what you need to know",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-03T03:30:39Z",
+        "primary": false,
+        "excerpt": "As results roll in Wednesday Australian time, keen election-watchers can tune in to see whether red seats flip blue – or if we’re in for a long week of vote countingGet our breaking news email, free app or daily news podcastDonald Trump has called it “most important in our lifetime” while senator Bernie Sanders says it’s the most important “in modern American history”. Barack Obama called it a “circuit-breaker” and the “last, best chance” to rein in the president.In any case, all eyes will be on the United States on Wednesday Australian time for the 2026 midterm elections. Will Americans use t",
+        "ai_editor": {
+          "id": "4b4f31ba855cdf3d8074",
+          "priority": 1,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+          "title": "How to watch the US midterms in Australia, and what you need to know",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "4b4f31ba855cdf3d8074",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+      "title": "How to watch the US midterms in Australia, and what you need to know",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "051bcd340ee33ae22a03",
+    "title": "What the latest on mRNA vaccines means for cancer",
+    "category": "Health",
+    "published_at": "2026-11-02T21:31:10Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "What the latest on mRNA vaccines means for cancer",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6009085/what-the-latest-on-mrna-vaccines-means-for-cancer",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-11-02T21:31:10Z",
+        "primary": false,
+        "excerpt": "One patient in a small trial is experiencing the fantasy results so far with an mRNA pancreatic cancer vaccine. She shows no evidence of the cancer that was supposed to kill her years ago."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e2fce6b03ceff6d03444",
+    "title": "Advocates warn Afghans deported by U.S. will face 'certain death' under Taliban",
+    "category": "U.S.",
+    "published_at": "2026-11-02T23:40:28Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Advocates warn Afghans deported by U.S. will face 'certain death' under Taliban",
+        "url": "https://www.pbs.org/newshour/show/advocates-warn-afghans-deported-by-u-s-will-face-certain-death-under-taliban",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T23:40:28Z",
+        "primary": false,
+        "excerpt": "The Trump administration is preparing to deport at least 150 Afghans over the next 48 hours, first to Pakistan and then to Taliban-controlled Afghanistan. Many of those facing deportation are relatives of those who worked alongside the United States. They could face severe retaliation from the Taliban upon their return. Nick Schifrin discussed more with Shawn VanDiver of Afghan Evac."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64adaf850ebf9ea19517",
+    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "category": "World",
+    "published_at": "2026-11-03T00:50:37Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-03T00:50:37Z",
+        "primary": false,
+        "excerpt": "Justice department had ordered state to segregate and not count 20,000 ballots from people it claims are non-citizensUS midterms – live updatesThe supreme court on Monday ruled against the Trump administration and its attempts to force California election officials to segregate and not count ballots from people that the justice department claims are non-citizens. The ruling follows several lower courts siding with California officials, who argued the federal government was seeking to interfere in state elections.The court did not issue an explanation for its ruling, which is customary in cases",
+        "ai_editor": {
+          "id": "64adaf850ebf9ea19517",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Supreme Court rejected the administration’s emergency effort to require California to segregate and not count 20,000 ballots over disputed citizenship claims. The court gave no explanation and noted no dissents; California officials questioned the accuracy and methodology of the federal list.",
+          "evidence_quote": "There were no noted dissents from the justices.",
+          "related_ids": [
+            "677731933ea23f4e98d3"
+          ],
+          "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+          "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+          "group": "64adaf850ebf9ea19517"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "64adaf850ebf9ea19517",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Supreme Court rejected the administration’s emergency effort to require California to segregate and not count 20,000 ballots over disputed citizenship claims. The court gave no explanation and noted no dissents; California officials questioned the accuracy and methodology of the federal list.",
+      "evidence_quote": "There were no noted dissents from the justices.",
+      "related_ids": [
+        "677731933ea23f4e98d3"
+      ],
+      "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+      "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+      "group": "64adaf850ebf9ea19517"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b898527bb492528143ca",
+    "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots",
+    "category": "U.S.",
+    "published_at": "2026-11-02T17:53:40Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T17:53:40Z",
+        "primary": false,
+        "excerpt": "President Donald Trump's administration has appealed to the Supreme Court in its push to require California election officials to set aside thousands of disputed mail ballots.",
+        "ai_editor": {
+          "id": "b898527bb492528143ca",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The administration asked the Supreme Court to set aside roughly 20,000 California mail ballots pending citizenship checks after lower-court losses. California disputes the reliability of the federal list. The appeal concerns suspected noncitizens, not established findings that these voters are ineligible.",
+          "evidence_quote": "California officials say the list is highly unreliable and likely includes many people who are U.S. citizens.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+          "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "b898527bb492528143ca",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The administration asked the Supreme Court to set aside roughly 20,000 California mail ballots pending citizenship checks after lower-court losses. California disputes the reliability of the federal list. The appeal concerns suspected noncitizens, not established findings that these voters are ineligible.",
+      "evidence_quote": "California officials say the list is highly unreliable and likely includes many people who are U.S. citizens.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+      "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec38de05732021f112ed",
+    "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+    "category": "World",
+    "published_at": "2026-11-02T23:22:24Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T23:22:24Z",
+        "primary": false,
+        "excerpt": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballotsUS midterms – live updatesThe US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration’s campaign against the state’s election processes on the eve of the midterms.Bill Essayli, the top federal prosecutor in Los Angeles and a close ally of the president, announced on Monday that his office was prosecuting six lawful permanent residents accused of unlawfully registering to vote and castin",
+        "ai_editor": {
+          "id": "ec38de05732021f112ed",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Federal prosecutors charged six lawful permanent residents with false statements on naturalization applications, alleging prior unlawful voter registration. These are allegations, not convictions or charges of fraudulent voting. The report also says the Supreme Court rejected the administration’s appeal seeking to set aside roughly 20,000 California ballots.",
+          "evidence_quote": "they are not facing charges specifically relating to fraudulently voting",
+          "related_ids": [],
+          "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+          "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "ec38de05732021f112ed",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Federal prosecutors charged six lawful permanent residents with false statements on naturalization applications, alleging prior unlawful voter registration. These are allegations, not convictions or charges of fraudulent voting. The report also says the Supreme Court rejected the administration’s appeal seeking to set aside roughly 20,000 California ballots.",
+      "evidence_quote": "they are not facing charges specifically relating to fraudulently voting",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+      "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "212b3ce76f6f26f2957c",
+    "title": "Judge dismisses charges against ex-FBI agents accused of lying about Hunter Biden, citing 'weaponization'",
+    "category": "U.S.",
+    "published_at": "2026-11-02T16:38:34Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Judge dismisses charges against ex-FBI agents accused of lying about Hunter Biden, citing 'weaponization'",
+        "url": "https://www.pbs.org/newshour/politics/judge-dismisses-charges-against-ex-fbi-agents-accused-of-lying-about-hunter-biden-citing-weaponization",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T16:38:34Z",
+        "primary": false,
+        "excerpt": "The Justice Department may still have an opportunity to pursue a grand jury indictment against the ex-FBI officials."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ada867c1f7172fb883c7",
+    "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+    "category": "World",
+    "published_at": "2026-11-02T20:54:44Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T20:54:44Z",
+        "primary": false,
+        "excerpt": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+        "ai_editor": {
+          "id": "ada867c1f7172fb883c7",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Open Secrets projects midterm spending of $11.9 billion; final totals are not yet available. The BBC reports that FEC filings through mid-October show more than $9.5 billion spent, with PACs and super PACs accounting for over half.",
+          "evidence_quote": "Open Secrets has projected the total will be $11.9bn based on trends in past cycles.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+          "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "ada867c1f7172fb883c7",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Open Secrets projects midterm spending of $11.9 billion; final totals are not yet available. The BBC reports that FEC filings through mid-October show more than $9.5 billion spent, with PACs and super PACs accounting for over half.",
+      "evidence_quote": "Open Secrets has projected the total will be $11.9bn based on trends in past cycles.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9964f664c24a783cddc1",
+    "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes",
+    "category": "U.S.",
+    "published_at": "2026-11-02T20:59:53Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-02T20:59:53Z",
+        "primary": false,
+        "excerpt": "Douglas DePodesta says he was made ‘scapegoat’ after collapse of case against Broadview Six anti-ICE protestersThe former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president’s political opponents and making him a “scapegoat” after a major federal case against anti-ICE protesters fell apart.Douglas DePodesta, who served as FBI special agent in charge from 2024 until July 2026, alleged in a federal lawsuit filed on Monday that the Department of Justice (DoJ) had engaged in “misconduct” and “malfeasance” in its pursuit of unjust prosecuti"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "95883436136d405412ff",
+    "title": "Judge tosses case against two officials accused of lying about Hunter Biden",
+    "category": "U.S.",
+    "published_at": "2026-11-02T17:33:32Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Judge tosses case against two officials accused of lying about Hunter Biden",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-02T17:33:32Z",
+        "primary": false,
+        "excerpt": "The two FBI agents were charged with making false statements to Congress while testifying about the bureau’s role in investigating Biden’s laptopA federal judge dismissed criminal charges against two former FBI officials who were accused of lying about their involvement in the investigation into Hunter Biden, the son of former president Joe Biden, on Monday.Magistrate Judge Zia Faruqui said prosecutors failed to show probable cause that the two former officials, Nikki Floris and Bradley Benavides, had knowingly made false statements. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "07e67febb952b52c9717",
+    "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+    "category": "World",
+    "published_at": "2026-11-02T09:42:11Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-02T09:42:11Z",
+        "primary": false,
+        "excerpt": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "826e83708152188b04d6",
+    "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "category": "World",
+    "published_at": "2026-11-03T01:56:27Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-03T01:56:27Z",
+        "primary": false,
+        "excerpt": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a5580c6ff02e4472cb9",
+    "title": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+    "category": "U.S.",
+    "published_at": "2026-11-02T10:00:00Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+        "url": "https://www.propublica.org/article/border-wall-remains-native-american-organ-pipe",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-02T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9f4be53dd0a8d7a00d7",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "category": "World",
+    "published_at": "2026-11-03T00:07:05Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-03T00:07:05Z",
+        "primary": false,
+        "excerpt": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2aa89f2c0827ce97170b",
+    "title": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
+    "category": "U.S.",
+    "published_at": "2026-11-03T02:59:26Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
+        "url": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-03T02:59:26Z",
+        "primary": false,
+        "excerpt": "A U.S. official says the U.S. has conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Iranian state television reported that explosions were heard on Qeshm Island."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b346be2c337580868a85",
+    "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+    "category": "World",
+    "published_at": "2026-11-03T01:13:52Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+        "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-03T01:13:52Z",
+        "primary": false,
+        "excerpt": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalateRussia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country’s emergency services said.Emergency services said two members of a rescue crew and four police officers were among the dead in the village ⁠of Komyshuvakha, in south-eastern Zaporizhzhia region. Five people were being treated in hospital, including two rescue workers. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8a9054114421e425a97",
+    "title": "Is America really that polarized? The answer might be a surprise",
+    "category": "U.S.",
+    "published_at": "2026-11-02T20:00:00Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Is America really that polarized? The answer might be a surprise",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-02T20:00:00Z",
+        "primary": false,
+        "excerpt": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3cbdd321712934f48268",
+    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+    "category": "World",
+    "published_at": "2026-11-02T18:34:24Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T18:34:24Z",
+        "primary": false,
+        "excerpt": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "677731933ea23f4e98d3",
+    "title": "Where the battle for Congress stands heading into Election Day",
+    "category": "U.S.",
+    "published_at": "2026-11-02T23:55:15Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Where the battle for Congress stands heading into Election Day",
+        "url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T23:55:15Z",
+        "primary": false,
+        "excerpt": "Candidates spent the day making their final pitches to voters following a weekend of last-minute rallies and a high-profile Democratic defection in Michigan. President Trump delivered his closing message in Washington at the Lincoln Memorial Reflecting Pool after days of campaigning in mostly red states. Lisa Desjardins reports.",
+        "ai_editor": {
+          "id": "677731933ea23f4e98d3",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports more than 57 million early ballots, compared with 46 million in the previous midterm. Its Senate overview also covers Haley Stevens’s endorsement of Republican Mike Rogers and a Michigan poll conducted before that endorsement; the poll does not measure its effect.",
+          "evidence_quote": "A final New York Times/Siena poll taken before Stevens' announcement shows El-Sayed leading Rogers by a whopping 11 points.",
+          "related_ids": [
+            "64adaf850ebf9ea19517",
+            "1360d1975b73a261160a",
+            "2b3ffc03c6ebb68f12ee"
+          ],
+          "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+          "title": "Where the battle for Congress stands heading into Election Day",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+          "group": "1360d1975b73a261160a"
+        }
+      },
+      {
+        "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
+        "url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T23:35:57Z",
+        "primary": false,
+        "excerpt": "Michigan Rep. Haley Stevens' decision to back Republican Mike Rogers in the U.S. Senate race has sent shockwaves through the Democratic Party. To discuss the shifting dynamics in the Senate race, Amna Nawaz spoke with Michigan Democratic Congresswoman Debbie Dingell.",
+        "ai_editor": {
+          "id": "1360d1975b73a261160a",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "Democratic Rep. Debbie Dingell criticized Haley Stevens’s endorsement of Republican Mike Rogers. Dingell’s claim that the endorsement is backfiring is her political assessment, not a measured change in voter preferences.",
+          "evidence_quote": "I do. I think it's backfiring.",
+          "related_ids": [
+            "677731933ea23f4e98d3"
+          ],
+          "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+          "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
+          "group": "1360d1975b73a261160a"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "677731933ea23f4e98d3",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports more than 57 million early ballots, compared with 46 million in the previous midterm. Its Senate overview also covers Haley Stevens’s endorsement of Republican Mike Rogers and a Michigan poll conducted before that endorsement; the poll does not measure its effect.",
+      "evidence_quote": "A final New York Times/Siena poll taken before Stevens' announcement shows El-Sayed leading Rogers by a whopping 11 points.",
+      "related_ids": [
+        "64adaf850ebf9ea19517",
+        "1360d1975b73a261160a",
+        "2b3ffc03c6ebb68f12ee"
+      ],
+      "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+      "title": "Where the battle for Congress stands heading into Election Day",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+      "group": "1360d1975b73a261160a"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "adc63cffc9bfc81a7597",
+    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "category": "World",
+    "published_at": "2026-11-02T17:33:19Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T17:33:19Z",
+        "primary": false,
+        "excerpt": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6e12ef6aaa7b5b2734a",
+    "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+    "category": "U.S.",
+    "published_at": "2026-11-02T12:19:54Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+        "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-02T12:19:54Z",
+        "primary": false,
+        "excerpt": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b9ac585d42a76d26af69",
+    "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+    "category": "World",
+    "published_at": "2026-11-02T17:14:23Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-02T17:14:23Z",
+        "primary": false,
+        "excerpt": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeksThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing down government borrowing costs. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "10e1e38495052181560d",
+    "title": "News Wrap: Parts of jet may have broken off before crash in Florida",
+    "category": "U.S.",
+    "published_at": "2026-11-02T23:50:30Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "News Wrap: Parts of jet may have broken off before crash in Florida",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-parts-of-jet-may-have-broken-off-before-crash-in-florida",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-02T23:50:30Z",
+        "primary": false,
+        "excerpt": "In our news wrap Monday, investigators believe parts of a private jet may have broken off before it crashed in Florida, a federal judge dismissed the Trump administration's lawsuit against Harvard University over whether it uses race as a factor in its admissions and supermarkets across Europe reported a new wave of cyberattacks targeting their refrigeration systems."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0903123bb55aa5f85379",
+    "title": "What we know about the alert app hack in Ukraine and Russia",
+    "category": "World",
+    "published_at": "2026-11-02T14:24:25Z",
+    "first_seen_at": "2026-11-03T06:02:00.558051Z",
+    "updated_at": "2026-11-03T06:02:00.558051Z",
+    "sources": [
+      {
+        "title": "What we know about the alert app hack in Ukraine and Russia",
+        "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-02T14:24:25Z",
+        "primary": false,
+        "excerpt": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
