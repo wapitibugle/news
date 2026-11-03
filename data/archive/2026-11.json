@@ -4544,6 +4544,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "578807107f8e105c5827",
+    "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+    "category": "Elections",
+    "published_at": "2026-11-03T09:29:32Z",
+    "first_seen_at": "2026-11-03T10:01:44.460178Z",
+    "updated_at": "2026-11-03T10:01:44.460178Z",
+    "sources": [
+      {
+        "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+        "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-03T09:29:32Z",
+        "primary": false,
+        "excerpt": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21b02d360bb8b4f47c95",
+    "title": "How to follow the US midterm elections on the BBC",
+    "category": "Elections",
+    "published_at": "2026-11-03T07:55:34Z",
+    "first_seen_at": "2026-11-03T10:01:44.460178Z",
+    "updated_at": "2026-11-03T10:01:44.460178Z",
+    "sources": [
+      {
+        "title": "How to follow the US midterm elections on the BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-03T07:55:34Z",
+        "primary": false,
+        "excerpt": "Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
