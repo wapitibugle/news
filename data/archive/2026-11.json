@@ -1682,7 +1682,7 @@
         "excerpt": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -3246,10 +3246,24 @@
         "excerpt": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "2ec847015cb7db4e71f3",
+      "priority": 2,
+      "section": "second",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-03T03:59:22.348043+00:00",
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
