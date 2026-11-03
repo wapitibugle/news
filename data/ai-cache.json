@@ -4343,5 +4343,105 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
     "group": ""
+  },
+  "b6cf58a409d7be93551b333c5a4ac58ed699b1c548f2a7e14c86cbd0cb929044": {
+    "id": "4b4f31ba855cdf3d8074",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "An election explainer outlines how control of Congress could affect legislation, investigations and nominations. Its voting-time guidance is aimed at Australian readers.",
+    "evidence_quote": "The House is needed to pass any legislation, and has the ability to open investigations",
+    "related_ids": [],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "US midterms 2026: what Australians need to know about one of the most consequential US polls in recent history",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
+    "group": ""
+  },
+  "17df22c43e52f49b5a363c61d6d8d05e1cd30cbeb865fcf3c1888b52aea862dc": {
+    "id": "64adaf850ebf9ea19517",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Supreme Court rejected the administration’s emergency effort to require California to segregate and not count 20,000 ballots over disputed citizenship claims. The court gave no explanation and noted no dissents; California officials questioned the accuracy and methodology of the federal list.",
+    "evidence_quote": "There were no noted dissents from the justices.",
+    "related_ids": [
+      "677731933ea23f4e98d3"
+    ],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+    "group": "64adaf850ebf9ea19517"
+  },
+  "7164cc26c69dae5640a93d464e6376eb43773117c48fc192a1d79cfcfe6272ec": {
+    "id": "592d400ab0f4e945fb9b",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "Coal no longer king in Navajo Nation presidential election",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/02/nx-s1-6019547/coal-no-longer-king-in-navajo-nation-presidential-election",
+    "group": ""
+  },
+  "e410ca44006b6551e80522128d8ff6bfec0dba2a9a2730bd1e1f6034e3c5d4f9": {
+    "id": "677731933ea23f4e98d3",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports more than 57 million early ballots, compared with 46 million in the previous midterm. Its Senate overview also covers Haley Stevens’s endorsement of Republican Mike Rogers and a Michigan poll conducted before that endorsement; the poll does not measure its effect.",
+    "evidence_quote": "A final New York Times/Siena poll taken before Stevens' announcement shows El-Sayed leading Rogers by a whopping 11 points.",
+    "related_ids": [
+      "64adaf850ebf9ea19517",
+      "1360d1975b73a261160a",
+      "2b3ffc03c6ebb68f12ee"
+    ],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "Where the battle for Congress stands heading into Election Day",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+    "group": "1360d1975b73a261160a"
+  },
+  "e96baa2a875f0a3ccfd88a950934444799b75dcff60f3bc1ae2f18bc2411098e": {
+    "id": "1360d1975b73a261160a",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic Rep. Debbie Dingell criticized Haley Stevens’s endorsement of Republican Mike Rogers. Dingell’s claim that the endorsement is backfiring is her political assessment, not a measured change in voter preferences.",
+    "evidence_quote": "I do. I think it's backfiring.",
+    "related_ids": [
+      "677731933ea23f4e98d3"
+    ],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
+    "group": "1360d1975b73a261160a"
+  },
+  "bd0f1712ce09496d8be2a4639b5c2d3715733e16eda9655cae79950537654739": {
+    "id": "2b3ffc03c6ebb68f12ee",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "677731933ea23f4e98d3"
+    ],
+    "reviewed_at": "2026-11-03T02:58:47.533809+00:00",
+    "title": "Trump offered a closing message to voters by touting his D.C. renovations",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+    "group": "2b3ffc03c6ebb68f12ee"
   }
 }
