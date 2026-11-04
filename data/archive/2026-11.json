@@ -6344,5 +6344,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "49cbbe9a07039fd4cab8",
+    "title": "Democrats’ Election Rout Is Poised To Dramatically Reorder Federal Health Policy",
+    "category": "Elections",
+    "published_at": "2026-11-04T20:26:22Z",
+    "first_seen_at": "2026-11-04T21:55:49.608604Z",
+    "updated_at": "2026-11-04T21:55:49.608604Z",
+    "sources": [
+      {
+        "title": "Democrats’ Election Rout Is Poised To Dramatically Reorder Federal Health Policy",
+        "url": "https://kffhealthnews.org/insurance/post-midterm-election-healthcare-agenda-democratic-congress/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-04T20:26:22Z",
+        "primary": false,
+        "excerpt": "Democrats’ retaking of Congress doesn’t change President Donald Trump’s control of the veto pen — making the new majority’s aspirations to reverse changes to Medicaid, the Affordable Care Act, and other safety net programs an uphill climb."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
