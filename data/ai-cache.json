@@ -4823,5 +4823,108 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
     "group": ""
+  },
+  "2141eb76a24a4a0d883529dca6fe298afd962b2ab04c4f2465bc2a9bb7dc5baa": {
+    "id": "c61af5d442117c928213",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "A national results resource using Associated Press race calls. The supplied text explains the stakes and reporting process but does not establish which party has won control of either chamber.",
+    "evidence_quote": "The election results on this page are reported by the Associated Press.",
+    "related_ids": [
+      "56e0c2be697a5df59b28",
+      "4b4f31ba855cdf3d8074"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+    "group": "4b4f31ba855cdf3d8074"
+  },
+  "a4ac3339286aa5447a12d2c447c408c2787bcddbd72e7e9a1e1443e50128f72d": {
+    "id": "56e0c2be697a5df59b28",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports on voting nationwide, including Justice Department election monitors and voting-machine problems in Westchester County, where officials said emergency paper ballots would be counted. Congressional control remained unresolved in the supplied report.",
+    "evidence_quote": "Officials assured that emergency paper ballots will be counted, though it's unclear when.",
+    "related_ids": [
+      "c61af5d442117c928213",
+      "4b4f31ba855cdf3d8074"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Voters head to polls to decide control of House and Senate",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
+    "group": "4b4f31ba855cdf3d8074"
+  },
+  "11179770449151719d6d6612190159045d83c88d4c401dbeeea4e85a5307a3aa": {
+    "id": "bde2bef74ad606ca80c9",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "An SSRS survey of more than 79,000 voters found 39% ranked the economy first and 32% named democracy. These are preliminary survey estimates, not election results, and may change as additional data arrives.",
+    "evidence_quote": "Like all surveys they are estimates; the numbers are also likely to be updated as more data arrives.",
+    "related_ids": [
+      "d0283f2affc19768d088"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "US voters name economy and state of democracy as top issues, poll says",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo",
+    "group": "bde2bef74ad606ca80c9"
+  },
+  "314c122bd05d1386aa9a37975304f45d6c813f8441b11e72c4f2fb5e9beb7a52": {
+    "id": "4b4f31ba855cdf3d8074",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "c61af5d442117c928213",
+      "56e0c2be697a5df59b28"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "How to watch the US midterms in Australia, and what you need to know",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
+    "group": "4b4f31ba855cdf3d8074"
+  },
+  "3749c6c1d9ebd1ed394e329d89bfcf20ea96bb534e7bde1ba1ce56220649d7f5": {
+    "id": "d0283f2affc19768d088",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "An election-night panel discusses preliminary voter-survey findings alongside partisan forecasts. Predictions about congressional control are analysis, not established outcomes; the underlying survey receives fuller treatment in the BBC item.",
+    "evidence_quote": "39 percent of voters saying this was their top issue that they were voting on.",
+    "related_ids": [
+      "bde2bef74ad606ca80c9"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Expert panel on what to expect on Election Night",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/expert-panel-on-what-to-expect-on-election-night",
+    "group": "bde2bef74ad606ca80c9"
+  },
+  "1f6e14017a3b452f3ea8e16c3e62ca814008120198678a642b06e5a72e7a64ec": {
+    "id": "0db5b42477ee805d7a73",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "A look at the DOJ's effort to gain greater control over elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/a-look-at-the-dojs-effort-to-gain-greater-control-over-elections",
+    "group": ""
   }
 }
