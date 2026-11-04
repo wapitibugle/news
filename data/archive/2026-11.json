@@ -6174,6 +6174,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "af014406525484e20a76",
+    "title": "Do You Live Near Lake Champlain? Help Seven Days and ProPublica Investigate Algae Blooms.",
+    "category": "U.S.",
+    "published_at": "2026-11-04T14:55:00Z",
+    "first_seen_at": "2026-11-04T16:01:30.659713Z",
+    "updated_at": "2026-11-04T16:01:30.659713Z",
+    "sources": [
+      {
+        "title": "Do You Live Near Lake Champlain? Help Seven Days and ProPublica Investigate Algae Blooms.",
+        "url": "https://www.propublica.org/getinvolved/lake-champlain-vermont-algae-bloom-pollution-callout",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-04T14:55:00Z",
+        "primary": false,
+        "excerpt": "The post Do You Live Near Lake Champlain? Help Seven Days and ProPublica Investigate Algae Blooms. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ba0ab15212582c7fff3b",
+    "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+    "category": "Elections",
+    "published_at": "2026-11-04T15:51:37Z",
+    "first_seen_at": "2026-11-04T16:01:30.659713Z",
+    "updated_at": "2026-11-04T16:01:30.659713Z",
+    "sources": [
+      {
+        "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T15:51:37Z",
+        "primary": false,
+        "excerpt": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
