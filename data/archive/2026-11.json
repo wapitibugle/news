@@ -5997,7 +5997,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4bfdcf6dc789e893eab2",
@@ -6015,6 +6016,61 @@
         "published_at": "2026-11-04T07:28:02Z",
         "primary": false,
         "excerpt": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to serve in the Senate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b7e92dea7cec827564f9",
+    "title": "First Thing: Democrats sweep into control of Congress after historic midterm victories",
+    "category": "Elections",
+    "published_at": "2026-11-04T11:14:37Z",
+    "first_seen_at": "2026-11-04T11:25:41.222459Z",
+    "updated_at": "2026-11-04T11:25:41.222459Z",
+    "sources": [
+      {
+        "title": "First Thing: Democrats sweep into control of Congress after historic midterm victories",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/first-thing-democrats-control-congress-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T11:14:37Z",
+        "primary": false,
+        "excerpt": "Both the House and Senate will be under Democratic control for the rest of Donald Trump’s term in office. Plus, the French Homer and Marge who found true love in real life Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f7eb5725d7997463da30",
+    "title": "Trump casts blame on others after Democrats sweep midterms",
+    "category": "Elections",
+    "published_at": "2026-11-04T09:50:43Z",
+    "first_seen_at": "2026-11-04T11:25:41.222459Z",
+    "updated_at": "2026-11-04T11:25:41.222459Z",
+    "sources": [
+      {
+        "title": "Trump casts blame on others after Democrats sweep midterms",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6027330/trump-casts-blame-on-others-after-democrats-sweep-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T09:50:43Z",
+        "primary": false,
+        "excerpt": "President Trump lashed out on his social media platform Truth Social Tuesday night, blaming others for losses in key races across the country."
       }
     ],
     "tier": "brief",
