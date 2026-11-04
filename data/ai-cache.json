@@ -4729,5 +4729,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
     "group": "b02fca6ede1e513370f8"
+  },
+  "256c0575c245a45b96ed9bd6d1ccb3c99a68dc4df4a0f499f6555e1edfd1621e": {
+    "id": "3faf777e224554982c81",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+    "group": ""
+  },
+  "83df5fb70b377b904e991c903fcf3c9dc223190c8b5818538b2d2da8a562c6b2": {
+    "id": "87aacdeca6607c64ebab",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Reported voting disruptions included scanner failures in Westchester County and relocated polling places in Florida. The account describes voting overall as mostly smooth.",
+    "evidence_quote": "Although mostly smooth, there have been some voting snags across the country.",
+    "related_ids": [
+      "fecc8be26858d076e7e8"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "US midterm voting issues: New York voting machine failures and Florida flooding affect some – video",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/video/2026/nov/03/us-midterm-voting-issues-new-york-florida-video",
+    "group": "87aacdeca6607c64ebab"
+  },
+  "3eb7f522db01aaeadf7d4c4e13a911e78ce01c114670f11816bc8e86c02ce2df": {
+    "id": "8dda6073257824a1fbf8",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Democrats are favored to take the House, but the supplied report does not establish a final majority. Control would bring committee leadership and subpoena powers for oversight of the administration.",
+    "evidence_quote": "Democrats are poised to take control of the US House of Representatives",
+    "related_ids": [],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+    "group": ""
+  },
+  "6f24e0b8c7ffefb17b6a9a115d4c746eba7b622fb3d66caf58c90591360aaa74": {
+    "id": "015c43aaa253747b998a",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Senate control remains unresolved in this report. Democrats need a net gain of four seats; the article cites an Associated Press call retaining Georgia for Jon Ossoff.",
+    "evidence_quote": "many contested races remain uncalled",
+    "related_ids": [],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+    "group": ""
+  },
+  "dbd9305d85138e7dfbeeb0ada1d6a7ce497ada435292b186ef01e38b45eff067": {
+    "id": "fecc8be26858d076e7e8",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Voting was reported as relatively smooth nationwide despite localized problems. Westchester County officials said voters could use emergency ballots after scanner failures, with those ballots counted later.",
+    "evidence_quote": "people were still able to vote, and would be directed to use emergency ballots",
+    "related_ids": [
+      "87aacdeca6607c64ebab"
+    ],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "US midterm voting goes smoothly with only a handful of issues nationwide",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-voting-problems",
+    "group": "87aacdeca6607c64ebab"
+  },
+  "0431737a3c8cbfcb358547219398772085e7e24bb844ed4b21472fd74e884ae7": {
+    "id": "a8e2ec2a2d595557b867",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+    "title": "Election Day 2026: Photos from around the country",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+    "group": ""
   }
 }
