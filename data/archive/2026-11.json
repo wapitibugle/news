@@ -3569,7 +3569,7 @@
         "excerpt": "Researchers have detected signals from the smallest distances ever probed."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -3597,7 +3597,7 @@
         "excerpt": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -4954,5 +4954,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "c52b7b3616e350817a73",
+    "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+    "category": "Elections",
+    "published_at": "2026-11-04T06:02:31Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+        "url": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T06:02:31Z",
+        "primary": false,
+        "excerpt": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ac12a2d2c4ff7535592d",
+    "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:52:05Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:52:05Z",
+        "primary": false,
+        "excerpt": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "348a1026384221091ffa",
+    "title": "Democrats aim to sweep most US governor elections after wins in key states",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:47:48Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrats aim to sweep most US governor elections after wins in key states",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:47:48Z",
+        "primary": false,
+        "excerpt": "Party sees historic victories with Gina Hinojosa’s win in Texas and Georgia’s Keisha Lance Bottoms becoming first Black female governor in USUS midterm elections – live updatesTrack live results from all 50 statesVoters across the US have elected Democrats to lead many of the biggest states in the nation, marking a sea change in traditional Republican strongholds such as Georgia and Texas in what could have a profound effect on Donald Trump’s remaining term and the 2028 presidential election.From Keisha Lance Bottoms’ victory in Georgia, making the former Atlanta mayor the first Black woman to"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0760b3281881c9d5919a",
+    "title": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:43:15Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-christina-bohannan-wins-election-to-u-s-house-in-iowas-1st-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:43:15Z",
+        "primary": false,
+        "excerpt": "The third time was the charm for Bohannan, who lost by just 799 votes in her second race against Miller-Meeks two years ago."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a7c8facea12f4d352b0",
+    "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:46:44Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:46:44Z",
+        "primary": false,
+        "excerpt": "Jubilant Talarico says ‘Tonight we defeated Goliath’ as Ken Paxton defeat a crushing blow to Trump and RepublicansUS midterm elections – live updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?Democrat James Talarico has won the US Senate race in Texas, breaking a 38-year drought for his party in the Republican stronghold and delivering a stunning blow to Donald Trump.Talarico defeated Republican Ken Paxton, the state attorney general and a staunch ally of the US president, in one of the most closely watched contests of the midterm "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ed305fe8f6ccb19d84c",
+    "title": "Here's how some key demographic groups voted in the midterms",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:43:42Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Here's how some key demographic groups voted in the midterms",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:43:42Z",
+        "primary": false,
+        "excerpt": "These charts show how various demographic groups voted in the midterm election. The data comes from a poll of tens of thousands of voters, conducted by the firm SSRS for a number of news outlets."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "af8c7b9684d730d5212d",
+    "title": "WATCH: Republican Ken Paxton speaks after losing Texas Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:41:40Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "WATCH: Republican Ken Paxton speaks after losing Texas Senate race",
+        "url": "https://www.pbs.org/newshour/politics/watch-republican-ken-paxton-speaks-after-losing-texas-senate-race",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:41:40Z",
+        "primary": false,
+        "excerpt": "\"I will commit that I will be praying for him, that he will do good for Texas and this nation,\" Paxton said about Talarico."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "331854f3e9c2d69cedbf",
+    "title": "Trump says Democrats 'did a good job,' blames Republican candidates for midterm losses",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:34:43Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Trump says Democrats 'did a good job,' blames Republican candidates for midterm losses",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-democrats-did-a-good-job-blames-republican-candidates-for-midterm-losses",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:34:43Z",
+        "primary": false,
+        "excerpt": "Voters delivered a significant rebuke to President Donald Trump on Tuesday by handing Democrats control of the Senate, rejecting his handpicked candidates while airing widespread concerns about high costs in the wake of his war against Iran and his punishing tariff policy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e061e017b8d0818302b3",
+    "title": "Top Democrat tells Trump and Republicans to ‘lawyer up’ after US midterm defeats",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:22:27Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Top Democrat tells Trump and Republicans to ‘lawyer up’ after US midterm defeats",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/robert-garcia-trump-oversight",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:22:27Z",
+        "primary": false,
+        "excerpt": "Robert Garcia, set to become oversight chair, vows to take on president while Senator Ron Wyden signals ‘subpoenas’ US midterm elections – live updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?Robert Garcia, the Democratic congressman set to become the next chair of the oversight committee of the House of Representatives, had two words for Republicans on Tuesday evening: “Lawyer up.”Garcia issued his statement as a blue wave appeared to take hold across the country after voters cast their ballots in the US midterm elections. Democ"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a5edf7f16be5687fe114",
+    "title": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:37:44Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
+        "url": "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:37:44Z",
+        "primary": false,
+        "excerpt": "The New York mayor tells NPR's Juana Summers that newly elected democratic socialists need to seize this moment and show voters what politics can deliver."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "80b5ad7a3d5b07e20df0",
+    "title": "Democrat Denise Powell wins election to U.S. House in Nebraska's 2nd Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:23:40Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Denise Powell wins election to U.S. House in Nebraska's 2nd Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-denise-powell-wins-election-to-u-s-house-in-nebraskas-2nd-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:23:40Z",
+        "primary": false,
+        "excerpt": "Powell flipped a district that Democrats have been targeting for several election cycles."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b79e99526dc3fdaaf173",
+    "title": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
+    "category": "Elections",
+    "published_at": "2026-11-04T05:14:11Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T05:14:11Z",
+        "primary": false,
+        "excerpt": "Mid-cycle redrawing of district boundaries, especially in states president won in 2024, did not yield results party was hoping forUS midterm elections – live updatesTrack live results from all 50 statesDemocrats won stunning victories on Tuesday in several districts that Republicans redrew over the last year and a half to benefit GOP candidates.Those victories came in Florida, North Carolina, Alabama and Texas. All four states were part of a nationwide effort by Trump and allies to reconfigure the boundaries of congressional districts in the middle of the decade. Typically, states redraw congr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2bc06dfb4db0a68332a3",
+    "title": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:25:05Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151063/missouri-abortion-ban-transgender",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:25:05Z",
+        "primary": false,
+        "excerpt": "Missouri voters defeated a measure that would have banned abortion just two years after voters legalized abortion in another vote. Voters in Missouri legalized abortion two years ago but this time the abortion ban was coupled with a ban on transgender treatment for minors. Opponents said it was misleading."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e4c65f87f045bb003e1a",
+    "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:45:09Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:45:09Z",
+        "primary": false,
+        "excerpt": "After campaign blitz and urging voters to pretend he was on the ballot, president claims Republicans ‘would have won in a landslide’ if he had beenUS midterms 2026 live – latest updatesTrack live results from all 50 statesDonald Trump, who spent months urging supporters to pretend he was on the ballot, declared on Tuesday night he “wasn’t on the ballot” as Democrats scored a string of victories over his Republican party in the US midterm elections.As a blue wave appeared to take hold across the country, the US president said he was prepared to accept the results. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9941eba50b79b3fa82c",
+    "title": "Democrats take control of the Senate after winning key midterm races",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:40:42Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrats take control of the Senate after winning key midterm races",
+        "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:40:42Z",
+        "primary": false,
+        "excerpt": "Democrats have won the U.S. Senate, ending Republican dominance in Washington by harnessing voters' frustration with President Donald Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a5813cc337841344f834",
+    "title": "Democrat Rob Sand wins election to be Iowa's next governor",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:30:52Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Rob Sand wins election to be Iowa's next governor",
+        "url": "https://www.pbs.org/newshour/politics/democrat-rob-sand-wins-election-to-be-iowas-next-governor",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:30:52Z",
+        "primary": false,
+        "excerpt": "Democrat Rob Sand has won Tuesday's election to be the next governor of Iowa. His win flips the seat held by a retiring Republican governor and likely sets up four years of divided government in the state."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6dd07d60a909faaa4f74",
+    "title": "Highlights of 2026 election night across the US – in pictures",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:35:58Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Highlights of 2026 election night across the US – in pictures",
+        "url": "https://www.theguardian.com/us-news/gallery/2026/nov/03/midterm-elections-in-pictures",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:35:58Z",
+        "primary": false,
+        "excerpt": "As polls close and election results roll in, Americans across the country wait in anticipation and celebrate announced outcomesUS midterm elections – live updatesTrack live results from all 50 states Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6cdc81229112481e11b",
+    "title": "Democrat Gina Hinojosa wins election for governor in Texas",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:26:33Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Gina Hinojosa wins election for governor in Texas",
+        "url": "https://www.pbs.org/newshour/politics/democrat-gina-hinojosa-wins-election-for-governor-in-texas",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:26:33Z",
+        "primary": false,
+        "excerpt": "In a stunning upset, Gina Hinojosa was elected the first Democratic governor of Texas in more than 30 years on Tuesday, ousting Republican incumbent Greg Abbott and catapulting a decided underdog to national prominence leading what has long been the nation's most populous red state."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a69b356cebc2f37910cf",
+    "title": "4 takeaways from election night",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:12:33Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "4 takeaways from election night",
+        "url": "https://www.pbs.org/newshour/politics/takeaways-from-election-night-young-voters-hispanics-shift-away-from-the-gop-as-voters-show-unhappiness-with-trump",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:12:33Z",
+        "primary": false,
+        "excerpt": "President Donald Trump repeatedly encouraged voters to pretend he was on the midterm ballot. They did. And it went very badly for him and his Republican Party."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2bcb542219cd7058f745",
+    "title": "Democrat James Talarico wins election to U.S. Senate from Texas",
+    "category": "Elections",
+    "published_at": "2026-11-04T04:06:18Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat James Talarico wins election to U.S. Senate from Texas",
+        "url": "https://www.pbs.org/newshour/politics/democrat-james-talarico-wins-election-to-u-s-senate-from-texas",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T04:06:18Z",
+        "primary": false,
+        "excerpt": "Democrat James Talarico flipped a U.S. Senate seat in Texas on Tuesday, defeating Republican Ken Paxton to pull off the first statewide victory in more than 30 years and sending a jolt through a longtime GOP stronghold that President Donald Trump carried by double digits just two years ago."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52f8ffddebb3ef476fd3",
+    "title": "Democrat Janelle Stelson wins election to U.S. House in Pennsylvania's 10th Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:54:26Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Janelle Stelson wins election to U.S. House in Pennsylvania's 10th Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-janelle-stelson-wins-election-to-u-s-house-in-pennsylvanias-10th-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:54:26Z",
+        "primary": false,
+        "excerpt": "Democrat Janelle Stelson won election Tuesday to the U.S. House of Representatives representing Pennsylvania's 10th Congressional District, defeating Republican incumbent Scott Perry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "91d93e2b003cb404c49f",
+    "title": "Democrat Paige Cognetti wins election to U.S. House in Pennsylvania's 8th Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:49:20Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Paige Cognetti wins election to U.S. House in Pennsylvania's 8th Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-paige-cognetti-wins-election-to-u-s-house-in-pennsylvanias-8th-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:49:20Z",
+        "primary": false,
+        "excerpt": "She campaigned as an independent-minded Democrat and corruption-fighting city leader."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c55f3b64f04274ec8d89",
+    "title": "Democrat Bob Brooks wins election to U.S. House in Pennsylvania's 7th Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:38:52Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Bob Brooks wins election to U.S. House in Pennsylvania's 7th Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-bob-brooks-wins-election-to-u-s-house-in-pennsylvanias-7th-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:38:52Z",
+        "primary": false,
+        "excerpt": "Brooks, who worked as a firefighter and union leader, concentrated on his blue-collar background, saying he understood the affordability issues facing voters in the Lehigh Valley battleground district."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cfbc89a95df13d07df98",
+    "title": "Democrat Zach Dembo wins election to U.S. House in Kentucky's 6th Congressional District",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:37:38Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Zach Dembo wins election to U.S. House in Kentucky's 6th Congressional District",
+        "url": "https://www.pbs.org/newshour/politics/democrat-zach-dembo-wins-election-to-u-s-house-in-kentuckys-6th-congressional-district",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:37:38Z",
+        "primary": false,
+        "excerpt": "Democrat Zach Dembo won election Tuesday to the U.S. House of Representatives representing Kentucky's 6th Congressional District, defeating Republican Ralph Alvarado."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bac4a2ed6f4c55a3ad11",
+    "title": "Democratic socialist Janeese Lewis George wins D.C. mayoral election",
+    "category": "Elections",
+    "published_at": "2026-11-04T03:29:06Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democratic socialist Janeese Lewis George wins D.C. mayoral election",
+        "url": "https://www.pbs.org/newshour/politics/janeese-lewis-george-is-washingtons-next-mayor-now-come-the-challenges-starting-with-trump",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T03:29:06Z",
+        "primary": false,
+        "excerpt": "Janeese Lewis George joins a small group of democratic socialist municipal leaders."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f47e5bd752bd7830c6a7",
+    "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+    "category": "U.S.",
+    "published_at": "2026-11-04T05:39:36Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-04T05:39:36Z",
+        "primary": false,
+        "excerpt": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "206e3a8608a1af6db44e",
+    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+    "category": "World",
+    "published_at": "2026-11-04T03:46:10Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+        "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-04T03:46:10Z",
+        "primary": false,
+        "excerpt": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d76f8b92d6f47e5d4b19",
+    "title": "Amy Acton wins Ohio governor after bitter race with billionaire Ramaswamy",
+    "category": "U.S.",
+    "published_at": "2026-11-04T05:32:47Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Amy Acton wins Ohio governor after bitter race with billionaire Ramaswamy",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2dlz8574jo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-04T05:32:47Z",
+        "primary": false,
+        "excerpt": "The raced heated up in its final weeks after the Republican contender released an ad featuring Acton's mother."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed5d10bf28490ab47249",
+    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "category": "World",
+    "published_at": "2026-11-04T05:00:25Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+        "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-04T05:00:25Z",
+        "primary": false,
+        "excerpt": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absenceThe UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukrainian.Ukrainian children who were forced to seek refuge in the UK after Vladimir Putin’s invasion in 2022 say it was “insulting” that their teachers suggested they study Russian in the absence of a GCSE in Ukrainian. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a909684b814966db9cea",
+    "title": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
+    "category": "U.S.",
+    "published_at": "2026-11-04T05:14:01Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-04T05:14:01Z",
+        "primary": false,
+        "excerpt": "NPR's Scott Detrow speaks with former Arkansas Gov. Asa Hutchinson about Democratic victories in states typically considered Republican strongholds."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "41afffc9e9cc2e560a2f",
+    "title": "Florida Republicans fend off Democrats as state elects first black governor",
+    "category": "U.S.",
+    "published_at": "2026-11-04T05:04:46Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Florida Republicans fend off Democrats as state elects first black governor",
+        "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-04T05:04:46Z",
+        "primary": false,
+        "excerpt": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "658b50d7b88d34ab8725",
+    "title": "What the Democratic takeover of the Senate means for Trump",
+    "category": "U.S.",
+    "published_at": "2026-11-04T04:53:35Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "What the Democratic takeover of the Senate means for Trump",
+        "url": "https://www.bbc.co.uk/news/videos/cr5ynex46j75o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-04T04:53:35Z",
+        "primary": false,
+        "excerpt": "The BBC's North America editor Sarah Smith explains how Democratic control of both chambers could affect the last two years of Donald Trump's presidency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eb99fd150a182b6757fa",
+    "title": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
+    "category": "U.S.",
+    "published_at": "2026-11-04T04:44:55Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
+        "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-04T04:44:55Z",
+        "primary": false,
+        "excerpt": "Democrats won by making inroads in several states where they have long struggled, boosted by a challenging political environment for the GOP dominated by voter frustration over high prices."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ada2aff8c58c6074b5c",
+    "title": "How America voted in maps and charts",
+    "category": "U.S.",
+    "published_at": "2026-11-04T04:47:08Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "How America voted in maps and charts",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-04T04:47:08Z",
+        "primary": false,
+        "excerpt": "See the maps and charts that show how America voted in the US midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec90b672154995b53f51",
+    "title": "Democrat Josh Turek wins the Senate seat in Iowa",
+    "category": "U.S.",
+    "published_at": "2026-11-04T04:37:55Z",
+    "first_seen_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "sources": [
+      {
+        "title": "Democrat Josh Turek wins the Senate seat in Iowa",
+        "url": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-04T04:37:55Z",
+        "primary": false,
+        "excerpt": "Democrat Josh Turek has defeated Sen. Ashley Hinson in Iowa, according to a race call by the Associated Press."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
