@@ -4861,7 +4861,7 @@
     "category": "Elections",
     "published_at": "2026-11-03T18:03:53Z",
     "first_seen_at": "2026-11-03T19:01:59.640742Z",
-    "updated_at": "2026-11-04T01:14:43.374394Z",
+    "updated_at": "2026-11-04T13:15:53.078264Z",
     "sources": [
       {
         "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
@@ -4898,6 +4898,15 @@
           "source_url": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
           "group": "4b4f31ba855cdf3d8074"
         }
+      },
+      {
+        "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T12:03:44Z",
+        "primary": false,
+        "excerpt": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full hereUS midterm elections – live updatesThe US legislature, Congress, has two chambers: the House of Representatives and the Senate. Continue reading..."
       }
     ],
     "tier": "brief",
@@ -6053,7 +6062,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f7eb5725d7997463da30",
@@ -6071,6 +6081,61 @@
         "published_at": "2026-11-04T09:50:43Z",
         "primary": false,
         "excerpt": "President Trump lashed out on his social media platform Truth Social Tuesday night, blaming others for losses in key races across the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "26652b5af4a72e0df846",
+    "title": "US midterms voters said: enough is enough. Is this the beginning of the end for Trump?",
+    "category": "Elections",
+    "published_at": "2026-11-04T13:01:43Z",
+    "first_seen_at": "2026-11-04T13:15:53.078264Z",
+    "updated_at": "2026-11-04T13:15:53.078264Z",
+    "sources": [
+      {
+        "title": "US midterms voters said: enough is enough. Is this the beginning of the end for Trump?",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T13:01:43Z",
+        "primary": false,
+        "excerpt": "With Democrats in power, Trump may be under siege and lose his dominance over the Republican party – but his id will relish at the prospect of fightingUS midterms 2026 live – latest updatesTell us: what do you want to know about the midterm election results?Donald Trump posted a document on social media this summer by a supposed historian that compared him with, among others, Napoleon Bonaparte and Adolf Hitler. That now seems fitting: the US president has himself fought one battle too many, and appears to have brought about his own destruction.Tuesday’s US midterm elections were a thumping, s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "417264daf64d7e918b46",
+    "title": "World reacts to Democrats' midterm elections victory",
+    "category": "Elections",
+    "published_at": "2026-11-04T12:34:35Z",
+    "first_seen_at": "2026-11-04T13:15:53.078264Z",
+    "updated_at": "2026-11-04T13:15:53.078264Z",
+    "sources": [
+      {
+        "title": "World reacts to Democrats' midterm elections victory",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T12:34:35Z",
+        "primary": false,
+        "excerpt": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations."
       }
     ],
     "tier": "brief",
