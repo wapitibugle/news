@@ -6260,5 +6260,59 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "df65679b7673187c82c6",
+    "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+    "category": "U.S.",
+    "published_at": "2026-11-04T17:38:36Z",
+    "first_seen_at": "2026-11-04T19:06:44.683971Z",
+    "updated_at": "2026-11-04T19:06:44.683971Z",
+    "sources": [
+      {
+        "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+        "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-04T17:38:36Z",
+        "primary": false,
+        "excerpt": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e9e65614797d243723d3",
+    "title": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation",
+    "category": "U.S.",
+    "published_at": "2026-11-04T17:31:52Z",
+    "first_seen_at": "2026-11-04T19:06:44.683971Z",
+    "updated_at": "2026-11-04T19:06:44.683971Z",
+    "sources": [
+      {
+        "title": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-04T17:31:52Z",
+        "primary": false,
+        "excerpt": "Jacqueline Kelly, who took part in Sean ‘Diddy’ Combs case, will head criminal inquiry into 2024 incident at universityThe New York attorney general, Letitia James, has tapped a former prosecutor involved in the Sean “Diddy” Combs case to head a criminal investigation into 2024 sexual assault allegations at Cornell University.On Wednesday, James appointed Cornell alum Jacqueline Kelly to serve as outside counsel and lead a “fair and comprehensive criminal investigation”. Kelly, formerly chief of the civil rights unit in the US attorney’s office for the southern district of New York, will repor"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
