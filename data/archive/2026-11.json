@@ -4861,7 +4861,7 @@
     "category": "Elections",
     "published_at": "2026-11-03T18:03:53Z",
     "first_seen_at": "2026-11-03T19:01:59.640742Z",
-    "updated_at": "2026-11-03T19:01:59.640742Z",
+    "updated_at": "2026-11-04T01:14:43.374394Z",
     "sources": [
       {
         "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
@@ -4871,6 +4871,33 @@
         "published_at": "2026-11-03T18:03:53Z",
         "primary": false,
         "excerpt": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agendaThe US legislature, Congress, has two chambers: the House of Representatives and the Senate. Continue reading..."
+      },
+      {
+        "title": "Voters head to polls to decide control of House and Senate",
+        "url": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-03T23:55:40Z",
+        "primary": false,
+        "excerpt": "Tuesday on the News Hour, voters across the country head to the polls to decide control of the House and Senate in a midterm election widely seen as a referendum on President Trump and his administration. A look at the DOJ's efforts to change voter rolls and even block some results. Plus, as more Americans vote early, a new survey aims to better capture how and why they cast their ballots.",
+        "ai_editor": {
+          "id": "56e0c2be697a5df59b28",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports on voting nationwide, including Justice Department election monitors and voting-machine problems in Westchester County, where officials said emergency paper ballots would be counted. Congressional control remained unresolved in the supplied report.",
+          "evidence_quote": "Officials assured that emergency paper ballots will be counted, though it's unclear when.",
+          "related_ids": [
+            "c61af5d442117c928213",
+            "4b4f31ba855cdf3d8074"
+          ],
+          "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
+          "title": "Voters head to polls to decide control of House and Senate",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
+          "group": "4b4f31ba855cdf3d8074"
+        }
       }
     ],
     "tier": "brief",
@@ -4881,19 +4908,18 @@
       "priority": 3,
       "section": "brief",
       "major": false,
-      "context": "A nationwide election-results resource covering congressional and gubernatorial races, with results attributed to the Associated Press. The supplied text explains electoral rules and competitive-seat ratings but contains no actual race results.",
+      "context": "A national results resource using Associated Press race calls. The supplied text explains the stakes and reporting process but does not establish which party has won control of either chamber.",
       "evidence_quote": "The election results on this page are reported by the Associated Press.",
       "related_ids": [
-        "b02fca6ede1e513370f8",
-        "b3657a3b1a561f9680ed",
-        "c188960c1e14ab59e8d0"
+        "56e0c2be697a5df59b28",
+        "4b4f31ba855cdf3d8074"
       ],
-      "reviewed_at": "2026-11-03T20:56:07.227509+00:00",
+      "reviewed_at": "2026-11-04T01:14:43.374394+00:00",
       "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
       "state": "assessed",
       "evidence_depth": "article",
       "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
-      "group": "b02fca6ede1e513370f8"
+      "group": "4b4f31ba855cdf3d8074"
     },
     "withdrawn": false,
     "correction": "",
