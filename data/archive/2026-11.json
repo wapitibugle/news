@@ -6286,7 +6286,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e9e65614797d243723d3",
@@ -6304,6 +6305,34 @@
         "published_at": "2026-11-04T17:31:52Z",
         "primary": false,
         "excerpt": "Jacqueline Kelly, who took part in Sean ‘Diddy’ Combs case, will head criminal inquiry into 2024 incident at universityThe New York attorney general, Letitia James, has tapped a former prosecutor involved in the Sean “Diddy” Combs case to head a criminal investigation into 2024 sexual assault allegations at Cornell University.On Wednesday, James appointed Cornell alum Jacqueline Kelly to serve as outside counsel and lead a “fair and comprehensive criminal investigation”. Kelly, formerly chief of the civil rights unit in the US attorney’s office for the southern district of New York, will repor"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9dcb8c3c3c2a2c5e32fc",
+    "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+    "category": "Elections",
+    "published_at": "2026-11-04T18:01:31Z",
+    "first_seen_at": "2026-11-04T20:04:27.365385Z",
+    "updated_at": "2026-11-04T20:04:27.365385Z",
+    "sources": [
+      {
+        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T18:01:31Z",
+        "primary": false,
+        "excerpt": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal."
       }
     ],
     "tier": "brief",
