@@ -6202,7 +6202,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ba0ab15212582c7fff3b",
@@ -6220,6 +6221,34 @@
         "published_at": "2026-11-04T15:51:37Z",
         "primary": false,
         "excerpt": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "847d94d16f5c2e7d0b6c",
+    "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+    "category": "Elections",
+    "published_at": "2026-11-04T16:38:28Z",
+    "first_seen_at": "2026-11-04T17:03:19.425078Z",
+    "updated_at": "2026-11-04T17:03:19.425078Z",
+    "sources": [
+      {
+        "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T16:38:28Z",
+        "primary": false,
+        "excerpt": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economyBusiness live – latest updatesUS midterm elections – live updatesAfter US midterms, what will lame duck Trump mean for global economy?US stocks have surged as investors digest the Democrats’ victories in the midterm elections, lifted by hopes that Donald Trump’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy.The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&P 500 gained more than 1"
       }
     ],
     "tier": "brief",
