@@ -4980,7 +4980,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ac12a2d2c4ff7535592d",
@@ -5007,7 +5008,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "348a1026384221091ffa",
@@ -5034,7 +5036,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0760b3281881c9d5919a",
@@ -5061,7 +5064,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3a7c8facea12f4d352b0",
@@ -5069,7 +5073,7 @@
     "category": "Elections",
     "published_at": "2026-11-04T05:46:44Z",
     "first_seen_at": "2026-11-04T06:08:27.740847Z",
-    "updated_at": "2026-11-04T06:08:27.740847Z",
+    "updated_at": "2026-11-04T07:27:24.228356Z",
     "sources": [
       {
         "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
@@ -5079,6 +5083,15 @@
         "published_at": "2026-11-04T05:46:44Z",
         "primary": false,
         "excerpt": "Jubilant Talarico says ‘Tonight we defeated Goliath’ as Ken Paxton defeat a crushing blow to Trump and RepublicansUS midterm elections – live updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?Democrat James Talarico has won the US Senate race in Texas, breaking a 38-year drought for his party in the Republican stronghold and delivering a stunning blow to Donald Trump.Talarico defeated Republican Ken Paxton, the state attorney general and a staunch ally of the US president, in one of the most closely watched contests of the midterm "
+      },
+      {
+        "title": "James Talarico wins Senate race in Texas, securing historic victory – video",
+        "url": "https://www.theguardian.com/global/video/2026/nov/04/james-talarico-wins-senate-race-in-texas-securing-historic-victory-video",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T06:48:14Z",
+        "primary": false,
+        "excerpt": "Democrat James Talarico has won the US Senate race in Texas, securing an astonishing and historic victory. Talarico, a state representative, beat the scandal-plagued attorney general Ken Paxton in the most expensive race of this midterms cycle. He is also the first Democrat to win a US Senate seat in the Lone Star state since 1988. Continue reading..."
       }
     ],
     "tier": "brief",
@@ -5088,7 +5101,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ed305fe8f6ccb19d84c",
@@ -5115,7 +5129,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "af8c7b9684d730d5212d",
@@ -5142,7 +5157,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "331854f3e9c2d69cedbf",
@@ -5169,7 +5185,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e061e017b8d0818302b3",
@@ -5196,7 +5213,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a5edf7f16be5687fe114",
@@ -5223,7 +5241,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "80b5ad7a3d5b07e20df0",
@@ -5250,7 +5269,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b79e99526dc3fdaaf173",
@@ -5277,7 +5297,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2bc06dfb4db0a68332a3",
@@ -5304,7 +5325,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e4c65f87f045bb003e1a",
@@ -5331,7 +5353,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f9941eba50b79b3fa82c",
@@ -5358,7 +5381,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a5813cc337841344f834",
@@ -5385,7 +5409,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6dd07d60a909faaa4f74",
@@ -5412,7 +5437,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b6cdc81229112481e11b",
@@ -5439,7 +5465,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a69b356cebc2f37910cf",
@@ -5466,7 +5493,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2bcb542219cd7058f745",
@@ -5493,7 +5521,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52f8ffddebb3ef476fd3",
@@ -5520,7 +5549,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "91d93e2b003cb404c49f",
@@ -5547,7 +5577,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c55f3b64f04274ec8d89",
@@ -5574,7 +5605,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cfbc89a95df13d07df98",
@@ -5601,7 +5633,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bac4a2ed6f4c55a3ad11",
@@ -5628,7 +5661,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f47e5bd752bd7830c6a7",
@@ -5655,7 +5689,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "206e3a8608a1af6db44e",
@@ -5682,7 +5717,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d76f8b92d6f47e5d4b19",
@@ -5709,7 +5745,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ed5d10bf28490ab47249",
@@ -5736,7 +5773,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a909684b814966db9cea",
@@ -5763,7 +5801,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "41afffc9e9cc2e560a2f",
@@ -5790,7 +5829,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "658b50d7b88d34ab8725",
@@ -5817,7 +5857,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eb99fd150a182b6757fa",
@@ -5844,7 +5885,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9ada2aff8c58c6074b5c",
@@ -5871,7 +5913,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ec90b672154995b53f51",
@@ -5892,6 +5935,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b0a72a7c1ff712f39d1d",
+    "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+    "category": "Science",
+    "published_at": "2026-11-04T06:00:27Z",
+    "first_seen_at": "2026-11-04T07:27:24.228356Z",
+    "updated_at": "2026-11-04T07:27:24.228356Z",
+    "sources": [
+      {
+        "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+        "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-04T06:00:27Z",
+        "primary": false,
+        "excerpt": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravityRoughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer drug are being grown in the weightlessness of space. The others are testing heat protection materials and navigation systems for when the capsules plunge back through Earth’s atmosphere at hypersonic speeds. Together, they represent a small but significant step towards what some hope will become a lucrative new industry: manufacturing drugs"
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
