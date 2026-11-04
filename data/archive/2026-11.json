@@ -4705,7 +4705,7 @@
         "excerpt": "The wireless implant rids mice's bodies of excess sugar on demand, and helps them shed weight. It could one day help treat diabetes and obesity."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6118,7 +6118,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "417264daf64d7e918b46",
@@ -6136,6 +6137,34 @@
         "published_at": "2026-11-04T12:34:35Z",
         "primary": false,
         "excerpt": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "af768afc8598798a1ad8",
+    "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
+    "category": "U.S.",
+    "published_at": "2026-11-04T13:40:53Z",
+    "first_seen_at": "2026-11-04T14:27:40.370361Z",
+    "updated_at": "2026-11-04T14:27:40.370361Z",
+    "sources": [
+      {
+        "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-04T13:40:53Z",
+        "primary": false,
+        "excerpt": "National Transportation Safety Board says discovery of parts confirms plane was breaking apart before it crashedA piece of the private Learjet 60 that crashed in Florida, killing all nine people onboard, was found 4 miles (6km) away from the crash site, according to investigators on Tuesday, providing confirmation the plane was breaking apart prior to impact.The majority of the left elevator, part of the tail that controls the pitch of the aircraft, was found in three separate pieces between 1.3 miles and 3.8 miles from the crash site at Greenacres, near West Palm Beach, according to National "
       }
     ],
     "tier": "brief",
