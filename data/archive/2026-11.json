@@ -5969,6 +5969,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5ef93b092ce140fc7b2f",
+    "title": "Celebrations and selfies: US midterms in pictures",
+    "category": "Elections",
+    "published_at": "2026-11-04T08:05:53Z",
+    "first_seen_at": "2026-11-04T09:04:39.764907Z",
+    "updated_at": "2026-11-04T09:04:39.764907Z",
+    "sources": [
+      {
+        "title": "Celebrations and selfies: US midterms in pictures",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T08:05:53Z",
+        "primary": false,
+        "excerpt": "Hugs, cheers and smiles broke out as the Democrats picked up a string of victories in Republican strongholds."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4bfdcf6dc789e893eab2",
+    "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-04T07:28:02Z",
+    "first_seen_at": "2026-11-04T09:04:39.764907Z",
+    "updated_at": "2026-11-04T09:04:39.764907Z",
+    "sources": [
+      {
+        "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+        "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T07:28:02Z",
+        "primary": false,
+        "excerpt": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to serve in the Senate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
