@@ -7944,7 +7944,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "89404b5c96ee99d69328",
@@ -7962,6 +7963,115 @@
         "published_at": "2026-11-05T17:02:02Z",
         "primary": false,
         "excerpt": "Measure in Democratic state says students must submit health documents verifying biological sex for girls’ teamsVoters in Washington state have passed a ballot measure banning transgender girls from playing on girls’ sports teams, a major loss for LGBTQ+ rights in a solidly Democratic state.The measure says students in elementary, middle and high school who want to join girls’ athletics must first submit statements from their healthcare providers verifying their “biological sex”. Opponents have raised alarms the measure may force girls to endure “invasive and extreme” genital exams to particip"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "befc620a8e5fbfafc498",
+    "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
+    "category": "World",
+    "published_at": "2026-11-05T17:44:41Z",
+    "first_seen_at": "2026-11-05T19:05:16.621072Z",
+    "updated_at": "2026-11-05T19:05:16.621072Z",
+    "sources": [
+      {
+        "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-05T17:44:41Z",
+        "primary": false,
+        "excerpt": "Dhillon is first high-level justice department official to leave after historic Republican defeat in 2026 midtermsUS midterms 2026 live – latest updatesHarmeet Dhillon, a Donald Trump ally who led the justice department’s civil rights division, is leaving her position.“Today, I accepted the resignation of Assistant Attorney General Harmeet Dhillon, who led the Civil Rights Division with conviction the past 18 months. She has defended the civil liberties of every American and enforced the law without fear or favor. The Department is grateful for her dedicated public service, and we wish her eve"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "43046d5d937a31cb01eb",
+    "title": "Head of Justice Department office on Civil Rights resigns",
+    "category": "U.S.",
+    "published_at": "2026-11-05T18:01:57Z",
+    "first_seen_at": "2026-11-05T19:05:16.621072Z",
+    "updated_at": "2026-11-05T19:05:16.621072Z",
+    "sources": [
+      {
+        "title": "Head of Justice Department office on Civil Rights resigns",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-05T18:01:57Z",
+        "primary": false,
+        "excerpt": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ce42b72f81cd6abc200f",
+    "title": "Trump administration held talks with Iran on deporting Iranians during the war, court documents show",
+    "category": "U.S.",
+    "published_at": "2026-11-05T19:04:43Z",
+    "first_seen_at": "2026-11-05T19:05:16.621072Z",
+    "updated_at": "2026-11-05T19:05:16.621072Z",
+    "sources": [
+      {
+        "title": "Trump administration held talks with Iran on deporting Iranians during the war, court documents show",
+        "url": "https://www.pbs.org/newshour/world/trump-administration-held-talks-with-iran-on-deporting-iranians-during-the-war-court-documents-show",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-05T19:04:43Z",
+        "primary": false,
+        "excerpt": "The documents show that the administration maintained contacts with Iranian officials during the war over the removals, specifically for submitting travel documents and figuring out \"possible avenues for removal.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f6bd772e341da08f08f9",
+    "title": "Boebert, billionaires' tax and other midterms races still to watch",
+    "category": "Elections",
+    "published_at": "2026-11-05T19:02:17Z",
+    "first_seen_at": "2026-11-05T19:05:16.621072Z",
+    "updated_at": "2026-11-05T19:05:16.621072Z",
+    "sources": [
+      {
+        "title": "Boebert, billionaires' tax and other midterms races still to watch",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-05T19:02:17Z",
+        "primary": false,
+        "excerpt": "Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call."
       }
     ],
     "tier": "brief",
