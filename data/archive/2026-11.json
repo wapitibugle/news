@@ -7860,6 +7860,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7d2d511184485d2fa956",
+    "title": "Trump tries to get 2024 conviction in hush money corruption case thrown out",
+    "category": "U.S.",
+    "published_at": "2026-11-05T13:43:42Z",
+    "first_seen_at": "2026-11-05T15:06:32.899350Z",
+    "updated_at": "2026-11-05T15:06:32.899350Z",
+    "sources": [
+      {
+        "title": "Trump tries to get 2024 conviction in hush money corruption case thrown out",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-2024-conviction-hush-money",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T13:43:42Z",
+        "primary": false,
+        "excerpt": "President’s lawyers will try to persuade appeals court to toss criminal trial verdict over $130,000 sent to Stormy DanielsDonald Trump’s legal team on Thursday plan to continue efforts to get his 2024 conviction in the hush money election corruption case thrown out.Attorneys for the US president will try to persuade a New York appeals court to toss the criminal trial verdict from May 2024, when Trump was found guilty on all charges of falsifying business records in the hush-money corruption scheme to influence his eventual victory in the 2016 presidential election. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e0aefe62e13aac4cfd42",
+    "title": "Democrat leads by just over 1,000 votes surprisingly tight Mississippi Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-05T14:08:50Z",
+    "first_seen_at": "2026-11-05T15:06:32.899350Z",
+    "updated_at": "2026-11-05T15:06:32.899350Z",
+    "sources": [
+      {
+        "title": "Democrat leads by just over 1,000 votes surprisingly tight Mississippi Senate race",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-05T14:08:50Z",
+        "primary": false,
+        "excerpt": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
