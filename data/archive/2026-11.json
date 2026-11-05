@@ -7717,6 +7717,93 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a300ca491cf7a6f582cc",
+    "title": "Reproductive rights protected in several states by midterm election ballot measures",
+    "category": "World",
+    "published_at": "2026-11-05T10:00:03Z",
+    "first_seen_at": "2026-11-05T11:15:51.615711Z",
+    "updated_at": "2026-11-05T11:15:51.615711Z",
+    "sources": [
+      {
+        "title": "Reproductive rights protected in several states by midterm election ballot measures",
+        "url": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-05T10:00:03Z",
+        "primary": false,
+        "excerpt": "Voters in Nevada, Virginia, Missouri and Idaho passed or strengthened protections for women’s reproductive freedomReproductive rights were on the ballot on Tuesday night as voters weighed in on several abortion-related measures, delivering a largely successful night for reproductive rights advocates encompassed by a historic blue wave.In Nevada, voters approved an amendment enshrining abortion rights in the state constitution, permanently protecting access to abortion through the second trimester after a second referendum on the measure. Continue reading...",
+        "ai_editor": {
+          "id": "a300ca491cf7a6f582cc",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "4add5dd4504083ed6d17"
+          ],
+          "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+          "title": "Reproductive rights protected in several states by midterm election ballot measures",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
+          "group": "4add5dd4504083ed6d17"
+        }
+      },
+      {
+        "title": "Midterm Voters Split on Abortion and Trans Healthcare Ballot Questions",
+        "url": "https://kffhealthnews.org/elections/abortion-transgender-healthcare-midterm-ballot-measures-missouri-states/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-05T10:00:00Z",
+        "primary": false,
+        "excerpt": "The nationwide blue wave in the midterm election didn’t necessarily carry over to ballot measures on abortion and transgender issues.",
+        "ai_editor": {
+          "id": "4add5dd4504083ed6d17",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "a300ca491cf7a6f582cc"
+          ],
+          "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+          "title": "Midterm Voters Split on Abortion and Trans Healthcare Ballot Questions",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://kffhealthnews.org/elections/abortion-transgender-healthcare-midterm-ballot-measures-missouri-states/",
+          "group": "4add5dd4504083ed6d17"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "a300ca491cf7a6f582cc",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "4add5dd4504083ed6d17"
+      ],
+      "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+      "title": "Reproductive rights protected in several states by midterm election ballot measures",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
+      "group": "4add5dd4504083ed6d17"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
