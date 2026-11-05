@@ -5971,7 +5971,7 @@
         "excerpt": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravityRoughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer drug are being grown in the weightlessness of space. The others are testing heat protection materials and navigation systems for when the capsules plunge back through Earth’s atmosphere at hypersonic speeds. Together, they represent a small but significant step towards what some hope will become a lucrative new industry: manufacturing drugs"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -6372,5 +6372,1191 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "cfd91cae8a47b842450c",
+    "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+    "category": "Elections",
+    "published_at": "2026-11-04T23:55:07Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+        "url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T23:55:07Z",
+        "primary": false,
+        "excerpt": "Voters delivered a sweeping rebuke of President Trump and his party in the midterms, handing Democrats major victories and dramatically reshaping the balance of power in Washington. Trump now enters a lame duck phase of his second term, promising both to use his veto power, and also to work across the aisle as he faces the largest Democratic majorities in decades. Liz Landers reports.",
+        "ai_editor": {
+          "id": "cfd91cae8a47b842450c",
+          "priority": 5,
+          "section": "brief",
+          "major": true,
+          "context": "PBS reports Democrats won control of both chambers of Congress, ending unified Republican government. The exact seat totals remain unsettled as counting continues in outstanding races.",
+          "evidence_quote": "Though control of Congress is set, the exact composition of the House and Senate will take time.",
+          "related_ids": [
+            "37e5453ef05a08c2e59e",
+            "9290ef6ad4073d644434",
+            "e9601d67a7e114e96ae3"
+          ],
+          "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+          "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+          "group": "37e5453ef05a08c2e59e"
+        }
+      },
+      {
+        "title": "The issues that drove voters' decisions in the midterms",
+        "url": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-04T23:40:31Z",
+        "primary": false,
+        "excerpt": "For a deeper dive into the election data and why people voted the way they did, Geoff Bennett and Amna Nawaz spoke with Amy Walter of The Cook Political Report.",
+        "ai_editor": {
+          "id": "37e5453ef05a08c2e59e",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Amy Walter cites an exit poll in which 63% of voters attributed higher prices to Trump's policies. These are voters' assessments, not evidence establishing economic causation; the supplied interview does not include the poll's methodology or margin of error.",
+          "evidence_quote": "63 percent of Americans who voted said Trump's policies are the cause of higher prices.",
+          "related_ids": [
+            "cfd91cae8a47b842450c",
+            "9290ef6ad4073d644434",
+            "e9601d67a7e114e96ae3"
+          ],
+          "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+          "title": "The issues that drove voters' decisions in the midterms",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
+          "group": "37e5453ef05a08c2e59e"
+        }
+      },
+      {
+        "title": "OKC's Republican mayor says election wipeout is 'rejection of Trumpism'",
+        "url": "https://www.pbs.org/newshour/show/okcs-republican-mayor-says-election-wipeout-is-rejection-of-trumpism",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-04T23:25:13Z",
+        "primary": false,
+        "excerpt": "President Trump has sought to deflect blame for the sweeping Republican losses. But within the party, some are beginning to ask whether they have been too deferential to the president — and whether the GOP needs to rethink its identity. Amna Nawaz discussed what comes next with David Holt, the Republican mayor of Oklahoma City.",
+        "ai_editor": {
+          "id": "9290ef6ad4073d644434",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "Oklahoma City Republican Mayor David Holt calls the election a rejection of Trumpism and urges his party to rebuild around policy priorities. His interview offers one Republican official's interpretation, not a measure of party-wide opinion.",
+          "evidence_quote": "we have to return to being a political party again with a platform and ideas",
+          "related_ids": [
+            "cfd91cae8a47b842450c",
+            "37e5453ef05a08c2e59e",
+            "e9601d67a7e114e96ae3"
+          ],
+          "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+          "title": "OKC's Republican mayor says election wipeout is 'rejection of Trumpism'",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/okcs-republican-mayor-says-election-wipeout-is-rejection-of-trumpism",
+          "group": "37e5453ef05a08c2e59e"
+        }
+      },
+      {
+        "title": "Democratic and GOP strategists on how parties should respond to midterm results",
+        "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-04T23:15:00Z",
+        "primary": false,
+        "excerpt": "For perspective on how both parties are responding to the historic election wins, Geoff Bennett spoke with two strategists from both sides of the political aisle. Mo Elleithee is the former spokesman for the Democratic National Committee, and Doug Heye is a former spokesman for the Republican National Committee.",
+        "ai_editor": {
+          "id": "e9601d67a7e114e96ae3",
+          "priority": 1,
+          "section": "brief",
+          "major": false,
+          "context": "Democratic and Republican strategists discuss the election's implications, emphasizing living costs and presidential priorities. Their explanations and hypothetical alternative outcomes are political analysis, not established causal findings.",
+          "evidence_quote": "every Democratic candidate was talking about cost of living and corruption",
+          "related_ids": [
+            "cfd91cae8a47b842450c",
+            "37e5453ef05a08c2e59e",
+            "9290ef6ad4073d644434"
+          ],
+          "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+          "title": "Democratic and GOP strategists on how parties should respond to midterm results",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results",
+          "group": "37e5453ef05a08c2e59e"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "cfd91cae8a47b842450c",
+      "priority": 5,
+      "section": "brief",
+      "major": true,
+      "context": "PBS reports Democrats won control of both chambers of Congress, ending unified Republican government. The exact seat totals remain unsettled as counting continues in outstanding races.",
+      "evidence_quote": "Though control of Congress is set, the exact composition of the House and Senate will take time.",
+      "related_ids": [
+        "37e5453ef05a08c2e59e",
+        "9290ef6ad4073d644434",
+        "e9601d67a7e114e96ae3"
+      ],
+      "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+      "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+      "group": "37e5453ef05a08c2e59e"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92233d5629250c357960",
+    "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
+    "category": "Elections",
+    "published_at": "2026-11-04T20:24:30Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6023272/navajo-voters-hop-tractors-make-extraordinary-efforts-to-vote-after-widespread-flooding",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-04T20:24:30Z",
+        "primary": false,
+        "excerpt": "Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd2bfca348c058add4df",
+    "title": "Trump speaks about White House ballroom and Iran war’s unpopularity after midterm losses – video",
+    "category": "Elections",
+    "published_at": "2026-11-04T19:57:37Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Trump speaks about White House ballroom and Iran war’s unpopularity after midterm losses – video",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/04/trump-speaks-about-white-house-ballroom-and-iran-wars-unpopularity-after-midterm-losses-video",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T19:57:37Z",
+        "primary": false,
+        "excerpt": "Donald Trump responded to JD Vance’s comments on the Iran war ultimately being the reason behind the catastrophic Republican losses in this year’s midterms, saying 'it's largely true'JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8b220cfc8a8ba604e238",
+    "title": "Democrats 'got their wish': Voters react to midterm results",
+    "category": "Elections",
+    "published_at": "2026-11-04T19:01:37Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Democrats 'got their wish': Voters react to midterm results",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8le668e13o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T19:01:37Z",
+        "primary": false,
+        "excerpt": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "57b80c4e46ccf5fd2620",
+    "title": "Trump-backed redistricting sought a midterm edge for Republicans. It didn't work",
+    "category": "Elections",
+    "published_at": "2026-11-04T20:00:33Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Trump-backed redistricting sought a midterm edge for Republicans. It didn't work",
+        "url": "https://www.pbs.org/newshour/politics/trump-backed-redistricting-sought-a-midterm-edge-for-republicans-it-didnt-work",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T20:00:33Z",
+        "primary": false,
+        "excerpt": "Republicans lost most of the Democratic-held seats they had targeted to flip, lost others they had banked on retaining and got swept out of power by a Democratic surge fueled by voter dissatisfaction with Trump, the economy and the war with Iran."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3c604011f3361a3ad947",
+    "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+    "category": "Elections",
+    "published_at": "2026-11-04T19:22:43Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T19:22:43Z",
+        "primary": false,
+        "excerpt": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the sameSend us your questions about the midterm resultsTrack live results from all 50 statesOn the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability.Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it, “they don’t need it”, was condemned across the board – with pro-P"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d22974efd97b67942fb4",
+    "title": "The young politicians with African roots making history in the US midterms",
+    "category": "Elections",
+    "published_at": "2026-11-04T16:34:32Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "The young politicians with African roots making history in the US midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T16:34:32Z",
+        "primary": false,
+        "excerpt": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a53228cfd7e5958da935",
+    "title": "WATCH: Trump previews ballroom construction the day after voters rejected GOP rule",
+    "category": "Elections",
+    "published_at": "2026-11-04T19:27:21Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "WATCH: Trump previews ballroom construction the day after voters rejected GOP rule",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-previews-ballroom-construction-the-day-after-voters-rejected-gop-rule",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T19:27:21Z",
+        "primary": false,
+        "excerpt": "President Donald Trump gave extended comments Wednesday, not about the Republican Party's midterm election wipeout but instead justifying his building a sprawling White House ballroom."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e257b792aa5cf18484f7",
+    "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+    "category": "U.S.",
+    "published_at": "2026-11-05T05:29:56Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-05T05:29:56Z",
+        "primary": false,
+        "excerpt": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "806fd4811804d7b24b40",
+    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+    "category": "World",
+    "published_at": "2026-11-05T05:00:55Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+        "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-05T05:00:55Z",
+        "primary": false,
+        "excerpt": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "16a411279563c7477e95",
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "category": "World",
+    "published_at": "2026-11-05T03:47:56Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-05T03:47:56Z",
+        "primary": false,
+        "excerpt": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+        "ai_editor": {
+          "id": "16a411279563c7477e95",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Vance blamed Republican midterm losses on the Iran war and called for ending it. Trump agreed the war largely decided the election but defended his decision to fight. Vance has not announced a presidential bid.",
+          "evidence_quote": "\"The reason we lost is the war,\" he wrote.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-05T06:10:20.402388+00:00",
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "16a411279563c7477e95",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Vance blamed Republican midterm losses on the Iran war and called for ending it. Trump agreed the war largely decided the election but defended his decision to fight. Vance has not announced a presidential bid.",
+      "evidence_quote": "\"The reason we lost is the war,\" he wrote.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-05T06:10:20.402388+00:00",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b581cc17686d785e07e",
+    "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+    "category": "Science",
+    "published_at": "2026-11-05T05:01:00Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-05T05:01:00Z",
+        "primary": true,
+        "excerpt": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "40edaa9a83cbc79f134d",
+    "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+    "category": "Science",
+    "published_at": "2026-11-05T05:00:00Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+        "url": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-11-05T05:00:00Z",
+        "primary": false,
+        "excerpt": "The Industrial Revolution and climate change may have both contributed to vitamin D deficiencies in 18th and 19th century Europe."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4c0fb07e869c32292272",
+    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "category": "Science",
+    "published_at": "2026-11-05T05:05:00Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-05T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "577c0cf69ff1a0d9fac9",
+    "title": "Datacenters were on the ballot. US voters rejected them",
+    "category": "U.S.",
+    "published_at": "2026-11-05T01:30:14Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Datacenters were on the ballot. US voters rejected them",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T01:30:14Z",
+        "primary": false,
+        "excerpt": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s electionsTrack live results from all 50 statesSend us your questions about the US midterms results and Democrats’ ‘blue wave’There were three big losers in Tuesday’s midterm elections in the US: Donald Trump, Elon Musk and datacenters.Datacenters, the facilities full of semiconductor chips that power artificial intelligence and a host of other online products, were on the ballot in elections in at least 40 jurisdictions across 10 states. Voters responded with a strong rebuke of the giant bui",
+        "ai_editor": {
+          "id": "577c0cf69ff1a0d9fac9",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "The Guardian reports voters approved dozens of datacenter restrictions or moratoriums across multiple states. These are enacted ballot decisions; separate promises by incoming governors to restrict construction remain prospective.",
+          "evidence_quote": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total",
+          "related_ids": [],
+          "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+          "title": "Datacenters were on the ballot. US voters rejected them",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "577c0cf69ff1a0d9fac9",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Guardian reports voters approved dozens of datacenter restrictions or moratoriums across multiple states. These are enacted ballot decisions; separate promises by incoming governors to restrict construction remain prospective.",
+      "evidence_quote": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total",
+      "related_ids": [],
+      "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+      "title": "Datacenters were on the ballot. US voters rejected them",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a5f830610fbb14c02699",
+    "title": "What's next in the investigation of the Learjet crash in Florida that killed 9?",
+    "category": "U.S.",
+    "published_at": "2026-11-04T22:37:20Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "What's next in the investigation of the Learjet crash in Florida that killed 9?",
+        "url": "https://www.pbs.org/newshour/nation/whats-next-in-the-investigation-of-the-learjet-crash-in-florida-that-killed-9",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-04T22:37:20Z",
+        "primary": false,
+        "excerpt": "Investigators are just beginning the lengthy process of determining why a business jet plummeted from the sky in Florida after encountering a thunderstorm and slammed into the ground with such force that it created a crater and shattered the plane."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64c22f4408bde5b6eb6d",
+    "title": "Colorado rejects conservative effort to require police to cooperate with immigration officers",
+    "category": "U.S.",
+    "published_at": "2026-11-05T01:10:46Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Colorado rejects conservative effort to require police to cooperate with immigration officers",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/colorado-rejects-conservative-immigration-amendment",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T01:10:46Z",
+        "primary": false,
+        "excerpt": "Amendment 81 would have required law enforcement to notify federal agents if people accused of violent crimes were not lawfully present in USColorado voters have spurned a conservative group’s effort to force police and prosecutors to aid the Trump administration’s mass deportation agenda.Amendment 81, which failed to receive 55% of the vote on Tuesday, would have required Colorado’s law enforcement agents to notify federal immigration authorities if individuals accused of violent crime were not lawfully present in the US or if their legal status was undetermined. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b86320d9dc6f84ad3411",
+    "title": "Israel's president takes first steps on building new government after accepting election results",
+    "category": "U.S.",
+    "published_at": "2026-11-04T21:16:26Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Israel's president takes first steps on building new government after accepting election results",
+        "url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-04T21:16:26Z",
+        "primary": false,
+        "excerpt": "Israeli President Isaac Herzog on Wednesday accepted the certified results of last week's parliamentary elections as legally binding and began consultations with party representatives on forming a new government.",
+        "ai_editor": {
+          "id": "b86320d9dc6f84ad3411",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "AP reports President Isaac Herzog accepted Israel’s certified election results and began government-formation consultations despite Netanyahu’s unsubstantiated fraud claims. The elections commission found no irregularities affecting the outcome; a separate intelligence investigation remains ongoing.",
+          "evidence_quote": "no evidence of irregularities that compromised the integrity of the election or affected its results.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+          "title": "Israel's president takes first steps on building new government after accepting election results",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "b86320d9dc6f84ad3411",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports President Isaac Herzog accepted Israel’s certified election results and began government-formation consultations despite Netanyahu’s unsubstantiated fraud claims. The elections commission found no irregularities affecting the outcome; a separate intelligence investigation remains ongoing.",
+      "evidence_quote": "no evidence of irregularities that compromised the integrity of the election or affected its results.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+      "title": "Israel's president takes first steps on building new government after accepting election results",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "997c79240b86e54d17ee",
+    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "category": "Elections",
+    "published_at": "2026-11-04T13:33:30Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T13:33:30Z",
+        "primary": false,
+        "excerpt": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "78519588364575014d2f",
+    "title": "Watch: Key moments from the US midterm election results",
+    "category": "Elections",
+    "published_at": "2026-11-04T07:23:10Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Watch: Key moments from the US midterm election results",
+        "url": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-04T07:23:10Z",
+        "primary": false,
+        "excerpt": "Democrats have won control of the Senate and House of Representatives, taking control of Congress for the rest of Donald Trump's presidency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b3ae8ffe49db499a52e",
+    "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+    "category": "Elections",
+    "published_at": "2026-11-04T19:22:04Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T19:22:04Z",
+        "primary": false,
+        "excerpt": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballotUS midterm elections – live updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?The United States woke up to a radically altered political landscape on Wednesday after Donald Trump was dealt a devastating blow in the midterm elections, in which his Republican party was stripped of control of the Senate and the House as his handpicked “Maga” candidates were swept away by a blue tsunami.With counting still going on in a couple "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a30fb84ed4523189df98",
+    "title": "World leaders who sparred with Trump express mix of relief, caution at GOP election rout",
+    "category": "Elections",
+    "published_at": "2026-11-04T18:53:24Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "World leaders who sparred with Trump express mix of relief, caution at GOP election rout",
+        "url": "https://www.pbs.org/newshour/world/world-leaders-who-sparred-with-trump-express-mix-of-relief-caution-at-gop-election-rout",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T18:53:24Z",
+        "primary": false,
+        "excerpt": "British Prime Minister Andy Burnham expressed hope the election results would focus minds in Washington and other capitals on ending the Iran war, which has sent fuel prices soaring — a major source of frustration for voters."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "621fa16fb3ceeefc5ef4",
+    "title": "‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
+    "category": "Elections",
+    "published_at": "2026-11-04T18:53:31Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T18:53:31Z",
+        "primary": false,
+        "excerpt": "Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social mediaSend us your questions about the midterm resultsTrack live results from all 50 statesYour local pilates instructors only want you to do two things: breathe through your side-planks and vote.In the days leading up to the US midterm elections, a wave of posts from fitness and wellness accounts blanketed Instagram, eschewing their typical messaging around the importance of strengthening your core in favor of the importance of exercising your civic duty. Owners of pilates and yoga studi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "45a6fa0bf9f8e630acdd",
+    "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+    "category": "Elections",
+    "published_at": "2026-11-04T17:36:11Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+        "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T17:36:11Z",
+        "primary": false,
+        "excerpt": "Concerns about the war, particularly frustration over rising prices for fuel and other goods in the U.S., helped Democrats win control of both chambers of Congress in Tuesday's vote, a sharp setback for President Donald Trump and his Republican Party."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c48c333ca030ebb03ef6",
+    "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+    "category": "Elections",
+    "published_at": "2026-11-04T17:15:33Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-04T17:15:33Z",
+        "primary": false,
+        "excerpt": "Stance signals vice-president seeks to distance himself from the unpopular conflict ahead of possible 2028 runUS midterms 2026 live – latest updatesTrack live results from all 50 statesTell us: what do you want to know about the results?JD Vance said on Wednesday that the war against Iran doomed the Republican party in the US midterm elections, which are widely seen as a sweeping rebuke of Donald Trump’s presidency.The intervention signals that the vice-president, once the face of the Trump administration’s deal-making efforts with Tehran, seeks to distance himself from the unpopular conflict "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fadeaa02476d79664c7e",
+    "title": "Vance blames Iran war for GOP midterm losses",
+    "category": "Elections",
+    "published_at": "2026-11-04T16:56:43Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Vance blames Iran war for GOP midterm losses",
+        "url": "https://www.pbs.org/newshour/politics/vance-blames-iran-war-for-gop-midterm-losses",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T16:56:43Z",
+        "primary": false,
+        "excerpt": "JD Vance publicly broke from President Donald Trump's defense of the Iran war Wednesday after the Republican Party's deep losses in the midterm elections, attempting to distance himself from voters' clear rebuke of the president as the vice president faces questions about his own political ambitions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bf63c6f967f585fdabb9",
+    "title": "How Trump and Republicans lost the 2026 midterm elections, according to AP Voter Poll",
+    "category": "Elections",
+    "published_at": "2026-11-04T16:19:10Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "How Trump and Republicans lost the 2026 midterm elections, according to AP Voter Poll",
+        "url": "https://www.pbs.org/newshour/politics/how-trump-and-republicans-lost-the-2026-midterm-elections-according-to-ap-voter-poll",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-04T16:19:10Z",
+        "primary": false,
+        "excerpt": "After more than a decade with Donald Trump at the epicenter of U.S. politics, most voters appear exhausted and exasperated by him, according to The AP Voter Poll, a survey of midterm voters in all 50 states."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7dfecb67b18fa3638e04",
+    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "category": "World",
+    "published_at": "2026-11-04T13:38:09Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-04T13:38:09Z",
+        "primary": false,
+        "excerpt": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "420dcbd51301ca2f0ea6",
+    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "category": "World",
+    "published_at": "2026-11-04T22:48:43Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-04T22:48:43Z",
+        "primary": false,
+        "excerpt": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd1aee5121d935c5bd11",
+    "title": "Iran's chief negotiator says Americans voted 'no to war'",
+    "category": "World",
+    "published_at": "2026-11-04T16:59:15Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Iran's chief negotiator says Americans voted 'no to war'",
+        "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-04T16:59:15Z",
+        "primary": false,
+        "excerpt": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d3620c63482771fc8028",
+    "title": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+    "category": "U.S.",
+    "published_at": "2026-11-04T15:05:00Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+        "url": "https://www.propublica.org/article/vermont-clean-water-act-champlain-audit",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-04T15:05:00Z",
+        "primary": false,
+        "excerpt": "The post Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8af0b45d4c95886db1bd",
+    "title": "Israel's president begins consultations with parties after election deadlock",
+    "category": "World",
+    "published_at": "2026-11-04T16:18:21Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Israel's president begins consultations with parties after election deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-04T16:18:21Z",
+        "primary": false,
+        "excerpt": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec0a5e26224d93935b36",
+    "title": "Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back.",
+    "category": "U.S.",
+    "published_at": "2026-11-04T15:00:00Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back.",
+        "url": "https://www.propublica.org/article/lake-champlain-algae-bloom-cyanobacteria-water-pollution-vermont",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-04T15:00:00Z",
+        "primary": false,
+        "excerpt": "The post Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "112b14a13091e3fdb2bf",
+    "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+    "category": "World",
+    "published_at": "2026-11-05T02:00:50Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+        "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-05T02:00:50Z",
+        "primary": false,
+        "excerpt": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidatesElon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections. It turned out to be a poor investment.The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of near",
+        "ai_editor": {
+          "id": "112b14a13091e3fdb2bf",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The Guardian reports Musk contributed at least $446 million to Republican-aligned groups, while Democrats won the five Senate races where America Pac spent most. The results do not by themselves establish what effect the spending had on vote margins.",
+          "evidence_quote": "Democrats won every one of the five Senate races where Musk’s America Pac spent the most money",
+          "related_ids": [
+            "ba0ab15212582c7fff3b"
+          ],
+          "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+          "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+          "group": "112b14a13091e3fdb2bf"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "112b14a13091e3fdb2bf",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The Guardian reports Musk contributed at least $446 million to Republican-aligned groups, while Democrats won the five Senate races where America Pac spent most. The results do not by themselves establish what effect the spending had on vote margins.",
+      "evidence_quote": "Democrats won every one of the five Senate races where Musk’s America Pac spent the most money",
+      "related_ids": [
+        "ba0ab15212582c7fff3b"
+      ],
+      "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+      "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+      "group": "112b14a13091e3fdb2bf"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d00865ad73083faefb3d",
+    "title": "South Carolina winner Annie Andrews talks about her win and the path ahead",
+    "category": "U.S.",
+    "published_at": "2026-11-04T22:04:23Z",
+    "first_seen_at": "2026-11-05T06:10:20.402388Z",
+    "updated_at": "2026-11-05T06:10:20.402388Z",
+    "sources": [
+      {
+        "title": "South Carolina winner Annie Andrews talks about her win and the path ahead",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6029646/south-carolina-winner-annie-andrews-talks-about-her-win-and-the-path-ahead",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-04T22:04:23Z",
+        "primary": false,
+        "excerpt": "NPR's Ailsa Chang talks with Democrat Dr. Annie Andrews, who bested Republican candidate Darline Graham, the incumbent and sister of the late Sen. Lindsey Graham."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
