@@ -7619,6 +7619,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "423e4f3028625b890548",
+    "title": "Trump accepts midterm results as system holds up against election interference efforts",
+    "category": "Elections",
+    "published_at": "2026-11-05T09:00:01Z",
+    "first_seen_at": "2026-11-05T09:10:38.856799Z",
+    "updated_at": "2026-11-05T09:10:38.856799Z",
+    "sources": [
+      {
+        "title": "Trump accepts midterm results as system holds up against election interference efforts",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T09:00:01Z",
+        "primary": false,
+        "excerpt": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realizedIn the months leading up to the midterm elections, Donald Trump’s administration waged an aggressive effort to sow doubt about the results, intimidate voters and election officials, and signal they would use the power of the federal government to challenge the electoral process.But when the results came in Tuesday night, revealing a massive blowout for the GOP, Trump did something almost unprecedented: he accepted the results. Trump said he was “absolutely willing” to accept the outcome"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6cb1b24e8fdfd6449a0",
+    "title": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
+    "category": "Elections",
+    "published_at": "2026-11-05T08:34:01Z",
+    "first_seen_at": "2026-11-05T09:10:38.856799Z",
+    "updated_at": "2026-11-05T09:10:38.856799Z",
+    "sources": [
+      {
+        "title": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T08:34:01Z",
+        "primary": false,
+        "excerpt": "The Democrats have taken control of the Senate and the House of Representatives. These charts and maps reveal the key trends and races behind this resultLive results from all 50 statesSend us your questions about the midterm resultsThe Republicans have lost seven Senators, 30 House districts and five governor races.As of 3.30am Eastern Time (ET) on Thursday, more than 2,000 of nearly 2,500 counties with Senate elections had returned more than 90% of their votes. Americans did not turn out in significant numbers for the Republicans amid high fuel prices and dissatisfaction with the president. C"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
