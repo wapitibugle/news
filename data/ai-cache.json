@@ -5212,5 +5212,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results",
     "group": "37e5453ef05a08c2e59e"
+  },
+  "a5dfefd044fc535c1caa4213f496db52c6b9c88bd58f3feb5dd07c31eb169ff2": {
+    "id": "112b14a13091e3fdb2bf",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian reports Musk contributed at least $446 million to Republican-aligned groups, while Democrats won the five Senate races where America Pac spent most. The results do not by themselves establish what effect the spending had on vote margins.",
+    "evidence_quote": "Democrats won every one of the five Senate races where Musk’s America Pac spent the most money",
+    "related_ids": [
+      "ba0ab15212582c7fff3b"
+    ],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+    "group": "112b14a13091e3fdb2bf"
+  },
+  "58690e0303c4f50cf7e57dbc443d1e99015963e5150e41b5f0b445e434d2ff8f": {
+    "id": "577c0cf69ff1a0d9fac9",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian reports voters approved dozens of datacenter restrictions or moratoriums across multiple states. These are enacted ballot decisions; separate promises by incoming governors to restrict construction remain prospective.",
+    "evidence_quote": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "Datacenters were on the ballot. US voters rejected them",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+    "group": ""
+  },
+  "144ec46d051ed6a9d3ea4d96d39f9c837b18f3a1b8259929a72669ef5de04b4c": {
+    "id": "dec3b2d781963daa109c",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "What's the future of the Democratic party in Texas, amid historic midterm wins?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/04/nx-s1-6029122/whats-the-future-of-the-democratic-party-in-texas-amid-historic-midterm-wins",
+    "group": ""
+  },
+  "be7f8c49bc7a69b77296013d1d582edeb92ed503f346801dfdb1c80ee6169f1c": {
+    "id": "8fd18607bc6d08404b2e",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+    "group": ""
+  },
+  "5eeffd1e4f5f6007d0d5f3ee083d1b6b3fd7b46196720ab0dddd2b4a27e987c5": {
+    "id": "ba0ab15212582c7fff3b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The BBC reports Musk spent almost $450 million backing Republican candidates. Its campaign-finance analysis puts his support for Texas Senate candidate Ken Paxton at at least $45 million; Paxton lost to James Talarico.",
+    "evidence_quote": "Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data",
+    "related_ids": [
+      "112b14a13091e3fdb2bf"
+    ],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+    "group": "112b14a13091e3fdb2bf"
+  },
+  "af096b9f7f94d1f6b61e2823f241a202d069d4989051ee348c68da822872b71f": {
+    "id": "b86320d9dc6f84ad3411",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports President Isaac Herzog accepted Israel’s certified election results and began government-formation consultations despite Netanyahu’s unsubstantiated fraud claims. The elections commission found no irregularities affecting the outcome; a separate intelligence investigation remains ongoing.",
+    "evidence_quote": "no evidence of irregularities that compromised the integrity of the election or affected its results.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T02:22:52.097753+00:00",
+    "title": "Israel's president takes first steps on building new government after accepting election results",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+    "group": ""
   }
 }
