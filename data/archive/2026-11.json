@@ -7888,7 +7888,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e0aefe62e13aac4cfd42",
@@ -7906,6 +7907,61 @@
         "published_at": "2026-11-05T14:08:50Z",
         "primary": false,
         "excerpt": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "26cf478910a1a24f2c13",
+    "title": "The election brought a wave of historic firsts. Here are some groundbreaking winners",
+    "category": "Elections",
+    "published_at": "2026-11-05T16:39:47Z",
+    "first_seen_at": "2026-11-05T17:23:35.413755Z",
+    "updated_at": "2026-11-05T17:23:35.413755Z",
+    "sources": [
+      {
+        "title": "The election brought a wave of historic firsts. Here are some groundbreaking winners",
+        "url": "https://www.pbs.org/newshour/politics/the-election-brought-a-wave-of-historic-firsts-here-are-some-groundbreaking-winners",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T16:39:47Z",
+        "primary": false,
+        "excerpt": "While some of these candidates have avoided focusing on the inherent historic value of their race, gender, religion or sexual orientation, some voters' rights advocates are celebrating how the electorate has expanded."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "89404b5c96ee99d69328",
+    "title": "Washington state passes ballot measure banning trans girls from school sports",
+    "category": "Elections",
+    "published_at": "2026-11-05T17:02:02Z",
+    "first_seen_at": "2026-11-05T17:23:35.413755Z",
+    "updated_at": "2026-11-05T17:23:35.413755Z",
+    "sources": [
+      {
+        "title": "Washington state passes ballot measure banning trans girls from school sports",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T17:02:02Z",
+        "primary": false,
+        "excerpt": "Measure in Democratic state says students must submit health documents verifying biological sex for girls’ teamsVoters in Washington state have passed a ballot measure banning transgender girls from playing on girls’ sports teams, a major loss for LGBTQ+ rights in a solidly Democratic state.The measure says students in elementary, middle and high school who want to join girls’ athletics must first submit statements from their healthcare providers verifying their “biological sex”. Opponents have raised alarms the measure may force girls to endure “invasive and extreme” genital exams to particip"
       }
     ],
     "tier": "brief",
