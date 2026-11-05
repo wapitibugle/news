@@ -7832,6 +7832,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "53f7a0262350f6071e66",
+    "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+    "category": "Elections",
+    "published_at": "2026-11-05T12:02:24Z",
+    "first_seen_at": "2026-11-05T13:21:52.313130Z",
+    "updated_at": "2026-11-05T13:21:52.313130Z",
+    "sources": [
+      {
+        "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-05T12:02:24Z",
+        "primary": false,
+        "excerpt": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
