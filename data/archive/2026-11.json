@@ -7804,6 +7804,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3d083b75df80dcb7e192",
+    "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+    "category": "U.S.",
+    "published_at": "2026-11-05T10:02:00Z",
+    "first_seen_at": "2026-11-05T12:09:40.610260Z",
+    "updated_at": "2026-11-05T12:09:40.610260Z",
+    "sources": [
+      {
+        "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-05T10:02:00Z",
+        "primary": false,
+        "excerpt": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
