@@ -5396,5 +5396,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
     "group": ""
+  },
+  "7d082313db50fd8444d12b09c0a2dbb2b00d946209b2844d831c909d5f6131a9": {
+    "id": "a300ca491cf7a6f582cc",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "4add5dd4504083ed6d17"
+    ],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "Reproductive rights protected in several states by midterm election ballot measures",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
+    "group": "4add5dd4504083ed6d17"
+  },
+  "951ceb0f6d97f6e1a27bac5125857ea980b3f38d0f0d8ce06195e6a4a90f8f88": {
+    "id": "2e0c001e3d045b78336c",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
+    "group": ""
+  },
+  "7f93b316d159810f3fa330f24c844c60afb20554478ce68c58eaa64654609daa": {
+    "id": "4add5dd4504083ed6d17",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "a300ca491cf7a6f582cc"
+    ],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "Midterm Voters Split on Abortion and Trans Healthcare Ballot Questions",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://kffhealthnews.org/elections/abortion-transgender-healthcare-midterm-ballot-measures-missouri-states/",
+    "group": "4add5dd4504083ed6d17"
+  },
+  "5d5f5e23f6128051353a0b01b3183da8364f9fd17af3a56b9dcd86285d028227": {
+    "id": "e16acb8699a9a63b80c3",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "Democrats and Republicans reflect on midterm results and the message sent by voters",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/05/nx-s1-6029732/democrats-and-republicans-reflect-on-midterm-results-and-the-message-sent-by-voters",
+    "group": ""
+  },
+  "823cbb1c2e9f430c97f1504bfb102dc324f58cac88a94a6b4e17778c88bc3dc7": {
+    "id": "df042f19d04f72c8e5a1",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "Trump blames GOP candidates and Fox News for midterm losses",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/05/nx-s1-6028845/trump-blames-gop-candidates-and-fox-news-for-midterm-losses",
+    "group": ""
+  },
+  "b3c09b9ac66927ca63dcf89901132d64f3542b169a0e0a655070618e5c70d432": {
+    "id": "423e4f3028625b890548",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T10:14:19.322589+00:00",
+    "title": "Trump accepts midterm results as system holds up against election interference efforts",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+    "group": ""
   }
 }
