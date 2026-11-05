@@ -5106,5 +5106,111 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/politics/ap-voter-poll-the-economy-and-the-state-of-democracy-are-voters-top-issues",
     "group": ""
+  },
+  "607c0a3676100739bdb54f8f033e731f6fcb703cda81ed9d85091319e1e1ce03": {
+    "id": "4c2f7d15b8679efc5250",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
+    "group": ""
+  },
+  "b4626e7135ed3d4bba6155595d3c368d8022655af41ea78f7c00c8a3c178a357": {
+    "id": "cfd91cae8a47b842450c",
+    "priority": 5,
+    "section": "brief",
+    "major": true,
+    "context": "PBS reports Democrats won control of both chambers of Congress, ending unified Republican government. The exact seat totals remain unsettled as counting continues in outstanding races.",
+    "evidence_quote": "Though control of Congress is set, the exact composition of the House and Senate will take time.",
+    "related_ids": [
+      "37e5453ef05a08c2e59e",
+      "9290ef6ad4073d644434",
+      "e9601d67a7e114e96ae3"
+    ],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+    "group": "37e5453ef05a08c2e59e"
+  },
+  "1bd2e953e8bfbb474bf34026f1d2a169f5855bd7a6f65b2d868c00877d5d598b": {
+    "id": "784c5a913db532e29d90",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports Iranian officials welcomed the U.S. election results, while Iran's supreme leader cautioned against expecting a policy change. The roundup also covers Russian attacks in Ukraine and dismissal of charges against Harvard scientist Kseniia Petrova.",
+    "evidence_quote": "A federal judge in Boston has dismissed a case against a Russian-born Harvard scientist",
+    "related_ids": [],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
+    "group": ""
+  },
+  "5cdb7d6571b964e5ae3d358aaa1fedfa5a619a447f449591f96db4928e516964": {
+    "id": "37e5453ef05a08c2e59e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Amy Walter cites an exit poll in which 63% of voters attributed higher prices to Trump's policies. These are voters' assessments, not evidence establishing economic causation; the supplied interview does not include the poll's methodology or margin of error.",
+    "evidence_quote": "63 percent of Americans who voted said Trump's policies are the cause of higher prices.",
+    "related_ids": [
+      "cfd91cae8a47b842450c",
+      "9290ef6ad4073d644434",
+      "e9601d67a7e114e96ae3"
+    ],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "The issues that drove voters' decisions in the midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
+    "group": "37e5453ef05a08c2e59e"
+  },
+  "4bd0afc6b0737525e7d50d54fe70fc557a5ba376379e73dda23aac3ce55993f4": {
+    "id": "9290ef6ad4073d644434",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Oklahoma City Republican Mayor David Holt calls the election a rejection of Trumpism and urges his party to rebuild around policy priorities. His interview offers one Republican official's interpretation, not a measure of party-wide opinion.",
+    "evidence_quote": "we have to return to being a political party again with a platform and ideas",
+    "related_ids": [
+      "cfd91cae8a47b842450c",
+      "37e5453ef05a08c2e59e",
+      "e9601d67a7e114e96ae3"
+    ],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "OKC's Republican mayor says election wipeout is 'rejection of Trumpism'",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/okcs-republican-mayor-says-election-wipeout-is-rejection-of-trumpism",
+    "group": "37e5453ef05a08c2e59e"
+  },
+  "82c78f34dd5762f79b1180fc41e4f44d31b119e96a905afbc5bad8384d0c936e": {
+    "id": "e9601d67a7e114e96ae3",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic and Republican strategists discuss the election's implications, emphasizing living costs and presidential priorities. Their explanations and hypothetical alternative outcomes are political analysis, not established causal findings.",
+    "evidence_quote": "every Democratic candidate was talking about cost of living and corruption",
+    "related_ids": [
+      "cfd91cae8a47b842450c",
+      "37e5453ef05a08c2e59e",
+      "9290ef6ad4073d644434"
+    ],
+    "reviewed_at": "2026-11-05T01:16:25.392879+00:00",
+    "title": "Democratic and GOP strategists on how parties should respond to midterm results",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results",
+    "group": "37e5453ef05a08c2e59e"
   }
 }
