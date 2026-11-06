@@ -9306,7 +9306,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b5f45ef9c8a5e2ebbd0d",
@@ -9324,6 +9325,34 @@
         "published_at": "2026-11-06T11:57:32Z",
         "primary": false,
         "excerpt": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ac33850a6989d660c169",
+    "title": "Global tech stocks wobble over AI regulation fears after midterms | First Thing",
+    "category": "Elections",
+    "published_at": "2026-11-06T11:59:46Z",
+    "first_seen_at": "2026-11-06T14:27:10.013154Z",
+    "updated_at": "2026-11-06T14:27:10.013154Z",
+    "sources": [
+      {
+        "title": "Global tech stocks wobble over AI regulation fears after midterms | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/first-thing-tech-stocks-ai-regulation-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-06T11:59:46Z",
+        "primary": false,
+        "excerpt": "Anticipation that Democrats’ ‘blue wave’ will lead to tighter rules on AI and datacenters sends tech stock plunging. Plus a big eight-legged surprise for customs officials in PeruDon’t already get First Thing in your inbox? Sign up hereGood morning. Stock markets around the world have fallen sharply as a rout in US tech stocks spread across the Atlantic after the Democrats’ midterms victory led to fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday morning. The dip in investor sentiment has also reached Lond"
       }
     ],
     "tier": "brief",
