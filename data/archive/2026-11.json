@@ -7710,7 +7710,7 @@
         "excerpt": "State leaders who scrambled to win and begin spending their first-year shares of Republicans’ five-year, $50 billion fund are in the dark about how much they’ll receive in the Rural Health Transformation Program’s second year after a federal office notified states that more time is needed to make allocations."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -9194,7 +9194,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "88ced3427b567c5cd461",
@@ -9212,6 +9213,34 @@
         "published_at": "2026-11-06T07:56:19Z",
         "primary": false,
         "excerpt": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c72922be0cde801f6fc8",
+    "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+    "category": "U.S.",
+    "published_at": "2026-11-06T10:00:00Z",
+    "first_seen_at": "2026-11-06T10:12:11.242261Z",
+    "updated_at": "2026-11-06T10:12:11.242261Z",
+    "sources": [
+      {
+        "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T10:00:00Z",
+        "primary": false,
+        "excerpt": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse."
       }
     ],
     "tier": "brief",
