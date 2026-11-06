@@ -9530,6 +9530,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b536f0d70a37338ced68",
+    "title": "Trump names Stephen Miller as new White House chief of staff",
+    "category": "U.S.",
+    "published_at": "2026-11-06T20:11:45Z",
+    "first_seen_at": "2026-11-06T21:49:31.731863Z",
+    "updated_at": "2026-11-06T21:49:31.731863Z",
+    "sources": [
+      {
+        "title": "Trump names Stephen Miller as new White House chief of staff",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T20:11:45Z",
+        "primary": false,
+        "excerpt": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
