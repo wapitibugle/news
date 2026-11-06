@@ -9504,5 +9504,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "57344dc3307bdd0eb0da",
+    "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+    "category": "World",
+    "published_at": "2026-11-06T20:06:11Z",
+    "first_seen_at": "2026-11-06T20:54:35.199849Z",
+    "updated_at": "2026-11-06T20:54:35.199849Z",
+    "sources": [
+      {
+        "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-06T20:06:11Z",
+        "primary": false,
+        "excerpt": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step downUS politics live – latest updatesStephen Miller, Donald Trump’s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections.The president announced the extraordinary appointment on Friday, confirming that Susie Wiles – his current chief of staff, and the first woman to serve in the role – had been ousted. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
