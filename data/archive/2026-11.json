@@ -9390,6 +9390,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1d2f4ee0d1050f427e68",
+    "title": "Four midterms takeaways for 2028 White House race",
+    "category": "Elections",
+    "published_at": "2026-11-06T16:12:22Z",
+    "first_seen_at": "2026-11-06T16:59:57.694504Z",
+    "updated_at": "2026-11-06T16:59:57.694504Z",
+    "sources": [
+      {
+        "title": "Four midterms takeaways for 2028 White House race",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-06T16:12:22Z",
+        "primary": false,
+        "excerpt": "The buzz about the presidential election is already under way - here's what we learned this week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
