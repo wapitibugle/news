@@ -5490,5 +5490,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
     "group": ""
+  },
+  "29008ed5d1cda96e67aca3fb12ef694d313d392293b8e1dc4d09ae7ec2c27d89": {
+    "id": "7734cad685a6cd3c00b0",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "An AP-consortium voter survey found 56% considered data centres a crucial or major voting factor. BBC analysis cautions that this does not establish how many votes or seats opposition to data centres delivered; corruption and living costs ranked higher.",
+    "evidence_quote": "we can't say how many votes or Senate seats were directly delivered by data centre opposition.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "Did a data centre revolt affect the US mid-term election results?",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
+    "group": ""
+  },
+  "35fdab66659c107930fc19072c8cffacbc6c5c4341ab24f64b24aeab88599686": {
+    "id": "adb3875b04d439409ea1",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "The Nasdaq closed down more than 5.5% Thursday as a technology-stock sell-off spread globally. The report links investor concerns to potential AI restrictions after the midterms, alongside existing doubts about returns on AI spending.",
+    "evidence_quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5% on Thursday",
+    "related_ids": [
+      "cf6a238773ad65679343"
+    ],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+    "group": "adb3875b04d439409ea1"
+  },
+  "d88357bd066b2ea89d7de4716ab9c6b83e75d57ae3986dfd9c3183f14ff03441": {
+    "id": "3b992b58e7e1883170be",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+    "group": ""
+  },
+  "f284398c040ba638c21604b8039185b67fbb499aed2aec55e54b3d652ea4382a": {
+    "id": "cf0e8892152b47152e14",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The White House denies reports that Hegseth or Rubio may leave. Republican Representative Thomas Massie says he will trigger an impeachment resolution against Hegseth next week; no departure or impeachment outcome is established.",
+    "evidence_quote": "he will trigger his resolution to impeach the defence secretary early next week.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+    "group": ""
+  },
+  "c3194facd806771e79158284798f23b906c2dd0baeca3f4c98d6018d10359a94": {
+    "id": "cf6a238773ad65679343",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "adb3875b04d439409ea1"
+    ],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+    "group": "adb3875b04d439409ea1"
+  },
+  "cb6aeb0c3d284850a015a4c04181ffe78c55a355cd77bde20fc3fce4f07794c8": {
+    "id": "43e6335d097afe052bac",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that Democrats have secured control of Congress, while Senate races in Alaska and Mississippi remain unresolved. Its tally puts Democratic net House gains at 40, with additional races still outstanding.",
+    "evidence_quote": "Democrats now are up 40 seats. That is the net number of seats they have flipped.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+    "title": "A look at the midterm races that remain undecided",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+    "group": ""
   }
 }
