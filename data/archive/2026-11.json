@@ -9418,6 +9418,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1d60a00bd6b725eda1fb",
+    "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+    "category": "World",
+    "published_at": "2026-11-06T17:40:23Z",
+    "first_seen_at": "2026-11-06T17:54:51.436897Z",
+    "updated_at": "2026-11-06T17:54:51.436897Z",
+    "sources": [
+      {
+        "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-06T17:40:23Z",
+        "primary": false,
+        "excerpt": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policiesDonald Trump will be blocked from putting a “rightwinger” on the US supreme court, according to Chuck Schumer, the soon-to-be Senate majority leader, in remarks that were a preview of how Democrats intend to wield their power come January.In an interview with the Associated Press, Schumer said Democrats would not confirm “any crappy nominees” to the supreme court, lower courts or Trump’s cabinet. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
