@@ -9362,6 +9362,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "01c9d29f2df6cb579f00",
+    "title": "Could the US midterms put a pin in the AI bubble?",
+    "category": "Elections",
+    "published_at": "2026-11-06T15:39:30Z",
+    "first_seen_at": "2026-11-06T15:57:39.373343Z",
+    "updated_at": "2026-11-06T15:57:39.373343Z",
+    "sources": [
+      {
+        "title": "Could the US midterms put a pin in the AI bubble?",
+        "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-06T15:39:30Z",
+        "primary": false,
+        "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
