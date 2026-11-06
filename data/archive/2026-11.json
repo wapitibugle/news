@@ -9446,6 +9446,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "49e8e2465afd973ed099",
+    "title": "Harmeet Dhillon resigns after radical reshape of Justice Department's Civil Rights Division",
+    "category": "U.S.",
+    "published_at": "2026-11-06T17:32:47Z",
+    "first_seen_at": "2026-11-06T19:01:43.704643Z",
+    "updated_at": "2026-11-06T19:01:43.704643Z",
+    "sources": [
+      {
+        "title": "Harmeet Dhillon resigns after radical reshape of Justice Department's Civil Rights Division",
+        "url": "https://www.pbs.org/newshour/politics/harmeet-dhillon-resigns-after-radical-reshape-of-justice-departments-civil-rights-division",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T17:32:47Z",
+        "primary": false,
+        "excerpt": "Dhillon has been a powerful and divisive figure inside President Donald Trump's Justice Department since her confirmation last year as assistant attorney general, where she dramatically changed the direction of a division created during the country's Civil Rights Movement to protect the rights of minorities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4bf70c3eeeb6071bf7b0",
+    "title": "On the Ground in the Final Days Before Trump’s Midterm Debacle",
+    "category": "Elections",
+    "published_at": "2026-11-06T18:30:00Z",
+    "first_seen_at": "2026-11-06T19:01:43.704643Z",
+    "updated_at": "2026-11-06T19:01:43.704643Z",
+    "sources": [
+      {
+        "title": "On the Ground in the Final Days Before Trump’s Midterm Debacle",
+        "url": "https://www.propublica.org/article/trump-movement-rally-voters-appeal",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-06T18:30:00Z",
+        "primary": false,
+        "excerpt": "The post On the Ground in the Final Days Before Trump’s Midterm Debacle appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
