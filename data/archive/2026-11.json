@@ -9280,5 +9280,59 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "155a35c1e346259d95cf",
+    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+    "category": "U.S.",
+    "published_at": "2026-11-06T12:24:52Z",
+    "first_seen_at": "2026-11-06T13:16:04.224910Z",
+    "updated_at": "2026-11-06T13:16:04.224910Z",
+    "sources": [
+      {
+        "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+        "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T12:24:52Z",
+        "primary": false,
+        "excerpt": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b5f45ef9c8a5e2ebbd0d",
+    "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+    "category": "U.S.",
+    "published_at": "2026-11-06T11:57:32Z",
+    "first_seen_at": "2026-11-06T13:16:04.224910Z",
+    "updated_at": "2026-11-06T13:16:04.224910Z",
+    "sources": [
+      {
+        "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T11:57:32Z",
+        "primary": false,
+        "excerpt": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
