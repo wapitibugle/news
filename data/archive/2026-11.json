@@ -8086,5 +8086,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "adb3875b04d439409ea1",
+    "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "category": "Elections",
+    "published_at": "2026-11-06T06:00:59Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-06T06:00:59Z",
+        "primary": false,
+        "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3b992b58e7e1883170be",
+    "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+    "category": "Elections",
+    "published_at": "2026-11-06T04:45:24Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-06T04:45:24Z",
+        "primary": false,
+        "excerpt": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harderGet our daily political email, free app or daily news podcastThe Democrats’ stunning midterm victory should broaden Australia’s alliance with the US, observers say, even as a new power base emerges in Washington, affecting Aukus, datacentre development and relations with China.Cabinet ministers, diplomats and Australia’s defence industrial sector closely watched the results this week, with control of the US Congress flipping to the Democrats and the outlook for D"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cf6a238773ad65679343",
+    "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+    "category": "Elections",
+    "published_at": "2026-11-06T00:16:53Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-06T00:16:53Z",
+        "primary": false,
+        "excerpt": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "43e6335d097afe052bac",
+    "title": "A look at the midterm races that remain undecided",
+    "category": "Elections",
+    "published_at": "2026-11-05T23:55:48Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "A look at the midterm races that remain undecided",
+        "url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T23:55:48Z",
+        "primary": false,
+        "excerpt": "As Democrats prepare to take control of Congress and Republicans grapple with stunning losses, every remaining race matters. Some races are still too close to call, including Senate battles in both Alaska and Mississippi. Congressional correspondent Lisa Desjardins reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3cb26b7c209c7a23e4e3",
+    "title": "Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives",
+    "category": "Elections",
+    "published_at": "2026-11-05T19:25:00Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives",
+        "url": "https://www.propublica.org/article/missouri-voter-ballot-initiatives-amendment-6",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-05T19:25:00Z",
+        "primary": false,
+        "excerpt": "The post Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cf0e8892152b47152e14",
+    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "category": "Elections",
+    "published_at": "2026-11-06T02:08:57Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-06T02:08:57Z",
+        "primary": false,
+        "excerpt": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "73198837f4508fe82510",
+    "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
+    "category": "Elections",
+    "published_at": "2026-11-05T23:46:36Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
+        "url": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T23:46:36Z",
+        "primary": false,
+        "excerpt": "As Trump ponders his next move, the stakes couldn't be higher for Iran, the Middle East and the global economy writ large."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b30f662062e836b5a7a",
+    "title": "How Democrats plan to investigate the Trump administration after their midterm wins",
+    "category": "Elections",
+    "published_at": "2026-11-05T22:28:50Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "How Democrats plan to investigate the Trump administration after their midterm wins",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6029639/how-democrats-plan-to-investigate-the-trump-administration-after-their-midterm-wins",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-05T22:28:50Z",
+        "primary": false,
+        "excerpt": "With their new majorities, Democrats will have at their disposal the full investigatory powers of the Congress, which include the ability to subpoena records and compel individuals to testify."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2b82a95dfc9cbcfc9199",
+    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+    "category": "U.S.",
+    "published_at": "2026-11-06T05:31:59Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+        "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T05:31:59Z",
+        "primary": false,
+        "excerpt": "The Trump administration had hoped the building of the 250-foot arch could begin as early as this week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ccb67d959929d050167c",
+    "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+    "category": "U.S.",
+    "published_at": "2026-11-06T05:05:43Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T05:05:43Z",
+        "primary": false,
+        "excerpt": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f09c6e88d19576b52830",
+    "title": "Jaguars trounce rudderless Ravens as Baltimore slump to fourth straight loss",
+    "category": "U.S.",
+    "published_at": "2026-11-06T04:17:29Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Jaguars trounce rudderless Ravens as Baltimore slump to fourth straight loss",
+        "url": "https://www.theguardian.com/sport/2026/nov/05/jacksonville-jaguars-baltimore-ravens-trevor-lawrence-joe-fagnano-nfl",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T04:17:29Z",
+        "primary": false,
+        "excerpt": "Trevor Lawrence throws for 242 yards and a touchdownRavens’ Joe Fagnano manages just 60 passing yardsJacksonville improve to 6-2 with fifth win in six gamesTrevor Lawrence threw for 242 yards and a touchdown, and the Jacksonville Jaguars had little trouble with Joe Fagnano and the Baltimore Ravens in a 33-10 victory Thursday night.Fagnano made his first career start with Lamar Jackson and Tyler Huntley injured, and the 25-year-old rookie threw for only 60 yards. Baltimore (4-5) have lost four straight. With their top two quarterbacks on injured reserve, the Ravens now await Jacoby Brissett’s a"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6caca48fcf487e04c343",
+    "title": "LSU thrash Texas Southern by school-record 109 points in historic 131-22 rout",
+    "category": "U.S.",
+    "published_at": "2026-11-06T03:58:40Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "LSU thrash Texas Southern by school-record 109 points in historic 131-22 rout",
+        "url": "https://www.theguardian.com/sport/2026/nov/05/lsu-texas-southern-131-22-record-win-40-0-quarter",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T03:58:40Z",
+        "primary": false,
+        "excerpt": "No 9 LSU cruise to 131-22 victory over Texas SouthernLargest winning margin ever between Division I teamsTigers score 40 unanswered points in second quarterJada Williams scored 16 of her 18 points in the second quarter and No 9 LSU scored 40 unanswered points in the period on the way to a school-record margin of victory in a 131-22 win over Texas Southern on Thursday night.LSU (2-0) outscored Texas Southern 40-0 in the quarter, forcing nine turnovers and holding the visiting Tigers without a field goal in 13 attempts. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ba58adb142417f99981a",
+    "title": "Taking a Gander at Utah’s Goosenecks",
+    "category": "Science",
+    "published_at": "2026-11-06T05:01:00Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Taking a Gander at Utah’s Goosenecks",
+        "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-06T05:01:00Z",
+        "primary": true,
+        "excerpt": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b745a93f125570b1d421",
+    "title": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
+    "category": "Outdoors",
+    "published_at": "2026-11-06T04:45:33Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
+        "url": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-06T04:45:33Z",
+        "primary": false,
+        "excerpt": "Rescuers were unable to save the whales after they became beached on a remote and rocky part of the countryMore than 40 pilot whales died after a mass stranding event on New Zealand’s remote east coast, conservation officials said on Friday, despite rescue efforts by volunteers and conservation workers.The Department of Conservation (DoC) said 43 whales had died in the mass stranding along the Ngawi coast on the south-eastern tip of the North Island. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7bacc30ff84575cabcc0",
+    "title": "Trump signs order preventing future presidents from changing Oval Office",
+    "category": "World",
+    "published_at": "2026-11-06T04:29:25Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-06T04:29:25Z",
+        "primary": false,
+        "excerpt": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ef462061cde94afcd338",
+    "title": "APOD: 2026 November 6 – A Farewell to Swift",
+    "category": "Science",
+    "published_at": "2026-11-06T05:05:00Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 6 – A Farewell to Swift",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-06T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "912aeba4e63c2315df0b",
+    "title": "News Wrap: Head of Justice Department's civil rights division resigns",
+    "category": "U.S.",
+    "published_at": "2026-11-05T23:50:08Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "News Wrap: Head of Justice Department's civil rights division resigns",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-head-of-justice-departments-civil-rights-division-resigns",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-05T23:50:08Z",
+        "primary": false,
+        "excerpt": "In our news wrap Thursday, Harmeet Dhillon is stepping down as head of the Justice Department's civil rights division, Melania Trump hosted Russian and Ukrainian officials to mark a localized ceasefire and European authorities are investigating a series of bomb threats that targeted more than a dozen flights."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "04f686ace2013b67369e",
+    "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+    "category": "U.S.",
+    "published_at": "2026-11-05T23:00:50Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+        "url": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-05T23:00:50Z",
+        "primary": false,
+        "excerpt": "Corruption topped the list of concerns for voters who ousted Republicans and handed Democrats control of Congress in the midterm elections. Now, the newly empowered Democratic Party is putting the issue front and center as its leaders chart their course for investigations and policymaking."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9eb325f4b01f0395ba0",
+    "title": "Key federal panel expected to approve Trump's arch amid court challenge",
+    "category": "U.S.",
+    "published_at": "2026-11-05T21:34:07Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Key federal panel expected to approve Trump's arch amid court challenge",
+        "url": "https://www.pbs.org/newshour/politics/key-federal-panel-expected-to-approve-trumps-arch-amid-court-challenge",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-05T21:34:07Z",
+        "primary": false,
+        "excerpt": "The approval would clear a hurdle on the road to breaking ground on the project, and the administration has said it could launch construction within a day of the vote. But the proposed 250-foot tall gilded arch still faced legal challenges."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9fe2258b437f888bba6b",
+    "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+    "category": "U.S.",
+    "published_at": "2026-11-05T20:52:27Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T20:52:27Z",
+        "primary": false,
+        "excerpt": "As war rages on in Kyiv and other cities, the first lady celebrates her single-city ceasefire with Russian and Ukrainian envoysBeaming from a podium in the White House’s Grand Foyer, Melania Trump welcomed senior Russian and Ukrainian officials on Thursday to celebrate a ceasefire in an embattled Ukrainian town for which she has become the unlikeliest broker.The evacuation from Oleshky, a frontline Ukrainian town now occupied by Russia where 800 people lived through a protracted humanitarian crisis, may seem like a sideshow at this point in the war. Russian missiles and drones continue to rain"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "468dee4e3a9d65e9b96c",
+    "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+    "category": "Elections",
+    "published_at": "2026-11-05T09:50:34Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-05T09:50:34Z",
+        "primary": false,
+        "excerpt": "On Morning Edition, Pulitzer Prize-winning historian Anne Applebaum breaks down what a Democratic Congress could change about Trump's foreign policy and what remains beyond its power."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a00dc5c854ec6e83f353",
+    "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+    "category": "U.S.",
+    "published_at": "2026-11-05T11:21:35Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-05T11:21:35Z",
+        "primary": false,
+        "excerpt": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c6d12391d76d62e0808d",
+    "title": "After midterms, world leaders await Trump's next move in Iran",
+    "category": "Elections",
+    "published_at": "2026-11-05T23:45:29Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "After midterms, world leaders await Trump's next move in Iran",
+        "url": "https://www.pbs.org/newshour/show/after-midterms-world-leaders-await-trumps-next-move-in-iran",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T23:45:29Z",
+        "primary": false,
+        "excerpt": "Tuesday's election results were not just closely watched in the U.S. American elections, in many ways, have become global events and the Democratic wave led to an extraordinary outpouring. Nick Schifrin gauges that reaction."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "595331a715a30a599e9b",
+    "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show",
+    "category": "U.S.",
+    "published_at": "2026-11-05T20:43:26Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T20:43:26Z",
+        "primary": false,
+        "excerpt": "Trump administration push emerges from a lawsuit alleging violations of national immigration regulationsThe Trump administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents obtained by the Associated Press show.The court documents unsealed on Thursday show the Republican administration as recently as mid-October said it had plans to deport the Iranians through an unnamed third country, although it was unclear when it intended to do so. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a07394934dbf5ab7f84",
+    "title": "Inside Mississippi's ballot counting in tight Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-05T20:31:38Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Inside Mississippi's ballot counting in tight Senate race",
+        "url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-05T20:31:38Z",
+        "primary": false,
+        "excerpt": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2a1618fa8d4cc435fcbe",
+    "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
+    "category": "U.S.",
+    "published_at": "2026-11-05T19:58:49Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/mexican-judge-us-arrest-drug-trafficking",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-05T19:58:49Z",
+        "primary": false,
+        "excerpt": "The judge oversaw extradition proceedings in Mexico for a Canadian citizen allegedly helping Ryan WeddingA Mexican judge has been arrested and accused of accepting $2m in bribes in exchange for releasing a suspected Canadian drug trafficker from custody, US officials said on Thursday.Luis Benítez Alcántara was overseeing extradition proceedings in Mexico in 2024 for Canadian citizen Andrew Clark, who was charged in the US with helping to run a billion-dollar drug-trafficking group allegedly headed by the former Canadian Olympic snowboarder Ryan Wedding, the justice department said in a stateme"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "58a88975301c1e594b80",
+    "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
+    "category": "Elections",
+    "published_at": "2026-11-05T23:40:32Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
+        "url": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T23:40:32Z",
+        "primary": false,
+        "excerpt": "With Democrats set to take control of the House, they are making plans to use their majority not only to advance legislation but also to ramp up congressional oversight. California Rep. Robert Garcia is expected to become the new chairman of the House Oversight Committee. He says Democrats have plans to move quickly with a series of investigations. Garcia joined Liz Landers to discuss more."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4d288fc3a6739d54a5d1",
+    "title": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short",
+    "category": "Elections",
+    "published_at": "2026-11-05T22:44:08Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short",
+        "url": "https://www.pbs.org/newshour/politics/elon-musk-gambled-445-million-to-boost-republicans-in-the-midterms-it-came-up-short",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-05T22:44:08Z",
+        "primary": false,
+        "excerpt": "Nobody may have suffered bigger losses Tuesday than President Donald Trump. But few others had more on the line than Musk, who gambled big and came up holding the midterm's worst return on investment."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f6c87935e2a769199fd1",
+    "title": "Fox News suffers ratings drop on bleak election night for Republicans",
+    "category": "Elections",
+    "published_at": "2026-11-05T22:04:20Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Fox News suffers ratings drop on bleak election night for Republicans",
+        "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T22:04:20Z",
+        "primary": false,
+        "excerpt": "News channel trailed NBC and ABC, but edged out CNN, MS Now and CBS in primetime hours on midterm election nightQ&A: Ask your questions about Democrats’ win in the midtermsOn a midterm election night that was a huge disappointment for Republicans, with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party, according to final audience numbers released on Thursday.The Fox News channel, which often leads among all news networks in viewership on election ni"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5c50352f02719aed8ed7",
+    "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+    "category": "Elections",
+    "published_at": "2026-11-05T21:23:18Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T21:23:18Z",
+        "primary": false,
+        "excerpt": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results.As Wall Street sustained widespread losses, the Nasdaq composite tumbled into “correction territory” – more than 10% below its recent record high – with more than $2tn shaved off its value by the end of trading Thursday. The tech-heavy index had its biggest one-day fall since Donald Trump"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c23658ddbe81e98017ab",
+    "title": "Trump is soothing the midterms loss with what he loves best: interior design | Arwa Mahdawi",
+    "category": "Elections",
+    "published_at": "2026-11-05T19:12:23Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Trump is soothing the midterms loss with what he loves best: interior design | Arwa Mahdawi",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trumps-interior-design",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T19:12:23Z",
+        "primary": false,
+        "excerpt": "The president seems to accept this is his last White House stint and is focused on renovating whatever he can get his little hands onAs you’d expect, the right is in a shambles right now. Elon Musk is making jokes about his “election-interfering space lasers” and pretending that he really, really doesn’t care that he threw away nearly half a billion dollars trying to influence the midterms. JD Vance is writing long essays on social media about how he agrees the Iran war was a bit of an oopsie.Donald Trump, meanwhile, seems to be going through his own idiosyncratic grieving process about the Re"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86e3dcf9d2ee55f0b164",
+    "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed",
+    "category": "Elections",
+    "published_at": "2026-11-05T19:09:42Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T19:09:42Z",
+        "primary": false,
+        "excerpt": "A note from our US editor: A reckoning is coming, but make no mistake: Trump is still president – we’ll need a free press in 2027 as much as we did in darker days. Please help today if you are ableBetsy Reed is US editor of the GuardianOver the past two years, millions of people all over the world have watched Donald Trump’s destructive reign unfold with one question in their minds: Is there no check on his power?This week, voters deciding who controls Congress responded in a thunderous voice: there must be a check on the president’s power. From Texas to Ohio to South Carolina, Americans surge"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3aaffea83e1dd7b78ba6",
+    "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
+    "category": "Elections",
+    "published_at": "2026-11-05T18:51:47Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T18:51:47Z",
+        "primary": false,
+        "excerpt": "JD Vance, Ron DeSantis and Ted Cruz all pointed to Iran war and affordability as key factors in Democratic victoryUS midterms 2026 live – latest updatesQ&A: Ask your questions about Democrats’ win in the midtermsRepublican hopefuls in the race to succeed Donald Trump swiftly blamed two key pillars of his agenda – the Iran war and tariffs – for summoning the Democratic blue wave that swept the US midterm elections.The fallout from the stunning success of Democrats on Tuesday night has left Republicans reeling – and grasping for the reasons behind the collapse in support. On Thursday, the Associ"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e4900f9241d01ec4810d",
+    "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
+    "category": "Elections",
+    "published_at": "2026-11-05T17:00:28Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T17:00:28Z",
+        "primary": false,
+        "excerpt": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning oneQ&A: Ask your questions about Democrats’ win in the midtermsClimate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races. Voters were laser-focused on affordability, and experts said Democrats succeeded in linking cost-of-living concerns with rising energy prices, datacenters and, to some extent, the climate crisis. They may have even created a path for a “new climate politics”.The results delivered a sharp rebuke of Donald Trump, w"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6973459a90b8a493ddff",
+    "title": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
+    "category": "Elections",
+    "published_at": "2026-11-05T11:00:23Z",
+    "first_seen_at": "2026-11-06T06:07:14.000897Z",
+    "updated_at": "2026-11-06T06:07:14.000897Z",
+    "sources": [
+      {
+        "title": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-05T11:00:23Z",
+        "primary": false,
+        "excerpt": "The tech industry spent big on the midterms, but it turned out to be a poor investment. Elon Musk poured a staggering $446m dollars into Republican-aligned political action committees (Pacs) and groups since last year, but his efforts didn’t pay off. Democrats won every one of the five Senate races where Musk’s America Pac spent the most money backing Republican candidates. Carter Sherman and Kai Wright are joined by the Guardian’s US tech editor, Blake Montgomery, to ask what the ‘blue tsunami’ will mean for Musk and the wider tech industry. Will this spell the end of AI datacenters? And if s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
