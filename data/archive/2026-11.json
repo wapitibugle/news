@@ -9250,6 +9250,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "dc864f0335438c73a1c7",
+    "title": "Healthcare Cuts Fuel Democrats’ Election Blowout",
+    "category": "Elections",
+    "published_at": "2026-11-06T10:00:00Z",
+    "first_seen_at": "2026-11-06T11:11:30.410774Z",
+    "updated_at": "2026-11-06T11:11:30.410774Z",
+    "sources": [
+      {
+        "title": "Healthcare Cuts Fuel Democrats’ Election Blowout",
+        "url": "https://kffhealthnews.org/elections/healthcare-cuts-fuel-democratic-midterm-blue-wave-agenda/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-06T10:00:00Z",
+        "primary": false,
+        "excerpt": "Climbing healthcare costs drove a blue wave this election season. Julie Rovner, KFF Health News' chief Washington correspondent, breaks down the midterms and how the results could shape future healthcare debates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
