@@ -8108,11 +8108,28 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "adb3875b04d439409ea1",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "The Nasdaq closed down more than 5.5% Thursday as a technology-stock sell-off spread globally. The report links investor concerns to potential AI restrictions after the midterms, alongside existing doubts about returns on AI spending.",
+      "evidence_quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5% on Thursday",
+      "related_ids": [
+        "cf6a238773ad65679343"
+      ],
+      "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "group": "adb3875b04d439409ea1"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3b992b58e7e1883170be",
@@ -8135,11 +8152,26 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "3b992b58e7e1883170be",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+      "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cf6a238773ad65679343",
@@ -8162,11 +8194,28 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "cf6a238773ad65679343",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "adb3875b04d439409ea1"
+      ],
+      "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "group": "adb3875b04d439409ea1"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "43e6335d097afe052bac",
@@ -8189,11 +8238,26 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "43e6335d097afe052bac",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports that Democrats have secured control of Congress, while Senate races in Alaska and Mississippi remain unresolved. Its tally puts Democratic net House gains at 40, with additional races still outstanding.",
+      "evidence_quote": "Democrats now are up 40 seats. That is the net number of seats they have flipped.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+      "title": "A look at the midterm races that remain undecided",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3cb26b7c209c7a23e4e3",
@@ -8220,7 +8284,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cf0e8892152b47152e14",
@@ -8243,11 +8308,26 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "cf0e8892152b47152e14",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The White House denies reports that Hegseth or Rubio may leave. Republican Representative Thomas Massie says he will trigger an impeachment resolution against Hegseth next week; no departure or impeachment outcome is established.",
+      "evidence_quote": "he will trigger his resolution to impeach the defence secretary early next week.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-06T07:26:09.899476+00:00",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "73198837f4508fe82510",
@@ -8274,7 +8354,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4b30f662062e836b5a7a",
@@ -8301,7 +8382,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2b82a95dfc9cbcfc9199",
@@ -8328,7 +8410,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ccb67d959929d050167c",
@@ -8355,7 +8438,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f09c6e88d19576b52830",
@@ -8382,7 +8466,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6caca48fcf487e04c343",
@@ -8409,7 +8494,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ba58adb142417f99981a",
@@ -8436,7 +8522,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b745a93f125570b1d421",
@@ -8463,7 +8550,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7bacc30ff84575cabcc0",
@@ -8490,7 +8578,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ef462061cde94afcd338",
@@ -8517,7 +8606,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "912aeba4e63c2315df0b",
@@ -8544,7 +8634,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "04f686ace2013b67369e",
@@ -8571,7 +8662,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f9eb325f4b01f0395ba0",
@@ -8598,7 +8690,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9fe2258b437f888bba6b",
@@ -8625,7 +8718,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "468dee4e3a9d65e9b96c",
@@ -8652,7 +8746,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a00dc5c854ec6e83f353",
@@ -8679,7 +8774,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c6d12391d76d62e0808d",
@@ -8706,7 +8802,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "595331a715a30a599e9b",
@@ -8733,7 +8830,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7a07394934dbf5ab7f84",
@@ -8760,7 +8858,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2a1618fa8d4cc435fcbe",
@@ -8787,7 +8886,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "58a88975301c1e594b80",
@@ -8814,7 +8914,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4d288fc3a6739d54a5d1",
@@ -8841,7 +8942,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f6c87935e2a769199fd1",
@@ -8868,7 +8970,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5c50352f02719aed8ed7",
@@ -8895,7 +8998,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c23658ddbe81e98017ab",
@@ -8922,7 +9026,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86e3dcf9d2ee55f0b164",
@@ -8949,7 +9054,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3aaffea83e1dd7b78ba6",
@@ -8976,7 +9082,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e4900f9241d01ec4810d",
@@ -9003,7 +9110,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6973459a90b8a493ddff",
@@ -9021,6 +9129,34 @@
         "published_at": "2026-11-05T11:00:23Z",
         "primary": false,
         "excerpt": "The tech industry spent big on the midterms, but it turned out to be a poor investment. Elon Musk poured a staggering $446m dollars into Republican-aligned political action committees (Pacs) and groups since last year, but his efforts didn’t pay off. Democrats won every one of the five Senate races where Musk’s America Pac spent the most money backing Republican candidates. Carter Sherman and Kai Wright are joined by the Guardian’s US tech editor, Blake Montgomery, to ask what the ‘blue tsunami’ will mean for Musk and the wider tech industry. Will this spell the end of AI datacenters? And if s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4baea1587b4eb8d1035f",
+    "title": "Judge temporarily halts building work on Trump’s triumphal arch",
+    "category": "World",
+    "published_at": "2026-11-06T06:36:20Z",
+    "first_seen_at": "2026-11-06T07:26:09.899476Z",
+    "updated_at": "2026-11-06T07:26:09.899476Z",
+    "sources": [
+      {
+        "title": "Judge temporarily halts building work on Trump’s triumphal arch",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-06T06:36:20Z",
+        "primary": false,
+        "excerpt": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commissionA federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the president’s most prominent projects in his vision to remake Washington.The temporary restraining order was issued by US district judge Tanya Chutkan in the early hours of Friday. It followed a series of steps taken on Thursday by the government, including the final approval of the 250-foot-high (76-meter) arch by the Natio"
       }
     ],
     "tier": "brief",
