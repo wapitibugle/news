@@ -10971,6 +10971,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a09e7cf61f77163c2b4f",
+    "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+    "category": "Elections",
+    "published_at": "2026-11-07T13:00:12Z",
+    "first_seen_at": "2026-11-07T14:50:08.105411Z",
+    "updated_at": "2026-11-07T14:50:08.105411Z",
+    "sources": [
+      {
+        "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T13:00:12Z",
+        "primary": false,
+        "excerpt": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footingDonald Trump just gave the middle finger to millions of American voters.Any other president who suffered the kind of drubbing at the polls that Trump did this week might have felt at least a sliver of humility – and perhaps even an obligation to work with the new opposition in Congress. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
