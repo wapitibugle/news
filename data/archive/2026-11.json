@@ -11083,6 +11083,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "da16c073b6d81e507a09",
+    "title": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
+    "category": "Elections",
+    "published_at": "2026-11-07T17:00:16Z",
+    "first_seen_at": "2026-11-07T18:53:53.063644Z",
+    "updated_at": "2026-11-07T18:53:53.063644Z",
+    "sources": [
+      {
+        "title": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/youth-vote-turnout-midterm-elections",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T17:00:16Z",
+        "primary": false,
+        "excerpt": "After helping Trump to victory in 2024, young voters swung decisively toward Democrats, helping deliver a wave of midterm victoriesThe 2026 blue tsunami owes a lot to the youth vote.According to data from Tufts University’s Center for Information & Research on Civic Learning and Engagement (Circle), which monitors youth civic engagement, early estimates show the second-highest youth turnout in a midterm election in 30 years, second only to 2018, when an estimated 31% of young voters turned out during Donald Trump’s first presidency. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
