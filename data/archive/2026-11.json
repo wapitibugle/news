@@ -9588,5 +9588,1187 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "dadbcd2010b3996e73cf",
+    "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+    "category": "Elections",
+    "published_at": "2026-11-07T06:00:04Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+        "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T06:00:04Z",
+        "primary": false,
+        "excerpt": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with TrumpThe Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, by increasing the urgency of unseating Benjamin Netanyahu, who has associated himself so closely with Donald Trump’s Republicans.But as Israel took stock of the results, there was also a sense that the elections marked a longer-term shift in US politics that will make the job of any new Israeli leader far more difficult."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f336d9ad5e6cc21a2184",
+    "title": "Midterm Wave Sets a Course for ‘Medicare for All’ Fight",
+    "category": "Elections",
+    "published_at": "2026-11-06T10:00:00Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Midterm Wave Sets a Course for ‘Medicare for All’ Fight",
+        "url": "https://kffhealthnews.org/insurance/medicare-for-all-single-payer-insurance-el-sayed-midterms-democratic-congress-voter-appeal/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-06T10:00:00Z",
+        "primary": false,
+        "excerpt": "Voter frustration with healthcare costs helped fuel the Democrats’ midterm takeover of Congress. But Democratic control doesn’t mean “Medicare for All” will follow, as some hoped."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bda1706f378a372b8f1f",
+    "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+    "category": "Science",
+    "published_at": "2026-11-07T05:05:00Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-07T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ccee2736ab75fd696752",
+    "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:50:18Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-construction-of-trumps-triumphal-arch-for-now",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:50:18Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, Trump's plans to build a massive triumphal arch near Arlington National Cemetery have been put on hold, two more top officials resigned from the Justice Department, residents along the Georgia-Tennessee border are returning home after record floodwaters receded, Pope Leo started his 12-day tour of Latin America, and Tesla will wind down production of its Cybertruck."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "30866560e7b8232b365b",
+    "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+    "category": "World",
+    "published_at": "2026-11-07T01:04:52Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-07T01:04:52Z",
+        "primary": false,
+        "excerpt": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t careOn Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military tanks and masked agents though residential streets.But on Friday, the president doubled down. He named Stephen Miller – the architect of the administration’s most aggressive immigration policies – as his chief of staff. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d18b4349964a324a1dcb",
+    "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+    "category": "U.S.",
+    "published_at": "2026-11-06T22:22:51Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+        "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T22:22:51Z",
+        "primary": false,
+        "excerpt": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues.",
+        "ai_editor": {
+          "id": "d18b4349964a324a1dcb",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "With 97% counted, Democrat Scott Colom leads Mississippi's Senate race by about 2,500 votes. Outstanding absentee and provisional ballots leave the outcome unresolved, while campaigns dispute ballot handling in a state without a set recount procedure.",
+          "evidence_quote": "Democratic candidate Scott Colom is about 2,500 votes ahead",
+          "related_ids": [],
+          "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+          "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "d18b4349964a324a1dcb",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "With 97% counted, Democrat Scott Colom leads Mississippi's Senate race by about 2,500 votes. Outstanding absentee and provisional ballots leave the outcome unresolved, while campaigns dispute ballot handling in a state without a set recount procedure.",
+      "evidence_quote": "Democratic candidate Scott Colom is about 2,500 votes ahead",
+      "related_ids": [],
+      "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+      "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a596ca56ac691d4e11a8",
+    "title": "Man in custody after being found in vehicle near White House with guns",
+    "category": "World",
+    "published_at": "2026-11-07T00:31:59Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Man in custody after being found in vehicle near White House with guns",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-07T00:31:59Z",
+        "primary": false,
+        "excerpt": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald TrumpThe US secret service said a suspect has been taken into custody and charged after officers found him in a vehicle near the White House with multiple guns, claiming he heard voices in his head telling him to kill Donald Trump.The arrest Thursday night happened after secret service officers approached a man “acting suspicious” in a parked car, according to a Homeland Security statement. US officials said the suspect – Ronny Yordrix Guanipa Chrinos – went on to describe voices in h"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b71a1777abc800daec3",
+    "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+    "category": "U.S.",
+    "published_at": "2026-11-06T22:21:35Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T22:21:35Z",
+        "primary": false,
+        "excerpt": "White House chief of staff Susie Wiles is being replaced by Stephen Miller, President Trump said Friday. The change comes after Republicans were swept out of power in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8bcd5eb7fc95501558c",
+    "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:46:53Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+        "url": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:46:53Z",
+        "primary": false,
+        "excerpt": "Schumer says the party's agenda will center around lowering prices, along with five issues that they have focused on in the minority — healthcare, housing, Trump's tariffs, childcare and lowering energy bills."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "58f869a45ed5ef9c2ce5",
+    "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:17:44Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+        "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:17:44Z",
+        "primary": false,
+        "excerpt": "President Trump's White House chief of staff, Susie Wiles, is stepping down. She is Trump's longest-serving chief of staff and the first woman ever to hold the position.",
+        "ai_editor": {
+          "id": "58f869a45ed5ef9c2ce5",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Trump announced that Stephen Miller would replace Susie Wiles as White House chief of staff after Republicans lost control of Congress. Miller currently serves as deputy chief of staff and is a key architect of the administration’s immigration policies.",
+          "evidence_quote": "Stephen Miller was replacing Susie Wiles as White House chief of staff",
+          "related_ids": [],
+          "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+          "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "58f869a45ed5ef9c2ce5",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Trump announced that Stephen Miller would replace Susie Wiles as White House chief of staff after Republicans lost control of Congress. Miller currently serves as deputy chief of staff and is a key architect of the administration’s immigration policies.",
+      "evidence_quote": "Stephen Miller was replacing Susie Wiles as White House chief of staff",
+      "related_ids": [],
+      "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+      "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f8efee77e698620bfcd7",
+    "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+    "category": "U.S.",
+    "published_at": "2026-11-06T22:35:09Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T22:35:09Z",
+        "primary": false,
+        "excerpt": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership teamUS politics live – latest updatesDonald Trump on Friday said Susie Wiles, the first woman to serve as White House chief of staff, will leave her post, a major shake-up of his inner circle that comes amid a steady exodus of senior female officials from his administration.The president announced her ouster – and her replacement, by the immigration hardliner Stephen Miller – in a post on Truth Social, days after a sweeping blue wave gave Democrats control of both chambers of Congress in "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f819e93d781e1d533b0f",
+    "title": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+    "category": "U.S.",
+    "published_at": "2026-11-06T18:30:36Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+        "url": "https://www.pbs.org/newshour/nation/opposition-to-ai-data-centers-in-the-midterms-foreshadows-tougher-regulations-ahead",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T18:30:36Z",
+        "primary": false,
+        "excerpt": "Data center regulation itself was not on most midterm ballots, but hard-line stances against the server warehouses were woven into the platforms of Democrats who upended longtime Republican control of the governorships in Texas, Ohio and Georgia, all data center hot spots.",
+        "ai_editor": {
+          "id": "f819e93d781e1d533b0f",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "AP reports that newly elected governors and lawmakers campaigned on restricting data centers, potentially changing rules for electricity costs, water use and construction. These are prospective policies, not enacted restrictions. AP's voter survey suggests data centers were less important to congressional votes than corruption or living costs.",
+          "evidence_quote": "About one-quarter of U.S. voters said AI data centers were \"crucial\" to their vote for Congress",
+          "related_ids": [
+            "01c9d29f2df6cb579f00",
+            "523d76047aac70b3cfca"
+          ],
+          "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+          "title": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/nation/opposition-to-ai-data-centers-in-the-midterms-foreshadows-tougher-regulations-ahead",
+          "group": "01c9d29f2df6cb579f00"
+        }
+      },
+      {
+        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T17:04:41Z",
+        "primary": false,
+        "excerpt": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington Continue reading...",
+        "ai_editor": {
+          "id": "523d76047aac70b3cfca",
+          "priority": 1,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "01c9d29f2df6cb579f00",
+            "f819e93d781e1d533b0f"
+          ],
+          "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+          "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+          "group": "01c9d29f2df6cb579f00"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "f819e93d781e1d533b0f",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports that newly elected governors and lawmakers campaigned on restricting data centers, potentially changing rules for electricity costs, water use and construction. These are prospective policies, not enacted restrictions. AP's voter survey suggests data centers were less important to congressional votes than corruption or living costs.",
+      "evidence_quote": "About one-quarter of U.S. voters said AI data centers were \"crucial\" to their vote for Congress",
+      "related_ids": [
+        "01c9d29f2df6cb579f00",
+        "523d76047aac70b3cfca"
+      ],
+      "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+      "title": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/nation/opposition-to-ai-data-centers-in-the-midterms-foreshadows-tougher-regulations-ahead",
+      "group": "01c9d29f2df6cb579f00"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "393e67af6a75d08a4d37",
+    "title": "Houston to limit police cooperation with federal immigration authorities",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:29:55Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Houston to limit police cooperation with federal immigration authorities",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:29:55Z",
+        "primary": false,
+        "excerpt": "Mayor said only immigrants that ‘pose a danger’ would be referred to ICE, after Democrats gain control of governor’s seatThe mayor of Houston on Friday said the city would limit cooperation with federal immigration authorities, heralding “a new model” of immigration enforcement after Democrats won power in Texas for the first time in decades.Houston’s mayor, John Whitmire, said the city would go after immigrants “that pose a danger, not those that are going about their family business, work and education”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a1e3da5a26ef2c7a3e3b",
+    "title": "US midterm results spark fears in Israel over future of two countries' ties",
+    "category": "World",
+    "published_at": "2026-11-06T13:23:44Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "US midterm results spark fears in Israel over future of two countries' ties",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-06T13:23:44Z",
+        "primary": false,
+        "excerpt": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+        "ai_editor": {
+          "id": "a1e3da5a26ef2c7a3e3b",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+          "title": "US midterm results spark fears in Israel over future of two countries' ties",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "a1e3da5a26ef2c7a3e3b",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "48c7e6f0c5b5f0cb9e73",
+    "title": "Russian extremist group denies sending hoax bomb threats",
+    "category": "World",
+    "published_at": "2026-11-06T12:51:38Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Russian extremist group denies sending hoax bomb threats",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-06T12:51:38Z",
+        "primary": false,
+        "excerpt": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "106be822f2849f4d4d86",
+    "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+    "category": "World",
+    "published_at": "2026-11-06T07:33:41Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+        "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-06T07:33:41Z",
+        "primary": false,
+        "excerpt": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d84ad07d80f507cadb83",
+    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+    "category": "World",
+    "published_at": "2026-11-07T03:07:01Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+        "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-07T03:07:01Z",
+        "primary": false,
+        "excerpt": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have acceleratedDonald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, describing the action as “minor.”Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in the strait of Hormuz, the crucial waterway for oil shipments that has been disrupted since the beginning of the US war on Iran in February. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2f5e170cbf4272411c31",
+    "title": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
+    "category": "U.S.",
+    "published_at": "2026-11-06T11:00:00Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
+        "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-06T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1547b1031f74f223a307",
+    "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
+    "category": "U.S.",
+    "published_at": "2026-11-06T22:26:00Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T22:26:00Z",
+        "primary": false,
+        "excerpt": "Gina Hinojosa, state representative from the Rio Grande Valley whose legislative priority has been boosting the public education system, will become the first Latina governor of Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ea7feef83f19196f4fc9",
+    "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+    "category": "U.S.",
+    "published_at": "2026-11-06T21:53:10Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T21:53:10Z",
+        "primary": false,
+        "excerpt": "Democrats' resounding victory in the midterms can be boiled down to frustrations over the high cost of living and gas prices. But in divided government -- how much can Democrats do?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fb1a883a482931630d8f",
+    "title": "The incoming class of U.S. senators is full of historic firsts",
+    "category": "U.S.",
+    "published_at": "2026-11-06T20:21:13Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "The incoming class of U.S. senators is full of historic firsts",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T20:21:13Z",
+        "primary": false,
+        "excerpt": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates on Tuesday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7af1d6929c51e8559ad7",
+    "title": "Texas mayor instructs police to limit co-operation with ICE",
+    "category": "U.S.",
+    "published_at": "2026-11-07T03:31:54Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Texas mayor instructs police to limit co-operation with ICE",
+        "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-07T03:31:54Z",
+        "primary": false,
+        "excerpt": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e32a2368d1352619397",
+    "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:55:50Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+        "url": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:55:50Z",
+        "primary": false,
+        "excerpt": "Trump has replaced White House chief of staff Susie Wiles with Stephen Miller, the hardline architect of his immigration agenda, after a crushing midterm defeat. Immigration, once a political strength for Trump, became a liability after two years of mass detentions, deportations and armed agents in U.S. cities. Miller's appointment signals a doubling down on Trump's agenda. Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e926a52b1adddb7b7f3f",
+    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+    "category": "U.S.",
+    "published_at": "2026-11-06T20:09:58Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T20:09:58Z",
+        "primary": false,
+        "excerpt": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3fc9238c3874ca766978",
+    "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:46:08Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+        "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:46:08Z",
+        "primary": false,
+        "excerpt": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6921e45d9c5909960ee8",
+    "title": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:45:56Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+        "url": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:45:56Z",
+        "primary": false,
+        "excerpt": "Employers added 165,000 new jobs in October, according to a new government report. Job gains for August and September were revised upward as well, by a combined 84,000 jobs. That makes the last three months of the job market look better than expected, but it comes as questions grow about the sustainability of the AI boom. Amna Nawaz speaks with Diane Swonk, chief economist for KPMG, for more."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "49dc0f1d956d45af282e",
+    "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:50:14Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:50:14Z",
+        "primary": false,
+        "excerpt": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
+        "ai_editor": {
+          "id": "49dc0f1d956d45af282e",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "563edd0f9d6c208765c1"
+          ],
+          "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+          "group": "49dc0f1d956d45af282e"
+        }
+      },
+      {
+        "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T18:51:52Z",
+        "primary": false,
+        "excerpt": "Democratic and Republican lawyers and groups trade sharp legal letters about procedures for counting ballots in tight raceWhere Trump and Republicans lost the midterms – a visual analysis of the key statesDemocrat Scott Colom is on the verge of winning a Senate seat in Mississippi in a stunning upset, but ballots are still being counted in a close race where Colom holds a lead of just under 2,000 votes over Republican incumbent Cindy Hyde-Smith. Losing ruby-red Mississippi would be the final straw for Republicans after a midterm sweep by Democrats that turned Texas blue and saw a Democrat elec",
+        "ai_editor": {
+          "id": "563edd0f9d6c208765c1",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Mississippi’s Senate race remains unresolved, with Scott Colom leading Cindy Hyde-Smith by just under 2,000 votes as counting continues. Republican and Democratic lawyers have issued conflicting demands over affidavit ballots. The state has no automatic recount law; a court must order a recount following a lawsuit.",
+          "evidence_quote": "Mississippi has no automatic recount law.",
+          "related_ids": [
+            "49dc0f1d956d45af282e"
+          ],
+          "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+          "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+          "group": "49dc0f1d956d45af282e"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "49dc0f1d956d45af282e",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "563edd0f9d6c208765c1"
+      ],
+      "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+      "group": "49dc0f1d956d45af282e"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "941eb1948f8137f1b8d4",
+    "title": "Bad blood? Knicks defend Taylor Swift after players accuse her of being ‘fake fan’",
+    "category": "U.S.",
+    "published_at": "2026-11-07T00:09:50Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Bad blood? Knicks defend Taylor Swift after players accuse her of being ‘fake fan’",
+        "url": "https://www.theguardian.com/sport/2026/nov/06/taylor-swift-knicks-tyler-kolek-miles-mcbride-fake-fan",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-07T00:09:50Z",
+        "primary": false,
+        "excerpt": "Kolek calls singer’s courtside appearances ‘performative’McBride agrees as teammates question celebrity fandomKnicks give statement saying Swift is longtime supporterTaylor Swift’s love story with the New York Knicks caught an unexpected stray after two players from last season’s NBA champions accused the singer of being a fair-weather fan.The Knicks released a statement on Friday defending Swift after Tyler Kolek and Miles McBride questioned whether the pop superstar was a genuine supporter of the team. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8eb086f001649612d550",
+    "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:40:45Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+        "url": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:40:45Z",
+        "primary": false,
+        "excerpt": "Democrats' midterm wins have reached red states across the country, including Kansas, which has not sent a Democrat to the U.S. Senate since 1932. That will soon change after Rev. Adam Hamilton, who leads the largest United Methodist church in the country, defeated Republican incumbent Roger Marshall Tuesday night. Amna Nawaz speaks with Sen.-elect Hamilton for more.",
+        "ai_editor": {
+          "id": "8eb086f001649612d550",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports that Adam Hamilton defeated incumbent Roger Marshall, giving Kansas its first Democratic U.S. senator since 1932. In the interview, Hamilton discusses his campaign and his approach to Senate leadership and oversight.",
+          "evidence_quote": "defeated Republican incumbent Roger Marshall Tuesday night.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+          "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "8eb086f001649612d550",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports that Adam Hamilton defeated incumbent Roger Marshall, giving Kansas its first Democratic U.S. senator since 1932. In the interview, Hamilton discusses his campaign and his approach to Senate leadership and oversight.",
+      "evidence_quote": "defeated Republican incumbent Roger Marshall Tuesday night.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+      "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9b225e31f95fe29d8c99",
+    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "category": "U.S.",
+    "published_at": "2026-11-06T21:49:50Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T21:49:50Z",
+        "primary": false,
+        "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d3614eae10e980abb548",
+    "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:13:52Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:13:52Z",
+        "primary": false,
+        "excerpt": "The change comes after sweeping Republican losses in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "384cab4bfab8e31859f0",
+    "title": "Georgia Gov.-elect Bottoms reflects on historic victory and the path forward for Democrats",
+    "category": "U.S.",
+    "published_at": "2026-11-06T23:35:55Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Georgia Gov.-elect Bottoms reflects on historic victory and the path forward for Democrats",
+        "url": "https://www.pbs.org/newshour/show/georgia-gov-elect-bottoms-reflects-on-historic-victory-and-the-path-forward-for-democrats",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-06T23:35:55Z",
+        "primary": false,
+        "excerpt": "Georgia voters made history this week, electing Keisha Lance Bottoms as the state's first Democratic senator in more than two decades and the first-ever Black woman governor in the country. The former Atlanta mayor campaigned on lowering costs, expanding healthcare access and pushing back against the Trump administration. Geoff Bennett speaks with Gov.-elect Bottoms for more."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f787e72ccb2e7762b1b5",
+    "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+    "category": "U.S.",
+    "published_at": "2026-11-06T21:46:37Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-06T21:46:37Z",
+        "primary": false,
+        "excerpt": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rapeCornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student’s lawsuit saying she was gang-raped at a fraternity party in 2024.The resolution passed 75-50, with five faculty senators abstaining and five others not voting, according to an email sent to members of the faculty senate on Friday afternoon. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8d72e90829254c25382f",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "category": "U.S.",
+    "published_at": "2026-11-06T21:06:25Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-06T21:06:25Z",
+        "primary": false,
+        "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9f1aba68d4a47499981e",
+    "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+    "category": "U.S.",
+    "published_at": "2026-11-06T19:13:06Z",
+    "first_seen_at": "2026-11-07T07:08:52.986361Z",
+    "updated_at": "2026-11-07T07:08:52.986361Z",
+    "sources": [
+      {
+        "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-06T19:13:06Z",
+        "primary": false,
+        "excerpt": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
