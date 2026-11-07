@@ -10915,6 +10915,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "25c6634a0487d8b2933f",
+    "title": "Border shift: Hispanic voters drive Texas' historic flip to blue",
+    "category": "Elections",
+    "published_at": "2026-11-07T12:41:08Z",
+    "first_seen_at": "2026-11-07T12:59:40.589265Z",
+    "updated_at": "2026-11-07T12:59:40.589265Z",
+    "sources": [
+      {
+        "title": "Border shift: Hispanic voters drive Texas' historic flip to blue",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6030994/border-shift-hispanic-voters-drive-texas-historic-flip-to-blue",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-07T12:41:08Z",
+        "primary": false,
+        "excerpt": "Once reliably a red state, Texas will turn deep blue following this week's midterms. One of the most notable shifts was along the Texas-Mexico border, where Hispanic voters had a big influence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
