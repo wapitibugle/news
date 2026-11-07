@@ -5678,5 +5678,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
     "group": ""
+  },
+  "21f1f5eb31b862ffb115a945f84e1533ba5234c9a89a3b2bb97475180bb75612": {
+    "id": "afcde6d7a5da08cd133b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Houston Mayor John Whitmire directed police to limit cooperation with ICE. The order says suspected immigration-enforcement status alone cannot justify contacting ICE or prolonging detention; it retains specified grounds for contacting the agency.",
+    "evidence_quote": "shall not, by itself, be a basis to contact ICE, to prolong any detention",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "WATCH: 'Elections matter.' Houston mayor limits police cooperation with ICE",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-elections-matter-houston-mayor-limits-police-cooperation-with-ice",
+    "group": ""
+  },
+  "e5e4c399de5be4108a32dbb9aa5222f5c87559c7d0013a9785fa47c01c7783b5": {
+    "id": "612883a640e88a9ac930",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+    "group": ""
+  },
+  "e21337d4747a96e396fc7e5f6919f7b900a358dd7135e7c865d18805090b8776": {
+    "id": "49dc0f1d956d45af282e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "563edd0f9d6c208765c1"
+    ],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+    "group": "49dc0f1d956d45af282e"
+  },
+  "133539f9a57f8e654bee5fc4a1c7f086592c6db75c8aa64348a5a0e5c62d0bee": {
+    "id": "58f869a45ed5ef9c2ce5",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Trump announced that Stephen Miller would replace Susie Wiles as White House chief of staff after Republicans lost control of Congress. Miller currently serves as deputy chief of staff and is a key architect of the administration’s immigration policies.",
+    "evidence_quote": "Stephen Miller was replacing Susie Wiles as White House chief of staff",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+    "group": ""
+  },
+  "6824fd488c9de864e1ecf34ddf75eb5e495ebf873f24b30d5f683e10bdf0ac4f": {
+    "id": "beb6f467946a8ed7f967",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports a Democratic shift among Latino voters, supported by election results and its survey of more than 100,000 midterm voters. About one-third of Hispanic respondents backed Republican House candidates. Comparisons with 2024 involve different contests and electorates, not necessarily the same individuals switching parties.",
+    "evidence_quote": "About one-third of Hispanic voters said they backed the Republican in their local U.S. House race",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Latino voters propel Democrats to big wins with leftward swing",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/latino-voters-propel-democrats-to-big-wins-with-leftward-swing",
+    "group": ""
+  },
+  "1032a13666629a0a86e4258540582b3bd0a4e537155c300214dd01fde05b69e9": {
+    "id": "563edd0f9d6c208765c1",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Mississippi’s Senate race remains unresolved, with Scott Colom leading Cindy Hyde-Smith by just under 2,000 votes as counting continues. Republican and Democratic lawyers have issued conflicting demands over affidavit ballots. The state has no automatic recount law; a court must order a recount following a lawsuit.",
+    "evidence_quote": "Mississippi has no automatic recount law.",
+    "related_ids": [
+      "49dc0f1d956d45af282e"
+    ],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+    "group": "49dc0f1d956d45af282e"
   }
 }
