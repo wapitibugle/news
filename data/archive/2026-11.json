@@ -11167,7 +11167,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "238dcf178c25dd4b2678",
@@ -11175,7 +11176,7 @@
     "category": "U.S.",
     "published_at": "2026-11-07T19:51:32Z",
     "first_seen_at": "2026-11-07T20:47:37.651834Z",
-    "updated_at": "2026-11-07T20:47:37.651834Z",
+    "updated_at": "2026-11-07T21:45:08.966881Z",
     "sources": [
       {
         "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
@@ -11185,6 +11186,43 @@
         "published_at": "2026-11-07T19:51:32Z",
         "primary": false,
         "excerpt": "President said the ‘violent Fighter and Warrior’ plus some UFC brawlers would ‘defend us from the Lunatic Left’Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship, the president said in a social media post on Saturday.Trump described White, who staged a cage-fighting spectacle at the White House to mark the president’s 80th birthday in June, as “a violent Fighter and Warrior”, credentials unlike any ever used to describe previous press secretaries. Continue reading..."
+      },
+      {
+        "title": "Trump says he's asked UFC's Dana White to be his press secretary",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T20:55:40Z",
+        "primary": false,
+        "excerpt": "Trump's social media post about the offer came as his White House is in a period of major transition and struggling with his party's deep losses in Tuesday's midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a3e3ef4ef44c2385f85d",
+    "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+    "category": "U.S.",
+    "published_at": "2026-11-07T19:47:10Z",
+    "first_seen_at": "2026-11-07T21:45:08.966881Z",
+    "updated_at": "2026-11-07T21:45:08.966881Z",
+    "sources": [
+      {
+        "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-07T19:47:10Z",
+        "primary": false,
+        "excerpt": "Ana Reyes wants to know whether federal officials lied about extent of renovation plans at East Potomac golf courseA federal judge said on Saturday that she intended to appoint an ex-top federal prosecutor who served during Donald Trump’s first term to investigate whether she was purposely misled by lawyers and administration officials over changes to a historic public golf course in Washington DC.Jessie Liu, a former US attorney for the District of Columbia, would examine whether officials with the interior department and the National Park Service and attorneys with the Department of Justice "
       }
     ],
     "tier": "brief",
