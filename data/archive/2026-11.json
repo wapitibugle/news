@@ -11139,6 +11139,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f8c8604aa3e67c0cba56",
+    "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+    "category": "U.S.",
+    "published_at": "2026-11-07T18:34:30Z",
+    "first_seen_at": "2026-11-07T20:47:37.651834Z",
+    "updated_at": "2026-11-07T20:47:37.651834Z",
+    "sources": [
+      {
+        "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+        "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T18:34:30Z",
+        "primary": false,
+        "excerpt": "The administration plans to close the East Potomac Golf Course and park on Nov. 15 with the intention of constructing a \"World Class, championship-level golf course that is capable of hosting major events.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "238dcf178c25dd4b2678",
+    "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+    "category": "U.S.",
+    "published_at": "2026-11-07T19:51:32Z",
+    "first_seen_at": "2026-11-07T20:47:37.651834Z",
+    "updated_at": "2026-11-07T20:47:37.651834Z",
+    "sources": [
+      {
+        "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-07T19:51:32Z",
+        "primary": false,
+        "excerpt": "President said the ‘violent Fighter and Warrior’ plus some UFC brawlers would ‘defend us from the Lunatic Left’Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship, the president said in a social media post on Saturday.Trump described White, who staged a cage-fighting spectacle at the White House to mark the president’s 80th birthday in June, as “a violent Fighter and Warrior”, credentials unlike any ever used to describe previous press secretaries. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
