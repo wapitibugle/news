@@ -5584,5 +5584,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
     "group": ""
+  },
+  "88966af96cd1fb84640ff54e4e89cf6b3ca0a990c99b66dead0516c04c58a09a": {
+    "id": "8eb086f001649612d550",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that Adam Hamilton defeated incumbent Roger Marshall, giving Kansas its first Democratic U.S. senator since 1932. In the interview, Hamilton discusses his campaign and his approach to Senate leadership and oversight.",
+    "evidence_quote": "defeated Republican incumbent Roger Marshall Tuesday night.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+    "group": ""
+  },
+  "5f5fb4cbf3ccb6ae915090d480f6dacdedc56219be4fe9e57bf5dd924eef9f42": {
+    "id": "8868b806eb369a0cc5ea",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Former Republican Sen. Jeff Flake argues his party needs a different course after its midterm losses. His comments offer political analysis, not polling evidence about why voters acted.",
+    "evidence_quote": "we're in a cul-de-sac as a party unless we change course.",
+    "related_ids": [
+      "5c6572e304c3794e5764"
+    ],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Former Sen. Flake, outspoken Trump critic, on the GOP reckoning post-midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/former-sen-flake-outspoken-trump-critic-on-the-gop-reckoning-post-midterms",
+    "group": "5c6572e304c3794e5764"
+  },
+  "042428465d426e6d3276609faf46388a9dc0a8a6838502a34987f0949e0625b6": {
+    "id": "5c6572e304c3794e5764",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that Stephen Miller will replace Susie Wiles as White House chief of staff. Brooks and Capehart discuss the appointment and election fallout; their predictions about the Republican Party are commentary.",
+    "evidence_quote": "Stephen Miller will replace Susie Wiles as White House chief of staff.",
+    "related_ids": [
+      "8868b806eb369a0cc5ea"
+    ],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Brooks and Capehart on Trump's White House shakeup and fallout from the midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-white-house-shakeup-and-fallout-from-the-midterms",
+    "group": "5c6572e304c3794e5764"
+  },
+  "9f8a83663d3bfeb0194953af5277e395132820430fb82e2e91f605466d82b004": {
+    "id": "80d17af82405b2bc2d21",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "American democracy was a big winner in the midterms",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/06/nx-s1-6029750/american-democracy-was-a-big-winner-in-the-midterms",
+    "group": ""
+  },
+  "2b2706a18fea8c571b281fa92d7b9314cb2028d75f5ad2e1416ae6f14b731b2e": {
+    "id": "d18b4349964a324a1dcb",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "With 97% counted, Democrat Scott Colom leads Mississippi's Senate race by about 2,500 votes. Outstanding absentee and provisional ballots leave the outcome unresolved, while campaigns dispute ballot handling in a state without a set recount procedure.",
+    "evidence_quote": "Democratic candidate Scott Colom is about 2,500 votes ahead",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o",
+    "group": ""
+  },
+  "4ba536a7e1e005d41ac0ad6e1c46ac87deb09e3b8bc152746710ddf43f0be791": {
+    "id": "20e5ea8a8d5139236251",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Asian and European stocks fell after Thursday's sharp U.S. technology sell-off, while U.S. indexes partially rebounded Friday. Analysts cited concerns about AI infrastructure spending and investment returns; those explanations are assessments, not established causes.",
+    "evidence_quote": "the tech-heavy Nasdaq closed up 1% – which only recovered a portion of their previous day’s losses.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:04:32.596135+00:00",
+    "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+    "group": ""
   }
 }
