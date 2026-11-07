@@ -10859,6 +10859,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5175a0c9e5e557237a09",
+    "title": "Our Reporters Discuss Healthcare Costs — And What Changes the Midterms May Portend",
+    "category": "Elections",
+    "published_at": "2026-11-07T10:00:00Z",
+    "first_seen_at": "2026-11-07T10:51:27.616229Z",
+    "updated_at": "2026-11-07T10:51:27.616229Z",
+    "sources": [
+      {
+        "title": "Our Reporters Discuss Healthcare Costs — And What Changes the Midterms May Portend",
+        "url": "https://kffhealthnews.org/on-air/on-air-november-7-2026-midterm-election-healthcare-costs-reform-media-appearances/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-07T10:00:00Z",
+        "primary": false,
+        "excerpt": "KFF Health News journalists made the rounds on national and local media in recent weeks to discuss topical stories. Here’s a collection of their appearances."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
