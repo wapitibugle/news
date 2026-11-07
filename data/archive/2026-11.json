@@ -11055,6 +11055,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ce2eafd60fd4d91f1d14",
+    "title": "Justice Department drops bid to force California to set aside disputed ballots",
+    "category": "Elections",
+    "published_at": "2026-11-07T16:50:42Z",
+    "first_seen_at": "2026-11-07T17:43:59.048877Z",
+    "updated_at": "2026-11-07T17:43:59.048877Z",
+    "sources": [
+      {
+        "title": "Justice Department drops bid to force California to set aside disputed ballots",
+        "url": "https://www.pbs.org/newshour/politics/justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-07T16:50:42Z",
+        "primary": false,
+        "excerpt": "The move comes days after Republicans' significant losses in the midterm elections and about a week before a scheduled hearing where a special master was slated to evaluate the accuracy of the list of alleged noncitizens."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
