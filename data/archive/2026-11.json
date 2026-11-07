@@ -10887,6 +10887,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fc6f92a5eaed207625c7",
+    "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
+    "category": "Elections",
+    "published_at": "2026-11-07T11:00:10Z",
+    "first_seen_at": "2026-11-07T11:48:31.298586Z",
+    "updated_at": "2026-11-07T11:48:31.298586Z",
+    "sources": [
+      {
+        "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T11:00:10Z",
+        "primary": false,
+        "excerpt": "The GOP tried to dilute their power, but Black voters helped Democrats get elected in Alabama, Texas and FloridaBlack voter turnout surged across US southern states where Republicans were accused of redrawing electoral maps to “diminish Black political power” in the wake of a seismic supreme court ruling.Democrats flipped or held seats in Alabama, Texas and Florida with the support of this voting bloc, building on a decades-long, dedicated movement to protect and build Black political power in the region. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
