@@ -5772,5 +5772,104 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
     "group": "49dc0f1d956d45af282e"
+  },
+  "1fb66f813496290623ff5909eb808b9e1208b4b9402d07a3d7afe70342f8e02a": {
+    "id": "01c9d29f2df6cb579f00",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "523d76047aac70b3cfca",
+      "f819e93d781e1d533b0f"
+    ],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "Why the US midterms sparked an AI stock selloff",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+    "group": "01c9d29f2df6cb579f00"
+  },
+  "0d9c4f8efa782e94bc2b0c61bdcbfd7859cc1ebdeb10b46d5530810d2163348a": {
+    "id": "f819e93d781e1d533b0f",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports that newly elected governors and lawmakers campaigned on restricting data centers, potentially changing rules for electricity costs, water use and construction. These are prospective policies, not enacted restrictions. AP's voter survey suggests data centers were less important to congressional votes than corruption or living costs.",
+    "evidence_quote": "About one-quarter of U.S. voters said AI data centers were \"crucial\" to their vote for Congress",
+    "related_ids": [
+      "01c9d29f2df6cb579f00",
+      "523d76047aac70b3cfca"
+    ],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/nation/opposition-to-ai-data-centers-in-the-midterms-foreshadows-tougher-regulations-ahead",
+    "group": "01c9d29f2df6cb579f00"
+  },
+  "89cb38e97ac9229717d0b4272323c82bb923a875417cb99805677ba0c3d5420e": {
+    "id": "4bf70c3eeeb6071bf7b0",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "On the Ground in the Final Days Before Trump’s Midterm Debacle",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.propublica.org/article/trump-movement-rally-voters-appeal",
+    "group": ""
+  },
+  "07e22002979c8bd15c34f9497bf5441bc06f44eda6c784d1e3274318cd91d5d5": {
+    "id": "523d76047aac70b3cfca",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "01c9d29f2df6cb579f00",
+      "f819e93d781e1d533b0f"
+    ],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+    "group": "01c9d29f2df6cb579f00"
+  },
+  "0884bcbdb41c6b78dc8278bb01eb84e8c473dca46dc96606c3553f376e8a6eb6": {
+    "id": "1d2f4ee0d1050f427e68",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "The BBC examines how midterm results could influence potential presidential contenders and party strategies. No candidate discussed has entered the presidential race, and the article cautions that midterm success does not guarantee victory two years later.",
+    "evidence_quote": "No one has yet entered the presidential race",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "Four midterms takeaways for 2028 White House race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+    "group": ""
+  },
+  "252aa32f7f6dc8edb348b0405e463a911d4d8ec28a03b35aab95e52ba2209532": {
+    "id": "a1e3da5a26ef2c7a3e3b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-07T02:57:25.815390+00:00",
+    "title": "US midterm results spark fears in Israel over future of two countries' ties",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
+    "group": ""
   }
 }
