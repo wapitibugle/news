@@ -10999,6 +10999,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "14bb5c59878c6174ebe7",
+    "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+    "category": "Elections",
+    "published_at": "2026-11-07T13:00:12Z",
+    "first_seen_at": "2026-11-07T15:47:09.099147Z",
+    "updated_at": "2026-11-07T15:47:09.099147Z",
+    "sources": [
+      {
+        "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T13:00:12Z",
+        "primary": false,
+        "excerpt": "President spent weeks praising his favored candidates’ physiques, from their jawlines to their shoulders – but most of his hot guys lost​It was either a last-ditch considered strategy to win votes, or the ramblings of an increasingly unhinged and increasingly amorous party leader.Either way, it didn’t work. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
