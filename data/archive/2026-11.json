@@ -11027,6 +11027,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7a6b98fe9c42f9eb7915",
+    "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
+    "category": "Elections",
+    "published_at": "2026-11-07T12:00:12Z",
+    "first_seen_at": "2026-11-07T16:49:16.408485Z",
+    "updated_at": "2026-11-07T16:49:16.408485Z",
+    "sources": [
+      {
+        "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-07T12:00:12Z",
+        "primary": false,
+        "excerpt": "Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford itFor the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami. Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energized the blue base. But red-belt-busting wins in Republican strongholds like Texas, South Carolina and Kansas alongside pending races in Alaska and Mississippi left mouths agape. The explanation was that"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
