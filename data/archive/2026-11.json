@@ -11111,6 +11111,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "48253ca13a8097945c68",
+    "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+    "category": "U.S.",
+    "published_at": "2026-11-07T19:42:46Z",
+    "first_seen_at": "2026-11-07T19:50:04.251020Z",
+    "updated_at": "2026-11-07T19:50:04.251020Z",
+    "sources": [
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-07T19:42:46Z",
+        "primary": false,
+        "excerpt": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
