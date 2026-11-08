@@ -12447,5 +12447,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "c0a0fd9526b418529a76",
+    "title": "NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad",
+    "category": "Elections",
+    "published_at": "2026-11-08T13:34:32Z",
+    "first_seen_at": "2026-11-08T14:48:57.375556Z",
+    "updated_at": "2026-11-08T14:48:57.375556Z",
+    "sources": [
+      {
+        "title": "NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-08T13:34:32Z",
+        "primary": false,
+        "excerpt": "The results of the U.S. midterms were closely followed overseas. NPR correspondents in Moscow and Beijing discuss how the elections are seen in the countries they cover."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
