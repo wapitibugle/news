@@ -12473,6 +12473,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "39f7eb3252bdf2aaf5c1",
+    "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
+    "category": "Outdoors",
+    "published_at": "2026-11-08T13:16:04Z",
+    "first_seen_at": "2026-11-08T15:45:42.802100Z",
+    "updated_at": "2026-11-08T15:45:42.802100Z",
+    "sources": [
+      {
+        "title": "Trump administration moves to lift ban on roadbuilding and logging in national forests",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5981452/trump-administration-moves-to-lift-ban-on-roadbuilding-and-logging-in-national-forests",
+        "publisher": "NPR",
+        "category": "Outdoors",
+        "published_at": "2026-11-08T13:16:04Z",
+        "primary": false,
+        "excerpt": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
