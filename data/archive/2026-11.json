@@ -12557,7 +12557,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e234be1478cf3d5ec791",
@@ -12584,7 +12585,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "edf205edd8b7dac5d9b0",
@@ -12602,6 +12604,88 @@
         "published_at": "2026-11-08T17:31:40Z",
         "primary": false,
         "excerpt": "Storms in late October and early November sent torrents of water through normally small or dry creeks that overflowed their banks and flooded local communities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "646660f455083c017256",
+    "title": "The midterms energized a powerful political constituency: abuse survivors",
+    "category": "Elections",
+    "published_at": "2026-11-08T18:41:30Z",
+    "first_seen_at": "2026-11-08T18:53:24.817397Z",
+    "updated_at": "2026-11-08T18:53:24.817397Z",
+    "sources": [
+      {
+        "title": "The midterms energized a powerful political constituency: abuse survivors",
+        "url": "https://www.pbs.org/newshour/politics/the-midterms-energized-a-powerful-political-constituency-abuse-survivors",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-08T18:41:30Z",
+        "primary": false,
+        "excerpt": "From Ohio Gov.-elect Amy Acton's victory to candidates accused of abuse withdrawing, advocates are calling this year's elections \"a win for survivors.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aaa9539f55510ac6207b",
+    "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+    "category": "Elections",
+    "published_at": "2026-11-08T17:58:43Z",
+    "first_seen_at": "2026-11-08T18:53:24.817397Z",
+    "updated_at": "2026-11-08T18:53:24.817397Z",
+    "sources": [
+      {
+        "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-08T17:58:43Z",
+        "primary": false,
+        "excerpt": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in CongressDonald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party.The US president’s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ultimate Fighting Championship, after offering him the job of press secretary. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9bd5b3e38384828db63d",
+    "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+    "category": "U.S.",
+    "published_at": "2026-11-08T18:05:01Z",
+    "first_seen_at": "2026-11-08T18:53:24.817397Z",
+    "updated_at": "2026-11-08T18:53:24.817397Z",
+    "sources": [
+      {
+        "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+        "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T18:05:01Z",
+        "primary": false,
+        "excerpt": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House."
       }
     ],
     "tier": "brief",
