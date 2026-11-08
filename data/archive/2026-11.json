@@ -12361,6 +12361,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0b1cd8acf5fcd85320dc",
+    "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
+    "category": "U.S.",
+    "published_at": "2026-11-08T10:00:00Z",
+    "first_seen_at": "2026-11-08T11:48:13.859192Z",
+    "updated_at": "2026-11-08T11:48:13.859192Z",
+    "sources": [
+      {
+        "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
+        "url": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-08T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
