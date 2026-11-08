@@ -11290,5 +11290,959 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "404ba329b755c4be1191",
+    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+    "category": "World",
+    "published_at": "2026-11-08T06:00:33Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-08T06:00:33Z",
+        "primary": false,
+        "excerpt": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e7c8eadb942c310dd840",
+    "title": "Hundreds of seagrass shoots found in estuary",
+    "category": "Science",
+    "published_at": "2026-11-08T07:06:13Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Hundreds of seagrass shoots found in estuary",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-08T07:06:13Z",
+        "primary": false,
+        "excerpt": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9237fc2c3e8d06bda6fe",
+    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+    "category": "Outdoors",
+    "published_at": "2026-11-08T06:00:33Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-08T06:00:33Z",
+        "primary": false,
+        "excerpt": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zooThe Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family conglomerate, drawing criticism from conservationists over their fossil fuel businesses and their foundation’s controversial mega-zoo.A spokesperson for the Earthshot prize, which awards £1m to five winners every year to invest in conservation work, confirmed to the Guardian and the news outlet Mongabay that this year’s ceremony will be he"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0950815151edb81dc160",
+    "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
+    "category": "Science",
+    "published_at": "2026-11-08T05:00:30Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
+        "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-08T05:00:30Z",
+        "primary": false,
+        "excerpt": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilitiesFor people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations that sent a column of smoke into the air.If the Kremlin was vague about the target, video footage on social media soon made it clear what had been hit in the early hours of 15 August: the Progress Rocket and Space Centre, manufacturer of Russia’s Soyuz-2 "
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b964b146a7587e2200d",
+    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+    "category": "Science",
+    "published_at": "2026-11-08T05:05:00Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-08T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bff414d00301dab1acac",
+    "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+    "category": "U.S.",
+    "published_at": "2026-11-07T17:39:49Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+        "url": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T17:39:49Z",
+        "primary": false,
+        "excerpt": "An outspoken defender of President Donald Trump's most far-reaching goals to remake government going back to his 2016 run for president, Miller is known for his harsh language and unapologetic bombast."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cc78c069197a9177b423",
+    "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+    "category": "U.S.",
+    "published_at": "2026-11-07T14:00:14Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-07T14:00:14Z",
+        "primary": false,
+        "excerpt": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costsWhile Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target: our lakes and oceans.Two underwater datacenters are already in operation off the coast of China, and recent reports suggest that the Trump administration is considering plans for four proposed underwater, sealed-pod datacenters to be built off the shores of Maine and Alaska. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0bd1d2422ac382cecfc8",
+    "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+    "category": "U.S.",
+    "published_at": "2026-11-07T10:00:08Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-07T10:00:08Z",
+        "primary": false,
+        "excerpt": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm electionsDemocratic lawmakers decried Stephen Miller as a “hatemonger”, a “xenophobe” and “vile” after Donald Trump appointed his most trusted adviser as White House chief of staff.On Friday afternoon, the US president abruptly announced via his Truth Social platform that Miller – the architect of his sweeping immigration crackdown – would replace Susie Wiles, whom he confirmed had been ousted. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0fd700b21f788ebecb7e",
+    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "category": "World",
+    "published_at": "2026-11-07T22:19:59Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-07T22:19:59Z",
+        "primary": false,
+        "excerpt": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b7ba65c704ad4512d299",
+    "title": "US offers $20m reward for information about Iran's nuclear programme",
+    "category": "World",
+    "published_at": "2026-11-07T18:14:38Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-07T18:14:38Z",
+        "primary": false,
+        "excerpt": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6f32b7d44ef53651cc0",
+    "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+    "category": "U.S.",
+    "published_at": "2026-11-08T00:19:52Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T00:19:52Z",
+        "primary": false,
+        "excerpt": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8e51085a95d4037a671",
+    "title": "Gaza wedding festival sees 250 couples married at the same time",
+    "category": "World",
+    "published_at": "2026-11-07T17:58:41Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Gaza wedding festival sees 250 couples married at the same time",
+        "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-07T17:58:41Z",
+        "primary": false,
+        "excerpt": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "28db91cecd7feead9c7d",
+    "title": "Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker",
+    "category": "U.S.",
+    "published_at": "2026-11-07T11:00:00Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker",
+        "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-07T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b2c83578e55be0cd0f2",
+    "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "category": "World",
+    "published_at": "2026-11-07T12:49:36Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-07T12:49:36Z",
+        "primary": false,
+        "excerpt": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "49ed3809a84054a40f88",
+    "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
+    "category": "U.S.",
+    "published_at": "2026-11-07T23:01:43Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
+        "url": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T23:01:43Z",
+        "primary": false,
+        "excerpt": "The festival follows the Hindu lunar calendar, typically falling in late October or early November. This year, Diwali falls on Nov. 8."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e9f47d95482fd0227ca3",
+    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+    "category": "World",
+    "published_at": "2026-11-08T03:00:28Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+        "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-08T03:00:28Z",
+        "primary": false,
+        "excerpt": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back.Last year, Thai authorities forcibly deported 40 Uyghur men to China despite pleas from the men themselves and the UN. The US and Canada had reportedly offered to resettle them, but Bangkok appeared to want to avoid upsetting Beijing. The UN has said the"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "260b800a78d89b0a149e",
+    "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+    "category": "U.S.",
+    "published_at": "2026-11-07T22:12:08Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T22:12:08Z",
+        "primary": false,
+        "excerpt": "NPR's Rob Schmitz speaks with former Texas congressman Beto O'Rourke about how past efforts by him and other Democrats helped the party win big in Texas in the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fe43e4b6ce3d31067615",
+    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+    "category": "World",
+    "published_at": "2026-11-07T19:49:39Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-07T19:49:39Z",
+        "primary": false,
+        "excerpt": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majorityIsrael’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power.Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention to task him with forming a government”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "212301cf7c6ead033754",
+    "title": "The surprising and often forgotten history of economic populism in Texas",
+    "category": "U.S.",
+    "published_at": "2026-11-07T22:12:07Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "The surprising and often forgotten history of economic populism in Texas",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T22:12:07Z",
+        "primary": false,
+        "excerpt": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "62f39c82b1348381f08e",
+    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+    "category": "World",
+    "published_at": "2026-11-07T13:03:03Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+        "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-07T13:03:03Z",
+        "primary": false,
+        "excerpt": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the DniproVolodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River.Ukraine’s president said Moscow’s preparations for peace talks next week involved pummelling a city of millions with ballistic missiles. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6d26b6c918791bb54cb3",
+    "title": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
+    "category": "U.S.",
+    "published_at": "2026-11-07T21:14:44Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
+        "url": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T21:14:44Z",
+        "primary": false,
+        "excerpt": "Researchers found that the stroke incidence rate among adults from 1993-94 nearly doubled in 2020, jumping from 33.90 cases per 100,000 people to 62.18 cases."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "40963488db7f30d422d3",
+    "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+    "category": "U.S.",
+    "published_at": "2026-11-07T22:12:03Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T22:12:03Z",
+        "primary": false,
+        "excerpt": "Kevin Roberts, the president of the conservative think tank The Heritage Foundation, talks about the organization's priorities and hopes for the future of the Republican Party and its policies."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e22278c6cbdb1a7fb0e9",
+    "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+    "category": "U.S.",
+    "published_at": "2026-11-07T20:39:08Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+        "url": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T20:39:08Z",
+        "primary": false,
+        "excerpt": "Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel's main parties recommended Eisenkot be tasked with assembling a new government."
+      },
+      {
+        "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T20:18:18Z",
+        "primary": false,
+        "excerpt": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ef57ca2c93ac81143716",
+    "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
+    "category": "U.S.",
+    "published_at": "2026-11-07T19:35:15Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
+        "url": "https://www.pbs.org/newshour/politics/melania-trump-and-lsu-announce-a-scholarship-program-for-students-who-were-in-foster-care",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T19:35:15Z",
+        "primary": false,
+        "excerpt": "Trump and LSU secured more than $7 million in private donations to create an endowment fund for the scholarships, the White House said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "efa3042371dea0f3e229",
+    "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
+    "category": "U.S.",
+    "published_at": "2026-11-07T18:37:36Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T18:37:36Z",
+        "primary": false,
+        "excerpt": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4088e956e34af03b42e9",
+    "title": "The Trump coalition is shattered - what will Republicans do now?",
+    "category": "U.S.",
+    "published_at": "2026-11-08T00:52:39Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "The Trump coalition is shattered - what will Republicans do now?",
+        "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-08T00:52:39Z",
+        "primary": false,
+        "excerpt": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a9581759fdaf4d20767",
+    "title": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+    "category": "U.S.",
+    "published_at": "2026-11-07T18:14:13Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+        "url": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T18:14:13Z",
+        "primary": false,
+        "excerpt": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered in advance to attend the service. The Vatican said Saturday that another 10,000 had attended, despite the morning rain."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d885a696d889ce6383aa",
+    "title": "Ousted Paraguayan president appears before prosecutors",
+    "category": "U.S.",
+    "published_at": "2026-11-07T17:14:36Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Ousted Paraguayan president appears before prosecutors",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T17:14:36Z",
+        "primary": false,
+        "excerpt": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "79899bdba10830d0ae68",
+    "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+    "category": "U.S.",
+    "published_at": "2026-11-07T17:54:01Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+        "url": "https://www.pbs.org/newshour/politics/scott-colom-and-black-mississippians-stand-on-the-cusp-of-senate-history-as-vote-count-stretches-on",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T17:54:01Z",
+        "primary": false,
+        "excerpt": "The state is still tallying ballots that could make Colom the first Black senator from this Deep South state since post-Civil War Reconstruction."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a069f3a6b3b250a6e34c",
+    "title": "A promising new medicine against heart disease fails unexpectedly",
+    "category": "U.S.",
+    "published_at": "2026-11-07T14:50:00Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "A promising new medicine against heart disease fails unexpectedly",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T14:50:00Z",
+        "primary": false,
+        "excerpt": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8030a7d17caee8af6d4d",
+    "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and wounding 16",
+    "category": "U.S.",
+    "published_at": "2026-11-07T17:21:59Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and wounding 16",
+        "url": "https://www.pbs.org/newshour/world/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T17:21:59Z",
+        "primary": false,
+        "excerpt": "The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city's Main Square. He was fascinated with far-right ideologies and held \"very radical views,\" Polish Interior Minister Marcin Kierwiński said at a news conference."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "183edbbf4eb155c926d5",
+    "title": "Democrats plan to widen their probes of fatal ICE shootings",
+    "category": "U.S.",
+    "published_at": "2026-11-07T13:19:09Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Democrats plan to widen their probes of fatal ICE shootings",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T13:19:09Z",
+        "primary": false,
+        "excerpt": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5c188f86d676957d8c27",
+    "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day",
+    "category": "U.S.",
+    "published_at": "2026-11-08T03:31:47Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day",
+        "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-08T03:31:47Z",
+        "primary": false,
+        "excerpt": "Messi first to win consecutive MLS Golden BootsInter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 pointsLionel Messi won his second consecutive MLS Golden Boot award on Saturday, but Inter Miami squandered a three-goal lead in a 3-3 draw with Charlotte on the final day of the regular season.The Argentine superstar failed to score but set up Miami’s first two goals from corners at Nu Stadium as the defending champions secured second place in the Eastern Conference and home-field advantage for the first two rounds of the playoffs. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "539928a64d4a2ff4d369",
+    "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
+    "category": "U.S.",
+    "published_at": "2026-11-07T17:10:20Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
+        "url": "https://www.pbs.org/newshour/world/paraguays-ousted-president-faces-prosecutors-after-his-removal-over-bank-collapse",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-07T17:10:20Z",
+        "primary": false,
+        "excerpt": "Paraguayan prosecutors on Friday ordered the arrest of Peña and former Central Bank chief Carlos Carvallo as part of a criminal investigation into alleged breach of trust and other offenses tied to the collapse of Ueno Bank."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "487e2780a60ba9388e72",
+    "title": "Perspective: Simon Winchester was here to tell a story",
+    "category": "U.S.",
+    "published_at": "2026-11-07T13:00:00Z",
+    "first_seen_at": "2026-11-08T07:11:14.910149Z",
+    "updated_at": "2026-11-08T07:11:14.910149Z",
+    "sources": [
+      {
+        "title": "Perspective: Simon Winchester was here to tell a story",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-07T13:00:00Z",
+        "primary": false,
+        "excerpt": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
