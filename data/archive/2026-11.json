@@ -12333,6 +12333,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d2b2603025dca63c4b7b",
+    "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+    "category": "Elections",
+    "published_at": "2026-11-08T10:00:00Z",
+    "first_seen_at": "2026-11-08T10:52:04.854425Z",
+    "updated_at": "2026-11-08T10:52:04.854425Z",
+    "sources": [
+      {
+        "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-08T10:00:00Z",
+        "primary": false,
+        "excerpt": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
