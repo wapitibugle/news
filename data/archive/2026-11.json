@@ -12307,5 +12307,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "fc8b9f966699944af36a",
+    "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+    "category": "U.S.",
+    "published_at": "2026-11-08T07:35:29Z",
+    "first_seen_at": "2026-11-08T09:54:56.114445Z",
+    "updated_at": "2026-11-08T09:54:56.114445Z",
+    "sources": [
+      {
+        "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T07:35:29Z",
+        "primary": false,
+        "excerpt": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
