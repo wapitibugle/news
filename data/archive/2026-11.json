@@ -12529,6 +12529,88 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ab240c5c1385e9720919",
+    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "category": "Elections",
+    "published_at": "2026-11-08T16:46:15Z",
+    "first_seen_at": "2026-11-08T17:44:22.909715Z",
+    "updated_at": "2026-11-08T17:44:22.909715Z",
+    "sources": [
+      {
+        "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-08T16:46:15Z",
+        "primary": false,
+        "excerpt": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e234be1478cf3d5ec791",
+    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+    "category": "World",
+    "published_at": "2026-11-08T16:50:58Z",
+    "first_seen_at": "2026-11-08T17:44:22.909715Z",
+    "updated_at": "2026-11-08T17:44:22.909715Z",
+    "sources": [
+      {
+        "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+        "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-08T16:50:58Z",
+        "primary": false,
+        "excerpt": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover DefenderBailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over whether its “Defender clone” infringes intellectual property rights.Bailiffs acting on behalf of JLR reportedly seized digital records from the offices of Chinese carmaker BYD in Schiedam and Hoofddorp in August, according to the Sunday Times. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "edf205edd8b7dac5d9b0",
+    "title": "Floods bring rare relief to U.S. Southwest reservoirs as Lake Powell rises 20 feet",
+    "category": "U.S.",
+    "published_at": "2026-11-08T17:31:40Z",
+    "first_seen_at": "2026-11-08T17:44:22.909715Z",
+    "updated_at": "2026-11-08T17:44:22.909715Z",
+    "sources": [
+      {
+        "title": "Floods bring rare relief to U.S. Southwest reservoirs as Lake Powell rises 20 feet",
+        "url": "https://www.pbs.org/newshour/nation/floods-bring-rare-relief-to-u-s-southwest-reservoirs-as-lake-powell-rises-20-feet",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T17:31:40Z",
+        "primary": false,
+        "excerpt": "Storms in late October and early November sent torrents of water through normally small or dry creeks that overflowed their banks and flooded local communities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
