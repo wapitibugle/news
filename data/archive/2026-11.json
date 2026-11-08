@@ -12501,6 +12501,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4e0e57590300e582bc83",
+    "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+    "category": "World",
+    "published_at": "2026-11-08T14:00:43Z",
+    "first_seen_at": "2026-11-08T16:47:40.083655Z",
+    "updated_at": "2026-11-08T16:47:40.083655Z",
+    "sources": [
+      {
+        "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+        "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-08T14:00:43Z",
+        "primary": false,
+        "excerpt": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputationGet our breaking news email, free app or daily news podcastAustralia weakening copyright protections for AI companies would be “ridiculous and dangerous”, the global peak body for the music recording industry has warned as it watches with concern how the Albanese government responds to big tech’s demands.While local creatives have raised constitutional issues and threatened political backlash, the International Federation of the Phonographic Industry (IFPI), re"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
