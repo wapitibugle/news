@@ -12389,6 +12389,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f086e69ea291a4275211",
+    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+    "category": "Elections",
+    "published_at": "2026-11-08T12:05:58Z",
+    "first_seen_at": "2026-11-08T13:00:02.162666Z",
+    "updated_at": "2026-11-08T13:00:02.162666Z",
+    "sources": [
+      {
+        "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-08T12:05:58Z",
+        "primary": false,
+        "excerpt": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI‘AI clog’: UK battles onslaught of chatbot-generated complaintsEditorial: the AI backlash – Silicon Valley’s political power is crackingLast week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago.Clearly, the cost of living squeeze unleashed by Trump’s war in Iran was a big driver of the Democrat wave. But AI was also on the ballot – in many places, literally. "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "794c9516eaf2c391288e",
+    "title": "Centrism did not win the Democratic party the election",
+    "category": "Elections",
+    "published_at": "2026-11-08T12:00:41Z",
+    "first_seen_at": "2026-11-08T13:00:02.162666Z",
+    "updated_at": "2026-11-08T13:00:02.162666Z",
+    "sources": [
+      {
+        "title": "Centrism did not win the Democratic party the election",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-08T12:00:41Z",
+        "primary": false,
+        "excerpt": "The blue wave, while a rebuke of Trump’s policies, was also a referendum on the party’s status quoOn election night I stood in a crowd at Harlem Tavern, a restaurant in New York City, at the electoral party for Darializa Avila Chevalier, the Democratic Socialists of America (DSA) member and congresswoman-elect from New York’s 13th congressional district. The crowd cheered as what came to be called the “blunami” rolled in: Iowa blue, Kansas blue, Talarico in Texas, Abdul El-Sayed in Michigan, House, Senate, gubernatorial races overwhelmingly going for the Democratic party.The victories were a c"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
