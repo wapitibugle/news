@@ -12564,7 +12564,7 @@
         "excerpt": "The Trump administration is working to rescind the \"Roadless Rule,\" which blocks road construction in some national forests. This could affect Alaska's Tongass National Forest."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13127,7 +13127,7 @@
         "excerpt": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darknessThis week, we are going to locate the Great Square of Pegasus and count stars to see how dark your sky is.The chart shows the view looking south from London at 2000 GMT on 9 November. High in the sky is the Great Square of Pegasus, a distinctive pattern of four stars that marks the body of the mythical winged horse. Continue reading..."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -14199,6 +14199,34 @@
         "published_at": "2026-11-09T12:00:08Z",
         "primary": false,
         "excerpt": "Election wins of Annie Andrews, Abdul El-Sayed and more who ran on healthcare issues are viewed as sign of home as Trump administration unravels US health policyPublic health leaders and politicians who made healthcare a central part of their platforms swept into office in the US midterm elections last week, setting the stage for national, state and local changes.Voters, faced with an unprecedented rise in vaccine-preventable diseases such as measles, alongside devastating outbreaks of foodborne illnesses, chose national candidates who prioritized public health, healthcare affordability, repro"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9955c53e53d9bccf6d1b",
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "category": "Elections",
+    "published_at": "2026-11-09T12:45:14Z",
+    "first_seen_at": "2026-11-09T13:24:05.067038Z",
+    "updated_at": "2026-11-09T13:24:05.067038Z",
+    "sources": [
+      {
+        "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+        "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-09T12:45:14Z",
+        "primary": false,
+        "excerpt": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition."
       }
     ],
     "tier": "brief",
