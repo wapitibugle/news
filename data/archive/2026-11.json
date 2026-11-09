@@ -14264,7 +14264,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72a65ff08e31245612ac",
@@ -14282,6 +14283,34 @@
         "published_at": "2026-11-09T14:18:00Z",
         "primary": false,
         "excerpt": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and moreJoe Biden will undertake only limited promotion of his upcoming White House memoir because of advancing cancer, the former president said in a social media post on Sunday night.His new book, Promise Me America, which will be published on 17 November, is Biden’s account of a one-term presidency that began in 2021 in the shadow of the insurrection at the US Capitol on 6 January 2021 by supporters of Donald Trump eager to overturn the outgoing Republican president’s defeat by his Democra"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a33117b4e9a449b40b5e",
+    "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
+    "category": "Elections",
+    "published_at": "2026-11-09T15:56:08Z",
+    "first_seen_at": "2026-11-09T16:12:39.906280Z",
+    "updated_at": "2026-11-09T16:12:39.906280Z",
+    "sources": [
+      {
+        "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-09T15:56:08Z",
+        "primary": false,
+        "excerpt": "Trump said that he thinks he can work with Democrats in the new Congress on some kind of immigration deal."
       }
     ],
     "tier": "brief",
