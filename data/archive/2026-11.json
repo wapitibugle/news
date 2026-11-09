@@ -11365,7 +11365,7 @@
         "excerpt": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -11393,7 +11393,7 @@
         "excerpt": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zooThe Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family conglomerate, drawing criticism from conservationists over their fossil fuel businesses and their foundation’s controversial mega-zoo.A spokesperson for the Earthshot prize, which awards £1m to five winners every year to invest in conservation work, confirmed to the Guardian and the news outlet Mongabay that this year’s ceremony will be he"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12797,5 +12797,1215 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "cc141a18c6d5970b7f6c",
+    "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+    "category": "Elections",
+    "published_at": "2026-11-09T06:00:01Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+        "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-09T06:00:01Z",
+        "primary": false,
+        "excerpt": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisis. But Democrats’ crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of climate obstruction.For the second year in a row, there will be no official US government presence at the annual climate summit, this year known as Cop31 and held in Antalya, Turkey. While almo"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "482995e874b6db58dff4",
+    "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+    "category": "U.S.",
+    "published_at": "2026-11-09T06:20:44Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-09T06:20:44Z",
+        "primary": false,
+        "excerpt": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "31bbfb00a7f8577aff39",
+    "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+    "category": "World",
+    "published_at": "2026-11-09T03:59:31Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T03:59:31Z",
+        "primary": false,
+        "excerpt": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liabilityDonald Trump has admitted that his deportation policy was “too tough” and has offered to strike an immigration deal with Democrats in a concession following the Republicans’ disastrous defeat in the midterm elections.In an interview on the CBS network’s 60 Minutes broadcast on Sunday, the president acknowledged that the aggressive crackdown had hurt him politically and said he was open to an arrangement to allow some undocumented immigrants to remain in the US.",
+        "ai_editor": {
+          "id": "31bbfb00a7f8577aff39",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Trump suggested negotiating an agreement allowing some long-term undocumented residents to stay while continuing deportations of people convicted of serious crimes. These were interview proposals, not an enacted policy change.",
+          "evidence_quote": "I think that’s something that’s actually doable.",
+          "related_ids": [
+            "8857536dc9b6ef2e3838"
+          ],
+          "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+          "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+          "group": "31bbfb00a7f8577aff39"
+        }
+      },
+      {
+        "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-09T01:51:44Z",
+        "primary": false,
+        "excerpt": "The president tells the CBS programme 60 Minutes he had been politically \"hurt\" by sweeping deportations.",
+        "ai_editor": {
+          "id": "8857536dc9b6ef2e3838",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Trump said deportations had hurt Republicans politically and expressed interest in working with Democrats on immigration. The remarks do not establish a policy reversal: DHS told the BBC enforcement was not slowing down.",
+          "evidence_quote": "ICE is NOT backing away or slowing down",
+          "related_ids": [
+            "31bbfb00a7f8577aff39"
+          ],
+          "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+          "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+          "group": "31bbfb00a7f8577aff39"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "31bbfb00a7f8577aff39",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Trump suggested negotiating an agreement allowing some long-term undocumented residents to stay while continuing deportations of people convicted of serious crimes. These were interview proposals, not an enacted policy change.",
+      "evidence_quote": "I think that’s something that’s actually doable.",
+      "related_ids": [
+        "8857536dc9b6ef2e3838"
+      ],
+      "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+      "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+      "group": "31bbfb00a7f8577aff39"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7db7f98920dd1ce9b66e",
+    "title": "Print commissioned by Nasa uncovered for exhibition",
+    "category": "Science",
+    "published_at": "2026-11-09T06:18:19Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Print commissioned by Nasa uncovered for exhibition",
+        "url": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-09T06:18:19Z",
+        "primary": false,
+        "excerpt": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b76a63ca5ce2b807d13b",
+    "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+    "category": "Technology",
+    "published_at": "2026-11-09T06:01:52Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+        "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-09T06:01:52Z",
+        "primary": false,
+        "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "febc01e826ceb3dea903",
+    "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+    "category": "Outdoors",
+    "published_at": "2026-11-09T05:47:49Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-09T05:47:49Z",
+        "primary": false,
+        "excerpt": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meetingGet our breaking news email, free app or daily news podcastThe environment minister, Murray Watt, has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks to cut popular clean energy subsidies to help with the fight against inflation.Cabinet ministers met again on Monday to discuss potential budget savings to be included in next month’s mid-year update, part of efforts to reducing spending to ease pressur"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7133c96a2678442bfc87",
+    "title": "Ozone Hole Reaches Its 2026 Maximum",
+    "category": "Science",
+    "published_at": "2026-11-09T05:00:00Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Ozone Hole Reaches Its 2026 Maximum",
+        "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-09T05:00:00Z",
+        "primary": true,
+        "excerpt": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ee37e7567157a4e71e11",
+    "title": "How yesterday's waste is becoming tomorrow's fashion",
+    "category": "Science",
+    "published_at": "2026-11-09T06:05:15Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "How yesterday's waste is becoming tomorrow's fashion",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-09T06:05:15Z",
+        "primary": false,
+        "excerpt": "Brands including Dr Martens, Nike and Coach are among those using recycled materials."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d8be495d772d26379c48",
+    "title": "Charity wants bee, bird and butterfly population boost",
+    "category": "Science",
+    "published_at": "2026-11-09T06:00:40Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Charity wants bee, bird and butterfly population boost",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-09T06:00:40Z",
+        "primary": false,
+        "excerpt": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "292949cff214464ad2ab",
+    "title": "Starwatch: Count these stars to find out how dark the sky is where you are",
+    "category": "Science",
+    "published_at": "2026-11-09T06:00:01Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Starwatch: Count these stars to find out how dark the sky is where you are",
+        "url": "https://www.theguardian.com/science/2026/nov/09/starwatch-count-stars-find-out-how-dark-sky-is",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-09T06:00:01Z",
+        "primary": false,
+        "excerpt": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darknessThis week, we are going to locate the Great Square of Pegasus and count stars to see how dark your sky is.The chart shows the view looking south from London at 2000 GMT on 9 November. High in the sky is the Great Square of Pegasus, a distinctive pattern of four stars that marks the body of the mythical winged horse. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fec79c17fae28b283191",
+    "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+    "category": "Science",
+    "published_at": "2026-11-09T05:05:00Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-09T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86585f64c95cfccc63bb",
+    "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
+    "category": "U.S.",
+    "published_at": "2026-11-08T20:58:15Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
+        "url": "https://www.pbs.org/newshour/politics/trump-and-his-justice-department-stand-defiant-as-democrats-ready-an-investigative-blitz",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T20:58:15Z",
+        "primary": false,
+        "excerpt": "Trump set the tone, declaring on social media that investigative requests already made by Democrats are \"extortion at the highest level, and they should be held accountable.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3f503ca86beb8558f785",
+    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "category": "U.S.",
+    "published_at": "2026-11-09T00:50:06Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-09T00:50:06Z",
+        "primary": false,
+        "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "ai_editor": {
+          "id": "3f503ca86beb8558f785",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Nvidia opened an independent inquiry following reports that Huang was targeted by Chinese intelligence. The espionage allegations remain unproven in the supplied reporting; the board says it has no reason to believe national security or company secrets were compromised.",
+          "evidence_quote": "the Board has no reason to believe that either national security or Nvidia secrets were compromised",
+          "related_ids": [
+            "75eee0dcbc87b091d46a",
+            "eac690342c548cd14a25"
+          ],
+          "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+          "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+          "group": "3f503ca86beb8558f785"
+        }
+      },
+      {
+        "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T00:25:28Z",
+        "primary": false,
+        "excerpt": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌BeijingNvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”.The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing. Continue reading...",
+        "ai_editor": {
+          "id": "75eee0dcbc87b091d46a",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Nvidia announced an independent investigation into reports of a foreign intelligence operation targeting Huang. Lawmakers have requested a closed-door briefing on security protocols. The board says it has no reason to believe US national security or Nvidia secrets were compromised.",
+          "evidence_quote": "its inquiry will examine all available information",
+          "related_ids": [
+            "3f503ca86beb8558f785",
+            "eac690342c548cd14a25"
+          ],
+          "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+          "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "group": "3f503ca86beb8558f785"
+        }
+      },
+      {
+        "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-09T00:17:43Z",
+        "primary": false,
+        "excerpt": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+        "ai_editor": {
+          "id": "eac690342c548cd14a25",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "3f503ca86beb8558f785",
+            "75eee0dcbc87b091d46a"
+          ],
+          "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+          "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+          "group": "3f503ca86beb8558f785"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "3f503ca86beb8558f785",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Nvidia opened an independent inquiry following reports that Huang was targeted by Chinese intelligence. The espionage allegations remain unproven in the supplied reporting; the board says it has no reason to believe national security or company secrets were compromised.",
+      "evidence_quote": "the Board has no reason to believe that either national security or Nvidia secrets were compromised",
+      "related_ids": [
+        "75eee0dcbc87b091d46a",
+        "eac690342c548cd14a25"
+      ],
+      "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+      "group": "3f503ca86beb8558f785"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f74b4c79307a6db2cf92",
+    "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "category": "World",
+    "published_at": "2026-11-08T22:04:13Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-08T22:04:13Z",
+        "primary": false,
+        "excerpt": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "953dd5f9387913af6c03",
+    "title": "Iran executes three men for 'armed unrest' after January protests",
+    "category": "World",
+    "published_at": "2026-11-08T13:37:50Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Iran executes three men for 'armed unrest' after January protests",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-08T13:37:50Z",
+        "primary": false,
+        "excerpt": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4f478c5e8d66fb127eea",
+    "title": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
+    "category": "U.S.",
+    "published_at": "2026-11-08T22:42:57Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
+        "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T22:42:57Z",
+        "primary": false,
+        "excerpt": "Leo's visit to Argentina is by far the most politically delicate of his three-nation South American tour, and a place where Leo will also confront the complicated legacy of Argentine Pope Francis, who never returned home during his 12-year pontificate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e789562bdcc09420aff7",
+    "title": "NASA is looking for astronauts to live and work on the Moon",
+    "category": "U.S.",
+    "published_at": "2026-11-08T23:36:47Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "NASA is looking for astronauts to live and work on the Moon",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T23:36:47Z",
+        "primary": false,
+        "excerpt": "NASA needs more recruits in order to return to the moon after being gone more than half a century."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c5f05d031c27ac5469f8",
+    "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+    "category": "U.S.",
+    "published_at": "2026-11-08T21:59:15Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+        "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T21:59:15Z",
+        "primary": false,
+        "excerpt": "Trump, who campaigned on the idea that a Democratic victory in the midterms would trigger a 1929-style economic depression, has maintained that the economy is booming. Since his party lost in Tuesday's voting, he has claimed he is willing to work with Democrats in the House and Senate, though that's not something he has done much of in the past.",
+        "ai_editor": {
+          "id": "c5f05d031c27ac5469f8",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "AP examines the economic choices facing Trump and the incoming Democratic Congress, including inflation, deficits, AI investment and Social Security financing. The article describes prospective policy fights, not an enacted relief package.",
+          "evidence_quote": "Democrats are seeking to check Trump's power and are preparing for early fights on government spending.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+          "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "c5f05d031c27ac5469f8",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "AP examines the economic choices facing Trump and the incoming Democratic Congress, including inflation, deficits, AI investment and Social Security financing. The article describes prospective policy fights, not an enacted relief package.",
+      "evidence_quote": "Democrats are seeking to check Trump's power and are preparing for early fights on government spending.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8d39aa698b4aedd2e378",
+    "title": "Native American women made history in tribal, state and federal elections",
+    "category": "U.S.",
+    "published_at": "2026-11-08T21:15:34Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Native American women made history in tribal, state and federal elections",
+        "url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T21:15:34Z",
+        "primary": false,
+        "excerpt": "Peggy Flanagan became the first Native American woman elected to the Senate, Deb Haaland the first to win a state governorship, and Crystalyne Curley the first to lead the Navajo Nation.",
+        "ai_editor": {
+          "id": "8d39aa698b4aedd2e378",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "AP reports milestone victories for Native American women: Peggy Flanagan in the Senate, Deb Haaland as governor and Crystalyne Curley as Navajo Nation president. Curley's narrow victory is based on unofficial results; Alaska's Senate race remains unsettled.",
+          "evidence_quote": "Curley, who narrowly defeated attorney Justin Jones, according to unofficial results",
+          "related_ids": [
+            "1822d242ab8e550046f9"
+          ],
+          "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+          "title": "Native American women made history in tribal, state and federal elections",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+          "group": "1822d242ab8e550046f9"
+        }
+      },
+      {
+        "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-08T21:04:49Z",
+        "primary": false,
+        "excerpt": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report saysThe US midterm elections saw voters elect a slew of historic representatives – from the country’s first Muslim senator to the first Black female governor – but among the most significant gains were those for Native American women.On Tuesday, voters elected the first Native American woman governor, senator and leaders of two tribal nations. Nationwide, voters elected at least 75 Native women or non-binary and Two Spirit candidates in the November midterms, according to Advance Native ",
+        "ai_editor": {
+          "id": "1822d242ab8e550046f9",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "The Guardian covers the same milestone victories and reports that at least 75 Native women, non-binary and Two Spirit candidates won, citing Advance Native Political Leadership and ICT.",
+          "evidence_quote": "voters elected at least 75 Native women or non-binary and Two Spirit candidates",
+          "related_ids": [
+            "8d39aa698b4aedd2e378"
+          ],
+          "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+          "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+          "group": "1822d242ab8e550046f9"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "8d39aa698b4aedd2e378",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports milestone victories for Native American women: Peggy Flanagan in the Senate, Deb Haaland as governor and Crystalyne Curley as Navajo Nation president. Curley's narrow victory is based on unofficial results; Alaska's Senate race remains unsettled.",
+      "evidence_quote": "Curley, who narrowly defeated attorney Justin Jones, according to unofficial results",
+      "related_ids": [
+        "1822d242ab8e550046f9"
+      ],
+      "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+      "title": "Native American women made history in tribal, state and federal elections",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+      "group": "1822d242ab8e550046f9"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "115856182950e41c3ecd",
+    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "category": "U.S.",
+    "published_at": "2026-11-08T19:25:30Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T19:25:30Z",
+        "primary": false,
+        "excerpt": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "42809d9b7237eb7b0470",
+    "title": "Kyle Larson joins Nascar’s all-time greats with third Cup title in six years",
+    "category": "U.S.",
+    "published_at": "2026-11-09T00:23:31Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Kyle Larson joins Nascar’s all-time greats with third Cup title in six years",
+        "url": "https://www.theguardian.com/sport/2026/nov/08/kyle-larson-nascar-cup-series-championship-homestead",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-09T00:23:31Z",
+        "primary": false,
+        "excerpt": "Larson becomes first repeat champion since 2010Hendrick driver clinches title in opening stageRyan Blaney wins season finale at HomesteadKyle Larson is now a three-time Nascar champion.Larson clinched his third Cup Series title in six years early in Sunday’s 400-mile season finale at Homestead-Miami Speedway, becoming the first back-to-back champion since Jimmie Johnson in 2010. Johnson won five consecutive titles beginning in 2006. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "60962b289644303ea7e6",
+    "title": "The Kremlin hopes the U.S. election shake-up won't shift Trump's negotiations on Ukraine",
+    "category": "U.S.",
+    "published_at": "2026-11-08T20:15:36Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "The Kremlin hopes the U.S. election shake-up won't shift Trump's negotiations on Ukraine",
+        "url": "https://www.pbs.org/newshour/world/the-kremlin-hopes-the-u-s-election-shake-up-wont-shift-trumps-negotiations-on-ukraine",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T20:15:36Z",
+        "primary": false,
+        "excerpt": "Asked if the election's outcome could stymie U.S. attempts to help negotiate a settlement between Moscow and Kyiv, Kremlin spokesperson Dmitry Peskov voiced hope that President Donald Trump will continue to pursue his peace efforts.",
+        "ai_editor": {
+          "id": "60962b289644303ea7e6",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The Kremlin expressed hope that Trump’s Ukraine negotiations would continue after Republican midterm losses. Talks involving Russian, Ukrainian and U.S. representatives are planned in Abu Dhabi; predictions of a congressional shift in Ukraine policy remain uncertain.",
+          "evidence_quote": "another round of trilateral negotiations is set to take place very soon",
+          "related_ids": [],
+          "reviewed_at": "2026-11-09T02:56:53.562536+00:00",
+          "title": "The Kremlin hopes the U.S. election shake-up won't shift Trump's negotiations on Ukraine",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/world/the-kremlin-hopes-the-u-s-election-shake-up-wont-shift-trumps-negotiations-on-ukraine",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "60962b289644303ea7e6",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The Kremlin expressed hope that Trump’s Ukraine negotiations would continue after Republican midterm losses. Talks involving Russian, Ukrainian and U.S. representatives are planned in Abu Dhabi; predictions of a congressional shift in Ukraine policy remain uncertain.",
+      "evidence_quote": "another round of trilateral negotiations is set to take place very soon",
+      "related_ids": [],
+      "reviewed_at": "2026-11-09T02:56:53.562536+00:00",
+      "title": "The Kremlin hopes the U.S. election shake-up won't shift Trump's negotiations on Ukraine",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/world/the-kremlin-hopes-the-u-s-election-shake-up-wont-shift-trumps-negotiations-on-ukraine",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2750aa3feb24597d00e6",
+    "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+    "category": "U.S.",
+    "published_at": "2026-11-08T16:30:16Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T16:30:16Z",
+        "primary": false,
+        "excerpt": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6819a8dc78b4b176db26",
+    "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+    "category": "U.S.",
+    "published_at": "2026-11-08T20:13:09Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-08T20:13:09Z",
+        "primary": false,
+        "excerpt": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incidentA pianist for a Royal Caribbean cruise ship is expected to survive after two Newport Beach, California, fishermen discovered him treading water in the Pacific Ocean nearly 20 miles (32km) offshore on Friday.The unidentified man was taken to the hospital after the rescue, according to the US Coast Guard, which is now investigating how he went overboard from the cruise ship. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "70147d2bc3adb686c9c6",
+    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+    "category": "U.S.",
+    "published_at": "2026-11-08T20:02:39Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+        "url": "https://www.pbs.org/newshour/world/poles-mourn-rare-mass-killing-as-authorities-say-attacker-had-far-right-views",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T20:02:39Z",
+        "primary": false,
+        "excerpt": "The attack, which Poland's defense minister described as an \"act of terror,\" happened on Saturday in the Main Square, in the heart of Krakow's Old Town. The square is a major tourist hub in the country's second-largest city."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "118304e134c0bc3da72d",
+    "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+    "category": "U.S.",
+    "published_at": "2026-11-08T13:34:34Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T13:34:34Z",
+        "primary": false,
+        "excerpt": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a2655b8ef36a02df42f",
+    "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+    "category": "U.S.",
+    "published_at": "2026-11-09T01:53:48Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+        "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-09T01:53:48Z",
+        "primary": false,
+        "excerpt": "But the Pentagon said the US defence secretary would not be deterred by \"phony investigations\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bc46cc2b8f9488c54640",
+    "title": "Small plane crashes into pickup truck on busy Florida highway",
+    "category": "U.S.",
+    "published_at": "2026-11-08T19:29:05Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Small plane crashes into pickup truck on busy Florida highway",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-08T19:29:05Z",
+        "primary": false,
+        "excerpt": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboardA small plane crashed into the rear of a pickup truck as it made an emergency landing on a busy Florida highway on Saturday but miraculously no one was injured in the dramatic incident.Video footage obtained from the sheriff’s office shows a Cessna 172 grazing over the truck as it approached the ground for a complete landing on a road in Fort Meyers at about 11.45am on Saturday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "50d4455bdf767a8f80d3",
+    "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
+    "category": "U.S.",
+    "published_at": "2026-11-08T17:40:25Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
+        "url": "https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T17:40:25Z",
+        "primary": false,
+        "excerpt": "Train derailments and crashes are common in Egypt, where the railway system has a history of mismanagement and poor maintenance of equipment. In recent years, the government has announced modernization initiatives."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aab363c89b543511c018",
+    "title": "Republican consultant discusses what went wrong and what's next for the GOP",
+    "category": "U.S.",
+    "published_at": "2026-11-08T13:22:23Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Republican consultant discusses what went wrong and what's next for the GOP",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T13:22:23Z",
+        "primary": false,
+        "excerpt": "NPR's Ayesha Rascoe speaks to Hogan Gidley, a Republican consultant and former White House Deputy Press Secretary during the first Trump administration, about the GOP's post-midterm strategy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ef5d60457aa61b7ed143",
+    "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+    "category": "U.S.",
+    "published_at": "2026-11-08T19:11:33Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-08T19:11:33Z",
+        "primary": false,
+        "excerpt": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote.The top Democrat made his position clear during an appearance on ABC’s This Week, declaring himself a “hard yes” on the impeachment resolution targeting Hegseth. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "178753a0405db6faff5c",
+    "title": "Israel's president formally gives Eisenkot the first chance to form the next government",
+    "category": "U.S.",
+    "published_at": "2026-11-08T16:32:35Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Israel's president formally gives Eisenkot the first chance to form the next government",
+        "url": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-08T16:32:35Z",
+        "primary": false,
+        "excerpt": "The announcement doesn't guarantee that Eisenkot, a former army chief, will become the next prime minister. He has up to six weeks to form a coalition government by securing alliances, a daunting challenge because the Oct. 27 election gave neither his bloc nor Netanyahu's a clear majority in parliament."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8d9f97e5f8860e3cd54",
+    "title": "Historically red state legislatures have flipped. Here's what's on their agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-08T13:16:08Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Historically red state legislatures have flipped. Here's what's on their agenda",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6032600/historically-red-state-legislatures-have-flipped-heres-whats-on-their-agenda",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T13:16:08Z",
+        "primary": false,
+        "excerpt": "Democrats made sweeping gains in state legislatures across the country. We look at North Carolina and Arizona to see what that could mean."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ccec4095caf90060dded",
+    "title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds",
+    "category": "U.S.",
+    "published_at": "2026-11-08T18:00:54Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds",
+        "url": "https://www.theguardian.com/sport/2026/nov/08/usa-germany-womens-ice-hockey-world-championship-emma-peschel",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-08T18:00:54Z",
+        "primary": false,
+        "excerpt": "Emma Peschel scores on US debut in Group A winAmericans outscore opponents 12-0 through two gamesSweden bounce back with 4-1 victory over FinlandEmma Peschel celebrated her international debut with a goal as the United States shut out Germany 5-0 at the women’s ice hockey world championship on Sunday.The 22-year-old defender scored with a wrist shot from the point to make it 2-0 in the opening period of the Group A game. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2429e519319f1b79cc64",
+    "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
+    "category": "U.S.",
+    "published_at": "2026-11-08T13:16:05Z",
+    "first_seen_at": "2026-11-09T06:21:56.041751Z",
+    "updated_at": "2026-11-09T06:21:56.041751Z",
+    "sources": [
+      {
+        "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-08T13:16:05Z",
+        "primary": false,
+        "excerpt": "Democrats plans for the next Congress, where they'll hold significant majorities in both chambers. Meanwhile, President Trump signals his plans by promoting Stephen Miller as his new Chief of Staff."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
