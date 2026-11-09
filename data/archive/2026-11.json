@@ -14068,7 +14068,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8347c3f8af9525a3d777",
@@ -14086,6 +14087,61 @@
         "published_at": "2026-11-09T07:10:11Z",
         "primary": false,
         "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a4b542848c25338959c6",
+    "title": "Midterm results could complicate JD Vance's political future",
+    "category": "Elections",
+    "published_at": "2026-11-09T09:45:28Z",
+    "first_seen_at": "2026-11-09T10:08:23.760471Z",
+    "updated_at": "2026-11-09T10:08:23.760471Z",
+    "sources": [
+      {
+        "title": "Midterm results could complicate JD Vance's political future",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-09T09:45:28Z",
+        "primary": false,
+        "excerpt": "Vice President JD Vance is looking to recast his political fortune after serving as the Trump administration's No. 2 while his party suffered a historic wipeout."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed975cadc03c58ea03db",
+    "title": "Trump’s pathetic Dana White gambit could not mask his midterm humiliation | Howard Bryant",
+    "category": "Elections",
+    "published_at": "2026-11-09T10:00:06Z",
+    "first_seen_at": "2026-11-09T10:08:23.760471Z",
+    "updated_at": "2026-11-09T10:08:23.760471Z",
+    "sources": [
+      {
+        "title": "Trump’s pathetic Dana White gambit could not mask his midterm humiliation | Howard Bryant",
+        "url": "https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-09T10:00:06Z",
+        "primary": false,
+        "excerpt": "Trump has long relied on sports to project strength and fuel his culture wars. But after a crushing midterm defeat, even his UFC ally cannot distract from the political falloutIn the wake of being destroyed in the midterm elections, it was only a matter of time before Donald Trump did something outrageous in an attempt to misdirect public attention away from his catastrophic losses. Before the midterms, published reports suggested the possibility of apocalypse, global or domestic – a nuclear strike on Iran, martial law to suspend last week’s, the invalidation of individual races, such as in Al"
       }
     ],
     "tier": "brief",
