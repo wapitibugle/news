@@ -14376,7 +14376,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a064059575eccd858305",
@@ -14394,6 +14395,34 @@
         "published_at": "2026-11-09T16:25:14Z",
         "primary": false,
         "excerpt": "Trump does not currently have a press secretary after briefly giving the job to Katie Zacharia, who left the post after five days."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f42ee077a9cf5159ca44",
+    "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+    "category": "World",
+    "published_at": "2026-11-09T18:58:50Z",
+    "first_seen_at": "2026-11-09T20:01:47.988967Z",
+    "updated_at": "2026-11-09T20:01:47.988967Z",
+    "sources": [
+      {
+        "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T18:58:50Z",
+        "primary": false,
+        "excerpt": "Miller, known as the architect of Trump’s controversial immigration crackdown, is replacing Susie Wiles in new roleUS politics live – latest updatesStephen Miller, the architect of Donald Trump’s mass deportation policy and hardline crackdown on immigration, took up his new role as White House chief of staff on Monday.Miller, 41, began his new role serving as Trump’s right-hand man after Republicans suffered massive losses nationwide in the midterm elections. He was previously serving as a deputy chief of staff. Continue reading..."
       }
     ],
     "tier": "brief",
