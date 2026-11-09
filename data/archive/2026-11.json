@@ -14124,7 +14124,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ed975cadc03c58ea03db",
@@ -14142,6 +14143,34 @@
         "published_at": "2026-11-09T10:00:06Z",
         "primary": false,
         "excerpt": "Trump has long relied on sports to project strength and fuel his culture wars. But after a crushing midterm defeat, even his UFC ally cannot distract from the political falloutIn the wake of being destroyed in the midterm elections, it was only a matter of time before Donald Trump did something outrageous in an attempt to misdirect public attention away from his catastrophic losses. Before the midterms, published reports suggested the possibility of apocalypse, global or domestic – a nuclear strike on Iran, martial law to suspend last week’s, the invalidation of individual races, such as in Al"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1be1e196ec6b9e2abeb7",
+    "title": "Democratic Sen. Chris Coons on his party's post-midterm priorities",
+    "category": "Elections",
+    "published_at": "2026-11-09T09:43:29Z",
+    "first_seen_at": "2026-11-09T11:06:24.151398Z",
+    "updated_at": "2026-11-09T11:06:24.151398Z",
+    "sources": [
+      {
+        "title": "Democratic Sen. Chris Coons on his party's post-midterm priorities",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6032682/democratic-sen-chris-coons-on-his-partys-post-midterm-priorities",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-09T09:43:29Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel speaks to Democratic Sen. Chris Coons of Delaware about Democrats' congressional priorities after the midterms."
       }
     ],
     "tier": "brief",
