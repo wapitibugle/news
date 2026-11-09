@@ -14236,6 +14236,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "932bfd925db6704869a0",
+    "title": "After midterm losses, Trump makes changes to his inner circle",
+    "category": "Elections",
+    "published_at": "2026-11-09T11:45:25Z",
+    "first_seen_at": "2026-11-09T15:04:18.516673Z",
+    "updated_at": "2026-11-09T15:04:18.516673Z",
+    "sources": [
+      {
+        "title": "After midterm losses, Trump makes changes to his inner circle",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-09T11:45:25Z",
+        "primary": false,
+        "excerpt": "President Trump is shaking up his closest advisers after Democrats made huge gains in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72a65ff08e31245612ac",
+    "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+    "category": "World",
+    "published_at": "2026-11-09T14:18:00Z",
+    "first_seen_at": "2026-11-09T15:04:18.516673Z",
+    "updated_at": "2026-11-09T15:04:18.516673Z",
+    "sources": [
+      {
+        "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T14:18:00Z",
+        "primary": false,
+        "excerpt": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and moreJoe Biden will undertake only limited promotion of his upcoming White House memoir because of advancing cancer, the former president said in a social media post on Sunday night.His new book, Promise Me America, which will be published on 17 November, is Biden’s account of a one-term presidency that began in 2021 in the shadow of the insurrection at the US Capitol on 6 January 2021 by supporters of Donald Trump eager to overturn the outgoing Republican president’s defeat by his Democra"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
