@@ -14348,6 +14348,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ae1d3d2181f785e65023",
+    "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
+    "category": "Elections",
+    "published_at": "2026-11-09T17:00:34Z",
+    "first_seen_at": "2026-11-09T19:03:53.833302Z",
+    "updated_at": "2026-11-09T19:03:53.833302Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-house-returns-to-washington-after-blowout-election-for-democrats",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-09T17:00:34Z",
+        "primary": false,
+        "excerpt": "Congress returns Monday to a changed Washington, the Democrats having trounced Republicans in the midterm elections, but with President Donald Trump doubling down on his political threats despite the landmark GOP losses."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a064059575eccd858305",
+    "title": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
+    "category": "U.S.",
+    "published_at": "2026-11-09T16:25:14Z",
+    "first_seen_at": "2026-11-09T19:03:53.833302Z",
+    "updated_at": "2026-11-09T19:03:53.833302Z",
+    "sources": [
+      {
+        "title": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-idea-to-make-ufcs-dana-white-his-press-secretary-just-a-little-fun",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T16:25:14Z",
+        "primary": false,
+        "excerpt": "Trump does not currently have a press secretary after briefly giving the job to Katie Zacharia, who left the post after five days."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
