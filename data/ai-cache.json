@@ -6235,5 +6235,108 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
     "group": ""
+  },
+  "ed755bcaab5063a0c6a55844d28bbb1fa1c2d019fdcc71bdd2749e8a057d302e": {
+    "id": "8857536dc9b6ef2e3838",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Trump said deportations had hurt Republicans politically and expressed interest in working with Democrats on immigration. The remarks do not establish a policy reversal: DHS told the BBC enforcement was not slowing down.",
+    "evidence_quote": "ICE is NOT backing away or slowing down",
+    "related_ids": [
+      "31bbfb00a7f8577aff39"
+    ],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+    "group": "31bbfb00a7f8577aff39"
+  },
+  "83dbd42b7cf51eeb9b0ffcf3e9add220adc7f6dd9774123fc50e22e5370c427e": {
+    "id": "31bbfb00a7f8577aff39",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Trump suggested negotiating an agreement allowing some long-term undocumented residents to stay while continuing deportations of people convicted of serious crimes. These were interview proposals, not an enacted policy change.",
+    "evidence_quote": "I think that’s something that’s actually doable.",
+    "related_ids": [
+      "8857536dc9b6ef2e3838"
+    ],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+    "group": "31bbfb00a7f8577aff39"
+  },
+  "284179b882e3fbf4b529418a3e30cecd94b28326f4567bfa98da9f8720683b6b": {
+    "id": "29a8d40855f0fde7d52b",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+    "group": ""
+  },
+  "f60720fc87188b1b3b4901e3d22b21fee70d7ef46e3ca189d1f7f26fbecc73d5": {
+    "id": "3f503ca86beb8558f785",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Nvidia opened an independent inquiry following reports that Huang was targeted by Chinese intelligence. The espionage allegations remain unproven in the supplied reporting; the board says it has no reason to believe national security or company secrets were compromised.",
+    "evidence_quote": "the Board has no reason to believe that either national security or Nvidia secrets were compromised",
+    "related_ids": [
+      "75eee0dcbc87b091d46a",
+      "eac690342c548cd14a25"
+    ],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+    "group": "3f503ca86beb8558f785"
+  },
+  "e83637773305f98d6b6a0ab817a5ea627692f69d5193189260554fd562c5c7c1": {
+    "id": "75eee0dcbc87b091d46a",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Nvidia announced an independent investigation into reports of a foreign intelligence operation targeting Huang. Lawmakers have requested a closed-door briefing on security protocols. The board says it has no reason to believe US national security or Nvidia secrets were compromised.",
+    "evidence_quote": "its inquiry will examine all available information",
+    "related_ids": [
+      "3f503ca86beb8558f785",
+      "eac690342c548cd14a25"
+    ],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "group": "3f503ca86beb8558f785"
+  },
+  "4fea203a0e739eaeef012600591cb2a62c9e250675f156868dfb9f4741836e52": {
+    "id": "eac690342c548cd14a25",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "3f503ca86beb8558f785",
+      "75eee0dcbc87b091d46a"
+    ],
+    "reviewed_at": "2026-11-09T04:05:16.898558+00:00",
+    "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+    "group": "3f503ca86beb8558f785"
   }
 }
