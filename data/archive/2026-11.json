@@ -14180,6 +14180,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7e275d7ff1a52ef406ec",
+    "title": "‘A complete repudiation’: public health won big in US midterm elections",
+    "category": "Elections",
+    "published_at": "2026-11-09T12:00:08Z",
+    "first_seen_at": "2026-11-09T12:04:14.097750Z",
+    "updated_at": "2026-11-09T12:04:14.097750Z",
+    "sources": [
+      {
+        "title": "‘A complete repudiation’: public health won big in US midterm elections",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/public-health-midterm-elections-changes",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-09T12:00:08Z",
+        "primary": false,
+        "excerpt": "Election wins of Annie Andrews, Abdul El-Sayed and more who ran on healthcare issues are viewed as sign of home as Trump administration unravels US health policyPublic health leaders and politicians who made healthcare a central part of their platforms swept into office in the US midterm elections last week, setting the stage for national, state and local changes.Voters, faced with an unprecedented rise in vaccine-preventable diseases such as measles, alongside devastating outbreaks of foodborne illnesses, chose national candidates who prioritized public health, healthcare affordability, repro"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
