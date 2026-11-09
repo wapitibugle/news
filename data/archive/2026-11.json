@@ -14432,6 +14432,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "bf0c6e798a9f306f24cc",
+    "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
+    "category": "Elections",
+    "published_at": "2026-11-09T19:45:49Z",
+    "first_seen_at": "2026-11-09T20:59:42.112028Z",
+    "updated_at": "2026-11-09T20:59:42.112028Z",
+    "sources": [
+      {
+        "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
+        "url": "https://www.pbs.org/newshour/politics/even-after-the-midterm-rout-of-trumpism-the-world-struggles-to-trust-america",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-09T19:45:49Z",
+        "primary": false,
+        "excerpt": "The U.S. midterm rout of President Donald Trump's stewardship doesn't mean the world trusts America again."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
