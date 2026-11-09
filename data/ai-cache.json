@@ -5961,5 +5961,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
     "group": ""
+  },
+  "755b30d7f69a9c2b4a6891e024df97d34ded1f9e79186df4760c5e48359b2c15": {
+    "id": "2cd87a70788d1f65c471",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "Trump staffing changes post-midterms signal he's battle ready",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+    "group": ""
+  },
+  "d81f5b8ed8e405beacb44c9e49122024e32c1561867b70c60104fde35b4223d6": {
+    "id": "b56c4725a4347a6f8576",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "How will Democrats approach foreign policy after their midterm win?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
+    "group": ""
+  },
+  "a68be56d0c52c3791f8b0dc47a58e93a30abb0eeac73efa2e810d183aac8b12e": {
+    "id": "c5f05d031c27ac5469f8",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP examines the economic choices facing Trump and the incoming Democratic Congress, including inflation, deficits, AI investment and Social Security financing. The article describes prospective policy fights, not an enacted relief package.",
+    "evidence_quote": "Democrats are seeking to check Trump's power and are preparing for early fights on government spending.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+    "group": ""
+  },
+  "9c5510329b9d8eb266a06de8452d78adcfc0a568e0d216d45ffcc7a10901b6a6": {
+    "id": "8d39aa698b4aedd2e378",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports milestone victories for Native American women: Peggy Flanagan in the Senate, Deb Haaland as governor and Crystalyne Curley as Navajo Nation president. Curley's narrow victory is based on unofficial results; Alaska's Senate race remains unsettled.",
+    "evidence_quote": "Curley, who narrowly defeated attorney Justin Jones, according to unofficial results",
+    "related_ids": [
+      "1822d242ab8e550046f9"
+    ],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "Native American women made history in tribal, state and federal elections",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+    "group": "1822d242ab8e550046f9"
+  },
+  "752f1028b0d64eb32504b9751364fd66ff622a86e99a687676cebba73da7baa4": {
+    "id": "1822d242ab8e550046f9",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "The Guardian covers the same milestone victories and reports that at least 75 Native women, non-binary and Two Spirit candidates won, citing Advance Native Political Leadership and ICT.",
+    "evidence_quote": "voters elected at least 75 Native women or non-binary and Two Spirit candidates",
+    "related_ids": [
+      "8d39aa698b4aedd2e378"
+    ],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+    "group": "1822d242ab8e550046f9"
+  },
+  "6f4a0c4c92b3605238a1994d3b8e23d727a4d9de3470028e97afe6cc6e62a09e": {
+    "id": "8857536dc9b6ef2e3838",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The White House and DHS say deportation enforcement will continue despite Republican midterm losses. The BBC also reports, citing ICE sources speaking to CBS, that officials were instructed to target about 2,700 arrests daily, up from 2,000; those targets are not reported arrest totals.",
+    "evidence_quote": "officials have been instructed to aim for about 2,700 arrests of illegal immigrants per day",
+    "related_ids": [],
+    "reviewed_at": "2026-11-09T01:18:54.725916+00:00",
+    "title": "White House vows to keep up immigration crackdown after midterms defeat",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+    "group": ""
   }
 }
