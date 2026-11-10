@@ -15762,7 +15762,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "2fc4bc93d6c9b1b74db9",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+      "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -15902,11 +15916,28 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "e20d63972b328f302dd4",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "AP reports California voters rejected a one-time 5% tax on billionaires’ wealth. Opponents raised roughly ten times as much as supporters; the proposed revenue was chiefly intended to offset federal healthcare funding cuts.",
+      "evidence_quote": "The Associated Press determined Monday that 'no' had received enough votes to win.",
+      "related_ids": [
+        "ded4e4eb29e3399579e5"
+      ],
+      "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+      "title": "California voters reject tax on net worth of billionaires",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+      "group": "ded4e4eb29e3399579e5"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1bb8dcbcbcf35df72aea",
@@ -15933,6 +15964,7 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   }
 ]
