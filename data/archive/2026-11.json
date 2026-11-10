@@ -15684,5 +15684,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "a6374b3859c419f5c713",
+    "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+    "category": "Elections",
+    "published_at": "2026-11-10T10:01:00Z",
+    "first_seen_at": "2026-11-10T11:57:55.155177Z",
+    "updated_at": "2026-11-10T11:57:55.155177Z",
+    "sources": [
+      {
+        "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-10T10:01:00Z",
+        "primary": false,
+        "excerpt": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
