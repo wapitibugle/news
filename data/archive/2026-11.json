@@ -15794,6 +15794,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "83fa6a568b8bec7a5148",
+    "title": "California police investigate after 27 fall ill at half-marathon running event",
+    "category": "U.S.",
+    "published_at": "2026-11-10T13:22:12Z",
+    "first_seen_at": "2026-11-10T15:57:21.627756Z",
+    "updated_at": "2026-11-10T15:57:21.627756Z",
+    "sources": [
+      {
+        "title": "California police investigate after 27 fall ill at half-marathon running event",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-10T13:22:12Z",
+        "primary": false,
+        "excerpt": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
