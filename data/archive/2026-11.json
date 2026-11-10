@@ -15710,6 +15710,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b57b6a04afc438c84a07",
+    "title": "Republicans return to Washington to sift through wreckage of midterms rout",
+    "category": "Elections",
+    "published_at": "2026-11-10T11:00:51Z",
+    "first_seen_at": "2026-11-10T13:13:47.280500Z",
+    "updated_at": "2026-11-10T13:13:47.280500Z",
+    "sources": [
+      {
+        "title": "Republicans return to Washington to sift through wreckage of midterms rout",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/midterms-elections-2026-republicans-washington",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-10T11:00:51Z",
+        "primary": false,
+        "excerpt": "With weeks left on the congressional calendar, House and Senate representatives have a host of issues they still need to tackleOn their first day back in the Capitol after comprehensive defeats in last week’s midterm elections, Republicans were divided into two camps: those who saw the catastrophe coming, and those who did not.“I told you exactly what was going to happen. Over and over and over, I told you,” said West Virginia senator Jim Justice. “I said really and truly, if you weren’t concerned and you were a Republican, you were living in a cave. That was my exact words.” Continue reading."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2fc4bc93d6c9b1b74db9",
+    "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+    "category": "Elections",
+    "published_at": "2026-11-10T10:00:00Z",
+    "first_seen_at": "2026-11-10T13:13:47.280500Z",
+    "updated_at": "2026-11-10T13:13:47.280500Z",
+    "sources": [
+      {
+        "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-10T10:00:00Z",
+        "primary": false,
+        "excerpt": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
