@@ -15880,5 +15880,59 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "e20d63972b328f302dd4",
+    "title": "California voters reject tax on net worth of billionaires",
+    "category": "Elections",
+    "published_at": "2026-11-10T18:48:07Z",
+    "first_seen_at": "2026-11-10T19:04:10.003684Z",
+    "updated_at": "2026-11-10T19:04:10.003684Z",
+    "sources": [
+      {
+        "title": "California voters reject tax on net worth of billionaires",
+        "url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-10T18:48:07Z",
+        "primary": false,
+        "excerpt": "The measure would have imposed a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1bb8dcbcbcf35df72aea",
+    "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
+    "category": "World",
+    "published_at": "2026-11-10T18:44:17Z",
+    "first_seen_at": "2026-11-10T19:04:10.003684Z",
+    "updated_at": "2026-11-10T19:04:10.003684Z",
+    "sources": [
+      {
+        "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-10T18:44:17Z",
+        "primary": false,
+        "excerpt": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine MaxwellRepublicans on the House oversight committee released a report on Tuesday criticizing the federal government’s handling of the investigations into Jeffrey Epstein and his associate, Ghislaine Maxwell, and called on the Department of Justice to interview “key witnesses, investigate Epstein associates accused of criminal activity, and ensure survivors have access to their records”.“The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell’s horrific crimes f"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
