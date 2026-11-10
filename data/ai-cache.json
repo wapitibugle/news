@@ -6338,5 +6338,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
     "group": "3f503ca86beb8558f785"
+  },
+  "4d47070cddce332edeabb2d8c813c4a24906fb4b528c56479b9bac7d588cdc16": {
+    "id": "bf0c6e798a9f306f24cc",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "AP interviews with overseas leaders, businesspeople and residents describe continued distrust of US policy after Democrats won Congress. These interviews illustrate individual views, not a representative measure of global opinion.",
+    "evidence_quote": "Interviews by The Associated Press around the world since the vote",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/even-after-the-midterm-rout-of-trumpism-the-world-struggles-to-trust-america",
+    "group": ""
+  },
+  "14907e7c6755111707a9eac8021638fdacd00f6e8e8f811d0d23c481804be5e8": {
+    "id": "9756968574b61e7c2a39",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Former health adviser Calley Means alleges White House officials favored industry fundraising over health-policy commitments. The report presents allegations, not established findings; James Blair disputes Means’s account, and the White House denies outside influence on policy.",
+    "evidence_quote": "Blair denied Means’s claims to CBS News",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "Former RFK Jr adviser accuses Trump officials of prioritizing special interest groups over voters",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
+    "group": ""
+  },
+  "9ca1aa765d514bef94767f1083a013e9bbe04e9d527e4625bbddac875d072ddf": {
+    "id": "5ed8d6ca7a7c34dfd3dc",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Trump questioned the midterm results after previously accepting them, without supplying specific evidence of wrongdoing. State and local officials reported mostly smooth voting, and an election researcher said vote reporting followed standard patterns.",
+    "evidence_quote": "without providing specific evidence of what this referred to",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "Trump questions midterm elections integrity after previously accepting results",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
+    "group": ""
+  },
+  "a8dc36d790d16e189399dc9dbf4104e94f7b83036dbeab57afe0583c1eb7a9a0": {
+    "id": "ae1d3d2181f785e65023",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Congress returns for a lame-duck session with government funding due in December and a push to impeach Defense Secretary Pete Hegseth over the Iran war. Republican Thomas Massie advanced the resolution; the article reports no completed impeachment vote.",
+    "evidence_quote": "Republican Rep. Thomas Massie pushed the impeachment resolution forward over the objections of House GOP leadership",
+    "related_ids": [
+      "9955c53e53d9bccf6d1b"
+    ],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-live-house-returns-to-washington-after-blowout-election-for-democrats",
+    "group": "9955c53e53d9bccf6d1b"
+  },
+  "2353dd02f2f4468d2606b6f78fbbcc22b3e5eeceba1e75dcacb5b87527247122": {
+    "id": "a33117b4e9a449b40b5e",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Trump said his deportation policy might have been too harsh and floated an immigration agreement with incoming congressional Democrats. He offered no specifics and subsequently appointed hard-line immigration adviser Stephen Miller as chief of staff.",
+    "evidence_quote": "Trump did not give specifics about what that deal would look like",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
+    "group": ""
+  },
+  "fd0427b301fb2925042df925909ed98f9495cd51948d3de50ba159b7fa26fdbc": {
+    "id": "9955c53e53d9bccf6d1b",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "ae1d3d2181f785e65023"
+    ],
+    "reviewed_at": "2026-11-10T01:12:40.731952+00:00",
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "group": "9955c53e53d9bccf6d1b"
   }
 }
