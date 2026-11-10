@@ -15542,6 +15542,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "8661eee6a6e893bab665",
+    "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+    "category": "World",
+    "published_at": "2026-11-10T07:30:15Z",
+    "first_seen_at": "2026-11-10T09:00:12.032785Z",
+    "updated_at": "2026-11-10T09:00:12.032785Z",
+    "sources": [
+      {
+        "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-10T07:30:15Z",
+        "primary": false,
+        "excerpt": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice HuangBusiness live – latest updatesNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of defrauding shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (£3.2tn) company.The legal action came as Donald Trump said the FBI was investigating Huang’s affair with an alleged Chinese spy. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d5714880240dfebd1b59",
+    "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+    "category": "World",
+    "published_at": "2026-11-10T06:00:31Z",
+    "first_seen_at": "2026-11-10T09:00:12.032785Z",
+    "updated_at": "2026-11-10T09:00:12.032785Z",
+    "sources": [
+      {
+        "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+        "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-10T06:00:31Z",
+        "primary": false,
+        "excerpt": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form governmentIsrael’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a new government to unseat Benjamin Netanyahu.High on the agenda will be replacing the speaker, who wields immense influence by controlling the legislature’s agenda. The role is currently held by Amir Ohana, a close ally of Netanyahu. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
