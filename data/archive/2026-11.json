@@ -15822,6 +15822,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4b6fbb0e434ec870edd5",
+    "title": "Jordon Hudson files lawsuit over shirtless video of Belichick that helped disclose romance",
+    "category": "U.S.",
+    "published_at": "2026-11-10T14:28:10Z",
+    "first_seen_at": "2026-11-10T17:00:04.015653Z",
+    "updated_at": "2026-11-10T17:00:04.015653Z",
+    "sources": [
+      {
+        "title": "Jordon Hudson files lawsuit over shirtless video of Belichick that helped disclose romance",
+        "url": "https://www.theguardian.com/sport/2026/nov/10/jordon-hudson-files-lawsuit-over-shirtless-video-of-belichick-that-helped-disclose-romance",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-10T14:28:10Z",
+        "primary": false,
+        "excerpt": "Age-gap relationship generated intense scrutinyHudson says clip invaded her privacyJordon Hudson is suing two Airbnb hosts over a Ring doorbell camera video of a bare-chested Bill Belichick. Hudson says that the 2023 clip invaded her privacy by prompting public disclosure of her relationship with the former New England Patriots head coach.Hudson, who went on to become a public presence by Belichick’s side, says in the lawsuit that the pair were keeping their romantic relationship private when they stayed at the Boston-area rental in the summer of 2023. However, the doorbell video – which showe"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f32076c3446ac434b1f9",
+    "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+    "category": "U.S.",
+    "published_at": "2026-11-10T16:32:01Z",
+    "first_seen_at": "2026-11-10T17:00:04.015653Z",
+    "updated_at": "2026-11-10T17:00:04.015653Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-considers-bills-on-permitting-survivor-justice-as-gop-mulls-future-leadership",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T16:32:01Z",
+        "primary": false,
+        "excerpt": "Senate Republicans were meeting Tuesday for a \"robust conversation\" on their future and to decide whether to keep South Dakota Sen. John Thune as their leader, just a week after steep losses in the midterm elections that cost them their majority."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
