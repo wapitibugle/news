@@ -14807,7 +14807,7 @@
         "excerpt": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -15738,7 +15738,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2fc4bc93d6c9b1b74db9",
@@ -15759,6 +15760,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a03921cccee10e17b960",
+    "title": "What happens to your brain when the days get darker? - video",
+    "category": "Science",
+    "published_at": "2026-11-10T12:23:54Z",
+    "first_seen_at": "2026-11-10T14:23:03.760304Z",
+    "updated_at": "2026-11-10T14:23:03.760304Z",
+    "sources": [
+      {
+        "title": "What happens to your brain when the days get darker? - video",
+        "url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-10T12:23:54Z",
+        "primary": false,
+        "excerpt": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford. He explains what scientists think the mechanism for the condition could be and what the evidence says about the best way to tackle it.In the"
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
