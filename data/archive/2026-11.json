@@ -12959,7 +12959,7 @@
         "excerpt": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -12987,7 +12987,7 @@
         "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13071,7 +13071,7 @@
         "excerpt": "Brands including Dr Martens, Nike and Coach are among those using recycled materials."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13099,7 +13099,7 @@
         "excerpt": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -13127,7 +13127,7 @@
         "excerpt": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darknessThis week, we are going to locate the Great Square of Pegasus and count stars to see how dark your sky is.The chart shows the view looking south from London at 2000 GMT on 9 November. High in the sky is the Great Square of Pegasus, a distinctive pattern of four stars that marks the body of the mythical winged horse. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -14536,5 +14536,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "ded4e4eb29e3399579e5",
+    "title": "California voters defeat billionaire tax proposal that divided Democrats",
+    "category": "Elections",
+    "published_at": "2026-11-10T03:05:39Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "California voters defeat billionaire tax proposal that divided Democrats",
+        "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-10T03:05:39Z",
+        "primary": false,
+        "excerpt": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8f931ab7b6c161f6e11a",
+    "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+    "category": "Elections",
+    "published_at": "2026-11-10T02:54:54Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-10T02:54:54Z",
+        "primary": false,
+        "excerpt": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollarsCalifornia billionaires won a contentious ballot measure campaign, defeating a proposed one-time tax on their wealth.The bruising campaign over Proposition 40 was the most expensive in state history and witness to back-and-forth dealing from tech billionaires and democratic leaders, including Gavin Newsom, the governor, who steadfastly opposed the measure. While supporters of Prop 40 cast it as a solution to drastic healthcare cuts from Trump’s One Big Beautiful Bill Act, opponent"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d360149389ef4dd0a4d1",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "category": "World",
+    "published_at": "2026-11-10T03:58:13Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T03:58:13Z",
+        "primary": false,
+        "excerpt": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f9cc6c15eb7926f31a93",
+    "title": "Californians reject wealth tax for billionaires",
+    "category": "U.S.",
+    "published_at": "2026-11-10T03:34:46Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Californians reject wealth tax for billionaires",
+        "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-10T03:34:46Z",
+        "primary": false,
+        "excerpt": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ba2dd88bbad79dddc4f",
+    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+    "category": "World",
+    "published_at": "2026-11-10T05:00:29Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+        "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-10T05:00:29Z",
+        "primary": false,
+        "excerpt": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and EuropeUS officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday in the first substantive negotiations between the two countries since February.The talks are also the first since the US launched joint strikes with Israel against Iran, and they follow bruising midterm elections that have weakened Donald Trump at home. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0585a161a6c53b450979",
+    "title": "Trump says more US attacks on Iran 'highly unlikely'",
+    "category": "World",
+    "published_at": "2026-11-10T05:33:25Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T05:33:25Z",
+        "primary": false,
+        "excerpt": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b783817529d18a6e2b8e",
+    "title": "Autumn Mornings Bring Valley Fog",
+    "category": "Science",
+    "published_at": "2026-11-10T05:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Autumn Mornings Bring Valley Fog",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-10T05:00:00Z",
+        "primary": true,
+        "excerpt": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e492c134981293039aa9",
+    "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
+    "category": "Technology",
+    "published_at": "2026-11-10T05:29:32Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
+        "url": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-10T05:29:32Z",
+        "primary": false,
+        "excerpt": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.'Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8c2b6ac741cf58165481",
+    "title": "Auckland hit by swarms of bees after milder than usual New Zealand winter",
+    "category": "Outdoors",
+    "published_at": "2026-11-10T04:07:54Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Auckland hit by swarms of bees after milder than usual New Zealand winter",
+        "url": "https://www.theguardian.com/environment/2026/nov/10/bee-swarm-nz-auckland-swarming-bees-new-zealand",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-10T04:07:54Z",
+        "primary": false,
+        "excerpt": "Beekeepers say they are fielding a record number of calls from people needing assistance in removing swarmsEngulfing parked cars and blanketing inner-city street signs – New Zealand’s largest city, Auckland, is in the midst of an unusually large bee swarming season, that experts say has been exacerbated by a milder than usual winter. The Auckland Beekeepers Association says it is fielding five to 10 calls a day, requesting assistance to remove swarms of bees – with individual members of the association being contacted for help as well. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d990a8442c3fb4881540",
+    "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+    "category": "Science",
+    "published_at": "2026-11-10T05:05:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-10T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "198686b1d6046b2a1d26",
+    "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:55:35Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+        "url": "https://www.pbs.org/newshour/show/nvidias-jensen-huang-faces-scrutiny-over-alleged-affair-with-chinese-spy",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:55:35Z",
+        "primary": false,
+        "excerpt": "Lawmakers, investors and tech leaders are assessing bombshell revelations about Nvidia founder and CEO Jensen Huang. Huang admitted to an affair with a woman accused of being a Chinese spy. Nvidia designs chips and processors that power artificial intelligence and underpin much of the enormous investment in the industry. William Brangham reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ce9123852c66f507fb88",
+    "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+    "category": "Technology",
+    "published_at": "2026-11-09T10:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-09T10:00:00Z",
+        "primary": false,
+        "excerpt": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8888920c524bdb5769e",
+    "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:40:07Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:40:07Z",
+        "primary": false,
+        "excerpt": "In our news wrap Monday, the Supreme Court is allowing the Trump administration to continue building a section of border wall in a remote part of Texas that includes Big Bend National Park, Russia and Ukraine exchanged long-range strikes ahead of U.S. brokered talks and French officials are blaming Iran for a massive cyberattack on supermarket refrigerators."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4a9c6921b0cc7916d8f2",
+    "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+    "category": "Science",
+    "published_at": "2026-11-09T10:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+        "publisher": "NPR",
+        "category": "Science",
+        "published_at": "2026-11-09T10:00:00Z",
+        "primary": false,
+        "excerpt": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c7de7a0865a9d9ed7d19",
+    "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:35:18Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO",
+        "url": "https://www.pbs.org/newshour/world/what-we-know-and-what-we-dont-as-nvidia-investigates-an-alleged-spy-plot-involving-its-ceo",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:35:18Z",
+        "primary": false,
+        "excerpt": "Many questions remain unanswered. But the scandal is already bringing turmoil to California-based Nvidia, whose high-end chips have emerged as the leading building blocks for artificial intelligence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d4105952495314a50e77",
+    "title": "Dana White declines Trump’s offer to be White House press secretary",
+    "category": "World",
+    "published_at": "2026-11-09T22:46:27Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Dana White declines Trump’s offer to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-09T22:46:27Z",
+        "primary": false,
+        "excerpt": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "47b54d27a083afbf6f72",
+    "title": "Judge's ruling could clear the way for Lindsay Clancy to be tried again in the deaths of her three kids",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:25:36Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Judge's ruling could clear the way for Lindsay Clancy to be tried again in the deaths of her three kids",
+        "url": "https://www.pbs.org/newshour/nation/judges-ruling-could-clear-the-way-for-lindsay-clancy-to-be-tried-again-in-the-deaths-of-her-three-kids",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:25:36Z",
+        "primary": false,
+        "excerpt": "Clancy's defense team had asked the court to end the case based on an unusual argument that the judge shouldn't have declared a mistrial in September when jurors were unable to reach a unanimous verdict."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "486aadef9d9972c6af78",
+    "title": "Supreme Court says border wall construction can continue in west Texas",
+    "category": "U.S.",
+    "published_at": "2026-11-09T21:47:39Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Supreme Court says border wall construction can continue in west Texas",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-09T21:47:39Z",
+        "primary": false,
+        "excerpt": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ee24fa4e14831750674",
+    "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+    "category": "U.S.",
+    "published_at": "2026-11-10T02:19:47Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-10T02:19:47Z",
+        "primary": false,
+        "excerpt": "Runners seek medical treatment as 13-mile race held amid unusually high November temperaturesPolice in southern California are investigating the circumstances that led to the hospitalization of nearly 30 runners who participated in the Santa Barbara Half on Sunday.Santa Barbara police said in a statement to the Associated Press that they had opened an investigation after receiving reports from Santa Barbara Cottage Hospital about multiple half-marathon participants seeking medical treatment for “unusual symptoms”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f25fb608076dbebc3c2f",
+    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:28:53Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:28:53Z",
+        "primary": false,
+        "excerpt": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3677195eb7d77bc6570d",
+    "title": "Judge dismisses case from Dolly Parton's manager alleging her nephew threatened her estate",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:15:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Judge dismisses case from Dolly Parton's manager alleging her nephew threatened her estate",
+        "url": "https://www.pbs.org/newshour/arts/judge-dismisses-case-from-dolly-partons-manager-alleging-her-nephew-threatened-her-estate",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:15:00Z",
+        "primary": false,
+        "excerpt": "A Tennessee judge on Monday dismissed a case brought by Dolly Parton 's longtime manager who was seeking an injunction against her nephew and head of security, alleging he had threatened her estate and its employees."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "80ba692f554c9a5db82b",
+    "title": "Democrats won big on issues like immigration. But ICE still has the money",
+    "category": "U.S.",
+    "published_at": "2026-11-09T10:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Democrats won big on issues like immigration. But ICE still has the money",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-09T10:00:00Z",
+        "primary": false,
+        "excerpt": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9f1ce244d56170ead4a5",
+    "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+    "category": "U.S.",
+    "published_at": "2026-11-09T23:48:36Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-09T23:48:36Z",
+        "primary": false,
+        "excerpt": "Ruling said law enacted by Congress reflects preference for border control over environmental and recreational harmThe US supreme court has allowed Donald Trump to continue his administration’s construction of a border wall in Texas’s Big Bend region, including parts of Big Bend national park.In an unsigned, five-page ruling, the nation’s highest court granted the Trump administration’s emergency request to suspend a lower court order that had temporarily stopped the project last month. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c07d24f8b261a6688c3f",
+    "title": "Deportation flight of Iranians from U.S. canceled at last minute, attorney says",
+    "category": "U.S.",
+    "published_at": "2026-11-09T15:07:52Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Deportation flight of Iranians from U.S. canceled at last minute, attorney says",
+        "url": "https://www.pbs.org/newshour/politics/deportation-flight-of-iranians-from-u-s-canceled-at-last-minute-attorney-says",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-09T15:07:52Z",
+        "primary": false,
+        "excerpt": "The U.S. Department of Homeland Security refused to comment on the details of removal operations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "56b20d07d720bcc449e2",
+    "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+    "category": "U.S.",
+    "published_at": "2026-11-09T10:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-09T10:00:00Z",
+        "primary": false,
+        "excerpt": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b090dff1a243ae12bd3a",
+    "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+    "category": "U.S.",
+    "published_at": "2026-11-09T08:49:17Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+        "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-09T08:49:17Z",
+        "primary": false,
+        "excerpt": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f89047f97e1e02c0bb8a",
+    "title": "Donald Trump 'kidding' about making UFC boss Dana White US press secretary – video",
+    "category": "U.S.",
+    "published_at": "2026-11-09T12:08:26Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Donald Trump 'kidding' about making UFC boss Dana White US press secretary – video",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-09T12:08:26Z",
+        "primary": false,
+        "excerpt": "Donald Trump said on Sunday that he was 'only kidding' when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship (UFC)Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8f9b546ec811f6c30212",
+    "title": "Democrats won big. Can they lower your grocery bill?",
+    "category": "Business",
+    "published_at": "2026-11-09T10:00:00Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Democrats won big. Can they lower your grocery bill?",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-11-09T10:00:00Z",
+        "primary": false,
+        "excerpt": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9641a16883f21f0be4dc",
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "category": "World",
+    "published_at": "2026-11-10T00:09:49Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T00:09:49Z",
+        "primary": false,
+        "excerpt": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "378762c45f75e88a891d",
+    "title": "France accuses Iran of supermarket fridge hacking",
+    "category": "World",
+    "published_at": "2026-11-09T20:20:08Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "France accuses Iran of supermarket fridge hacking",
+        "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-09T20:20:08Z",
+        "primary": false,
+        "excerpt": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8655b6de6f5196e358f5",
+    "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+    "category": "World",
+    "published_at": "2026-11-09T18:27:51Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+        "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T18:27:51Z",
+        "primary": false,
+        "excerpt": "High winds and heavy train triggered collapse of sand bank overlooking camp for displaced familiesWitnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza.A sand bank overlooking a camp for displaced families south of Deir al-Balah collapsed on Sunday, killing five people and crushing at least three tents. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f7175dd5796778153b9a",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "category": "World",
+    "published_at": "2026-11-09T19:58:01Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-09T19:58:01Z",
+        "primary": false,
+        "excerpt": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "29039739eb4fd04cad73",
+    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "category": "World",
+    "published_at": "2026-11-09T17:54:40Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+        "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-09T17:54:40Z",
+        "primary": false,
+        "excerpt": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last monthFrance has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scale and unprecedented aggression”.Jean-Noël Barrot said “Europe-wide sanctions” would be imposed against those responsible, adding that the attacks – which took control of digital thermostats to push temperatures up to above 50C – constituted “a major violation of the nation’s interests”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "280a48f869e87f5b5d04",
+    "title": "Russia's leading independent newspaper closes after eviction",
+    "category": "World",
+    "published_at": "2026-11-09T18:08:07Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Russia's leading independent newspaper closes after eviction",
+        "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-09T18:08:07Z",
+        "primary": false,
+        "excerpt": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bc3a98214190cca486e9",
+    "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+    "category": "World",
+    "published_at": "2026-11-09T17:06:18Z",
+    "first_seen_at": "2026-11-10T06:00:35.542524Z",
+    "updated_at": "2026-11-10T06:00:35.542524Z",
+    "sources": [
+      {
+        "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-09T17:06:18Z",
+        "primary": false,
+        "excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
