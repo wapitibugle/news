@@ -6432,5 +6432,103 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
     "group": "9955c53e53d9bccf6d1b"
+  },
+  "4070b2a0c8c902d4c4f6536165ef6faa004d19339f9088ef277e6c90ecabee79": {
+    "id": "518877a6ec48aa433e1f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Republicans elected Jim Jordan as House leader after midterm losses, as Democrats prepare to control both chambers of Congress.",
+    "evidence_quote": "Republicans backed Jordan to lead them in the House",
+    "related_ids": [
+      "a6374b3859c419f5c713"
+    ],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+    "group": "518877a6ec48aa433e1f"
+  },
+  "17a5544d71235bc94823b354024a715058572ed91195cffe61768b003cc04e8d": {
+    "id": "e20d63972b328f302dd4",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports California voters rejected a one-time 5% tax on billionaires’ wealth. Opponents raised roughly ten times as much as supporters; the proposed revenue was chiefly intended to offset federal healthcare funding cuts.",
+    "evidence_quote": "The Associated Press determined Monday that 'no' had received enough votes to win.",
+    "related_ids": [
+      "ded4e4eb29e3399579e5"
+    ],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "California voters reject tax on net worth of billionaires",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+    "group": "ded4e4eb29e3399579e5"
+  },
+  "9b280502aae005898472916dd78b82345177c0998549355d87fef9ac5e9520fc": {
+    "id": "a6374b3859c419f5c713",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "518877a6ec48aa433e1f"
+    ],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+    "group": "518877a6ec48aa433e1f"
+  },
+  "25b6738155499d1580b72e81f00cc2452e2d2b525001151ec611893a23fc56aa": {
+    "id": "2fc4bc93d6c9b1b74db9",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+    "group": ""
+  },
+  "49ce641f6d2b5d27f9be3a8e8b193c06ac7f894ecabd6c123a5898a38f223140": {
+    "id": "ded4e4eb29e3399579e5",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "e20d63972b328f302dd4"
+    ],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "California voters defeat billionaire tax proposal that divided Democrats",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+    "group": "ded4e4eb29e3399579e5"
+  },
+  "966c61aac3c76a1ed5a2c353f55f9ad613215e43e16d229e692da75454332f7d": {
+    "id": "d7dc1258d7473403cb3b",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-10T19:59:46.314635+00:00",
+    "title": "How Medicaid affected one California House race",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/09/nx-s1-6030983/how-medicaid-affected-one-california-house-race",
+    "group": ""
   }
 }
