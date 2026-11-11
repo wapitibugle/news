@@ -17485,6 +17485,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c80921ee9e90fdecea40",
+    "title": "More than a dozen key races remain too early to call one week after Election Day",
+    "category": "Elections",
+    "published_at": "2026-11-11T20:33:19Z",
+    "first_seen_at": "2026-11-11T21:43:49.763426Z",
+    "updated_at": "2026-11-11T21:43:49.763426Z",
+    "sources": [
+      {
+        "title": "More than a dozen key races remain too early to call one week after Election Day",
+        "url": "https://www.pbs.org/newshour/politics/more-than-a-dozen-key-races-remain-too-early-to-call-one-week-after-election-day",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-11T20:33:19Z",
+        "primary": false,
+        "excerpt": "The size of Democrats' majorities in the House and Senate remained undetermined one week after Election Day as more than a dozen races were still too early to call Tuesday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
