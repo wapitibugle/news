@@ -6627,5 +6627,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
     "group": ""
+  },
+  "e9c53fbe019940b19dc4d0b9e539ec0aa5e4af2a83fbd1e331e07f2c0883f796": {
+    "id": "7c3cdc143d84f326c891",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Mississippi's Senate race remains uncalled, with Democrat Scott Colom leading by about 2,500 votes and ballots still being processed, according to the BBC. The voter interviews illustrate individual views, not a representative poll.",
+    "evidence_quote": "Scott Colom, the Democrat, holds a lead of about 2,500 ballots",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6ly0y8r54pqo",
+    "group": ""
+  },
+  "789013a3659a30814cd62c515c52433a4835aceb99a208eb24335ca209147340": {
+    "id": "f1b3506ce3d4d107abc6",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The ruling allows Trump's defamation claim against the BBC to proceed; it does not establish liability. Trump must still prove actual malice and damages. The judge dismissed his separate claim under Florida's unfair trade practices law.",
+    "evidence_quote": "he will have to actually prove they did so at trial",
+    "related_ids": [
+      "96ea788a7ec3c74d4ca7"
+    ],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+    "group": "96ea788a7ec3c74d4ca7"
+  },
+  "6f9f0415e5d645a5ba79dd8dd95d14af9587307fa524e6db8999e2fe3041d181": {
+    "id": "96ea788a7ec3c74d4ca7",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The judge found Trump's defamation allegations sufficient to continue but did not decide the merits. The BBC says it remains confident in its position. A separate unfair trade practices claim was dismissed.",
+    "evidence_quote": "he did not make a ruling on the merits of the case",
+    "related_ids": [
+      "f1b3506ce3d4d107abc6"
+    ],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+    "group": "96ea788a7ec3c74d4ca7"
+  },
+  "8b67a8a3ed8afcf894e6957123d0ccbf0a35beec2de82d429a6d424a03219593": {
+    "id": "e93ba7046c22a2cdb22d",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The House voted 211–204 to refer the Hegseth impeachment resolution to the judiciary committee, blocking the immediate effort. Its accusations concerning military operations and constitutional violations remain allegations; the procedural vote was not an adjudication of them.",
+    "evidence_quote": "Republicans moved to kill it by referring it to the judiciary committee.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+    "group": ""
+  },
+  "29c3589acd4075fae41ac17f39864c5cc8bbdb42eebc8356f06513e04239fa79": {
+    "id": "5d6bebf95b1ba9857295",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+    "group": ""
+  },
+  "56c79a1ba17e6e69c96a3a92502295b03cfba6873d96d5cfe531bb15798a3557": {
+    "id": "95c1566b9198a4bab4ce",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Nvidia has retained outside counsel to investigate its CEO's relationship with an alleged Chinese spy; the FBI is also investigating, according to the BBC. The espionage allegation is unproven, and Nvidia's board says it has no reason to believe company secrets or national security were compromised.",
+    "evidence_quote": "its attorney Joon Kim would lead \"a thorough and independent investigation\".",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+    "group": ""
   }
 }
