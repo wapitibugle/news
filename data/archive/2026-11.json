@@ -17373,7 +17373,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "202ced7fbe8e65b8b3bf",
@@ -17391,6 +17392,34 @@
         "published_at": "2026-11-11T16:41:48Z",
         "primary": false,
         "excerpt": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2cdaea079491d7f5c8d7",
+    "title": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
+    "category": "Elections",
+    "published_at": "2026-11-11T17:30:00Z",
+    "first_seen_at": "2026-11-11T18:00:34.327598Z",
+    "updated_at": "2026-11-11T18:00:34.327598Z",
+    "sources": [
+      {
+        "title": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
+        "url": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-11T17:30:00Z",
+        "primary": false,
+        "excerpt": "The post A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive. appeared first on ProPublica."
       }
     ],
     "tier": "brief",
