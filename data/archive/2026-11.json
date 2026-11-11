@@ -16167,7 +16167,7 @@
         "excerpt": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 yearsThousands of one of Britain’s rarest wildflowers have been moved to safety from an eroding Scottish shoreline where they were at risk of falling into the sea.Conservationists rescued 3,400 one-flowered wintergreen plants at Culbin Forest in Moray, in an effort to protect a species estimated to have lost more than half its UK population in the past 50 years. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17311,6 +17311,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "44a304747829d4123fa1",
+    "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+    "category": "Science",
+    "published_at": "2026-11-11T13:05:57Z",
+    "first_seen_at": "2026-11-11T15:58:58.484506Z",
+    "updated_at": "2026-11-11T15:58:58.484506Z",
+    "sources": [
+      {
+        "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+        "url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-11T13:05:57Z",
+        "primary": false,
+        "excerpt": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spreadA molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer, researchers have found, ⁠a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread.For decades, ​efforts to detect ovarian cancer earlier have focused on finding smaller tumors, the researchers noted in their report published on Tuesday in Nature Medicine. Continue reading..."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
