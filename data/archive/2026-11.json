@@ -15815,7 +15815,7 @@
         "excerpt": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford. He explains what scientists think the mechanism for the condition could be and what the evidence says about the best way to tackle it.In the"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -16167,7 +16167,7 @@
         "excerpt": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 yearsThousands of one of Britain’s rarest wildflowers have been moved to safety from an eroding Scottish shoreline where they were at risk of falling into the sea.Conservationists rescued 3,400 one-flowered wintergreen plants at Culbin Forest in Moray, in an effort to protect a species estimated to have lost more than half its UK population in the past 50 years. Continue reading..."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17252,6 +17252,34 @@
         "published_at": "2026-11-11T11:00:46Z",
         "primary": false,
         "excerpt": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.One can sense the ambition of the bumper new crop of Democrats ushered to power last week, calling for support for programs for children and their parents; emphatically endorsing the long-held dream of "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "943478f66942fb8be1ad",
+    "title": "Watch: BBC talks to Mississippi voters awaiting Senate result",
+    "category": "Elections",
+    "published_at": "2026-11-11T13:03:05Z",
+    "first_seen_at": "2026-11-11T13:20:58.430755Z",
+    "updated_at": "2026-11-11T13:20:58.430755Z",
+    "sources": [
+      {
+        "title": "Watch: BBC talks to Mississippi voters awaiting Senate result",
+        "url": "https://www.bbc.co.uk/news/videos/crvg2xex290no",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-11T13:03:05Z",
+        "primary": false,
+        "excerpt": "Democrat Scott Colom's razor-thin advantage has defied political gravity in a conservative fortress that President Donald Trump won in 2024 by over 22 points."
       }
     ],
     "tier": "brief",
