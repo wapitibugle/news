@@ -15633,7 +15633,7 @@
         "excerpt": "Nebraska budgeted $8.2 million for contractors to comply with Medicaid changes under President Donald Trump’s One Big Beautiful Bill Act. Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -16195,7 +16195,7 @@
         "excerpt": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17037,7 +17037,7 @@
     "category": "U.S.",
     "published_at": "2026-11-10T23:43:11Z",
     "first_seen_at": "2026-11-11T06:09:01.883347Z",
-    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T10:08:24.102354Z",
     "sources": [
       {
         "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
@@ -17047,6 +17047,15 @@
         "published_at": "2026-11-10T23:43:11Z",
         "primary": false,
         "excerpt": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie."
+      },
+      {
+        "title": "House votes to end the impeachment effort against Pete Hegseth",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6035797/house-votes-to-end-the-impeachment-effort-against-pete-hegseth",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T10:02:51Z",
+        "primary": false,
+        "excerpt": "The House was on course for a floor vote Wednesday on whether to impeach Pete Hegseth. That is until House Republicans used a procedural vote to effectively end the impeachment effort."
       }
     ],
     "tier": "brief",
@@ -17140,7 +17149,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cdc4277c5b5a01c4116b",
@@ -17161,6 +17171,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c63bc7d59dec463bbe0a",
+    "title": "Mixed results from ballot measures on abortion and trans issues",
+    "category": "Elections",
+    "published_at": "2026-11-11T10:02:50Z",
+    "first_seen_at": "2026-11-11T10:08:24.102354Z",
+    "updated_at": "2026-11-11T10:08:24.102354Z",
+    "sources": [
+      {
+        "title": "Mixed results from ballot measures on abortion and trans issues",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6035718/mixed-results-from-ballot-measures-on-abortion-and-trans-issues",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-11T10:02:50Z",
+        "primary": false,
+        "excerpt": "Midterm ballot measures on abortion and transgender issues saw mixed results."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
