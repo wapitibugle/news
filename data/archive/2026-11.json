@@ -17233,6 +17233,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1e0a7ae7209d696d1d34",
+    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+    "category": "Elections",
+    "published_at": "2026-11-11T11:00:46Z",
+    "first_seen_at": "2026-11-11T12:02:40.542065Z",
+    "updated_at": "2026-11-11T12:02:40.542065Z",
+    "sources": [
+      {
+        "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+        "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-11T11:00:46Z",
+        "primary": false,
+        "excerpt": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.One can sense the ambition of the bumper new crop of Democrats ushered to power last week, calling for support for programs for children and their parents; emphatically endorsing the long-held dream of "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
