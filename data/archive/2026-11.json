@@ -17429,6 +17429,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "60e55f02018ff4fea3cc",
+    "title": "White House sends warning to Democrats about investigating the Trump administration",
+    "category": "U.S.",
+    "published_at": "2026-11-11T17:06:10Z",
+    "first_seen_at": "2026-11-11T19:07:39.617922Z",
+    "updated_at": "2026-11-11T19:07:39.617922Z",
+    "sources": [
+      {
+        "title": "White House sends warning to Democrats about investigating the Trump administration",
+        "url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T17:06:10Z",
+        "primary": false,
+        "excerpt": "The White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress -- may amount to \"blatant criminality.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
