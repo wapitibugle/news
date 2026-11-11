@@ -17457,6 +17457,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "25664930c633a0b6d990",
+    "title": "Independent Rep. Kevin Kiley says voters want 'checks and balances' in government",
+    "category": "Elections",
+    "published_at": "2026-11-11T10:02:43Z",
+    "first_seen_at": "2026-11-11T20:08:14.724385Z",
+    "updated_at": "2026-11-11T20:08:14.724385Z",
+    "sources": [
+      {
+        "title": "Independent Rep. Kevin Kiley says voters want 'checks and balances' in government",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6034566/kevin-kiley-election-loss-republicans-what-went-wrong",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-11T10:02:43Z",
+        "primary": false,
+        "excerpt": "Rep. Kevin Kiley, a former Republican turned independent, lost his reelection bid. He discusses what went wrong for the GOP, the challenges of the two-party system and how Congress could work better."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
