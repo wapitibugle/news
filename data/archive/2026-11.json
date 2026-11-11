@@ -17345,6 +17345,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "37a8d8833e7c4b33ca7f",
+    "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-11T16:01:25Z",
+    "first_seen_at": "2026-11-11T17:04:37.767801Z",
+    "updated_at": "2026-11-11T17:04:37.767801Z",
+    "sources": [
+      {
+        "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
+        "url": "https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-11T16:01:25Z",
+        "primary": false,
+        "excerpt": "The campaign of Alaska Democratic U.S. Senate candidate Mary Peltola is seeking a list of absentee voters whose ballots have been rejected in one of the most closely watched races of the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "202ced7fbe8e65b8b3bf",
+    "title": "What's behind Democratic Socialists' historic victories in the midterms?",
+    "category": "Elections",
+    "published_at": "2026-11-11T16:41:48Z",
+    "first_seen_at": "2026-11-11T17:04:37.767801Z",
+    "updated_at": "2026-11-11T17:04:37.767801Z",
+    "sources": [
+      {
+        "title": "What's behind Democratic Socialists' historic victories in the midterms?",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-11T16:41:48Z",
+        "primary": false,
+        "excerpt": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
