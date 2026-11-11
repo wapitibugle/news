@@ -14765,7 +14765,7 @@
         "excerpt": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.'Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -15980,5 +15980,1076 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "3150bf0f026c2a4aa8e6",
+    "title": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
+    "category": "U.S.",
+    "published_at": "2026-11-11T05:59:42Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T05:59:42Z",
+        "primary": false,
+        "excerpt": "Koah was found ‘clinging to life’ in a shallow grave after he went missing while in the care of his father, Lexington sheriff’s department saidAn 11-month-old boy was found alive in South ⁠Carolina after he was believed to have been buried for ⁠about 24 hours, local police said.The infant, Koah Sharpe, was found on Tuesday wrapped inside ⁠a dog crate that was in turn wrapped in a towel and buried just under the surface in the woods, according to the ​Lexington county sheriff’s department. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b2ba019d6dfe8b3e967",
+    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+    "category": "World",
+    "published_at": "2026-11-11T05:33:27Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+        "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-11T05:33:27Z",
+        "primary": false,
+        "excerpt": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation.The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, according to Ukraine’s state-run I Want to Live project. He was then captured by the Ukrainians. Contin"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dd25b8aa9bb77faae9e0",
+    "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+    "category": "World",
+    "published_at": "2026-11-11T05:00:32Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+        "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-11T05:00:32Z",
+        "primary": false,
+        "excerpt": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areasTens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza awaiting Israeli approval to enter, aid agencies have said.At least four Palestinian children and woman were killed as heavy rains and wind battered fragile, leaky tents. Thousands have been left without shelter and sanitation infrastructure has been destroyed, with sewage spewing into people’s tents. Continue "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c3b162bcfa69a384c86a",
+    "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
+    "category": "U.S.",
+    "published_at": "2026-11-11T03:52:05Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T03:52:05Z",
+        "primary": false,
+        "excerpt": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North HollywoodAt least three people are dead and three critically injured, after a car struck pedestrians on a Los Angeles corner during Tuesday rush hour, authorities said.The fatal crash took place near a North Hollywood metro station. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c1fac336654d66f65548",
+    "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+    "category": "World",
+    "published_at": "2026-11-11T05:00:29Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+        "url": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-11T05:00:29Z",
+        "primary": false,
+        "excerpt": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatmentAn independent professor who reviewed the medical records of a prominent Gaza doctor held in an Israeli prison without charge for nearly 23 months has raised serious concerns about his health.Hussam Abu Safiya was detained at work on 27 December 2024 and later held in solitary confinement at Rakefet, a notorious underground prison. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a72a1e1ff35bcaf6e0e6",
+    "title": "Artist creates world's biggest soil painting",
+    "category": "Science",
+    "published_at": "2026-11-11T06:06:21Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Artist creates world's biggest soil painting",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-11T06:06:21Z",
+        "primary": false,
+        "excerpt": "Phil Lambert used four types of soil, including some collected from his mother, to create his work."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "751bd66d80a4280b2116",
+    "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
+    "category": "Outdoors",
+    "published_at": "2026-11-11T05:00:32Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-11T05:00:32Z",
+        "primary": false,
+        "excerpt": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 yearsThousands of one of Britain’s rarest wildflowers have been moved to safety from an eroding Scottish shoreline where they were at risk of falling into the sea.Conservationists rescued 3,400 one-flowered wintergreen plants at Culbin Forest in Moray, in an effort to protect a species estimated to have lost more than half its UK population in the past 50 years. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0fa3434ce5fe3dd3ff52",
+    "title": "Water Surges Into Navajo Reservoir",
+    "category": "Science",
+    "published_at": "2026-11-11T05:01:00Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Water Surges Into Navajo Reservoir",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-11T05:01:00Z",
+        "primary": true,
+        "excerpt": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a686ba9389898fedf054",
+    "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+    "category": "World",
+    "published_at": "2026-11-11T03:44:06Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-11T03:44:06Z",
+        "primary": false,
+        "excerpt": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites."
+      },
+      {
+        "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T01:09:55Z",
+        "primary": false,
+        "excerpt": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit saysNine members of the Kennedy family political dynasty have sued the Trump administration, asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery.The family’s complaint states that the 25oft triumphal arch, topped with a Lady Liberty-like winged figure, would “obstruct the clear sightline of the Kennedy Gravesites” and “fundamentally alter the experience of visi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ce8e7b7ec544b6015d6",
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "category": "World",
+    "published_at": "2026-11-11T03:26:42Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-11T03:26:42Z",
+        "primary": false,
+        "excerpt": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55b3e3aad90939b0fab2",
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "category": "Science",
+    "published_at": "2026-11-11T05:05:00Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-11T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "70070e81633767ca070d",
+    "title": "Mississippi voters reflect on surprising Senate race as count continues",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:35:03Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Mississippi voters reflect on surprising Senate race as count continues",
+        "url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:35:03Z",
+        "primary": false,
+        "excerpt": "Mississippi, a state not known for close elections, now sits in the center of the national spotlight as an unusually high number of absentee and provisional ballots will determine the size of the Democratic majority in the Senate. In partnership with the Pulitzer Center, Liz Landers reports on how election officials are handling the ongoing vote count and the historic nature of this Senate race.",
+        "ai_editor": {
+          "id": "70070e81633767ca070d",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Mississippi’s Senate race remains uncalled as officials review absentee and provisional ballots. Civil rights groups say some voters were mistakenly designated inactive; the report includes voters describing registration problems. The outcome will determine the size, not control, of the Democratic Senate majority.",
+          "evidence_quote": "their eligibility must be confirmed before their votes are counted.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+          "title": "Mississippi voters reflect on surprising Senate race as count continues",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "70070e81633767ca070d",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Mississippi’s Senate race remains uncalled as officials review absentee and provisional ballots. Civil rights groups say some voters were mistakenly designated inactive; the report includes voters describing registration problems. The outcome will determine the size, not control, of the Democratic Senate majority.",
+      "evidence_quote": "their eligibility must be confirmed before their votes are counted.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+      "title": "Mississippi voters reflect on surprising Senate race as count continues",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "74e8ac076cd7f101f261",
+    "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+    "category": "U.S.",
+    "published_at": "2026-11-10T11:52:24Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-10T11:52:24Z",
+        "primary": false,
+        "excerpt": "NPR's Steve Inskeep speaks with former Pentagon spokesman John Ullyot about articles of impeachment brought against Secretary of Defense Pete Hegseth."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "40d585a8ee42f401d230",
+    "title": "Genocide suspect deported by U.S. will stand trial in Rwanda",
+    "category": "U.S.",
+    "published_at": "2026-11-10T19:24:03Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Genocide suspect deported by U.S. will stand trial in Rwanda",
+        "url": "https://www.pbs.org/newshour/world/genocide-suspect-deported-by-u-s-will-stand-trial-in-rwanda",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T19:24:03Z",
+        "primary": false,
+        "excerpt": "Jean Léonard Teganya arrived in the East African nation on Monday, and Rwandan prosecutors said they will put him on trial for alleged genocide and crimes against humanity."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d15384db1bf4e0e94a45",
+    "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+    "category": "U.S.",
+    "published_at": "2026-11-10T20:28:47Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+        "url": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-10T20:28:47Z",
+        "primary": false,
+        "excerpt": "Legal battle escalates as far-right US podcaster continues to spread false claims that France’s first lady was born a manEmmanuel and Brigitte Macron have brought a fresh defamation lawsuit against Candace Owens in her home state of Tennessee, in an escalation of a transatlantic legal battle as the far-right US podcaster continues to spread false claims that France’s first lady was born a man.The Macrons first sued Owens and her media companies in July 2025 in Delaware in response to what the French first couple called “verifiably false and devastating lies” being repeated by Owens on her podc"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "676660f80babe08cfe7f",
+    "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+    "category": "Business",
+    "published_at": "2026-11-10T13:30:00Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-11-10T13:30:00Z",
+        "primary": false,
+        "excerpt": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3d442e80247bc0344540",
+    "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+    "category": "World",
+    "published_at": "2026-11-10T10:58:18Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-10T10:58:18Z",
+        "primary": false,
+        "excerpt": "Hopes of progress in ending Europe's biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e5164dffaaa9f8ad92a3",
+    "title": "A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic",
+    "category": "U.S.",
+    "published_at": "2026-11-10T19:00:00Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic",
+        "url": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-10T19:00:00Z",
+        "primary": false,
+        "excerpt": "The post A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5496ddc49556ef6573d4",
+    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "category": "World",
+    "published_at": "2026-11-11T01:01:20Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-11T01:01:20Z",
+        "primary": false,
+        "excerpt": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9a1e0deb9b7d93b5f19e",
+    "title": "The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+    "category": "U.S.",
+    "published_at": "2026-11-10T10:00:00Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+        "url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-10T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d9748374ccd4b033e155",
+    "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+    "category": "World",
+    "published_at": "2026-11-10T09:38:34Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-10T09:38:34Z",
+        "primary": false,
+        "excerpt": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e5ad10f9fa1943c82372",
+    "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:55:40Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+        "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:55:40Z",
+        "primary": false,
+        "excerpt": "Power shifts in Washington continued as new party leadership began to take shape. In the House, the GOP picked Jim Jordan to be their new leader and Senate Republicans re-elected John Thune. The House also voted to quash an effort to impeach Defense Secretary Pete Hegseth. Lisa Desjardins reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "95c1566b9198a4bab4ce",
+    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "category": "World",
+    "published_at": "2026-11-10T22:52:15Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T22:52:15Z",
+        "primary": false,
+        "excerpt": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+        "ai_editor": {
+          "id": "95c1566b9198a4bab4ce",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Nvidia has retained outside counsel to investigate its CEO's relationship with an alleged Chinese spy; the FBI is also investigating, according to the BBC. The espionage allegation is unproven, and Nvidia's board says it has no reason to believe company secrets or national security were compromised.",
+          "evidence_quote": "its attorney Joon Kim would lead \"a thorough and independent investigation\".",
+          "related_ids": [],
+          "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "95c1566b9198a4bab4ce",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Nvidia has retained outside counsel to investigate its CEO's relationship with an alleged Chinese spy; the FBI is also investigating, according to the BBC. The espionage allegation is unproven, and Nvidia's board says it has no reason to believe company secrets or national security were compromised.",
+      "evidence_quote": "its attorney Joon Kim would lead \"a thorough and independent investigation\".",
+      "related_ids": [],
+      "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2526064f2f92a69965b7",
+    "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:50:33Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
+        "url": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:50:33Z",
+        "primary": false,
+        "excerpt": "For a legal perspective on the effort to impeach Defense Secretary Pete Hegseth, Geoff Bennett spoke with Eugene Fidell. He's a longtime military law expert who served as a Coast Guard lawyer and later practiced military law in the private sector. He also co-founded the National Institute of Military Justice, an organization dedicated to improving the military justice system."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b8a5feaf9d0a34a5bf21",
+    "title": "US Army soldier suspected of spying for Russia arrested in UK",
+    "category": "World",
+    "published_at": "2026-11-10T20:20:04Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T20:20:04Z",
+        "primary": false,
+        "excerpt": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "571748cf8a783cf47fb2",
+    "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+    "category": "U.S.",
+    "published_at": "2026-11-11T01:51:23Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T01:51:23Z",
+        "primary": false,
+        "excerpt": "The Republican chair of the House Oversight Committee released a scathing report after a 15-month investigation into Jeffrey Epstein and his associates. It faulted the federal government with decades of failing to hold Epstein accountable."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7dd7fb97eadb35afe471",
+    "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+    "category": "World",
+    "published_at": "2026-11-10T18:35:35Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+        "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T18:35:35Z",
+        "primary": false,
+        "excerpt": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f395264c16413fbc007f",
+    "title": "News Wrap: U.S. charges 3 with plotting attacks",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:45:02Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "News Wrap: U.S. charges 3 with plotting attacks",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:45:02Z",
+        "primary": false,
+        "excerpt": "In our news wrap Tuesday, the U.S. charged three men with being Iran-backed operatives who planned attacks on Jewish communities and an attack at a British air base, Russian and Ukrainian representatives met for peace talks for the first time in nine months and Israel's parliament was sworn in without a new government in place, after no party secured a majority in the election."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f1b3506ce3d4d107abc6",
+    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+    "category": "World",
+    "published_at": "2026-11-11T01:18:56Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-11T01:18:56Z",
+        "primary": false,
+        "excerpt": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over editFederal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance.“Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damages ",
+        "ai_editor": {
+          "id": "f1b3506ce3d4d107abc6",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The ruling allows Trump's defamation claim against the BBC to proceed; it does not establish liability. Trump must still prove actual malice and damages. The judge dismissed his separate claim under Florida's unfair trade practices law.",
+          "evidence_quote": "he will have to actually prove they did so at trial",
+          "related_ids": [
+            "96ea788a7ec3c74d4ca7"
+          ],
+          "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+          "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+          "group": "96ea788a7ec3c74d4ca7"
+        }
+      },
+      {
+        "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+        "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-11T01:18:09Z",
+        "primary": false,
+        "excerpt": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+        "ai_editor": {
+          "id": "96ea788a7ec3c74d4ca7",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "The judge found Trump's defamation allegations sufficient to continue but did not decide the merits. The BBC says it remains confident in its position. A separate unfair trade practices claim was dismissed.",
+          "evidence_quote": "he did not make a ruling on the merits of the case",
+          "related_ids": [
+            "f1b3506ce3d4d107abc6"
+          ],
+          "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+          "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+          "group": "96ea788a7ec3c74d4ca7"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "f1b3506ce3d4d107abc6",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "The ruling allows Trump's defamation claim against the BBC to proceed; it does not establish liability. Trump must still prove actual malice and damages. The judge dismissed his separate claim under Florida's unfair trade practices law.",
+      "evidence_quote": "he will have to actually prove they did so at trial",
+      "related_ids": [
+        "96ea788a7ec3c74d4ca7"
+      ],
+      "reviewed_at": "2026-11-11T06:09:01.883347+00:00",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "group": "96ea788a7ec3c74d4ca7"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "18a2d3fc83f1afa8f154",
+    "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:43:59Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:43:59Z",
+        "primary": false,
+        "excerpt": "Defense Secretary Pete Hegseth is fighting back. As members of Congress begin deliberating on the articles of impeachment against him, Hegseth gave his first press conference in months."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a5c1e4d2165309674671",
+    "title": "Israel's new parliament sworn in as leaders compete to form government",
+    "category": "World",
+    "published_at": "2026-11-10T17:03:16Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Israel's new parliament sworn in as leaders compete to form government",
+        "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T17:03:16Z",
+        "primary": false,
+        "excerpt": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7b93bb034afc92522196",
+    "title": "'They want us to fight': Jeffries outlines priorities as Democrats prepare to take power",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:40:05Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "'They want us to fight': Jeffries outlines priorities as Democrats prepare to take power",
+        "url": "https://www.pbs.org/newshour/show/they-want-us-to-fight-jeffries-outlines-priorities-as-democrats-prepare-to-take-power",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:40:05Z",
+        "primary": false,
+        "excerpt": "With Congress back this week, Republicans and Democrats alike are wasting no time preparing for the new session that begins in January. House Republicans elected Ohio Congressman Jim Jordan to be their next leader. Although Democrats haven't voted yet on their leadership team, Hakeem Jeffries is poised to become the speaker. He joined Amna Nawaz to outline his priorities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1fddca4e7bcb0d7af6cd",
+    "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+    "category": "World",
+    "published_at": "2026-11-10T17:26:59Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-10T17:26:59Z",
+        "primary": false,
+        "excerpt": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UKRussian naval activity around the UK has increased by 41% in the first nine months of the year, a British defence minister has said, as the Royal Navy announced plans to step up a 10-country maritime defensive effort in response.Luke Pollard, the minister for defence readiness, described the figure as “a huge increase”, justifying a new drone and warship initiative from “the alliance of beer-drinking nations” – the UK, the Netherlands and the Baltic and Nordic "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83447a8c17e5ed786ed1",
+    "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+    "category": "U.S.",
+    "published_at": "2026-11-10T23:43:11Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-10T23:43:11Z",
+        "primary": false,
+        "excerpt": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9c2cd2220b2da605e004",
+    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "category": "World",
+    "published_at": "2026-11-10T17:00:11Z",
+    "first_seen_at": "2026-11-11T06:09:01.883347Z",
+    "updated_at": "2026-11-11T06:09:01.883347Z",
+    "sources": [
+      {
+        "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+        "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-10T17:00:11Z",
+        "primary": false,
+        "excerpt": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
