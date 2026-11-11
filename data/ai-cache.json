@@ -6530,5 +6530,102 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/09/nx-s1-6030983/how-medicaid-affected-one-california-house-race",
     "group": ""
+  },
+  "28f80d03a1dd5d79537dd94991e2bc4df846e408bb648ea3130b577c0fc9b343": {
+    "id": "70070e81633767ca070d",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Mississippi’s Senate race remains uncalled as officials review absentee and provisional ballots. Civil rights groups say some voters were mistakenly designated inactive; the report includes voters describing registration problems. The outcome will determine the size, not control, of the Democratic Senate majority.",
+    "evidence_quote": "their eligibility must be confirmed before their votes are counted.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "Mississippi voters reflect on surprising Senate race as count continues",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
+    "group": ""
+  },
+  "5d9e582a45bb65014fbf82532800e63e4a32fec4d90783586f87eae27a56187a": {
+    "id": "a9a5bcd956f5f3e9e15f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic statehouse gains create a possible path to activating the National Popular Vote Interstate Compact, but no new enactments are reported. Support from key incoming officials remains uncertain, and legal challenges are expected.",
+    "evidence_quote": "It's not clear that the strategy has support from all the newly elected lawmakers and governors",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "Farewell to the electoral college? Democrats now control enough states to elevate the popular vote",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/farewell-to-the-electoral-college-democrats-now-control-enough-states-to-elevate-the-popular-vote",
+    "group": ""
+  },
+  "16a84c23c462216aee37f2fb98fe716874536a65daea694efd30dc3365b5fb88": {
+    "id": "518877a6ec48aa433e1f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "House Republicans elected Jim Jordan to succeed Mike Johnson as their leader when the party enters the minority next year. Jordan defeated Steve Scalise and will shape Republican responses to planned Democratic investigations of the administration.",
+    "evidence_quote": "House Republicans elected Jordan over Steve Scalise",
+    "related_ids": [
+      "a6374b3859c419f5c713",
+      "ea45c3a9d564df089ad4"
+    ],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+    "group": "518877a6ec48aa433e1f"
+  },
+  "249a141833989e797c75a6570f00109bfce5a023305ca9b024bce2da01df9218": {
+    "id": "ea45c3a9d564df089ad4",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "Senate Republicans reelected John Thune unopposed after losing their majority. Some senators sought a delay to debate the party’s direction following losses of at least seven seats.",
+    "evidence_quote": "Thune was always expected to prevail, as he is popular with his GOP colleagues and was running unopposed",
+    "related_ids": [
+      "518877a6ec48aa433e1f"
+    ],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "Senate Republicans vote to keep Thune as leader after election wipeout",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+    "group": "518877a6ec48aa433e1f"
+  },
+  "14d4d0a5e2660133a1cdeef49ea6edfbba584545c061ec5e5f8ad23a5d48c945": {
+    "id": "a6374b3859c419f5c713",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "518877a6ec48aa433e1f"
+    ],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "House GOP elects Jim Jordan as new leader as the party looks to rebuild from midterms",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+    "group": "518877a6ec48aa433e1f"
+  },
+  "3df450a59a3324c47ed5b42fe23ba62be059499030744a3ad01db2009a1093a4": {
+    "id": "cc141a18c6d5970b7f6c",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "The administration will send no official delegation to COP31, while Democratic lawmakers plan to attend using philanthropic funding after being denied usual State Department assistance. Their proposed climate oversight and legislative efforts remain plans, not enacted policy.",
+    "evidence_quote": "a White House official said, confirming that the administration would not send anyone to Cop31",
+    "related_ids": [],
+    "reviewed_at": "2026-11-11T02:13:13.187352+00:00",
+    "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+    "group": ""
   }
 }
