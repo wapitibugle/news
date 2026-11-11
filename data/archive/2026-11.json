@@ -17289,6 +17289,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f9fa81a972dc84539e0f",
+    "title": "Following big Democratic wins, these swing voters are looking for results",
+    "category": "Elections",
+    "published_at": "2026-11-11T14:19:42Z",
+    "first_seen_at": "2026-11-11T14:59:41.406667Z",
+    "updated_at": "2026-11-11T14:59:41.406667Z",
+    "sources": [
+      {
+        "title": "Following big Democratic wins, these swing voters are looking for results",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-11T14:19:42Z",
+        "primary": false,
+        "excerpt": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
