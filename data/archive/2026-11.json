@@ -19016,6 +19016,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "72a395ae002bc1340e4d",
+    "title": "Gun rights groups plot new ties with ‘gun owners who vote Democrat’ after midterms verdict",
+    "category": "Elections",
+    "published_at": "2026-11-12T14:00:44Z",
+    "first_seen_at": "2026-11-12T15:04:19.093174Z",
+    "updated_at": "2026-11-12T15:04:19.093174Z",
+    "sources": [
+      {
+        "title": "Gun rights groups plot new ties with ‘gun owners who vote Democrat’ after midterms verdict",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/gun-rights-us-midterms-democrats",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-12T14:00:44Z",
+        "primary": false,
+        "excerpt": "Some advocates say it no longer makes sense for their movement to be so intertwined with the Republican partyAfter the Democrats’ huge wins in the US midterm elections last week, gun rights advocates are updating their strategies in an attempt to cross the aisle and find allies on the left.While most of the biggest and most visible gun rights groups, such as the National Rifle Association (NRA), are already signaling that they will challenge any gun safety legislation brought by the new Democratic Congress, others say it no longer makes sense for their movement to be so deeply intertwined with"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cfb4faa8387b692a9ae2",
+    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "category": "World",
+    "published_at": "2026-11-12T14:54:47Z",
+    "first_seen_at": "2026-11-12T15:04:19.093174Z",
+    "updated_at": "2026-11-12T15:04:19.093174Z",
+    "sources": [
+      {
+        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T14:54:47Z",
+        "primary": false,
+        "excerpt": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
