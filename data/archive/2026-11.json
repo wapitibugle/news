@@ -18960,6 +18960,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1be71bd736c9a656e200",
+    "title": "More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents",
+    "category": "U.S.",
+    "published_at": "2026-11-12T10:00:00Z",
+    "first_seen_at": "2026-11-12T12:10:46.476676Z",
+    "updated_at": "2026-11-12T12:10:46.476676Z",
+    "sources": [
+      {
+        "title": "More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents",
+        "url": "https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-12T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
