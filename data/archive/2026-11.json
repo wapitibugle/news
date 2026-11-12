@@ -15815,10 +15815,24 @@
         "excerpt": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford. He explains what scientists think the mechanism for the condition could be and what the evidence says about the best way to tackle it.In the"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "a03921cccee10e17b960",
+      "priority": 1,
+      "section": "second",
+      "major": false,
+      "context": "An expert interview explores seasonal affective disorder and possible mechanisms. The supplied description provides no specific research results or treatment evidence to assess.",
+      "evidence_quote": "Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+      "title": "What happens to your brain when the days get darker? - video",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -17142,7 +17156,7 @@
         "excerpt": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to assess coursework, according to an investigation by England’s higher education regulator.The Office for Students (OfS) said the credibility of degrees from England’s universities was under threat from the prolific use of AI in essays, dissertations and “open book” exams, with students reporting that their peers boasted "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17170,7 +17184,7 @@
         "excerpt": "Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investmentDeveloping countries have been left in limbo by the failure of some of the world’s biggest economies to flesh out their plans for new climate finance.Poor countries are supposed to receive $300bn a year from the governments of industrialised nations by 2035, along with about $1tn from other sources, to help them cope with the effects of extreme weather and shift to a low-carbon future. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17229,7 +17243,21 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "6a204266094337fbd348",
+      "priority": 1,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+      "title": "Ex-CIA officer on UK investigations into alleged Iran, Russia threats",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6036829/ex-cia-officer-on-uk-investigations-into-alleged-iran-russia-threats",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -17383,7 +17411,21 @@
     "tier": "second",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "44a304747829d4123fa1",
+      "priority": 3,
+      "section": "second",
+      "major": false,
+      "context": "Researchers reported that a blood RNA marker detected fallopian-tube precancerous lesions in 92.3% of affected women and correctly classified 98.2% of healthy women. The supplied report gives no sample size or evidence that screening improves outcomes; these findings do not establish a ready-to-use population screening test.",
+      "evidence_quote": "they detected STIC in 92.3% of affected women ⁠and correctly identified 98.2% of healthy women",
+      "related_ids": [],
+      "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+      "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
+      "group": ""
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -17525,7 +17567,23 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "60e55f02018ff4fea3cc",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "White House counsel warned that some Democratic oversight tactics could cross into criminality, prompting a dispute over congressional investigative authority. Attorney General Todd Blanche subsequently affirmed Congress’s oversight role and said the administration would continue working with it.",
+      "evidence_quote": "Congress has oversight authority. It always has, it always will.",
+      "related_ids": [
+        "8bec486bb2c754389b74"
+      ],
+      "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+      "title": "White House sends warning to Democrats about investigating the Trump administration",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+      "group": "60e55f02018ff4fea3cc"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
@@ -17697,7 +17755,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f3c5272ca147182993b4",
@@ -17724,7 +17783,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f074029439bf683baa12",
@@ -17751,7 +17811,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "067050b119d97bde5f1f",
@@ -17778,7 +17839,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ed22e8796ee81711c403",
@@ -17805,7 +17867,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ac1834bb5a0bd9190c55",
@@ -17832,7 +17895,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5308c7ed8c13ac56bdeb",
@@ -17852,14 +17916,15 @@
         "excerpt": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "821bf2e28738a977bd60",
@@ -17945,7 +18010,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8bec486bb2c754389b74",
@@ -17968,11 +18034,28 @@
     "tier": "brief",
     "verification": "source-reported",
     "claims": [],
-    "ai_editor": {},
+    "ai_editor": {
+      "id": "8bec486bb2c754389b74",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Incoming House oversight chair Robert Garcia rejected White House counsel’s warning about planned investigations, saying congressional authority does not require White House permission. The letter challenged the purpose and tactics of prospective inquiries; it does not establish criminal wrongdoing by lawmakers.",
+      "evidence_quote": "not from the permission of the White House",
+      "related_ids": [
+        "60e55f02018ff4fea3cc"
+      ],
+      "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+      "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+      "group": "60e55f02018ff4fea3cc"
+    },
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "82d94f1aa3c512700282",
@@ -17999,7 +18082,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "65adb552afdd08c4a845",
@@ -18026,7 +18110,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8427d1d623af6824f408",
@@ -18053,7 +18138,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72e18398fe696b791d82",
@@ -18080,7 +18166,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "44fa516c692708dca1f0",
@@ -18107,7 +18194,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0f67770f915e03c24496",
@@ -18134,7 +18222,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "781ab678d746f0d53709",
@@ -18161,7 +18250,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f7aac9d9dadc0e20f070",
@@ -18188,7 +18278,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "171e9bcc0b7d81a1a28c",
@@ -18215,7 +18306,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aec53cc7b943d77a5941",
@@ -18242,7 +18334,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c5614528e60f143358a2",
@@ -18269,7 +18362,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0fc6b91c507b3153f8d7",
@@ -18296,7 +18390,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "62bb68aef76c5e4b9d07",
@@ -18323,7 +18418,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d0e44bf4a1773f0197cc",
@@ -18350,7 +18446,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "26d0d738e118cbbcfe18",
@@ -18377,7 +18474,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a745f8ede937ba9d6d67",
@@ -18404,7 +18502,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a4d5b660789a8e8b53a0",
@@ -18431,7 +18530,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6b8885eef5c1541fa0b8",
@@ -18487,7 +18587,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ed7a81e6b6528a495861",
@@ -18514,7 +18615,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "be72be911abc1fd5241e",
@@ -18541,7 +18643,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "996a9e09d7be46043405",
@@ -18568,7 +18671,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7fc5d213b597862e19c4",
@@ -18604,7 +18708,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0588f6c0942c9ff5875c",
@@ -18631,7 +18736,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1c5373f51480ac003235",
@@ -18658,7 +18764,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "346cce68a01b7c04c23d",
@@ -18685,7 +18792,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ddba693a9018bcd45933",
@@ -18703,6 +18811,34 @@
         "published_at": "2026-11-11T22:40:43Z",
         "primary": false,
         "excerpt": "Jeffrey Epstein's crimes committed after 2005 could have been prevented, barring \"repeated failures\" from law enforcement and federal prosecutors. That's one of the findings in a report published Tuesday by the House Oversight Committee after an investigation into the late convicted sex offender and his associates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "9b4f13563dde5e274575",
+    "title": "UK economy grows by 0.7% in third quarter despite high oil prices",
+    "category": "World",
+    "published_at": "2026-11-12T07:07:36Z",
+    "first_seen_at": "2026-11-12T07:31:27.227174Z",
+    "updated_at": "2026-11-12T07:31:27.227174Z",
+    "sources": [
+      {
+        "title": "UK economy grows by 0.7% in third quarter despite high oil prices",
+        "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T07:07:36Z",
+        "primary": false,
+        "excerpt": "ONS also says GDP rose 0.2% month on month in September, in a boost to the chancellor, John HealeyThe UK economy grew by 0.7% in the third quarter, as expected by City analysts, confirming that consumers and businesses remained resilient despite high oil and gas prices.The Office for National Statistics said a jump in the cost of petrol, diesel and natural gas prices following the re-escalation of the conflict in the Middle East played an important role in restricting economic growth in the three months to the end of September. Continue reading..."
       }
     ],
     "tier": "brief",
