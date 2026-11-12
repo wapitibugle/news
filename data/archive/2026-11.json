@@ -18876,7 +18876,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e94e7f073a612acb45ad",
@@ -18894,6 +18895,34 @@
         "published_at": "2026-11-12T06:47:20Z",
         "primary": false,
         "excerpt": "When he finally arrived at his victory party, Colom walked out to T.I.’s Let ‘Em Know. The audience, still galvanized even after hours of standing, roaredAbout a thousand people gathered on the Woodworth Chapel Lawn at Tougaloo College, a historic black college in Jackson. A DJ played classic southern line dance tunes and much of the crowd obliged, dancing while they waited for Scott Colom, Mississippi’s new senate-elect, to arrive.All of the Divine 9, a nickname for the National Pan-Hellenic Council (NPHC), an umbrella organization of nine historically Black Greek-letter fraternities and soro"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4dca20e620d67f874c6e",
+    "title": "Rep. Bennie Thompson discusses the U.S. Senate race Democrat win in Mississippi",
+    "category": "Elections",
+    "published_at": "2026-11-12T09:34:45Z",
+    "first_seen_at": "2026-11-12T10:12:49.867205Z",
+    "updated_at": "2026-11-12T10:12:49.867205Z",
+    "sources": [
+      {
+        "title": "Rep. Bennie Thompson discusses the U.S. Senate race Democrat win in Mississippi",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037852/rep-bennie-thompson-discusses-the-u-s-senate-race-democrat-win-in-mississippi",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-12T09:34:45Z",
+        "primary": false,
+        "excerpt": "NPR's Michel Martin speaks with Democratic Representative Bennie Thompson, of Mississippi, about Democrat Scott Colom's U.S. Senate victory."
       }
     ],
     "tier": "brief",
