@@ -7024,5 +7024,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
     "group": "821bf2e28738a977bd60"
+  },
+  "5e2219de93ef89959c48d094265165b601e1b2e81d71cc3a91188ed5351fdd28": {
+    "id": "b9c79e7a2e9a6ed7ec0c",
+    "priority": 2,
+    "section": "second",
+    "major": false,
+    "context": "Australia issued workplace AI guidance urging consultation and warning of surveillance, intensified workloads and disproportionate impacts on some workers. These are potential risks, not established economy-wide effects; the Reserve Bank reported limited evidence of labor-market disruption so far.",
+    "evidence_quote": "The Reserve Bank this week reported it had seen “little evidence to date” of AI disrupting Australia’s labour market",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+    "group": ""
+  },
+  "d9688dc1eba14619aca194751e0e448c72853ef14e5e33fd6ed90a9ae7966007": {
+    "id": "60e55f02018ff4fea3cc",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "White House counsel warned that some Democratic oversight tactics could cross into criminality, prompting a dispute over congressional investigative authority. Attorney General Todd Blanche subsequently affirmed Congress’s oversight role and said the administration would continue working with it.",
+    "evidence_quote": "Congress has oversight authority. It always has, it always will.",
+    "related_ids": [
+      "8bec486bb2c754389b74"
+    ],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "White House sends warning to Democrats about investigating the Trump administration",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+    "group": "60e55f02018ff4fea3cc"
+  },
+  "6d07afa051f659521f76540847c4971cf7610ffec38f045b8c4d2102816db020": {
+    "id": "8bec486bb2c754389b74",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Incoming House oversight chair Robert Garcia rejected White House counsel’s warning about planned investigations, saying congressional authority does not require White House permission. The letter challenged the purpose and tactics of prospective inquiries; it does not establish criminal wrongdoing by lawmakers.",
+    "evidence_quote": "not from the permission of the White House",
+    "related_ids": [
+      "60e55f02018ff4fea3cc"
+    ],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+    "group": "60e55f02018ff4fea3cc"
+  },
+  "84a92bb8c7a2c0f2a5b4dbfa31784e2cefb6cf7658799353f5b4b0c7fd09cf18": {
+    "id": "44a304747829d4123fa1",
+    "priority": 3,
+    "section": "second",
+    "major": false,
+    "context": "Researchers reported that a blood RNA marker detected fallopian-tube precancerous lesions in 92.3% of affected women and correctly classified 98.2% of healthy women. The supplied report gives no sample size or evidence that screening improves outcomes; these findings do not establish a ready-to-use population screening test.",
+    "evidence_quote": "they detected STIC in 92.3% of affected women ⁠and correctly identified 98.2% of healthy women",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
+    "group": ""
+  },
+  "c72906d0e7c5245b1a7033503f3815056b0f5c0e253432b1973a7f9fc3244bcc": {
+    "id": "6a204266094337fbd348",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "Ex-CIA officer on UK investigations into alleged Iran, Russia threats",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/nx-s1-6036829/ex-cia-officer-on-uk-investigations-into-alleged-iran-russia-threats",
+    "group": ""
+  },
+  "38f77422872cfd4de3c7dacf0988170e34fbeba08b42c08fdc43e6ac8cbed950": {
+    "id": "a03921cccee10e17b960",
+    "priority": 1,
+    "section": "second",
+    "major": false,
+    "context": "An expert interview explores seasonal affective disorder and possible mechanisms. The supplied description provides no specific research results or treatment evidence to assess.",
+    "evidence_quote": "Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T07:31:27.227174+00:00",
+    "title": "What happens to your brain when the days get darker? - video",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
+    "group": ""
   }
 }
