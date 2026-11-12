@@ -19214,5 +19214,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "adbea27af3f0f7aa9471",
+    "title": "Democrats gather in Denver for post-midterms introspection-turned-celebration",
+    "category": "Elections",
+    "published_at": "2026-11-12T21:22:47Z",
+    "first_seen_at": "2026-11-12T21:55:26.935725Z",
+    "updated_at": "2026-11-12T21:55:26.935725Z",
+    "sources": [
+      {
+        "title": "Democrats gather in Denver for post-midterms introspection-turned-celebration",
+        "url": "https://www.pbs.org/newshour/politics/democrats-gather-in-denver-for-post-midterms-introspection-turned-celebration",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-12T21:22:47Z",
+        "primary": false,
+        "excerpt": "The two-day What's Next conference, hosted by a new group called Majority Democrats, was put on politicos' calendars months ago as another stepping stone as the party charted its way out of its post-2024 political wilderness."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
