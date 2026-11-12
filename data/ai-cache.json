@@ -6930,5 +6930,99 @@
     "evidence_depth": "feed",
     "source_url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
     "group": ""
+  },
+  "ded9cd5ee75b4752b528eac4e94aeb8b57bedd5e206105df23c93f70eb9e8422": {
+    "id": "943478f66942fb8be1ad",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "BBC reports Democrat Scott Colom leads incumbent Cindy Hyde-Smith by about 2,500 ballots, less than 1%, with the Mississippi Senate race unresolved. The voter interviews are not a poll.",
+    "evidence_quote": "holds a lead of about 2,500 ballots - less than 1%",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "Watch: BBC talks to Mississippi voters awaiting Senate result",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/videos/crvg2xex290no",
+    "group": ""
+  },
+  "088bf3ba6a4955a705e71e87a385a9e4b71ce42f198a7d888fe84ef9716b3a2d": {
+    "id": "1e0a7ae7209d696d1d34",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "This commentary examines fiscal constraints on Democrats’ proposed safety-net expansion. It cites Center on Budget and Policy Priorities estimates for restoring health insurance subsidies and reversing Medicaid and food stamp cuts; these are projected costs, not enacted spending.",
+    "evidence_quote": "restoring the subsidies to health insurance plans under Obamacare from 2030 to 2039 would cost $460bn.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+    "group": ""
+  },
+  "c86d42911198b460a30557667e3eff99d76bc4e3e38de6a773e26869dc40b899": {
+    "id": "8c6ab45575f9b27d7aa0",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "2026 Midterm Election results",
+    "state": "assessed",
+    "evidence_depth": "headline",
+    "source_url": "https://www.pbs.org/newshour/politics/2026-midterm-election-results",
+    "group": ""
+  },
+  "5268ea8eceb56213533ed1e1d4da10c3cdd7de128e947ba827ba4b5b2a75488b": {
+    "id": "821bf2e28738a977bd60",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "PBS reports that the White House’s top lawyer warned incoming House Oversight chair Robert Garcia that aggressive oversight could constitute criminality. The interview examines the institutional confrontation and Justice Department departures; the warning is not a legal finding.",
+    "evidence_quote": "may cross the line into blatant criminality.",
+    "related_ids": [
+      "e4ca93f4f5001b999b00"
+    ],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "White House threatens Democrats over plans to investigate Trump officials",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+    "group": "821bf2e28738a977bd60"
+  },
+  "70bcffbeef9fd9c614b5a6891c551cb1c871c28958729ce864dd283bf09c52f2": {
+    "id": "8f2677c2733a85f38c8c",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "A federal judge allowed Trump’s defamation claim against the BBC to proceed while dismissing his unfair-business-practices claim. The ruling did not decide the merits. The BBC acknowledged and apologized for the speech editing but denies defamation.",
+    "evidence_quote": "Trump's defamation claim could go forward, though he did not rule on the merits.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim",
+    "group": ""
+  },
+  "f6f36adf9531008417e031dee9c9b312361878e1c6b86b56b9e347fe47cb979a": {
+    "id": "e4ca93f4f5001b999b00",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "PBS obtained White House counsel William Scharf’s letter warning incoming Oversight chair Robert Garcia over planned investigations. Garcia rejected the warning. The letter’s assertion of possible criminality is an administration claim, not a court ruling.",
+    "evidence_quote": "The letter, obtained by PBS News, accuses Democrats of \"abusive and capricious threats\"",
+    "related_ids": [
+      "821bf2e28738a977bd60"
+    ],
+    "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+    "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+    "group": "821bf2e28738a977bd60"
   }
 }
