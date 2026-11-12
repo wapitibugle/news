@@ -6721,5 +6721,120 @@
     "evidence_depth": "article",
     "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
     "group": ""
+  },
+  "a43b5ea26dfe7a853305d0401303b5a006b879d4b58f87d11f988ed70b86b269": {
+    "id": "dd2e720e9d97f4cacbce",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "30bee52251e7774fb2b6",
+      "c62568cbdbbb203c5518",
+      "b9f023ebf243d49b9eb6",
+      "aedeaa04c0f03b50a9b0"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+    "group": "30bee52251e7774fb2b6"
+  },
+  "d58a117f5985c1e8a83ad14f219ea272c95c689ab0c107e1b7ba40a30251d267": {
+    "id": "30bee52251e7774fb2b6",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "dd2e720e9d97f4cacbce",
+      "c62568cbdbbb203c5518",
+      "b9f023ebf243d49b9eb6",
+      "aedeaa04c0f03b50a9b0"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko",
+    "group": "30bee52251e7774fb2b6"
+  },
+  "57b92e1f695f1df08879cc56bf96b78f41ee5110909cd622925e5e8e6d2cf246": {
+    "id": "6b8885eef5c1541fa0b8",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Congressional Democrats urged bipartisan immigration legislation and highlighted bills offering legal pathways for some undocumented immigrants. They did not present detailed plans to abolish or substantially reform ICE; the proposals remain legislative efforts, not enacted changes.",
+    "evidence_quote": "There was no detailed talk on Wednesday of how to abolish or even significantly reform Immigration and Customs Enforcement",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+    "group": ""
+  },
+  "f99993f9c1fa1fdf2ed8ea822e7ba1646682b5ebd0f63f9268ccba9dd646bfd7": {
+    "id": "c62568cbdbbb203c5518",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "dd2e720e9d97f4cacbce",
+      "30bee52251e7774fb2b6",
+      "b9f023ebf243d49b9eb6",
+      "aedeaa04c0f03b50a9b0"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Democrat Scott Colom wins the closest Senate race in the country",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+    "group": "30bee52251e7774fb2b6"
+  },
+  "9ebc3f3655f073c4ad9a7a8d91887587b42496e08ca5286387a2638dde8e962d": {
+    "id": "b9f023ebf243d49b9eb6",
+    "priority": 0,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "dd2e720e9d97f4cacbce",
+      "30bee52251e7774fb2b6",
+      "c62568cbdbbb203c5518",
+      "aedeaa04c0f03b50a9b0"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Democrat Scott Colom wins Mississippi Senate race",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+    "group": "30bee52251e7774fb2b6"
+  },
+  "2c48dc504557e0e958d4dae1bb5e06fd2fbd55b625153daca190cf54e8b692ad": {
+    "id": "aedeaa04c0f03b50a9b0",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "This AP account provides additional campaign and ballot-counting detail on the same Mississippi result. AP called the race after officials processed absentee and provisional ballots.",
+    "evidence_quote": "The Associated Press called the contest Wednesday in Colom's favor",
+    "related_ids": [
+      "dd2e720e9d97f4cacbce",
+      "30bee52251e7774fb2b6",
+      "c62568cbdbbb203c5518",
+      "b9f023ebf243d49b9eb6"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Scott Colom wins Senate election in Mississippi",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+    "group": "30bee52251e7774fb2b6"
   }
 }
