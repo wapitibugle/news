@@ -16139,7 +16139,7 @@
         "excerpt": "Phil Lambert used four types of soil, including some collected from his mother, to create his work."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17603,5 +17603,1115 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "dd2e720e9d97f4cacbce",
+    "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "category": "World",
+    "published_at": "2026-11-12T04:00:30Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T04:00:30Z",
+        "primary": false,
+        "excerpt": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "ai_editor": {
+          "id": "dd2e720e9d97f4cacbce",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "30bee52251e7774fb2b6",
+            "c62568cbdbbb203c5518",
+            "b9f023ebf243d49b9eb6",
+            "aedeaa04c0f03b50a9b0"
+          ],
+          "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+          "group": "30bee52251e7774fb2b6"
+        }
+      },
+      {
+        "title": "Scott Colom wins Senate election in Mississippi",
+        "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:01:15Z",
+        "primary": false,
+        "excerpt": "Democratic nominee Scott Colom has defeated Republican Sen. Cindy Hyde-Smith in Mississippi's closely contested U.S. Senate race after a prolonged ballot counting process, giving the state its first Black U.S. senator since post-Civil War Reconstruction.",
+        "ai_editor": {
+          "id": "aedeaa04c0f03b50a9b0",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "This AP account provides additional campaign and ballot-counting detail on the same Mississippi result. AP called the race after officials processed absentee and provisional ballots.",
+          "evidence_quote": "The Associated Press called the contest Wednesday in Colom's favor",
+          "related_ids": [
+            "dd2e720e9d97f4cacbce",
+            "30bee52251e7774fb2b6",
+            "c62568cbdbbb203c5518",
+            "b9f023ebf243d49b9eb6"
+          ],
+          "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "group": "30bee52251e7774fb2b6"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "dd2e720e9d97f4cacbce",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "30bee52251e7774fb2b6",
+        "c62568cbdbbb203c5518",
+        "b9f023ebf243d49b9eb6",
+        "aedeaa04c0f03b50a9b0"
+      ],
+      "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+      "group": "30bee52251e7774fb2b6"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3c5272ca147182993b4",
+    "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "category": "World",
+    "published_at": "2026-11-12T06:12:05Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T06:12:05Z",
+        "primary": false,
+        "excerpt": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f074029439bf683baa12",
+    "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+    "category": "World",
+    "published_at": "2026-11-12T05:59:18Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T05:59:18Z",
+        "primary": false,
+        "excerpt": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "067050b119d97bde5f1f",
+    "title": "Nurdle impact to be researched for a year",
+    "category": "Science",
+    "published_at": "2026-11-12T06:06:41Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Nurdle impact to be researched for a year",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-12T06:06:41Z",
+        "primary": false,
+        "excerpt": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed22e8796ee81711c403",
+    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+    "category": "Science",
+    "published_at": "2026-11-12T06:02:55Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+        "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-12T06:02:55Z",
+        "primary": false,
+        "excerpt": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ac1834bb5a0bd9190c55",
+    "title": "Famed ship SS United States sunk off coast of Florida",
+    "category": "World",
+    "published_at": "2026-11-12T04:03:13Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Famed ship SS United States sunk off coast of Florida",
+        "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T04:03:13Z",
+        "primary": false,
+        "excerpt": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5308c7ed8c13ac56bdeb",
+    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+    "category": "Science",
+    "published_at": "2026-11-12T05:05:00Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-12T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "821bf2e28738a977bd60",
+    "title": "White House threatens Democrats over plans to investigate Trump officials",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:45:49Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "White House threatens Democrats over plans to investigate Trump officials",
+        "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:45:49Z",
+        "primary": false,
+        "excerpt": "With Democrats set to take control of Congress, the White House is threatening them over investigations into the Trump administration. The top White House lawyer warned that aggressive oversight of the administration \"may cross the line into blatant criminality.\" It comes amid a wave of resignations within the Justice Department. Amna Nawaz discussed more with Devlin Barrett of The New York Times.",
+        "ai_editor": {
+          "id": "821bf2e28738a977bd60",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "PBS reports that the White House’s top lawyer warned incoming House Oversight chair Robert Garcia that aggressive oversight could constitute criminality. The interview examines the institutional confrontation and Justice Department departures; the warning is not a legal finding.",
+          "evidence_quote": "may cross the line into blatant criminality.",
+          "related_ids": [
+            "e4ca93f4f5001b999b00"
+          ],
+          "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+          "title": "White House threatens Democrats over plans to investigate Trump officials",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+          "group": "821bf2e28738a977bd60"
+        }
+      },
+      {
+        "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+        "url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T19:27:31Z",
+        "primary": false,
+        "excerpt": "The White House's top lawyer sent a letter of warning to incoming House Oversight Committee chair Rep. Robert Garcia, D-Calif., on Wednesday, claiming that the Democrats' promise to investigate the Trump administration \"may cross the line into blatant criminality.\"",
+        "ai_editor": {
+          "id": "e4ca93f4f5001b999b00",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "PBS obtained White House counsel William Scharf’s letter warning incoming Oversight chair Robert Garcia over planned investigations. Garcia rejected the warning. The letter’s assertion of possible criminality is an administration claim, not a court ruling.",
+          "evidence_quote": "The letter, obtained by PBS News, accuses Democrats of \"abusive and capricious threats\"",
+          "related_ids": [
+            "821bf2e28738a977bd60"
+          ],
+          "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+          "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+          "group": "821bf2e28738a977bd60"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "821bf2e28738a977bd60",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "PBS reports that the White House’s top lawyer warned incoming House Oversight chair Robert Garcia that aggressive oversight could constitute criminality. The interview examines the institutional confrontation and Justice Department departures; the warning is not a legal finding.",
+      "evidence_quote": "may cross the line into blatant criminality.",
+      "related_ids": [
+        "e4ca93f4f5001b999b00"
+      ],
+      "reviewed_at": "2026-11-12T04:03:44.146193+00:00",
+      "title": "White House threatens Democrats over plans to investigate Trump officials",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+      "group": "821bf2e28738a977bd60"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8bec486bb2c754389b74",
+    "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+    "category": "U.S.",
+    "published_at": "2026-11-11T16:54:36Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T16:54:36Z",
+        "primary": false,
+        "excerpt": "White House warns Democratic pledges to investigate president ‘may cross line into blatant criminality’The incoming Democratic chair of the powerful congressional oversight committee said it appears Donald Trump has “something to hide” after the White House threatened criminal investigations over the party’s planned scrutiny of the administration.Robert Garcia, ranking member of the oversight committee in the House of Representatives, vowed to press on in the face of what he Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "82d94f1aa3c512700282",
+    "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+    "category": "U.S.",
+    "published_at": "2026-11-12T03:10:32Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-12T03:10:32Z",
+        "primary": false,
+        "excerpt": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "65adb552afdd08c4a845",
+    "title": "A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin.",
+    "category": "U.S.",
+    "published_at": "2026-11-11T13:05:00Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin.",
+        "url": "https://www.propublica.org/article/followers-of-christ-oregon-city-evelyn-marshall-phillips",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-11T13:05:00Z",
+        "primary": false,
+        "excerpt": "The post A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8427d1d623af6824f408",
+    "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
+    "category": "U.S.",
+    "published_at": "2026-11-12T03:00:34Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/coyote-los-angeles",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T03:00:34Z",
+        "primary": false,
+        "excerpt": "Animal that menaced residents was shot in October but then reappeared – and was shot for a second time and killedA coyote that California wildlife officials believed they had euthanized after it bit a toddler and menaced residential pets in a trendy Los Angeles neighborhood was seen alive recently, neighborhood residents said.Wiley, the name some Atwater Village residents gave to the coyote, had vexed the area with its increasingly aggressive and brazen behavior. The wild animal, which scampered through people’s backyards, was reportedly being fed by an unidentified man. Wiley’s presence drew "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72e18398fe696b791d82",
+    "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+    "category": "World",
+    "published_at": "2026-11-11T10:02:54Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-11T10:02:54Z",
+        "primary": false,
+        "excerpt": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "44fa516c692708dca1f0",
+    "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:55:44Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
+        "url": "https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:55:44Z",
+        "primary": false,
+        "excerpt": "Iran's top national security official warned that it would strike American bases beyond the Gulf, including in Europe, if the United States resumes air strikes against the Islamic Republic. The warning comes one day after indictments in New York against three men who allegedly conspired to attack U.S. Air Force planes at a base in England. Nick Schifrin reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0f67770f915e03c24496",
+    "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+    "category": "World",
+    "published_at": "2026-11-11T17:03:43Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+        "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-11T17:03:43Z",
+        "primary": false,
+        "excerpt": "US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectivelyRussia and Ukraine have agreed to the “largest prisoner exchange” of the war at their first US-brokered talks since February but made little progress towards a broader peace agreement.Both sides sent senior delegations to the two-day talks, led by Donald Trump’s envoys Jared Kushner and Steve Witkoff, in an effort to find a solution to end the nearly-five-year war. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "781ab678d746f0d53709",
+    "title": "Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher",
+    "category": "U.S.",
+    "published_at": "2026-11-11T13:00:00Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher",
+        "url": "https://www.propublica.org/article/walter-white-faith-healing-oregon",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-11T13:00:00Z",
+        "primary": false,
+        "excerpt": "The post Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f7aac9d9dadc0e20f070",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "category": "World",
+    "published_at": "2026-11-11T18:04:58Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-11T18:04:58Z",
+        "primary": false,
+        "excerpt": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "171e9bcc0b7d81a1a28c",
+    "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:50:05Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:50:05Z",
+        "primary": false,
+        "excerpt": "In our news wrap Wednesday, Democrat Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in Mississippi, a group that included Defense Secretary Pete Hegseth was admonished by an Army sentinel at the Tomb of the Unknown Soldier and peace talks between Ukraine, Russia and the U.S. ended with an agreement to exchange prisoners, but no breakthrough on ending the war."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aec53cc7b943d77a5941",
+    "title": "Who is Jim Jordan, the House Republicans' pick for minority leader?",
+    "category": "U.S.",
+    "published_at": "2026-11-11T21:24:05Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Who is Jim Jordan, the House Republicans' pick for minority leader?",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037439/who-is-jim-jordan-the-house-republicans-pick-for-minority-leader",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T21:24:05Z",
+        "primary": false,
+        "excerpt": "As House Republicans prepare for life in the minority, they're turning to Jim Jordan as their next leader. In Jordan, they've picked a conservative firebrand and one of Trump's most vocal defenders."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c5614528e60f143358a2",
+    "title": "“We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis",
+    "category": "U.S.",
+    "published_at": "2026-11-11T10:00:00Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "“We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis",
+        "url": "https://www.propublica.org/article/east-orange-va-hospital-veterans-decline-new-jersey",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-11T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post “We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0fc6b91c507b3153f8d7",
+    "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
+    "category": "U.S.",
+    "published_at": "2026-11-12T01:51:00Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T01:51:00Z",
+        "primary": false,
+        "excerpt": "Four critical in hospital as firefighters dig through rubble in Flatbush after building next to construction site collapsesFirefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least two people and trapping others beneath the wreckage.Firefighters were called to the scene in the borough’s Flatbush section at about 4pm. News helicopter footage showed dozens of firefighters scouring the debris, with a group homing in on one area and appearing to use a saw to cut through the wreckage. Continue readi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "62bb68aef76c5e4b9d07",
+    "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:40:56Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
+        "url": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:40:56Z",
+        "primary": false,
+        "excerpt": "As Democrats prepare to take control of Congress, Delaware Sen. Chris Coons is poised to become chairman of the Senate Foreign Relations Committee, succeeding retiring Democrat Jeanne Shaheen. A staunch supporter of Ukraine and a critic of President Trump's war with Iran, Coons would take the helm at a consequential moment for American foreign policy. Coons joined Geoff Bennett to discuss more."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d0e44bf4a1773f0197cc",
+    "title": "Why is gasoline suddenly under $4 a gallon?",
+    "category": "U.S.",
+    "published_at": "2026-11-11T19:59:14Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Why is gasoline suddenly under $4 a gallon?",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T19:59:14Z",
+        "primary": false,
+        "excerpt": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26d0d738e118cbbcfe18",
+    "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
+    "category": "U.S.",
+    "published_at": "2026-11-12T00:23:53Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
+        "url": "https://www.theguardian.com/sport/2026/nov/11/elina-svitolina-karolina-muchova-wta-finals-tennis",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T00:23:53Z",
+        "primary": false,
+        "excerpt": "Ukrainian wins 3-6, 6-2, 6-2 after eight-minute timeoutAndreeva beats Sabalenka 6-4, 6-0 to top Group BElina Svitolina staged a remarkable comeback to beat Karolina Muchova and remain in the hunt for the WTA Finals title.The Ukrainian looked to be on her way out of Indian Wells when she was a set down and required an eight-minute medical timeout. But she recovered to win 3-6, 6-2, 6-2 and stay in with a chance of reaching the semi-finals. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a745f8ede937ba9d6d67",
+    "title": "How companies are using AI to make you spend more money",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:35:05Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "How companies are using AI to make you spend more money",
+        "url": "https://www.pbs.org/newshour/show/how-companies-are-using-ai-to-make-you-spend-more-money",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:35:05Z",
+        "primary": false,
+        "excerpt": "Companies have always tried to maximize profits, but now there are a host of sophisticated tools to determine the prices of the goods and services they sell. At a time when so many Americans are frustrated with rising costs, those tools are under greater scrutiny. Economics correspondent Paul Solman explains how that technology is transforming the prices we pay."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a4d5b660789a8e8b53a0",
+    "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+    "category": "U.S.",
+    "published_at": "2026-11-11T16:59:32Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T16:59:32Z",
+        "primary": false,
+        "excerpt": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b8885eef5c1541fa0b8",
+    "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:42:08Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:42:08Z",
+        "primary": false,
+        "excerpt": "Members of Congress seek to ‘bring sanity’ to system but decline to give details on plans to reform or abolish agencyA group of congressional Democrats on Wednesday pushed for immediate efforts to rein in the Trump administration’s sweeping immigration enforcement operation and “bring sanity” to an immigration system that Donald Trump said, after his party’s midterm drubbing, had been “too tough” in certain aspects.Just over a week after the midterm elections in which the US president’s harsh crackdown on immigration fueled a voter backlash against Republicans, some sitting and newly elected D",
+        "ai_editor": {
+          "id": "6b8885eef5c1541fa0b8",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Congressional Democrats urged bipartisan immigration legislation and highlighted bills offering legal pathways for some undocumented immigrants. They did not present detailed plans to abolish or substantially reform ICE; the proposals remain legislative efforts, not enacted changes.",
+          "evidence_quote": "There was no detailed talk on Wednesday of how to abolish or even significantly reform Immigration and Customs Enforcement",
+          "related_ids": [],
+          "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+          "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "6b8885eef5c1541fa0b8",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Congressional Democrats urged bipartisan immigration legislation and highlighted bills offering legal pathways for some undocumented immigrants. They did not present detailed plans to abolish or substantially reform ICE; the proposals remain legislative efforts, not enacted changes.",
+      "evidence_quote": "There was no detailed talk on Wednesday of how to abolish or even significantly reform Immigration and Customs Enforcement",
+      "related_ids": [],
+      "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed7a81e6b6528a495861",
+    "title": "How America's military shaped the nation's history and evolved over 250 years",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:30:42Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "How America's military shaped the nation's history and evolved over 250 years",
+        "url": "https://www.pbs.org/newshour/show/how-americas-military-shaped-the-nations-history-and-evolved-over-250-years",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:30:42Z",
+        "primary": false,
+        "excerpt": "Over the last 250 years, the United States military has helped shape the nation's history – from the fight for independence to its emergence as the world's leading military power. But as the military's reach has grown, fewer Americans are serving in uniform. Judy Woodruff explores what that means for the country in her series, Crossroads: America at 250."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "be72be911abc1fd5241e",
+    "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+    "category": "U.S.",
+    "published_at": "2026-11-11T12:21:59Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+        "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T12:21:59Z",
+        "primary": false,
+        "excerpt": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "996a9e09d7be46043405",
+    "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:18:36Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:18:36Z",
+        "primary": false,
+        "excerpt": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi’s first Black senator since ReconstructionThe ad is simple, less than half a minute long, but many say it was the moment the nation took notice of Mississippi’s US Senate race.In it, the incumbent Republican senator Cindy Hyde-Smith, a cattle farmer, answers a reporter’s question about the rising price of beef: “You know, you have so many proteins to choose from,” she says. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7fc5d213b597862e19c4",
+    "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+    "category": "U.S.",
+    "published_at": "2026-11-11T22:59:17Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+        "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T22:59:17Z",
+        "primary": false,
+        "excerpt": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S.-mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion."
+      },
+      {
+        "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+        "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T13:30:00Z",
+        "primary": false,
+        "excerpt": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0588f6c0942c9ff5875c",
+    "title": "Kennedys sue to block Trump's arch",
+    "category": "U.S.",
+    "published_at": "2026-11-11T10:02:58Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Kennedys sue to block Trump's arch",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-11T10:02:58Z",
+        "primary": false,
+        "excerpt": "Descendants of President John F. Kennedy are asking a judge to block President Trump's monumental arch near Arlington National Cemetery."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c5373f51480ac003235",
+    "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+    "category": "U.S.",
+    "published_at": "2026-11-11T23:01:10Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-11T23:01:10Z",
+        "primary": false,
+        "excerpt": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violenceAs a child, Tioni Theus was a ball of energy. After school she liked to play golf and dance. On weekends, she’d go to the movies and the mall with her older cousin. Driving back home at the end of the day to her family’s apartment in South Los Angeles, California, she’d ask: “What are we doing next?”Everything changed when Tioni was 13. Her mother was hit by a car and critically injured, leaving her unable to take "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "346cce68a01b7c04c23d",
+    "title": "Hegseth and team reprimanded by Army guard at solemn war memorial",
+    "category": "U.S.",
+    "published_at": "2026-11-11T22:55:55Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "Hegseth and team reprimanded by Army guard at solemn war memorial",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-11T22:55:55Z",
+        "primary": false,
+        "excerpt": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ddba693a9018bcd45933",
+    "title": "4 key findings in the Jeffrey Epstein report from GOP-led House Oversight panel",
+    "category": "U.S.",
+    "published_at": "2026-11-11T22:40:43Z",
+    "first_seen_at": "2026-11-12T06:12:52.036359Z",
+    "updated_at": "2026-11-12T06:12:52.036359Z",
+    "sources": [
+      {
+        "title": "4 key findings in the Jeffrey Epstein report from GOP-led House Oversight panel",
+        "url": "https://www.pbs.org/newshour/politics/4-key-findings-in-the-jeffrey-epstein-report-from-gop-led-house-oversight-panel",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-11T22:40:43Z",
+        "primary": false,
+        "excerpt": "Jeffrey Epstein's crimes committed after 2005 could have been prevented, barring \"repeated failures\" from law enforcement and federal prosecutors. That's one of the findings in a report published Tuesday by the House Oversight Committee after an investigation into the late convicted sex offender and his associates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
