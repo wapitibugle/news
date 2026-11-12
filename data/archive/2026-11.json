@@ -18988,6 +18988,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "deacd9d56d0aca247366",
+    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+    "category": "Elections",
+    "published_at": "2026-11-12T12:15:48Z",
+    "first_seen_at": "2026-11-12T13:24:33.898574Z",
+    "updated_at": "2026-11-12T13:24:33.898574Z",
+    "sources": [
+      {
+        "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+        "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-12T12:15:48Z",
+        "primary": false,
+        "excerpt": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
