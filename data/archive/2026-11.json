@@ -19156,6 +19156,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fc9bcbb71a5289aeef29",
+    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+    "category": "World",
+    "published_at": "2026-11-12T18:00:50Z",
+    "first_seen_at": "2026-11-12T19:05:57.085790Z",
+    "updated_at": "2026-11-12T19:05:57.085790Z",
+    "sources": [
+      {
+        "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+        "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T18:00:50Z",
+        "primary": false,
+        "excerpt": "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
