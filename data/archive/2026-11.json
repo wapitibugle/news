@@ -19100,6 +19100,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d0221bbae5f94f71b528",
+    "title": "Senator opens investigation into evidence RFK Jr ‘unlawfully lied’ to Congress",
+    "category": "U.S.",
+    "published_at": "2026-11-12T15:05:38Z",
+    "first_seen_at": "2026-11-12T17:13:15.356404Z",
+    "updated_at": "2026-11-12T17:13:15.356404Z",
+    "sources": [
+      {
+        "title": "Senator opens investigation into evidence RFK Jr ‘unlawfully lied’ to Congress",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T15:05:38Z",
+        "primary": false,
+        "excerpt": "Exclusive: Ron Wyden, citing Guardian report, is launching inquiry into whether health secretary lied about Samoa trip during confirmation hearingsA top Democratic senator has launched an investigation into evidence that Robert F Kennedy Jr “unlawfully lied” in his 2025 confirmation hearings to become the US health secretary, citing a report by the Guardian.Ron Wyden of Oregon, the incoming chair of the powerful Senate finance committee, is seeking extensive records from Children’s Health Defense (CHD), the non-profit anti-vaccine group Kennedy has used as a vehicle to fuel his political rise,"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
