@@ -18848,6 +18848,61 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b9c79e7a2e9a6ed7ec0c",
+    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+    "category": "Technology",
+    "published_at": "2026-11-12T06:55:44Z",
+    "first_seen_at": "2026-11-12T09:11:03.587640Z",
+    "updated_at": "2026-11-12T09:11:03.587640Z",
+    "sources": [
+      {
+        "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-12T06:55:44Z",
+        "primary": false,
+        "excerpt": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cutsGet our daily political email, free app or daily news podcastEntry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance – the government has warned employers.While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give worke"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e94e7f073a612acb45ad",
+    "title": "Promises and pride: Scott Colom rejoices with young and old on historic night in Mississippi",
+    "category": "U.S.",
+    "published_at": "2026-11-12T06:47:20Z",
+    "first_seen_at": "2026-11-12T09:11:03.587640Z",
+    "updated_at": "2026-11-12T09:11:03.587640Z",
+    "sources": [
+      {
+        "title": "Promises and pride: Scott Colom rejoices with young and old on historic night in Mississippi",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-celebrates-mississippi-senate-win-victory-party-speech",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T06:47:20Z",
+        "primary": false,
+        "excerpt": "When he finally arrived at his victory party, Colom walked out to T.I.’s Let ‘Em Know. The audience, still galvanized even after hours of standing, roaredAbout a thousand people gathered on the Woodworth Chapel Lawn at Tougaloo College, a historic black college in Jackson. A DJ played classic southern line dance tunes and much of the crowd obliged, dancing while they waited for Scott Colom, Mississippi’s new senate-elect, to arrive.All of the Divine 9, a nickname for the National Pan-Hellenic Council (NPHC), an umbrella organization of nine historically Black Greek-letter fraternities and soro"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
