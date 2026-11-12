@@ -6836,5 +6836,99 @@
     "evidence_depth": "article",
     "source_url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
     "group": "30bee52251e7774fb2b6"
+  },
+  "115d18d33e624da7d844f906d31683ec8a952a13f9621ca1fa0f4e99c79fb204": {
+    "id": "dab928540788187a8d88",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "These voters are looking for change, but don't have high hopes for a divided Congress",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/nx-s1-6034955/these-voters-are-looking-for-change-but-dont-have-high-hopes-for-a-divided-congress",
+    "group": ""
+  },
+  "b184775828a53e9e264e65958412a5b7c98978559bb98eb3265fc89ea2b15ec8": {
+    "id": "c80921ee9e90fdecea40",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP reports that Democrats have secured congressional majorities, but outstanding races still determine their size. Senate contests in Alaska and Mississippi remain uncalled, with ballot counting, certification deadlines and possible ranked-choice tabulation affecting the timeline.",
+    "evidence_quote": "The size of Democrats' majorities in the House and Senate remained undetermined",
+    "related_ids": [
+      "37a8d8833e7c4b33ca7f"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "More than a dozen key races remain too early to call one week after Election Day",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/more-than-a-dozen-key-races-remain-too-early-to-call-one-week-after-election-day",
+    "group": "37a8d8833e7c4b33ca7f"
+  },
+  "e5f8a8f7bbb320c1566c265130a793b364b588cf95751ba24bee5607690be34c": {
+    "id": "2cdaea079491d7f5c8d7",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "ProPublica reports that four Georgia voters flagged as dead using ELLY’s Election Monitor were alive and that the county board rejected the effort to challenge their ballots. The tool lacks key personal identifiers, increasing mismatch risks. Its developer defended the data; the board member said he could not vouch for its accuracy.",
+    "evidence_quote": "But it turns out all four are alive and well, ProPublica determined.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
+    "group": ""
+  },
+  "43548a040cbb897ba1b756167c5921bb906222e440d32885e83e0c4c65d8c810": {
+    "id": "202ced7fbe8e65b8b3bf",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "What's behind democratic socialists' historic victories in the midterms?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+    "group": ""
+  },
+  "94415c9162008ee9a08a3ec2255e0e1b6f89a484d3dee1021f10800e1cafa46c": {
+    "id": "37a8d8833e7c4b33ca7f",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Peltola’s campaign seeks centralized access to absentee-ballot rejection information in Alaska’s uncalled Senate race. State attorneys argue disclosure would violate voter privacy. A ruling is pending; the campaign’s attorney said she had seen no cause for concern about the ballot review process.",
+    "evidence_quote": "Attorneys for the state say the information requested would violate voter privacy.",
+    "related_ids": [
+      "c80921ee9e90fdecea40"
+    ],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race",
+    "group": "37a8d8833e7c4b33ca7f"
+  },
+  "15809d909e7ea75b93012de460346dbf5e7079d776d3cece2156853e6977cee7": {
+    "id": "f9fa81a972dc84539e0f",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [],
+    "reviewed_at": "2026-11-12T02:58:58.286677+00:00",
+    "title": "Following big Democratic wins, these swing voters are looking for results",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+    "group": ""
   }
 }
