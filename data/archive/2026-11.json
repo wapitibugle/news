@@ -19128,6 +19128,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "01d2fb02d653ebaae5bd",
+    "title": "Putin says Russia will target foreign troops deployed to Ukraine",
+    "category": "World",
+    "published_at": "2026-11-12T17:26:51Z",
+    "first_seen_at": "2026-11-12T18:00:31.977790Z",
+    "updated_at": "2026-11-12T18:00:31.977790Z",
+    "sources": [
+      {
+        "title": "Putin says Russia will target foreign troops deployed to Ukraine",
+        "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T17:26:51Z",
+        "primary": false,
+        "excerpt": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk’s Starlink satellite serviceVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service.During the talks at the Kremlin with US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territorial demands, insisting on full control over four Ukrainian regions that Moscow claims to have annexed. Continue rea"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
