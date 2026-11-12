@@ -19184,6 +19184,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b80965bc77e07d2c92e9",
+    "title": "Trump administration plans to make it harder to get grocery assistance",
+    "category": "U.S.",
+    "published_at": "2026-11-12T19:02:18Z",
+    "first_seen_at": "2026-11-12T20:01:55.412131Z",
+    "updated_at": "2026-11-12T20:01:55.412131Z",
+    "sources": [
+      {
+        "title": "Trump administration plans to make it harder to get grocery assistance",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T19:02:18Z",
+        "primary": false,
+        "excerpt": "About 6.3 million people could lose eligibility for SNAP by the 2029 fiscal year if the proposed change takes effect, according to the U.S. Department of Agriculture. That is on top of 5.5 million people who already have lost SNAP benefits over the past year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
