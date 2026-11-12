@@ -19044,7 +19044,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cfb4faa8387b692a9ae2",
@@ -19065,6 +19066,34 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4aadc1d98b6a357b595e",
+    "title": "The brain’s fear center moonlights as the save button for memories",
+    "category": "Science",
+    "published_at": "2026-11-12T16:00:00Z",
+    "first_seen_at": "2026-11-12T16:12:37.914987Z",
+    "updated_at": "2026-11-12T16:12:37.914987Z",
+    "sources": [
+      {
+        "title": "The brain’s fear center moonlights as the save button for memories",
+        "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-11-12T16:00:00Z",
+        "primary": false,
+        "excerpt": "What determines which moments are remembered? The amygdala, typically associated with regulating fear and aggression, may play a major role"
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
