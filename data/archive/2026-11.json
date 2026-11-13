@@ -20800,6 +20800,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "c01cdc0931f2b9d0a2cf",
+    "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+    "category": "Elections",
+    "published_at": "2026-11-13T11:00:00Z",
+    "first_seen_at": "2026-11-13T12:03:42.482105Z",
+    "updated_at": "2026-11-13T12:03:42.482105Z",
+    "sources": [
+      {
+        "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+        "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+        "publisher": "ProPublica",
+        "category": "Elections",
+        "published_at": "2026-11-13T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
