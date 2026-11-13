@@ -7396,5 +7396,103 @@
     "evidence_depth": "article",
     "source_url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo",
     "group": ""
+  },
+  "173cb5dcd03145020055adc3a94e9bab0a9002ccf512ae779eecf58bcd2cc4e2": {
+    "id": "ca3a29db9a37ffb19327",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "Congress is seeking testimony from Huang and Commerce Secretary Howard Lutnick over sensitive technology and national security concerns. Espionage allegations remain unresolved: the Justice Department has drawn no conclusions, and Nvidia says it has no reason to believe secrets were compromised.",
+    "evidence_quote": "the Department of Justice had not yet drawn any conclusions about whether Alice Huang was engaged in espionage",
+    "related_ids": [
+      "b79bde1f825feed55adf"
+    ],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+    "group": "b79bde1f825feed55adf"
+  },
+  "63488605ecf5e803821fe7dae76d7f59a0fb7bc480772a1578f423cc3d915d72": {
+    "id": "1eb2fc1e8377f321a8e9",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "cf9b40d8625915c9c61b"
+    ],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+    "group": "1eb2fc1e8377f321a8e9"
+  },
+  "69f8febda8e8b20e88e584b8449d92695d5b22887b2bc81584c2ba2021207610": {
+    "id": "84f9571cde60ac2fc756",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Eight people died in the Brooklyn collapse. Officials are investigating possible criminal conduct, but the cause remains undetermined. The buildings department says other sites linked to the developer are also being checked.",
+    "evidence_quote": "the property developer has ties to at least 100 other sites around the city, which are also now being checked.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "What we know about Brooklyn building collapse that killed eight people",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o",
+    "group": ""
+  },
+  "5e5417f7f6cdb121aaf18e4931443d6c00e60bff4b29cf82ce8320e73c2869e4": {
+    "id": "cf9b40d8625915c9c61b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Van Hollen announced a challenge to Schumer for leadership of the incoming Democratic Senate majority. Schumer says he has the votes to remain leader; the secret-ballot election is scheduled for early December.",
+    "evidence_quote": "The closed-door, secret-ballot election will be held in early December.",
+    "related_ids": [
+      "1eb2fc1e8377f321a8e9"
+    ],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+    "group": "1eb2fc1e8377f321a8e9"
+  },
+  "1d185197be639078a47e111c28f5affa5d74489e9ff3c716018da15447dedc25": {
+    "id": "b79bde1f825feed55adf",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "ca3a29db9a37ffb19327"
+    ],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "How could the Nvidia CEO’s affair threaten US national security?",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o",
+    "group": "b79bde1f825feed55adf"
+  },
+  "a5ec26ebc5a059d4425709ac12895e97d122b9067f90bfdb2d6c7e41a787560a": {
+    "id": "93d73d25254ef55f8e63",
+    "priority": 4,
+    "section": "brief",
+    "major": false,
+    "context": "US envoys pledged to include EU delegates in the next peace talks. Russia's territorial demands remain unchanged. Russia and Ukraine also agreed to a prisoner exchange, but numbers and timing were not provided.",
+    "evidence_quote": "further details like how many prisoners would be exchanged or a timeline, were not given.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+    "group": ""
   }
 }
