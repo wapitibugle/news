@@ -20856,6 +20856,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "af1907ba97324125a298",
+    "title": "Democrats won big in the US midterms. Now, organizers want them to deliver",
+    "category": "Elections",
+    "published_at": "2026-11-13T14:00:22Z",
+    "first_seen_at": "2026-11-13T14:58:37.136412Z",
+    "updated_at": "2026-11-13T14:58:37.136412Z",
+    "sources": [
+      {
+        "title": "Democrats won big in the US midterms. Now, organizers want them to deliver",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/us-midterms-democrats-accountability",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-13T14:00:22Z",
+        "primary": false,
+        "excerpt": "After Tuesday’s election, ‘everyone must have a Wednesday agenda,’ experts sayThe bright blue map that emerged on election night in the US was unthinkable two years ago. When Donald Trump won the 2024 presidential election, many Democratic voters curled up in bed and doomscrolled, fatigued and fearful about the direction of the country. Any desire to fight back was dampened by the enormity of the loss.But the mood gradually shifted over the following two years, culminating in a generational shift on election day: Democrats flipped five governors’ seats and took control of the House and Senate "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
