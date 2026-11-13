@@ -20828,6 +20828,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "86b839e6246c0190b74e",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "category": "World",
+    "published_at": "2026-11-13T12:22:30Z",
+    "first_seen_at": "2026-11-13T13:19:28.653008Z",
+    "updated_at": "2026-11-13T13:19:28.653008Z",
+    "sources": [
+      {
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T12:22:30Z",
+        "primary": false,
+        "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
