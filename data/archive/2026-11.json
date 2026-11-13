@@ -20884,6 +20884,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7074016612d8d757012d",
+    "title": "Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress",
+    "category": "U.S.",
+    "published_at": "2026-11-13T15:29:23Z",
+    "first_seen_at": "2026-11-13T15:57:43.603601Z",
+    "updated_at": "2026-11-13T15:57:43.603601Z",
+    "sources": [
+      {
+        "title": "Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress",
+        "url": "https://www.pbs.org/newshour/politics/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T15:29:23Z",
+        "primary": false,
+        "excerpt": "The Justice Department has functioned for nearly two years as an extension of the White House, unchecked by a Republican-controlled Congress as it pursued investigations into President Donald Trump's enemies, fired waves of career employees and defended administration stances that judges across the country repeatedly deemed legally dubious."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
