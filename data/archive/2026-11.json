@@ -17832,7 +17832,7 @@
         "excerpt": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -17860,7 +17860,7 @@
         "excerpt": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -19382,5 +19382,1250 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "ca3a29db9a37ffb19327",
+    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "category": "World",
+    "published_at": "2026-11-13T03:57:01Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T03:57:01Z",
+        "primary": false,
+        "excerpt": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+        "ai_editor": {
+          "id": "ca3a29db9a37ffb19327",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "ca3a29db9a37ffb19327",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "84f9571cde60ac2fc756",
+    "title": "What we know about Brooklyn building collapse that killed eight people",
+    "category": "U.S.",
+    "published_at": "2026-11-13T03:26:47Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "What we know about Brooklyn building collapse that killed eight people",
+        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-13T03:26:47Z",
+        "primary": false,
+        "excerpt": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
+        "ai_editor": {
+          "id": "84f9571cde60ac2fc756",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Eight people died in the Brooklyn collapse. Officials are investigating possible criminal conduct, but the cause remains undetermined. The buildings department says other sites linked to the developer are also being checked.",
+          "evidence_quote": "the property developer has ties to at least 100 other sites around the city, which are also now being checked.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+          "title": "What we know about Brooklyn building collapse that killed eight people",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "84f9571cde60ac2fc756",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Eight people died in the Brooklyn collapse. Officials are investigating possible criminal conduct, but the cause remains undetermined. The buildings department says other sites linked to the developer are also being checked.",
+      "evidence_quote": "the property developer has ties to at least 100 other sites around the city, which are also now being checked.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+      "title": "What we know about Brooklyn building collapse that killed eight people",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ce083db142efafaa3734",
+    "title": "A Global Rebound for Mangroves",
+    "category": "Science",
+    "published_at": "2026-11-13T05:01:00Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "A Global Rebound for Mangroves",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-13T05:01:00Z",
+        "primary": true,
+        "excerpt": "After decades of decline, this ecologically significant type of forest is making a comeback."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55c3eb8615077b2fe684",
+    "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+    "category": "Outdoors",
+    "published_at": "2026-11-13T05:00:11Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-13T05:00:11Z",
+        "primary": false,
+        "excerpt": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.Fatih Birol, the executive director of the International Energy Agency (IEA), said more than twice as much electricity generation would be added to the global economy in the next decade than in the last, as countries scramble to secure their energy supplies against fossil fuel price volatility and supply shocks, such as the Iran war."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1eb2fc1e8377f321a8e9",
+    "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+    "category": "U.S.",
+    "published_at": "2026-11-13T03:52:25Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T03:52:25Z",
+        "primary": false,
+        "excerpt": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
+        "ai_editor": {
+          "id": "1eb2fc1e8377f321a8e9",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [
+            "cf9b40d8625915c9c61b"
+          ],
+          "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+          "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+          "state": "assessed",
+          "evidence_depth": "feed",
+          "source_url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+          "group": "1eb2fc1e8377f321a8e9"
+        }
+      },
+      {
+        "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T02:30:07Z",
+        "primary": false,
+        "excerpt": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January.“In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies – but even bigger than that, a change from the status quo that isn’t working for working people,” Van Hollen said in a statement posted on social media. Conti",
+        "ai_editor": {
+          "id": "cf9b40d8625915c9c61b",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Van Hollen announced a challenge to Schumer for leadership of the incoming Democratic Senate majority. Schumer says he has the votes to remain leader; the secret-ballot election is scheduled for early December.",
+          "evidence_quote": "The closed-door, secret-ballot election will be held in early December.",
+          "related_ids": [
+            "1eb2fc1e8377f321a8e9"
+          ],
+          "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+          "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+          "group": "1eb2fc1e8377f321a8e9"
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "1eb2fc1e8377f321a8e9",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [
+        "cf9b40d8625915c9c61b"
+      ],
+      "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "state": "assessed",
+      "evidence_depth": "feed",
+      "source_url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "group": "1eb2fc1e8377f321a8e9"
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "afad9c2dc9e5f381c469",
+    "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+    "category": "World",
+    "published_at": "2026-11-13T06:00:11Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+        "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T06:00:11Z",
+        "primary": false,
+        "excerpt": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on behalf of “the generation that is paying the price of freedom with their lives”.Mohammad Javad Vafaei Sani, an Iranian boxing champion, coach and political prisoner, has been sentenced to death three times and is one of seven athletes at risk of execution in Iran. He was given the Magnitsky award for outstanding human ",
+        "ai_editor": {
+          "id": "afad9c2dc9e5f381c469",
+          "priority": 2,
+          "section": "brief",
+          "major": false,
+          "context": "Iranian political prisoner Mohammad Javad Vafaei Sani received a human rights award while facing execution. Amnesty International described the trial resulting in his third death sentence as grossly unfair; the article reports that Iran’s supreme court upheld the sentence.",
+          "evidence_quote": "The supreme court upheld his death sentence on 4 October 2025.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+          "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "afad9c2dc9e5f381c469",
+      "priority": 2,
+      "section": "brief",
+      "major": false,
+      "context": "Iranian political prisoner Mohammad Javad Vafaei Sani received a human rights award while facing execution. Amnesty International described the trial resulting in his third death sentence as grossly unfair; the article reports that Iran’s supreme court upheld the sentence.",
+      "evidence_quote": "The supreme court upheld his death sentence on 4 October 2025.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+      "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7b436d719d8f8376d6b",
+    "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+    "category": "Science",
+    "published_at": "2026-11-13T06:05:49Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-13T06:05:49Z",
+        "primary": false,
+        "excerpt": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2492a53f4ed6850ec4e4",
+    "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+    "category": "Outdoors",
+    "published_at": "2026-11-13T05:00:10Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-13T05:00:10Z",
+        "primary": false,
+        "excerpt": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routinesThe race to electrification has emerged as a key theme of this year’s UN climate summit: increasing the use of electricity – particularly from clean sources – has the potential to improve daily life for people around the world.The summit’s co-hosts are now trying to get countries to promise to increase their electricity use to 35% of all energy used by 2035. The global figure currently stands at 23%, but some countries are already striding a"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f8746cf4ef0b0e34bb32",
+    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "category": "Science",
+    "published_at": "2026-11-13T05:05:00Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-13T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "351b699c59756aca9268",
+    "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
+    "category": "U.S.",
+    "published_at": "2026-11-12T22:29:13Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
+        "url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T22:29:13Z",
+        "primary": false,
+        "excerpt": "Democratic Sen. Richard Blumenthal of Connecticut, who is set to chair the Permanent Subcommittee on Investigations when the Democratic majority takes control of the Senate next year, said the implied investigation is baseless.",
+        "ai_editor": {
+          "id": "351b699c59756aca9268",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "Sen. Richard Blumenthal says a federal prosecutor notified him of an investigation tied to his congressional inquiry into corporate donations to Trump-supported projects. Blumenthal calls it baseless and has requested preservation of relevant records. The article reports no response from the prosecutor’s office.",
+          "evidence_quote": "said Thursday he received a letter from a U.S. attorney informing him he's being investigated for conducting a congressional inquiry.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+          "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "351b699c59756aca9268",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "Sen. Richard Blumenthal says a federal prosecutor notified him of an investigation tied to his congressional inquiry into corporate donations to Trump-supported projects. Blumenthal calls it baseless and has requested preservation of relevant records. The article reports no response from the prosecutor’s office.",
+      "evidence_quote": "said Thursday he received a letter from a U.S. attorney informing him he's being investigated for conducting a congressional inquiry.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+      "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "93d73d25254ef55f8e63",
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "category": "World",
+    "published_at": "2026-11-13T02:01:35Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T02:01:35Z",
+        "primary": false,
+        "excerpt": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "ai_editor": {
+          "id": "93d73d25254ef55f8e63",
+          "priority": 4,
+          "section": "brief",
+          "major": false,
+          "context": "US envoys pledged to include EU delegates in the next peace talks. Russia's territorial demands remain unchanged. Russia and Ukraine also agreed to a prisoner exchange, but numbers and timing were not provided.",
+          "evidence_quote": "further details like how many prisoners would be exchanged or a timeline, were not given.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "93d73d25254ef55f8e63",
+      "priority": 4,
+      "section": "brief",
+      "major": false,
+      "context": "US envoys pledged to include EU delegates in the next peace talks. Russia's territorial demands remain unchanged. Russia and Ukraine also agreed to a prisoner exchange, but numbers and timing were not provided.",
+      "evidence_quote": "further details like how many prisoners would be exchanged or a timeline, were not given.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T04:02:13.816025+00:00",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fa898f307d338fba567d",
+    "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+    "category": "U.S.",
+    "published_at": "2026-11-13T00:50:18Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+        "url": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T00:50:18Z",
+        "primary": false,
+        "excerpt": "Two Democratic senators are launching an investigation into whether Health Secretary Robert F. Kennedy Jr. lied to Congress about his reason for a 2019 trip to Samoa after The Associated Press and The Guardian published documents in August refuting his testimony.",
+        "ai_editor": {
+          "id": "fa898f307d338fba567d",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Sens. Ron Wyden and Angela Alsobrooks requested documents to investigate whether Kennedy misrepresented his 2019 Samoa trip to Congress. Reporting cites a pre-trip letter discussing vaccine research, contradicting his stated account. HHS denies that he lied. The inquiry is not a finding of criminal wrongdoing or proof that his visit caused the subsequent outbreak.",
+          "evidence_quote": "In the letter, Kennedy used the words vaccine or vaccination eight times.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+          "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "fa898f307d338fba567d",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Sens. Ron Wyden and Angela Alsobrooks requested documents to investigate whether Kennedy misrepresented his 2019 Samoa trip to Congress. Reporting cites a pre-trip letter discussing vaccine research, contradicting his stated account. HHS denies that he lied. The inquiry is not a finding of criminal wrongdoing or proof that his visit caused the subsequent outbreak.",
+      "evidence_quote": "In the letter, Kennedy used the words vaccine or vaccination eight times.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T06:10:07.570157+00:00",
+      "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b73f0b62348ddebd0db",
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "category": "World",
+    "published_at": "2026-11-12T15:26:34Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-12T15:26:34Z",
+        "primary": false,
+        "excerpt": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "08536ef934a72e787348",
+    "title": "What to know about dengue fever as Florida reports more than 500 cases this year",
+    "category": "U.S.",
+    "published_at": "2026-11-13T00:31:23Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "What to know about dengue fever as Florida reports more than 500 cases this year",
+        "url": "https://www.pbs.org/newshour/health/what-to-know-about-dengue-fever-as-florida-reports-more-than-500-cases-this-year",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T00:31:23Z",
+        "primary": false,
+        "excerpt": "As Florida navigates its largest dengue outbreak in more than 15 years, it might help to understand how this virus spreads and how to recognize symptoms and protect yourself."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92ef67e6196746c57bff",
+    "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+    "category": "World",
+    "published_at": "2026-11-12T09:40:31Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-12T09:40:31Z",
+        "primary": false,
+        "excerpt": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c84c9b3a97a3b11afe1e",
+    "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+    "category": "U.S.",
+    "published_at": "2026-11-13T00:19:54Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-13T00:19:54Z",
+        "primary": false,
+        "excerpt": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her universityNearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release.“She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention centers in California, Texas, and Louisiana, in a series of opaque transfers. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cafe526f79129484cb82",
+    "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+    "category": "World",
+    "published_at": "2026-11-12T09:39:39Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-12T09:39:39Z",
+        "primary": false,
+        "excerpt": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "603dd18b5a4ab1c4fa52",
+    "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:55:39Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
+        "url": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:55:39Z",
+        "primary": false,
+        "excerpt": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive. Huang's departure has sparked questions about the future of Nvidia, the AI industry and U.S. national security. Amna Nawaz discussed the latest with Dmitri Alperovitch and Stephen Witt."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e1dafa6411005a667a2b",
+    "title": "China rules out hosting Cop33 climate summit in 2028",
+    "category": "World",
+    "published_at": "2026-11-12T22:00:15Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "China rules out hosting Cop33 climate summit in 2028",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T22:00:15Z",
+        "primary": false,
+        "excerpt": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international cooperation on the climate. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dd851460b4fa4b4dfe70",
+    "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+    "category": "U.S.",
+    "published_at": "2026-11-13T02:45:20Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-13T02:45:20Z",
+        "primary": false,
+        "excerpt": "The accident rattled the usually calm immigrant neighbourhood of Flatbush, New York. At least eight residents, including two children, died in the rubble.",
+        "ai_editor": {
+          "id": "dd851460b4fa4b4dfe70",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "Eight people died and 18 were injured in a Brooklyn building collapse, officials said. The mayor said the city was examining 100 other construction sites operated by the same companies. The supplied report does not establish the collapse's cause.",
+          "evidence_quote": "were examining 100 other sites operated by the same groups to ensure they are safe.",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+          "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "dd851460b4fa4b4dfe70",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "Eight people died and 18 were injured in a Brooklyn building collapse, officials said. The mayor said the city was examining 100 other construction sites operated by the same companies. The supplied report does not establish the collapse's cause.",
+      "evidence_quote": "were examining 100 other sites operated by the same groups to ensure they are safe.",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+      "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3d7ae6ba33672f45b8ee",
+    "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+    "category": "World",
+    "published_at": "2026-11-12T09:29:50Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-12T09:29:50Z",
+        "primary": false,
+        "excerpt": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0279be8dd9fc58ae3c6a",
+    "title": "New York building collapse kills 8, including 2 children",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:50:06Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "New York building collapse kills 8, including 2 children",
+        "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:50:06Z",
+        "primary": false,
+        "excerpt": "New York officials say they've ended their rescue operations at the site of a collapsed building in Brooklyn and that there are no more victims inside. The collapse killed at least eight people, including two children, and injured dozens more. William Brangham reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8a9ef23d15692a4b5d02",
+    "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+    "category": "World",
+    "published_at": "2026-11-12T21:00:12Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+        "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T21:00:12Z",
+        "primary": false,
+        "excerpt": "Move by Norway ‘a further tightening’ of current rulesRussians ‘have no business’ in Finland, says ministerNorway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move.The government said it intended to prevent athletes from these countries coming to Norway as long as the war in Ukraine continues. In a statement, it noted that while Norway already had strict rules for visas for Russian and Belarusian citizens, recent “relaxations introduced by international sports fed"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1aec95c079aa388f5a34",
+    "title": "Why midterm vote-counting is taking so long in America's largest state",
+    "category": "U.S.",
+    "published_at": "2026-11-13T00:35:05Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Why midterm vote-counting is taking so long in America's largest state",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-13T00:35:05Z",
+        "primary": false,
+        "excerpt": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+        "ai_editor": {
+          "id": "1aec95c079aa388f5a34",
+          "priority": 3,
+          "section": "brief",
+          "major": false,
+          "context": "",
+          "evidence_quote": "",
+          "related_ids": [],
+          "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+          "title": "Why midterm vote-counting is taking so long in America's largest state",
+          "state": "assessed",
+          "evidence_depth": "article",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
+          "group": ""
+        }
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {
+      "id": "1aec95c079aa388f5a34",
+      "priority": 3,
+      "section": "brief",
+      "major": false,
+      "context": "",
+      "evidence_quote": "",
+      "related_ids": [],
+      "reviewed_at": "2026-11-13T02:56:30.338839+00:00",
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "state": "assessed",
+      "evidence_depth": "article",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
+      "group": ""
+    },
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b1d44aca47838194a83",
+    "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+    "category": "World",
+    "published_at": "2026-11-12T09:29:30Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-12T09:29:30Z",
+        "primary": false,
+        "excerpt": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a8c15d9af78ffaaaa398",
+    "title": "News Wrap: 1 killed and 4 injured in D.C. shooting",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:45:02Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "News Wrap: 1 killed and 4 injured in D.C. shooting",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-1-killed-and-4-injured-in-d-c-shooting",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:45:02Z",
+        "primary": false,
+        "excerpt": "In our news wrap Thursday, a gunman in Washington, D.C., killed one person and injured 4 others before fatally shooting himself, Defense Secretary Pete Hegseth awarded a medal today to the soldier who admonished his party during a Veterans Day ceremony at Arlington National Cemetery and European officials will join the next round of Ukraine peace talks."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8e8be77758f1ce4ecc1f",
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "category": "World",
+    "published_at": "2026-11-12T20:09:16Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T20:09:16Z",
+        "primary": false,
+        "excerpt": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5d7a658a27d359312e4b",
+    "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:43:42Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:43:42Z",
+        "primary": false,
+        "excerpt": "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot woundWashington DC shooting latest updatesFour people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said.In a Thursday afternoon press conference, law enforcement identified the suspect as 55-year-old Matt Wade Lambert, who died from a self-inflicted gunshot wound. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "18a6c58e68d017c65fd7",
+    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+    "category": "World",
+    "published_at": "2026-11-12T19:15:30Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T19:15:30Z",
+        "primary": false,
+        "excerpt": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targetsTwo men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services.Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e293dd2557e53b6748d",
+    "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:40:52Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
+        "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:40:52Z",
+        "primary": false,
+        "excerpt": "In Mississippi, Democrat Scott Colom won his longshot bid to oust incumbent Republican Sen. Cindy Hyde-Smith. Colom's victory is a stunning reversal in the deeply conservative state that hasn't been represented by a Black senator since the Reconstruction era following the Civil War. Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "802a209729e4a7d6e57d",
+    "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+    "category": "World",
+    "published_at": "2026-11-12T13:02:46Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-12T13:02:46Z",
+        "primary": false,
+        "excerpt": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a641096b78c7e0ff99f3",
+    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:36:19Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+        "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:36:19Z",
+        "primary": false,
+        "excerpt": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races."
+      },
+      {
+        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+        "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-12T22:52:49Z",
+        "primary": false,
+        "excerpt": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e82e2749bf883f34a484",
+    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+    "category": "World",
+    "published_at": "2026-11-12T14:23:50Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+        "url": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T14:23:50Z",
+        "primary": false,
+        "excerpt": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians• NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch it Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed3af1d52a22721ef54d",
+    "title": "Abdul El-Sayed on Democratic leadership, health care access and inspiring a new generation",
+    "category": "U.S.",
+    "published_at": "2026-11-12T23:35:14Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Abdul El-Sayed on Democratic leadership, health care access and inspiring a new generation",
+        "url": "https://www.pbs.org/newshour/show/abdul-el-sayed-on-democratic-leadership-health-care-access-and-inspiring-a-new-generation",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-12T23:35:14Z",
+        "primary": false,
+        "excerpt": "The new Democratic senators are in Washington for orientation and are already facing tough questions about how they plan to govern. One is Abdul El-Sayed of Michigan, the first Muslim elected to the Senate. His win came after a hard-fought race marked by outside spending and attacks on his name and his faith. Amna Nawaz sat down with El-Sayed to discuss how he hopes to shake up Washington."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6e0cb4a87e740b3ad5e0",
+    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "category": "World",
+    "published_at": "2026-11-12T12:19:01Z",
+    "first_seen_at": "2026-11-13T06:10:07.570157Z",
+    "updated_at": "2026-11-13T06:10:07.570157Z",
+    "sources": [
+      {
+        "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+        "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-12T12:19:01Z",
+        "primary": false,
+        "excerpt": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the stripAn Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the hospital director.The Israeli military carried out the attack on the hospital, in Khan Younis, early on Thursday saying in a statement it had struck a Hamas commander and other fighters there, without providing evidence. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
