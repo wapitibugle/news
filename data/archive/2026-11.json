@@ -19743,7 +19743,7 @@
         "excerpt": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routinesThe race to electrification has emerged as a key theme of this year’s UN climate summit: increasing the use of electricity – particularly from clean sources – has the potential to improve daily life for people around the world.The summit’s co-hosts are now trying to get countries to promise to increase their electricity use to 35% of all energy used by 2035. The global figure currently stands at 23%, but some countries are already striding a"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20903,6 +20903,61 @@
         "published_at": "2026-11-13T15:29:23Z",
         "primary": false,
         "excerpt": "The Justice Department has functioned for nearly two years as an extension of the White House, unchecked by a Republican-controlled Congress as it pursued investigations into President Donald Trump's enemies, fired waves of career employees and defended administration stances that judges across the country repeatedly deemed legally dubious."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "89879a69c60f85e7c82a",
+    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+    "category": "World",
+    "published_at": "2026-11-13T14:14:44Z",
+    "first_seen_at": "2026-11-13T17:02:44.855773Z",
+    "updated_at": "2026-11-13T17:02:44.855773Z",
+    "sources": [
+      {
+        "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+        "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T14:14:44Z",
+        "primary": false,
+        "excerpt": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European securityEurope live – latest updatesThe EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its aggression.“We have one aggressor and one victim, and the aggressor does not have security concerns,” Kaja Kallas said on arrival at an EU leaders’ summit in Dublin. “Nobody has ever attacked them. They have attacked others. I mean, keep the focus, peopl"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "256d422ec3a4823ab414",
+    "title": "Navy has quietly fired some commanders and other officials, drawing congressional pushback",
+    "category": "U.S.",
+    "published_at": "2026-11-13T16:58:31Z",
+    "first_seen_at": "2026-11-13T17:02:44.855773Z",
+    "updated_at": "2026-11-13T17:02:44.855773Z",
+    "sources": [
+      {
+        "title": "Navy has quietly fired some commanders and other officials, drawing congressional pushback",
+        "url": "https://www.pbs.org/newshour/politics/navy-has-quietly-fired-some-commanders-and-other-officials-drawing-congressional-pushback",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T16:58:31Z",
+        "primary": false,
+        "excerpt": "The firings are a break from the Navy's longstanding policy to announce major removals of commanders and other highly visible officials. They also follow an increasing level of secrecy over military operations, especially in the Middle East."
       }
     ],
     "tier": "brief",
