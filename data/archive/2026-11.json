@@ -19743,7 +19743,7 @@
         "excerpt": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routinesThe race to electrification has emerged as a key theme of this year’s UN climate summit: increasing the use of electricity – particularly from clean sources – has the potential to improve daily life for people around the world.The summit’s co-hosts are now trying to get countries to promise to increase their electricity use to 35% of all energy used by 2035. The global figure currently stands at 23%, but some countries are already striding a"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -20682,6 +20682,61 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "af1bb13de8c34912040d",
+    "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook",
+    "category": "World",
+    "published_at": "2026-11-13T08:16:11Z",
+    "first_seen_at": "2026-11-13T09:08:01.660109Z",
+    "updated_at": "2026-11-13T09:08:01.660109Z",
+    "sources": [
+      {
+        "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T08:16:11Z",
+        "primary": false,
+        "excerpt": "Microsoft 365 also hit but tech company says no indication problem was caused by cyber-attackMicrosoft outage – live updatesMicrosoft has said it is “seeing positive results” from its efforts to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe.The tech company said it is attempting to improve capacity to enable more users to get back on its systems, after a global outage affected millions of users for more than 12 hours on Thursday and Friday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7179ac499447b790370",
+    "title": "What we know about the global Microsoft outage",
+    "category": "Technology",
+    "published_at": "2026-11-13T08:01:25Z",
+    "first_seen_at": "2026-11-13T09:08:01.660109Z",
+    "updated_at": "2026-11-13T09:08:01.660109Z",
+    "sources": [
+      {
+        "title": "What we know about the global Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-13T08:01:25Z",
+        "primary": false,
+        "excerpt": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
