@@ -20772,6 +20772,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "3fa5cf48aa3918335ff5",
+    "title": "These swing voters have low expectations for divided government",
+    "category": "Elections",
+    "published_at": "2026-11-13T10:00:00Z",
+    "first_seen_at": "2026-11-13T11:09:36.212744Z",
+    "updated_at": "2026-11-13T11:09:36.212744Z",
+    "sources": [
+      {
+        "title": "These swing voters have low expectations for divided government",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-13T10:00:00Z",
+        "primary": false,
+        "excerpt": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
