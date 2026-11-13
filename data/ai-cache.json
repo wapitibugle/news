@@ -7118,5 +7118,103 @@
     "evidence_depth": "article",
     "source_url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
     "group": ""
+  },
+  "11162ecbbaa3e8e8c3eee07aff299627186cb8f969ce6c27756384bd25f99b0b": {
+    "id": "1aec95c079aa388f5a34",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "Alaska’s Senate result remains unresolved as officials transport and count ballots from remote communities and await eligible mail ballots. Officials expect to finish by November 18, with ranked-choice tabulation if needed.",
+    "evidence_quote": "officials expect to have counted all eligible ballots",
+    "related_ids": [
+      "f5c7c9e99b669d12ed64"
+    ],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "A 'really complicated job': Why midterm votes counting is taking so long in America's largest state",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
+    "group": "1aec95c079aa388f5a34"
+  },
+  "dce0ac08b52b3e6d60761270ea84f8d41f628efbdec6968cf8a99c02f2660c99": {
+    "id": "f4a36603882c0c5ae48c",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "PBS presents an interview with Equal Justice Initiative founder Bryan Stevenson about the civil-rights significance of Scott Colom’s Mississippi victory. The supplied text does not include the interview’s substantive discussion.",
+    "evidence_quote": "Geoff Bennett spoke with Bryan Stevenson, founder and executive director of the Equal Justice Initiative.",
+    "related_ids": [
+      "deacd9d56d0aca247366"
+    ],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "Scott Colom's historic victory marks 'new moment' for Black voters, Bryan Stevenson says",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/show/scott-coloms-historic-victory-marks-new-moment-for-black-voters-bryan-stevenson-says",
+    "group": "deacd9d56d0aca247366"
+  },
+  "9bace7acd962a262e6ccf26f9f8ef7b03016f93c5c8e7177d64e74b977c71c0b": {
+    "id": "66d87e0f06d09b343c8b",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "AP called Kansas’ governor race for Democrat Cindy Holscher, keeping the office in Democratic hands. Her campaign emphasized a moratorium on new AI data centers; Republicans outspent Democrats more than three to one overall.",
+    "evidence_quote": "Republicans outspent Democrats more than 3-to-1 overall.",
+    "related_ids": [],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
+    "group": ""
+  },
+  "7120c5a080eb97c609dcea87dd9e443f8006210cb8b1828529e3c87fe9151377": {
+    "id": "adbea27af3f0f7aa9471",
+    "priority": 1,
+    "section": "brief",
+    "major": false,
+    "context": "Democratic officials and strategists are gathering in Denver to discuss the party’s course after winning congressional majorities. The conference also features potential presidential contenders.",
+    "evidence_quote": "Democrats will have to figure out what to do with majorities in both chambers of Congress",
+    "related_ids": [],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "Democrats gather in Denver for post-midterms introspection-turned-celebration",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/democrats-gather-in-denver-for-post-midterms-introspection-turned-celebration",
+    "group": ""
+  },
+  "a0a944f805c277ed54dfef2e51882152f2196a65b7cb4ef4beecae24dac4af7d": {
+    "id": "f5c7c9e99b669d12ed64",
+    "priority": 3,
+    "section": "brief",
+    "major": false,
+    "context": "An Alaska judge denied Peltola’s campaign access to requested rejected-absentee-ballot records during the ongoing count. The ruling cited production burdens and confidential information, rather than finding that the records could never be released.",
+    "evidence_quote": "cannot reasonably be produced at this juncture, nor redacted of confidential information.",
+    "related_ids": [
+      "1aec95c079aa388f5a34"
+    ],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
+    "state": "assessed",
+    "evidence_depth": "article",
+    "source_url": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable",
+    "group": "1aec95c079aa388f5a34"
+  },
+  "253ba9cfdb93e3a07ba8606e41a76f3a6858d00706f3c8cf0e7893f7120e76b3": {
+    "id": "deacd9d56d0aca247366",
+    "priority": 2,
+    "section": "brief",
+    "major": false,
+    "context": "",
+    "evidence_quote": "",
+    "related_ids": [
+      "f4a36603882c0c5ae48c"
+    ],
+    "reviewed_at": "2026-11-13T01:19:37.823639+00:00",
+    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+    "state": "assessed",
+    "evidence_depth": "feed",
+    "source_url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+    "group": "deacd9d56d0aca247366"
   }
 }
