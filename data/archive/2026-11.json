@@ -20716,7 +20716,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a7179ac499447b790370",
@@ -20737,6 +20738,34 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f08f9ae6ac0d48e916d2",
+    "title": "These two voter turnout trends explain what happened across the South in the election",
+    "category": "Elections",
+    "published_at": "2026-11-13T10:00:00Z",
+    "first_seen_at": "2026-11-13T10:09:50.116916Z",
+    "updated_at": "2026-11-13T10:09:50.116916Z",
+    "sources": [
+      {
+        "title": "These two voter turnout trends explain what happened across the South in the election",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-13T10:00:00Z",
+        "primary": false,
+        "excerpt": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas."
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
