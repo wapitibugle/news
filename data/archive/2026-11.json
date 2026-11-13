@@ -21054,5 +21054,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "49b7f4e09f25e8733b88",
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "category": "World",
+    "published_at": "2026-11-13T19:53:57Z",
+    "first_seen_at": "2026-11-13T21:54:43.776360Z",
+    "updated_at": "2026-11-13T21:54:43.776360Z",
+    "sources": [
+      {
+        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T19:53:57Z",
+        "primary": false,
+        "excerpt": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
