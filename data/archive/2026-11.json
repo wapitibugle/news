@@ -20970,5 +20970,59 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "f0cdc0ded482bce50079",
+    "title": "The Trump administration's voter roll crusade could continue",
+    "category": "Elections",
+    "published_at": "2026-11-13T17:00:00Z",
+    "first_seen_at": "2026-11-13T19:03:56.712511Z",
+    "updated_at": "2026-11-13T19:03:56.712511Z",
+    "sources": [
+      {
+        "title": "The Trump administration's voter roll crusade could continue",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-13T17:00:00Z",
+        "primary": false,
+        "excerpt": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bc814ae71b02d54fd196",
+    "title": "What's Trump's strategy now with Iran? To keep things as they are",
+    "category": "World",
+    "published_at": "2026-11-13T19:02:04Z",
+    "first_seen_at": "2026-11-13T19:03:56.712511Z",
+    "updated_at": "2026-11-13T19:03:56.712511Z",
+    "sources": [
+      {
+        "title": "What's Trump's strategy now with Iran? To keep things as they are",
+        "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-13T19:02:04Z",
+        "primary": false,
+        "excerpt": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
