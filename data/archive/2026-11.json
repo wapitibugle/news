@@ -20996,7 +20996,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bc814ae71b02d54fd196",
@@ -21014,6 +21015,34 @@
         "published_at": "2026-11-13T19:02:04Z",
         "primary": false,
         "excerpt": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4f798e6b5e4f230e256e",
+    "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+    "category": "Elections",
+    "published_at": "2026-11-13T19:05:57Z",
+    "first_seen_at": "2026-11-13T20:01:35.097391Z",
+    "updated_at": "2026-11-13T20:01:35.097391Z",
+    "sources": [
+      {
+        "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-13T19:05:57Z",
+        "primary": false,
+        "excerpt": "Six Americans on their hopes for Colom, 43, Mississippi’s first Black senator since ReconstructionDemocrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican senator Cindy Hyde-Smith.The 43-year-old’s win also contributed to a Democratic majority of at least 55 seats in the Senate – the party’s largest midterm gains since 1986. Continue reading..."
       }
     ],
     "tier": "brief",
