@@ -22090,5 +22090,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "5da1a06c813ded8cc895",
+    "title": "Estonia bans Russian athletes as backlash intensifies",
+    "category": "World",
+    "published_at": "2026-11-13T17:54:33Z",
+    "first_seen_at": "2026-11-14T09:54:59.279598Z",
+    "updated_at": "2026-11-14T09:54:59.279598Z",
+    "sources": [
+      {
+        "title": "Estonia bans Russian athletes as backlash intensifies",
+        "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T17:54:33Z",
+        "primary": false,
+        "excerpt": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
