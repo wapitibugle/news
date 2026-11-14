@@ -19715,7 +19715,7 @@
         "excerpt": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -21082,5 +21082,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "51f1070c4226b288df46",
+    "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
+    "category": "Elections",
+    "published_at": "2026-11-13T23:30:37Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
+        "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-13T23:30:37Z",
+        "primary": false,
+        "excerpt": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the fallout of Nvidia CEO Jensen Huang's resignation and what the Trump administration knew, how Republicans are responding to their losses in the midterm elections, JD Vance's chances in 2028 and the Democratic leadership battle in the Senate."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "37b802dc2a6ac6565946",
+    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+    "category": "Elections",
+    "published_at": "2026-11-13T22:18:55Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-13T22:18:55Z",
+        "primary": false,
+        "excerpt": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "70275d0e699d06687aef",
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "category": "World",
+    "published_at": "2026-11-14T05:52:31Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-14T05:52:31Z",
+        "primary": false,
+        "excerpt": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5e16b30c2de28f2e5201",
+    "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+    "category": "U.S.",
+    "published_at": "2026-11-14T05:12:43Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+        "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T05:12:43Z",
+        "primary": false,
+        "excerpt": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "44454294e0b6a22b5bac",
+    "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+    "category": "World",
+    "published_at": "2026-11-14T06:19:04Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-14T06:19:04Z",
+        "primary": false,
+        "excerpt": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restoredGet our breaking news email, free app or daily news podcastThe Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned.The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Continue "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a61501fbc50aff18ab3c",
+    "title": "Microsoft says services fully restored after for day-long global outage",
+    "category": "World",
+    "published_at": "2026-11-14T06:42:27Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-14T06:42:27Z",
+        "primary": false,
+        "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3788e7bf8c4584940ddb",
+    "title": "Extreme weather leaves gardeners hedging their bets",
+    "category": "Science",
+    "published_at": "2026-11-14T07:12:14Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Extreme weather leaves gardeners hedging their bets",
+        "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-14T07:12:14Z",
+        "primary": false,
+        "excerpt": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5d2f1eaf0c014f91cd8e",
+    "title": "Bluetongue virus confirmed on County Down farm",
+    "category": "Science",
+    "published_at": "2026-11-14T06:56:58Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Bluetongue virus confirmed on County Down farm",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-14T06:56:58Z",
+        "primary": false,
+        "excerpt": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dc03a868a1fd93dce557",
+    "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+    "category": "World",
+    "published_at": "2026-11-14T04:56:06Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-14T04:56:06Z",
+        "primary": false,
+        "excerpt": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in USUS flight outage – live updatesGet our breaking news email, free app or daily news podcastSome US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted departures and delayed landings at all US airports.Flights from Melbourne airport were also affected, with travel for passengers expected to depart for Los Angeles shortly after 10am being delayed by almost three hours. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bf67df2231e9735815f5",
+    "title": "US university students tell surveillance cameras to Flock off",
+    "category": "Technology",
+    "published_at": "2026-11-13T12:00:18Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "US university students tell surveillance cameras to Flock off",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-13T12:00:18Z",
+        "primary": false,
+        "excerpt": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the countryAngela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like those made by Flock Safety, for mass surveillance. The 21-year-old computer science major helped collect hundreds of signatures earlier this year from students, faculty, alumni and residents to demand that Stanford drop its current Flock contract and codify safeguards for similar tech tools the school may use in the future. The fear, Nguyen sa"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c78fee90f4be1163b79e",
+    "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+    "category": "U.S.",
+    "published_at": "2026-11-13T21:50:00Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+        "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-13T21:50:00Z",
+        "primary": false,
+        "excerpt": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd27921160c1d120f4c9",
+    "title": "ICE touts record number of deportations in agency's history",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:35:23Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "ICE touts record number of deportations in agency's history",
+        "url": "https://www.pbs.org/newshour/show/ice-touts-record-number-of-deportations-in-agencys-history",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:35:23Z",
+        "primary": false,
+        "excerpt": "The Department of Homeland Security reports that immigrant deportations and arrests hit an all-time high. More than 491,000 people were arrested by ICE in the last fiscal year, and more than 483,000 were deported. The Trump administration has said it aims to deport one million immigrants annually. William Brangham discussed more with John Sandweg, who was acting ICE Director under President Obama."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c759a54fa194a9f6f177",
+    "title": "U.S. wrongly withheld New York highway funds over immigrant licenses, appeals court rules",
+    "category": "U.S.",
+    "published_at": "2026-11-13T22:55:42Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "U.S. wrongly withheld New York highway funds over immigrant licenses, appeals court rules",
+        "url": "https://www.pbs.org/newshour/politics/u-s-wrongly-withheld-new-york-highway-funds-over-immigrant-licenses-appeals-court-rules",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T22:55:42Z",
+        "primary": false,
+        "excerpt": "The U.S. Transportation Department wrongly decided to withhold nearly $74 million in highway money from New York state after it refused to revoke nearly 33,000 questionable commercial driver's licenses for immigrants when an audit revealed problems last year, a federal appeals court said Friday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "628d5b8db2505b3301dc",
+    "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+    "category": "U.S.",
+    "published_at": "2026-11-13T21:06:05Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T21:06:05Z",
+        "primary": false,
+        "excerpt": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a3c6b132920fc16f0edd",
+    "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+    "category": "U.S.",
+    "published_at": "2026-11-13T20:02:56Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-13T20:02:56Z",
+        "primary": false,
+        "excerpt": "Authorities conclude search for victims in wreckage of the building and release the names of the eight victimsThe New York City police department and New York City fire department have concluded the search for victims in the wreckage of the collapsed building in Brooklyn and released the names of the eight people who died.A further 18 people were injured, with one still in critical condition on Friday morning, after the disaster on a residential street on Wednesday that saw six men, a boy and a girl among those killed, amid demands for accountability. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "274342411ad88f7e4fcd",
+    "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+    "category": "U.S.",
+    "published_at": "2026-11-13T19:16:41Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T19:16:41Z",
+        "primary": false,
+        "excerpt": "The Trump administration is asking the justices to overturn lower court decisions that found it was illegal to block asylum applications following an executive order that called the situation at the southern border an \"invasion.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9bf4fbc114830005c15b",
+    "title": "Does Europe regret its bet on U.S. defense?",
+    "category": "Business",
+    "published_at": "2026-11-13T16:17:43Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Does Europe regret its bet on U.S. defense?",
+        "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-11-13T16:17:43Z",
+        "primary": false,
+        "excerpt": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "01953ccb7b50e5406d37",
+    "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+    "category": "World",
+    "published_at": "2026-11-13T22:36:38Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+        "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T22:36:38Z",
+        "primary": false,
+        "excerpt": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against the country’s Arab minority, after he sought to delegitimise the community’s lawmakers by linking them to Hamas.Eisenkot’s statement was a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis, who make up more than 20% of the population. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e3130f190e2ea915e37b",
+    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "category": "World",
+    "published_at": "2026-11-13T16:40:31Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-13T16:40:31Z",
+        "primary": false,
+        "excerpt": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a4db15e2b4ef120fafee",
+    "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+    "category": "World",
+    "published_at": "2026-11-13T13:52:11Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+        "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-13T13:52:11Z",
+        "primary": false,
+        "excerpt": "First direct attack on US military installations for months was in response to US airstrike on communications towerIran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months.“This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC aer"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "166ac44f3d5c3ea32b22",
+    "title": "His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
+    "category": "U.S.",
+    "published_at": "2026-11-13T10:30:00Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
+        "url": "https://www.propublica.org/article/followers-of-christ-faith-healing-documentary",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-13T10:30:00Z",
+        "primary": false,
+        "excerpt": "The post His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6dbbfc620ca582812d8",
+    "title": "How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
+    "category": "U.S.",
+    "published_at": "2026-11-13T10:00:00Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
+        "url": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-13T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0f546ca27552907057f2",
+    "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
+    "category": "U.S.",
+    "published_at": "2026-11-14T00:20:20Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
+        "url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T00:20:20Z",
+        "primary": false,
+        "excerpt": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster malfunctioned and ended up in the water Friday, but the spacecraft still soared into orbit in its boldest test yet."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "23012249182e2d5283a0",
+    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-13T22:36:46Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T22:36:46Z",
+        "primary": false,
+        "excerpt": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f4aa784a106a63e05262",
+    "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+    "category": "U.S.",
+    "published_at": "2026-11-14T03:45:21Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-14T03:45:21Z",
+        "primary": false,
+        "excerpt": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2665bb44386c0a275c6b",
+    "title": "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:56:33Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'",
+        "url": "https://www.pbs.org/newshour/show/faa-issues-rare-nationwide-ground-stop-due-to-extraordinary-circumstances",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:56:33Z",
+        "primary": false,
+        "excerpt": "Air travel across the country came to a standstill on Friday after the Federal Aviation Administration issued a rare nationwide ground stop citing \"extraordinary circumstances\" and \"reasons of safety.\" Aviation correspondent Miles O'Brien reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "774c22056460a531f634",
+    "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+    "category": "U.S.",
+    "published_at": "2026-11-13T22:36:45Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T22:36:45Z",
+        "primary": false,
+        "excerpt": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "be12918f35c5f0bdde65",
+    "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
+    "category": "U.S.",
+    "published_at": "2026-11-14T04:00:33Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
+        "url": "https://www.theguardian.com/sport/2026/nov/14/scientists-find-blood-biomarker-cte-diagnosis-rugby-american-football",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T04:00:33Z",
+        "primary": false,
+        "excerpt": "Condition is prevalent in rugby and American footballScientists are optimistic of significant breakthroughScientists have moved a step closer to diagnosing the degenerative brain condition chronic traumatic encephalopathy in living people, after a study found a blood biomarker that identifies an advanced form of the disease.As things stand CTE, which is caused by repeated trauma to the head and is especially prevalent in collision and contact sports such as American football, rugby and football, can be diagnosed only after death by examining brain tissue. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6756af101ccd97a8ceb7",
+    "title": "Setback for SpaceX Starship rocket's double-catch test",
+    "category": "U.S.",
+    "published_at": "2026-11-14T00:01:01Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-14T00:01:01Z",
+        "primary": false,
+        "excerpt": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d62c705a7b7176b325cd",
+    "title": "News Wrap: Tanker crashes into river cruise boat in New Orleans",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:55:45Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "News Wrap: Tanker crashes into river cruise boat in New Orleans",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:55:45Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, a ship collided with a river cruise boat in New Orleans, causing it to sink in the Mississippi River, some Microsoft users were offline for a second day as the company scrambled to restore its widely used suite of workplace software and the White House is tightening rules on how staffers interact with lobbyists."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eabc3e58f7850069dc49",
+    "title": "What we know about the FAA nationwide ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-13T22:27:38Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "What we know about the FAA nationwide ground stop",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T22:27:38Z",
+        "primary": false,
+        "excerpt": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "315e43dca758242da02f",
+    "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+    "category": "U.S.",
+    "published_at": "2026-11-14T03:11:28Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T03:11:28Z",
+        "primary": false,
+        "excerpt": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials sayIn what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none killed or critically hurt – after a tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon.Thirty-two people were taken to local hospitals after the Atlantic Asphalt tanker struck American Cruise Lines’s American Heritage at about 12.30pm – but none of their injuries were considered critical, New Orleans’s mayor"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "61e5047fb917839cc45b",
+    "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:50:51Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+        "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:50:51Z",
+        "primary": false,
+        "excerpt": "The fallout of Jensen Huang's downfall expanded into a public fight between two of President Trump's top advisers. Treasury Secretary Scott Bessent accused Commerce Secretary Howard Lutnick of failing to prevent China from obtaining Nvidia's most advanced chips. Nick Schifrin looks at the finger-pointing and the ongoing efforts to control advanced technology exports to China."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fdb68417927b50a65652",
+    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:40:45Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:40:45Z",
+        "primary": false,
+        "excerpt": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "41295576871478be2940",
+    "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+    "category": "U.S.",
+    "published_at": "2026-11-13T21:55:13Z",
+    "first_seen_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "sources": [
+      {
+        "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-13T21:55:13Z",
+        "primary": false,
+        "excerpt": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
