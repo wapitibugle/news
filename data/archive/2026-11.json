@@ -21229,7 +21229,7 @@
     "category": "World",
     "published_at": "2026-11-14T06:42:27Z",
     "first_seen_at": "2026-11-14T07:13:03.553977Z",
-    "updated_at": "2026-11-14T11:49:11.752477Z",
+    "updated_at": "2026-11-14T19:55:52.455181Z",
     "sources": [
       {
         "title": "Microsoft says services fully restored after for day-long global outage",
@@ -21248,6 +21248,15 @@
         "published_at": "2026-11-14T11:07:10Z",
         "primary": false,
         "excerpt": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in yearsMicrosoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world.The tech company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining im"
+      },
+      {
+        "title": "Microsoft says services fully restored after global outage",
+        "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:23:56Z",
+        "primary": false,
+        "excerpt": "The outage affected governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had impacted some of their operations."
       }
     ],
     "tier": "brief",
@@ -22256,6 +22265,61 @@
         "published_at": "2026-11-14T13:08:05Z",
         "primary": false,
         "excerpt": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0cc8ed0f537a3e833d33",
+    "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+    "category": "Elections",
+    "published_at": "2026-11-14T18:43:07Z",
+    "first_seen_at": "2026-11-14T19:55:52.455181Z",
+    "updated_at": "2026-11-14T19:55:52.455181Z",
+    "sources": [
+      {
+        "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+        "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-14T18:43:07Z",
+        "primary": false,
+        "excerpt": "The ballot measure, decided as part of the Nov. 3 election, marked the second time in two years that voters have rejected attempts to overturn the system and revert to partisan primaries and to general elections in which just one candidate can be selected."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f0a1f5aef72dc04f0711",
+    "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
+    "category": "Elections",
+    "published_at": "2026-11-14T18:19:50Z",
+    "first_seen_at": "2026-11-14T19:55:52.455181Z",
+    "updated_at": "2026-11-14T19:55:52.455181Z",
+    "sources": [
+      {
+        "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
+        "url": "https://www.pbs.org/newshour/politics/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-14T18:19:50Z",
+        "primary": false,
+        "excerpt": "Democrats spent two days chewing over their future at the What's Next conference and trying to deal with the fact that it looks, for a moment at least, quite bright."
       }
     ],
     "tier": "brief",
