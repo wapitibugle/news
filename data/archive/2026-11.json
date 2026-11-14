@@ -20737,7 +20737,7 @@
         "excerpt": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -21108,7 +21108,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "37b802dc2a6ac6565946",
@@ -21135,7 +21136,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "70275d0e699d06687aef",
@@ -21162,7 +21164,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5e16b30c2de28f2e5201",
@@ -21189,7 +21192,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "44454294e0b6a22b5bac",
@@ -21216,7 +21220,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a61501fbc50aff18ab3c",
@@ -21243,7 +21248,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3788e7bf8c4584940ddb",
@@ -21270,7 +21276,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5d2f1eaf0c014f91cd8e",
@@ -21297,7 +21304,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dc03a868a1fd93dce557",
@@ -21324,7 +21332,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bf67df2231e9735815f5",
@@ -21351,7 +21360,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c78fee90f4be1163b79e",
@@ -21378,7 +21388,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bd27921160c1d120f4c9",
@@ -21405,7 +21416,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c759a54fa194a9f6f177",
@@ -21432,7 +21444,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "628d5b8db2505b3301dc",
@@ -21459,7 +21472,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a3c6b132920fc16f0edd",
@@ -21486,7 +21500,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "274342411ad88f7e4fcd",
@@ -21513,7 +21528,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9bf4fbc114830005c15b",
@@ -21540,7 +21556,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "01953ccb7b50e5406d37",
@@ -21567,7 +21584,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e3130f190e2ea915e37b",
@@ -21594,7 +21612,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a4db15e2b4ef120fafee",
@@ -21621,7 +21640,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "166ac44f3d5c3ea32b22",
@@ -21648,7 +21668,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b6dbbfc620ca582812d8",
@@ -21675,7 +21696,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0f546ca27552907057f2",
@@ -21702,7 +21724,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "23012249182e2d5283a0",
@@ -21729,7 +21752,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f4aa784a106a63e05262",
@@ -21756,7 +21780,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2665bb44386c0a275c6b",
@@ -21783,7 +21808,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "774c22056460a531f634",
@@ -21810,7 +21836,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "be12918f35c5f0bdde65",
@@ -21837,7 +21864,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6756af101ccd97a8ceb7",
@@ -21864,7 +21892,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d62c705a7b7176b325cd",
@@ -21891,7 +21920,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eabc3e58f7850069dc49",
@@ -21918,7 +21948,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "315e43dca758242da02f",
@@ -21945,7 +21976,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "61e5047fb917839cc45b",
@@ -21972,7 +22004,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fdb68417927b50a65652",
@@ -21999,7 +22032,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "41295576871478be2940",
@@ -22017,6 +22051,34 @@
         "published_at": "2026-11-13T21:55:13Z",
         "primary": false,
         "excerpt": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "783d1d16752af1391c68",
+    "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+    "category": "U.S.",
+    "published_at": "2026-11-13T23:53:43Z",
+    "first_seen_at": "2026-11-14T08:12:19.179611Z",
+    "updated_at": "2026-11-14T08:12:19.179611Z",
+    "sources": [
+      {
+        "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-13T23:53:43Z",
+        "primary": false,
+        "excerpt": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to complyZohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition Assistance Program (Snap), so that bodegas and corner stores across the country have time to comply.The extension, Mamdani said, starts Friday as a result of conversations he had with Trump and Brooke Rollins, the agriculture secretary. Continue reading..."
       }
     ],
     "tier": "brief",
