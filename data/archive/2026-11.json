@@ -21362,7 +21362,7 @@
         "excerpt": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the countryAngela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like those made by Flock Safety, for mass surveillance. The 21-year-old computer science major helped collect hundreds of signatures earlier this year from students, faculty, alumni and residents to demand that Stanford drop its current Flock contract and codify safeguards for similar tech tools the school may use in the future. The fear, Nguyen sa"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -22172,6 +22172,61 @@
         "published_at": "2026-11-14T11:00:42Z",
         "primary": false,
         "excerpt": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burnsMore than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions.The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "1c8ec1414ef25448151d",
+    "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+    "category": "Elections",
+    "published_at": "2026-11-14T12:40:26Z",
+    "first_seen_at": "2026-11-14T13:00:47.606372Z",
+    "updated_at": "2026-11-14T13:00:47.606372Z",
+    "sources": [
+      {
+        "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-14T12:40:26Z",
+        "primary": false,
+        "excerpt": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "45c521b7acedad650db4",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "category": "World",
+    "published_at": "2026-11-14T11:41:20Z",
+    "first_seen_at": "2026-11-14T13:00:47.606372Z",
+    "updated_at": "2026-11-14T13:00:47.606372Z",
+    "sources": [
+      {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-14T11:41:20Z",
+        "primary": false,
+        "excerpt": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
       }
     ],
     "tier": "brief",
