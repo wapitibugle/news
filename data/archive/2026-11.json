@@ -22302,7 +22302,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f0a1f5aef72dc04f0711",
@@ -22320,6 +22321,169 @@
         "published_at": "2026-11-14T18:19:50Z",
         "primary": false,
         "excerpt": "Democrats spent two days chewing over their future at the What's Next conference and trying to deal with the fact that it looks, for a moment at least, quite bright."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "be56ed35dc2b30495d95",
+    "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+    "category": "Elections",
+    "published_at": "2026-11-14T21:17:42Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+        "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-14T21:17:42Z",
+        "primary": false,
+        "excerpt": "Trump's tonal shifts have only added to the uncertainty about what comes next in a war in which America's allies were not consulted before it was started but nonetheless struggle to deal with its economic ramifications."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c4dafea80e969a0031a3",
+    "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+    "category": "Elections",
+    "published_at": "2026-11-14T19:13:54Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-14T19:13:54Z",
+        "primary": false,
+        "excerpt": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "75be7778de201057a4a3",
+    "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump",
+    "category": "Elections",
+    "published_at": "2026-11-14T15:00:47Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-14T15:00:47Z",
+        "primary": false,
+        "excerpt": "In region where migrants have settled to work at abattoirs and feedyards, harsh raids pushed people to vote DemocratJosé Del Real looked over the crowd from the stage in a park, at hundreds of his neighbors with furious signs tucked under their arms, voicing their anger at immigration agents who had descended on their town and started rounding up their friends and family. His daughters, in the front row, were crying.Del Real, an army veteran who served two tours in Iraq, hadn’t voted in a decade. He thought it would not matter in this ruby red corner of Kansas. But the midterm election was wee"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2836d51dacc7d38f54d8",
+    "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+    "category": "U.S.",
+    "published_at": "2026-11-14T22:27:06Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-14T22:27:06Z",
+        "primary": false,
+        "excerpt": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "06bc18071a4e26217be5",
+    "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+    "category": "U.S.",
+    "published_at": "2026-11-14T23:46:09Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+        "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T23:46:09Z",
+        "primary": false,
+        "excerpt": "Russian teen will face Ukraine star in the finalSabalenka issues public apology after social media stormThe rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week, six months after her maiden grand slam triumph at Roland Garros, she has taken another massive step forward in her career. The 19-year-old will attempt to close out the most impressive week of her career by winning one of her most significant titles after thoroughly outplaying Jessica Pegula, the fifth seed, 6-3, 6-4 to reach the champions"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a0aa0c4afefdbe921684",
+    "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+    "category": "U.S.",
+    "published_at": "2026-11-14T22:48:38Z",
+    "first_seen_at": "2026-11-14T23:54:41.361781Z",
+    "updated_at": "2026-11-14T23:54:41.361781Z",
+    "sources": [
+      {
+        "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T22:48:38Z",
+        "primary": false,
+        "excerpt": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
       }
     ],
     "tier": "brief",
