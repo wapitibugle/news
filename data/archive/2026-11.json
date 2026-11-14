@@ -22116,6 +22116,34 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "749b171ade6b1a3215d3",
+    "title": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
+    "category": "U.S.",
+    "published_at": "2026-11-14T10:00:00Z",
+    "first_seen_at": "2026-11-14T10:51:59.150754Z",
+    "updated_at": "2026-11-14T10:51:59.150754Z",
+    "sources": [
+      {
+        "title": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
+        "url": "https://www.propublica.org/article/draftkings-investigation-closed-account",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-14T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
     "scientific_assessment": ""
   }
 ]
