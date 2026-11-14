@@ -21229,7 +21229,7 @@
     "category": "World",
     "published_at": "2026-11-14T06:42:27Z",
     "first_seen_at": "2026-11-14T07:13:03.553977Z",
-    "updated_at": "2026-11-14T07:13:03.553977Z",
+    "updated_at": "2026-11-14T11:49:11.752477Z",
     "sources": [
       {
         "title": "Microsoft says services fully restored after for day-long global outage",
@@ -21239,6 +21239,15 @@
         "published_at": "2026-11-14T06:42:27Z",
         "primary": false,
         "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+      },
+      {
+        "title": "Microsoft says services fully restored after global outage",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-14T11:07:10Z",
+        "primary": false,
+        "excerpt": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in yearsMicrosoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world.The tech company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining im"
       }
     ],
     "tier": "brief",
@@ -22135,6 +22144,34 @@
         "published_at": "2026-11-14T10:00:00Z",
         "primary": false,
         "excerpt": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6bf4ca6fc352e44937c3",
+    "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+    "category": "U.S.",
+    "published_at": "2026-11-14T11:00:42Z",
+    "first_seen_at": "2026-11-14T11:49:11.752477Z",
+    "updated_at": "2026-11-14T11:49:11.752477Z",
+    "sources": [
+      {
+        "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T11:00:42Z",
+        "primary": false,
+        "excerpt": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burnsMore than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions.The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in t"
       }
     ],
     "tier": "brief",
