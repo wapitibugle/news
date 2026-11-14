@@ -22239,5 +22239,32 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "60f87218a35ac4e9f7de",
+    "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+    "category": "Elections",
+    "published_at": "2026-11-14T13:08:05Z",
+    "first_seen_at": "2026-11-14T14:52:06.913388Z",
+    "updated_at": "2026-11-14T14:52:06.913388Z",
+    "sources": [
+      {
+        "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-14T13:08:05Z",
+        "primary": false,
+        "excerpt": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
