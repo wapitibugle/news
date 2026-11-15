@@ -22358,7 +22358,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c4dafea80e969a0031a3",
@@ -22385,7 +22386,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "75be7778de201057a4a3",
@@ -22412,7 +22414,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2836d51dacc7d38f54d8",
@@ -22439,7 +22442,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "06bc18071a4e26217be5",
@@ -22466,7 +22470,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a0aa0c4afefdbe921684",
@@ -22484,6 +22489,961 @@
         "published_at": "2026-11-14T22:48:38Z",
         "primary": false,
         "excerpt": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "209f21f4567ddfaa70d5",
+    "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+    "category": "U.S.",
+    "published_at": "2026-11-15T04:52:34Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T04:52:34Z",
+        "primary": false,
+        "excerpt": "Order by judge Ana Reyes is the latest instance of the federal judiciary pushing back against Trump’s efforts to redesign the nation’s capital A federal judge has ordered a temporary suspension of any work at a historic Washington public golf course, in the latest setback for US president Donald Trump’s plan to turn it ⁠into a championship-level course.In a 30-page decision, US district judge Ana Reyes temporarily blocked the federal government from moving forward with a plan that would have closed East Potomac Park on Sunday. Trump said in an 18 ⁠October social media post that the closure wou"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f1f4355ad1f78180c2e4",
+    "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+    "category": "U.S.",
+    "published_at": "2026-11-15T04:28:45Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T04:28:45Z",
+        "primary": false,
+        "excerpt": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6e3417e96fd0da89de0",
+    "title": "US Olympic hero Kayla Harrison chokes out Amanda Nunes in fourth round to retain UFC title",
+    "category": "U.S.",
+    "published_at": "2026-11-15T05:31:10Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "US Olympic hero Kayla Harrison chokes out Amanda Nunes in fourth round to retain UFC title",
+        "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-amanda-nunes-ufc-334-ciryl-gane-josh-hokit",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T05:31:10Z",
+        "primary": false,
+        "excerpt": "Two-time Olympic judo champion submits MMA legendNunes falls short in return from three-year retirementGane edges Hokit on points to retain heavyweight crownKayla Harrison retained her UFC women’s bantamweight championship with a fourth-round submission of Amanda Nunes on Saturday night at Madison Square Garden, spoiling the comeback bid of the woman widely regarded as the greatest female fighter in MMA history.Harrison (20-1) had plenty to prove in her first title defense against Nunes, who ended a three-year retirement for the long-awaited showdown. It was also Harrison’s first fight since J"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5cebf74d8c3e6f27c3ea",
+    "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+    "category": "World",
+    "published_at": "2026-11-15T06:22:32Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-15T06:22:32Z",
+        "primary": false,
+        "excerpt": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in UkraineAustralia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine.The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ab638cc62c23afdb1d4",
+    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+    "category": "World",
+    "published_at": "2026-11-15T03:21:04Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-15T03:21:04Z",
+        "primary": false,
+        "excerpt": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a0eb1628b1c2dff7537a",
+    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+    "category": "World",
+    "published_at": "2026-11-14T15:00:47Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-14T15:00:47Z",
+        "primary": false,
+        "excerpt": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for HamasA two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts.Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trump administration’s extradition request – several of which the Guardian has reported on – as well as the figures of Spanish law that would lead the three-judge panel to deny the request; while the prosec"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ebc15781aae3fb123958",
+    "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
+    "category": "U.S.",
+    "published_at": "2026-11-14T22:35:29Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
+        "url": "https://www.pbs.org/newshour/nation/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T22:35:29Z",
+        "primary": false,
+        "excerpt": "Michael McCormick, a former airspace manager with the Federal Aviation Administration, said it could take days for airlines — many of which had to divert flights — to resume normal operations after officials lifted the grounding order."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "080e45c3b8f37f650611",
+    "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+    "category": "U.S.",
+    "published_at": "2026-11-15T00:03:52Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T00:03:52Z",
+        "primary": false,
+        "excerpt": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6068a48e390673e7a609",
+    "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+    "category": "U.S.",
+    "published_at": "2026-11-14T21:56:15Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+        "url": "https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T21:56:15Z",
+        "primary": false,
+        "excerpt": "It was the grand finale that Elon Musk and his team hoped for — the first-ever capture of a Starship flying back from space. But with the first-stage booster exploding shortly after Friday's liftoff from Texas, the company fell short of its desired double catch."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db67b4f4eacea57906ae",
+    "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "category": "U.S.",
+    "published_at": "2026-11-14T19:14:33Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-14T19:14:33Z",
+        "primary": false,
+        "excerpt": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b4661fce0d1887542e6b",
+    "title": "US has lost measles elimination status, global health authorities say",
+    "category": "U.S.",
+    "published_at": "2026-11-14T22:15:02Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "US has lost measles elimination status, global health authorities say",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T22:15:02Z",
+        "primary": false,
+        "excerpt": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
+      },
+      {
+        "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
+        "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-14T14:20:01Z",
+        "primary": false,
+        "excerpt": "All but vanquished a quarter century ago, measles has taken root again in the U.S. Compared with prior administrations, President Donald Trump’s second term has been marred by misinformation and actions that stifle public health."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eee1b70b8c0b82c282ab",
+    "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now",
+    "category": "U.S.",
+    "published_at": "2026-11-14T21:02:19Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now",
+        "url": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T21:02:19Z",
+        "primary": false,
+        "excerpt": "The Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven states were reporting high flu activity last week, up from two states the week before."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5069998f2f2a84049447",
+    "title": "SpaceX successfully catches Starship and makes history",
+    "category": "U.S.",
+    "published_at": "2026-11-14T21:42:41Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "SpaceX successfully catches Starship and makes history",
+        "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T21:42:41Z",
+        "primary": false,
+        "excerpt": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aa1844c792605cb50cbd",
+    "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+    "category": "U.S.",
+    "published_at": "2026-11-14T20:23:29Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+        "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T20:23:29Z",
+        "primary": false,
+        "excerpt": "European leaders have stressed that decisions about the continent's security must be made by Europeans themselves, warning against allowing Russia to dictate the terms of a new security order or negotiate NATO's future."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "318b3eb9593b262f354f",
+    "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+    "category": "U.S.",
+    "published_at": "2026-11-14T23:43:28Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+        "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T23:43:28Z",
+        "primary": false,
+        "excerpt": "US take 5-0 lead in Nations League quarter-finalHall, 18, scores again as Pochettino prepares for exitPulisic goes into fourth on all-time US scoring listWhen Mauricio Pochettino named his US roster for the November window, few could have expected that the games would double as his brief lame-duck era. A week of camp instead brought constant media coverage, efficient negotiations and questions about the future of the national team. Come Wednesday, his day job will take him far from the federation’s headquarters in Fayetteville, Georgia, as he hopes to make sense of Manchester United.Saturday f"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c988f4658f117594d83e",
+    "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+    "category": "U.S.",
+    "published_at": "2026-11-14T20:12:34Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+        "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T20:12:34Z",
+        "primary": false,
+        "excerpt": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d2f94a1e0fe397f0753f",
+    "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+    "category": "U.S.",
+    "published_at": "2026-11-14T20:09:17Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+        "url": "https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T20:09:17Z",
+        "primary": false,
+        "excerpt": "The lawsuit, filed by the Board of Commissioners of the Port of New Orleans, said the Atlantic Asphalt tanker caused at least $1 million in damage to its terminal. A judge issued a warrant Friday giving federal officials control of the ship for now."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c19baf4abd432d90531b",
+    "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+    "category": "U.S.",
+    "published_at": "2026-11-14T20:14:27Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T20:14:27Z",
+        "primary": false,
+        "excerpt": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigatingResidents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol production plant.The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Officials ultimately lifted the evacuation zone at about 1.25pm local time on Saturday – but only after making it clear "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "85dec92cc2705b565ecd",
+    "title": "What to know about flights after the U.S. nationwide ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-14T18:32:01Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "What to know about flights after the U.S. nationwide ground stop",
+        "url": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T18:32:01Z",
+        "primary": false,
+        "excerpt": "The longest flight stoppage in 25 years ended around 8:15 p.m. ET Friday, allowing some domestic flights to take off from U.S. airports. Officials expected a full recovery by Sunday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d092f8a62073f172f380",
+    "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+    "category": "U.S.",
+    "published_at": "2026-11-14T16:53:04Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:53:04Z",
+        "primary": false,
+        "excerpt": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd31629412ad5c2a6587",
+    "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+    "category": "U.S.",
+    "published_at": "2026-11-14T19:38:19Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T19:38:19Z",
+        "primary": false,
+        "excerpt": "Republican House speaker not running for re-election contrasts sharply with president who avoids accountabilityIn his first interview since the midterm elections, the US House speaker, Mike Johnson, said that the Republican party’s crushing losses during the 3 November elections prompted his decision to step away from party leadership.“Leaders have to take responsibility when things go wrong,” Johnson said on Fox News on Saturday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a242c5af9551624adec",
+    "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+    "category": "U.S.",
+    "published_at": "2026-11-14T18:05:33Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+        "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T18:05:33Z",
+        "primary": false,
+        "excerpt": "The administration clarified that while states still have the option to take action at the beginning of the year, they won't have to kick anyone off or deny coverage for failure to meet the requirement until July 1."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "33dceb2361b70d72473b",
+    "title": "Fuel crisis and protests pressure Chile's far-right president",
+    "category": "U.S.",
+    "published_at": "2026-11-14T16:05:12Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Fuel crisis and protests pressure Chile's far-right president",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:05:12Z",
+        "primary": false,
+        "excerpt": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7cc9f3eab5f20861ecca",
+    "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
+    "category": "U.S.",
+    "published_at": "2026-11-14T16:56:08Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
+        "url": "https://www.pbs.org/newshour/politics/watch-rubio-delivers-keynote-address-at-federalist-society-national-lawyers-convention",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:56:08Z",
+        "primary": false,
+        "excerpt": "Rubio gave a sweeping speech to fellow conservatives on Friday evening acknowledging that Americans are struggling in the current economy, while also railing against what he called the \"weaponization\" of international law to constrain the U.S. from acting in its own interests."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ab9e213b70e94210472c",
+    "title": "Rare nationwide ground stop halts US air traffic – video",
+    "category": "U.S.",
+    "published_at": "2026-11-14T15:54:44Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Rare nationwide ground stop halts US air traffic – video",
+        "url": "https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T15:54:44Z",
+        "primary": false,
+        "excerpt": "The US Federal ⁠Aviation Administration (FAA) issued a rare nationwide ground stop on Friday, halting all departures and landings across US airports for just over four hours. The stop marked the longest nationwide shutdown, and only the second nationwide ​ground stop of all departures, since the 9/11 terrorist attacks. The US homeland security secretary, Markwayne Mullin, and the US transportation secretary, Sean Duffy, appeared to suggest that the cause of the outage was older technology becoming overwhelmed with data after new technology was introduced.What to know about the rare nationwide "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "87100e9ce238f3661b7b",
+    "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+    "category": "U.S.",
+    "published_at": "2026-11-14T12:40:25Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T12:40:25Z",
+        "primary": false,
+        "excerpt": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6e579c486b431a22becd",
+    "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+    "category": "U.S.",
+    "published_at": "2026-11-14T16:38:34Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+        "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:38:34Z",
+        "primary": false,
+        "excerpt": "His victory means Democrats will control the governor's office in 30 states, including several they flipped after years of Republican control in places such as Iowa, Georgia, Ohio and Texas."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0fc7083fb41b1abc3549",
+    "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+    "category": "U.S.",
+    "published_at": "2026-11-14T15:28:14Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T15:28:14Z",
+        "primary": false,
+        "excerpt": "Incoming lawmakers have more in common with each other than they have divisions, even across ideological factionsDemocrats who won in the midterms, including those in places previously considered off the blue map and those in Democratic strongholds, crafted their campaigns around economic populism and accountability.Lawmakers in the anti-establishment incoming congressional class have more in common with each other than divisions, even across ideological factions. Voters sent a resounding message to work on affordability and rein in the Trump administration, and Democrats across the party have"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "77ec069bbe6733414a31",
+    "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+    "category": "U.S.",
+    "published_at": "2026-11-14T12:40:22Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T12:40:22Z",
+        "primary": false,
+        "excerpt": "The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3f07e88eb305bfbc5982",
+    "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-14T16:10:40Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+        "url": "https://www.pbs.org/newshour/nation/thousands-of-flights-canceled-as-airlines-work-to-recover-from-nationwide-ground-stop",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-14T16:10:40Z",
+        "primary": false,
+        "excerpt": "The nationwide stop was the first since January 2023, when a key FAA computer system that sends notices to pilots malfunctioned, and the second since the Sept. 11, 2001, attacks."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "31071783830eea57ff6a",
+    "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+    "category": "U.S.",
+    "published_at": "2026-11-14T14:00:46Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T14:00:46Z",
+        "primary": false,
+        "excerpt": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the routeIn 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europeans beat them to it.But Jefferson, an ardent naturalist, had a secondary agenda. He ordered that the expedition also survey the flora and fauna of these landscapes. On their two-year"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72328a85a76c157207d8",
+    "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+    "category": "U.S.",
+    "published_at": "2026-11-14T10:00:00Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T10:00:00Z",
+        "primary": false,
+        "excerpt": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9d1c7da3af5d7aeba507",
+    "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+    "category": "U.S.",
+    "published_at": "2026-11-14T12:00:44Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T12:00:44Z",
+        "primary": false,
+        "excerpt": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this yearFires from lithium-ion batteries, which power ebikes and scooters, have become regular occurrences in New York, causing deaths and fear among residents, but the city has failed to build infrastructure that could reduce the threat.New York has seen a dramatic uptick this year in fires from the batteries. In 2025, there were 292 fires, 51 injuries and one death, according to the New York fire department (FDNY). This year, there have already been more than 400 fires, 83 injuries"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2f8406128347a116829b",
+    "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+    "category": "U.S.",
+    "published_at": "2026-11-14T10:00:00Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-14T10:00:00Z",
+        "primary": false,
+        "excerpt": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d5504ad22eb919650058",
+    "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+    "category": "U.S.",
+    "published_at": "2026-11-14T11:00:44Z",
+    "first_seen_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "sources": [
+      {
+        "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-14T11:00:44Z",
+        "primary": false,
+        "excerpt": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the questionWhat’s next for Democrats?It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading..."
       }
     ],
     "tier": "brief",
