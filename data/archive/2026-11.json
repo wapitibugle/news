@@ -21287,7 +21287,7 @@
         "excerpt": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -21315,7 +21315,7 @@
         "excerpt": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -22526,7 +22526,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f1f4355ad1f78180c2e4",
@@ -22553,7 +22554,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e6e3417e96fd0da89de0",
@@ -22580,7 +22582,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5cebf74d8c3e6f27c3ea",
@@ -22607,7 +22610,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5ab638cc62c23afdb1d4",
@@ -22634,7 +22638,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a0eb1628b1c2dff7537a",
@@ -22661,7 +22666,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ebc15781aae3fb123958",
@@ -22688,7 +22694,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "080e45c3b8f37f650611",
@@ -22715,7 +22722,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6068a48e390673e7a609",
@@ -22742,7 +22750,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "db67b4f4eacea57906ae",
@@ -22769,7 +22778,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b4661fce0d1887542e6b",
@@ -22805,7 +22815,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eee1b70b8c0b82c282ab",
@@ -22832,7 +22843,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5069998f2f2a84049447",
@@ -22859,7 +22871,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aa1844c792605cb50cbd",
@@ -22886,7 +22899,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "318b3eb9593b262f354f",
@@ -22913,7 +22927,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c988f4658f117594d83e",
@@ -22940,7 +22955,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d2f94a1e0fe397f0753f",
@@ -22967,7 +22983,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c19baf4abd432d90531b",
@@ -22994,7 +23011,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "85dec92cc2705b565ecd",
@@ -23021,7 +23039,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d092f8a62073f172f380",
@@ -23048,7 +23067,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bd31629412ad5c2a6587",
@@ -23075,7 +23095,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7a242c5af9551624adec",
@@ -23102,7 +23123,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "33dceb2361b70d72473b",
@@ -23129,7 +23151,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7cc9f3eab5f20861ecca",
@@ -23156,7 +23179,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ab9e213b70e94210472c",
@@ -23183,7 +23207,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "87100e9ce238f3661b7b",
@@ -23210,7 +23235,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6e579c486b431a22becd",
@@ -23237,7 +23263,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0fc7083fb41b1abc3549",
@@ -23264,7 +23291,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "77ec069bbe6733414a31",
@@ -23291,7 +23319,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3f07e88eb305bfbc5982",
@@ -23318,7 +23347,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "31071783830eea57ff6a",
@@ -23345,7 +23375,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72328a85a76c157207d8",
@@ -23372,7 +23403,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9d1c7da3af5d7aeba507",
@@ -23399,7 +23431,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2f8406128347a116829b",
@@ -23426,7 +23459,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d5504ad22eb919650058",
@@ -23444,6 +23478,196 @@
         "published_at": "2026-11-14T11:00:44Z",
         "primary": false,
         "excerpt": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the questionWhat’s next for Democrats?It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "43f53a4d50b7cdedbe7b",
+    "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
+    "category": "Elections",
+    "published_at": "2026-11-15T12:00:15Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-15T12:00:15Z",
+        "primary": false,
+        "excerpt": "Activists have been shouting about economic issues for years – in January they will expect lawmakers to respondStonecrest is resolutely middle class. About six out of 10 of its voters cast ballots in the 2026 election and about 90% of them voted for Democrats, according to election figures. And they have often been overlooked by Georgia’s Republican establishment.The fundraiser Keisha Lance Bottoms held at the Privi event center and retreat in suburban Atlanta in September didn’t draw a lot of attention. But Stonecrest, by one measure the largest city in the United States with a non-Hispanic B"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4cb816b70b9e27e4d8a5",
+    "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+    "category": "Elections",
+    "published_at": "2026-11-15T10:00:00Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8af5118d2eb9a22adb68",
+    "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
+    "category": "World",
+    "published_at": "2026-11-15T12:00:15Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-15T12:00:15Z",
+        "primary": false,
+        "excerpt": "Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profitThe Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from vaccines in what experts believe is an attempt to undermine trust in vaccines and to create an evidence base on their purported risks.Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS), also announced the creation of a vaccine “injury” research center at the National Institutes of Health and has sought to reshape the Va"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "985f21bc1fc22e48da60",
+    "title": "Iran targets US military base in Bahrain with drone attack",
+    "category": "World",
+    "published_at": "2026-11-15T13:42:58Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-15T13:42:58Z",
+        "primary": false,
+        "excerpt": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a1fd825d06d7dd68ed9e",
+    "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
+    "category": "U.S.",
+    "published_at": "2026-11-15T13:11:23Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T13:11:23Z",
+        "primary": false,
+        "excerpt": "A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6037d3737376bae99501",
+    "title": "Politics chat: Duffy calls for more funding, Democrats plans for accountability",
+    "category": "U.S.",
+    "published_at": "2026-11-15T13:09:15Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "Politics chat: Duffy calls for more funding, Democrats plans for accountability",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040041/politics-chat-duffy-calls-for-more-funding-democrats-plans-for-accountability",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T13:09:15Z",
+        "primary": false,
+        "excerpt": "Transportation Secretary Sean Duffy demands more money for the country's air travel control systems. Democrats plan for accountability, but not enough of them showed up for an impeachment vote."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "69127d4e3e5038869f0d",
+    "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
+    "category": "U.S.",
+    "published_at": "2026-11-15T14:00:20Z",
+    "first_seen_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "sources": [
+      {
+        "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T14:00:20Z",
+        "primary": false,
+        "excerpt": "Behind the Mississippi senator-elect’s victory is a coalition of groups that didn’t have a lot of money, but had collective power and post-Callais angerLong before national political leaders and media were paying any attention, long before the Louisiana v Callais supreme court decision gutted the Voting Rights Act, Mississippi organizers were working to grow political participation and improve quality of life in a state that often ranks low on its residents’ health and wellbeing.Activists’ momentum contributed to Democrat Scott Colom’s historic upset in the midterm elections. A loose coalition"
       }
     ],
     "tier": "brief",
