@@ -22535,7 +22535,7 @@
     "category": "U.S.",
     "published_at": "2026-11-15T04:28:45Z",
     "first_seen_at": "2026-11-15T06:31:31.560779Z",
-    "updated_at": "2026-11-15T06:31:31.560779Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
     "sources": [
       {
         "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
@@ -22545,6 +22545,15 @@
         "published_at": "2026-11-15T04:28:45Z",
         "primary": false,
         "excerpt": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
+      },
+      {
+        "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
+        "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T16:20:54Z",
+        "primary": false,
+        "excerpt": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close Sunday for 15 months."
       }
     ],
     "tier": "brief",
@@ -23515,7 +23524,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4cb816b70b9e27e4d8a5",
@@ -23542,7 +23552,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8af5118d2eb9a22adb68",
@@ -23569,7 +23580,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "985f21bc1fc22e48da60",
@@ -23596,7 +23608,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a1fd825d06d7dd68ed9e",
@@ -23604,11 +23617,20 @@
     "category": "U.S.",
     "published_at": "2026-11-15T13:11:23Z",
     "first_seen_at": "2026-11-15T14:44:55.947589Z",
-    "updated_at": "2026-11-15T14:44:55.947589Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
     "sources": [
       {
         "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
         "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T13:11:23Z",
+        "primary": false,
+        "excerpt": "A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker."
+      },
+      {
+        "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
         "publisher": "NPR",
         "category": "U.S.",
         "published_at": "2026-11-15T13:11:23Z",
@@ -23623,7 +23645,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6037d3737376bae99501",
@@ -23650,7 +23673,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "69127d4e3e5038869f0d",
@@ -23668,6 +23692,223 @@
         "published_at": "2026-11-15T14:00:20Z",
         "primary": false,
         "excerpt": "Behind the Mississippi senator-elect’s victory is a coalition of groups that didn’t have a lot of money, but had collective power and post-Callais angerLong before national political leaders and media were paying any attention, long before the Louisiana v Callais supreme court decision gutted the Voting Rights Act, Mississippi organizers were working to grow political participation and improve quality of life in a state that often ranks low on its residents’ health and wellbeing.Activists’ momentum contributed to Democrat Scott Colom’s historic upset in the midterm elections. A loose coalition"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "d0befb76d59c6bb61150",
+    "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+    "category": "U.S.",
+    "published_at": "2026-11-15T17:39:22Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+        "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T17:39:22Z",
+        "primary": false,
+        "excerpt": "\"It is in a terrible state of disrepair, as anybody can see by just looking at the pictures that are now circulating all over the Country, and in the Court,\" said Trump, who spent much of the weekend posting photos on his social media site of the golf course. \"They don't call it Trash Island for no reason!\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "39caf644c37ea341da77",
+    "title": "Trident nuclear submarine concludes record underwater deployment",
+    "category": "World",
+    "published_at": "2026-11-15T18:50:33Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Trident nuclear submarine concludes record underwater deployment",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-15T18:50:33Z",
+        "primary": false,
+        "excerpt": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crewA Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting.HMS Vengeance began its patrol on 12 April and spent 217 days submerged before returning on Sunday, having left the country when Keir Starmer was in Downing Street and Manchester United were third in the Premier League. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fca971b253c07d0a0519",
+    "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+    "category": "World",
+    "published_at": "2026-11-15T18:23:12Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+        "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-15T18:23:12Z",
+        "primary": false,
+        "excerpt": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for UkraineEstonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service.On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnaissance drones. No injuries or damage were reported after the company’s security team res"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c019bab26c7ebf0e9ecd",
+    "title": "Iran launches drone attacks against US military base in Bahrain",
+    "category": "World",
+    "published_at": "2026-11-15T18:03:56Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Iran launches drone attacks against US military base in Bahrain",
+        "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-15T18:03:56Z",
+        "primary": false,
+        "excerpt": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation.Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7f62204213f0a3e01c4",
+    "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+    "category": "U.S.",
+    "published_at": "2026-11-15T19:57:37Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+        "url": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T19:57:37Z",
+        "primary": false,
+        "excerpt": "On the penultimate day of his visit to his adopted homeland, Leo channeled Pope Francis by emphasizing Catholic teaching that links care for the most vulnerable with care for God's creation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "420af3d18bb1f6c18ee0",
+    "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+    "category": "U.S.",
+    "published_at": "2026-11-15T18:40:21Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+        "url": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T18:40:21Z",
+        "primary": false,
+        "excerpt": "Restrictions on Ukraine's Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelenskyy said Sunday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d80bcc4a3ffc7b7245f8",
+    "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+    "category": "U.S.",
+    "published_at": "2026-11-15T17:45:27Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T17:45:27Z",
+        "primary": false,
+        "excerpt": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "424157e1e3fc043b75ba",
+    "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+    "category": "U.S.",
+    "published_at": "2026-11-15T19:53:07Z",
+    "first_seen_at": "2026-11-15T20:23:50.035584Z",
+    "updated_at": "2026-11-15T20:23:50.035584Z",
+    "sources": [
+      {
+        "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+        "url": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T19:53:07Z",
+        "primary": false,
+        "excerpt": "Guard allegedly tried to flee traffic stop in Baton RougeTigers say they are aware of situation involving playerLSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop.LSU’s athletic department, in a written statement provided to The Associated Press, said university officials “are aware of the situation and have no further comment at this time as it’s an ongoing legal matter.” Continue reading..."
       }
     ],
     "tier": "brief",
