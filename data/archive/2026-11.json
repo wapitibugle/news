@@ -23953,7 +23953,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5d117a3ae8bb53476b96",
@@ -23980,7 +23981,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "20f0cb52d943168e7e90",
@@ -24007,7 +24009,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5115c9a08542f6d8eb1b",
@@ -24034,7 +24037,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2595db7dcded9ab24edc",
@@ -24061,7 +24065,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2beab795d9ac3faa191a",
@@ -24081,14 +24086,15 @@
         "excerpt": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris streamThe annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected to be at its most active during the night of 17–18 November. Under ideal conditions, observers may see up to 10–15 meteors an hour.What they lack in numbers, they make up for in brilliance. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "869dcbb5815c98686257",
@@ -24115,7 +24121,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "93ba9491978667510284",
@@ -24142,7 +24149,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "78cb1b8a86590c94e437",
@@ -24169,7 +24177,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5664e8fd0705f8d97abf",
@@ -24196,7 +24205,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7d136568c38b6a127927",
@@ -24223,7 +24233,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e1da715fd279db7cfdab",
@@ -24250,7 +24261,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "849b24f49711b2136815",
@@ -24277,7 +24289,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b106be5599a1732772aa",
@@ -24304,7 +24317,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5ec261feee59d8328e3f",
@@ -24331,7 +24345,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0c933bc5d0ff3511b82d",
@@ -24358,7 +24373,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "838aa7a86c91dfbfdbdb",
@@ -24385,7 +24401,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "81268c5510952a21b89d",
@@ -24412,7 +24429,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "471362bfdd207df52977",
@@ -24439,7 +24457,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cacd9ea4b1193b5f1b25",
@@ -24466,7 +24485,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "03436ed514b09073933f",
@@ -24493,7 +24513,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0134f2bd0b220775bcba",
@@ -24520,7 +24541,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a85035b1aa8c480eb3a3",
@@ -24547,7 +24569,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "24d3356e12b570b8ebd8",
@@ -24574,7 +24597,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9173f13e03ef1ff7e1b2",
@@ -24601,7 +24625,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4b8ce86545244339b8bb",
@@ -24628,7 +24653,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5b125ce7a359791ce4ed",
@@ -24655,7 +24681,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "83e71fd2cba0415387ee",
@@ -24682,7 +24709,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a56bf5a0eeb9e1d029d6",
@@ -24709,7 +24737,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2567bc5ee80340743fb5",
@@ -24736,7 +24765,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "753c312c788202123925",
@@ -24763,7 +24793,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d2671b80729f34c13424",
@@ -24790,7 +24821,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e333adc66cda8feae7d4",
@@ -24817,7 +24849,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eb3620fcc54820fa6513",
@@ -24844,7 +24877,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52331375ace75277239f",
@@ -24862,6 +24896,223 @@
         "published_at": "2026-11-15T16:18:49Z",
         "primary": false,
         "excerpt": "Democratic senator Chris Van Hollen says Trump administration has not properly invested existing fundsDonald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a Democratic senator argued that the Trump administration hasn’t properly invested all of the funds it has already been given to implement needed air travel infrastructure upgrades.“I take responsibility for what was given to me by prior administrations,” the US transportation secretary, Sean Duffy, t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "19d04a17210ecfb32f22",
+    "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
+    "category": "Elections",
+    "published_at": "2026-11-16T09:45:55Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-16T09:45:55Z",
+        "primary": false,
+        "excerpt": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a1478376911387befce",
+    "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+    "category": "Elections",
+    "published_at": "2026-11-16T09:44:30Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6032798/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-16T09:44:30Z",
+        "primary": false,
+        "excerpt": "Montana is sending a Democrat to the U.S. House for the first time in three decades. Many in the party think Sam Forstag's campaign may be a playbook for how Democrats can win again in rural America"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "00359498aef634ca85e2",
+    "title": "Mamdani’s influence sharply felt as Democrats win big in affordability election",
+    "category": "Elections",
+    "published_at": "2026-11-16T14:00:21Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Mamdani’s influence sharply felt as Democrats win big in affordability election",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/mamdani-democrats-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-16T14:00:21Z",
+        "primary": false,
+        "excerpt": "New York mayor’s cost-of-living message inspired not just progressives but centrists in red states – and voters agreedZohran Mamdani wasn’t running in the midterm elections. In races across the country, however, the New York City’s mayor influence could be seen, as Democrats adopted a laser focus on affordability and downed establishment opponents.From Texas to Kansas, Democrats ran by pointing out the high cost of living and, frequently, by linking that to billionaires. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a6193c15850b4108b5c0",
+    "title": "What the Trump administration’s focus on AI and quantum means for science",
+    "category": "Science",
+    "published_at": "2026-11-16T18:30:00Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "What the Trump administration’s focus on AI and quantum means for science",
+        "url": "https://www.sciencenews.org/article/trump-ai-quantum-science",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-11-16T18:30:00Z",
+        "primary": false,
+        "excerpt": "Research on AI and quantum science has been favored under Trump, but some scientists are concerned about what it has displaced."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7c646961aadc1cfcc740",
+    "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+    "category": "U.S.",
+    "published_at": "2026-11-16T17:07:54Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-16T17:07:54Z",
+        "primary": false,
+        "excerpt": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy’s second trial in the killings of her three young children for late March, over the objections of prosecutors.Clancy was charged with three counts of first-degree murder. Her first trial ended in a mistrial after jurors were unable to reach a unanimous verdict on whether she was criminally responsible for the killings. Eleven jurors favored acquittal on the grounds of insanity, while one disagreed. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5fc762fd45340c9d2151",
+    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+    "category": "World",
+    "published_at": "2026-11-16T18:23:02Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+        "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-16T18:23:02Z",
+        "primary": false,
+        "excerpt": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said.The confirmation of Thursday’s trilateral talks, the first of their kind, will take place on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit and cement Xi’s status as a global powerbroker as he presides over events in the glitteri"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64fa42cec2c8429bfd14",
+    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+    "category": "World",
+    "published_at": "2026-11-16T17:52:13Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-16T17:52:13Z",
+        "primary": false,
+        "excerpt": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump’s tariffs have put those funds towards corporate bonuses instead of reimbursing consumers, an investigation from ProPublica has found.After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who are said they are receiving tariff refunds and noted they are directing some of those funds to their leadership. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86509ffe28beb39acb8a",
+    "title": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+    "category": "U.S.",
+    "published_at": "2026-11-16T17:50:59Z",
+    "first_seen_at": "2026-11-16T18:32:30.307209Z",
+    "updated_at": "2026-11-16T18:32:30.307209Z",
+    "sources": [
+      {
+        "title": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+        "url": "https://www.pbs.org/newshour/world/the-nvidia-scandal-is-heightening-americas-ai-rivalry-with-china-ahead-of-trumps-visit",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-16T17:50:59Z",
+        "primary": false,
+        "excerpt": "Well before reports emerged that former Nvidia CEO Jensen Huang was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the U.S. and China to dominate artificial intelligence."
       }
     ],
     "tier": "brief",
