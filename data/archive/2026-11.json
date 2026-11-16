@@ -23927,5 +23927,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "2eb218c0f7fe34173edf",
+    "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+    "category": "Elections",
+    "published_at": "2026-11-15T22:43:07Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+        "url": "https://www.pbs.org/newshour/politics/trumps-handpicked-party-chair-faces-a-rebellion-as-midterm-losses-challenge-presidents-grip-on-gop",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-15T22:43:07Z",
+        "primary": false,
+        "excerpt": "The emerging fight, which will shape the 2028 presidential nominating contest, represents a rare challenge to Trump's dominance, even after the party's worst midterm performance in a generation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5d117a3ae8bb53476b96",
+    "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+    "category": "Science",
+    "published_at": "2026-11-16T07:43:51Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+        "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-16T07:43:51Z",
+        "primary": false,
+        "excerpt": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "20f0cb52d943168e7e90",
+    "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+    "category": "Outdoors",
+    "published_at": "2026-11-16T05:00:34Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+        "url": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-16T05:00:34Z",
+        "primary": false,
+        "excerpt": "Along the coasts of the Netherlands, Germany and Denmark, its intertidal flats host a wealth of marine life and birds. But extraction industries, tourism and fishing are taking their tollStand on the coastline at high tide and you look out over unbroken water, with sandy islands rising a few miles offshore. A few hours later and the view across the Wadden Sea has transformed into a maze of deep channels, drying sandbanks, salt marshes and mud flats.As the largest unbroken system of intertidal sand and mud flats in the world, this ever-changing habitat stretches hundreds of miles along the nort"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5115c9a08542f6d8eb1b",
+    "title": "The Last Ice on Puncak Jaya",
+    "category": "Science",
+    "published_at": "2026-11-16T05:00:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "The Last Ice on Puncak Jaya",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-16T05:00:00Z",
+        "primary": true,
+        "excerpt": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2595db7dcded9ab24edc",
+    "title": "Experts explore returning beavers to River Waveney",
+    "category": "Science",
+    "published_at": "2026-11-16T06:27:27Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Experts explore returning beavers to River Waveney",
+        "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-16T06:27:27Z",
+        "primary": false,
+        "excerpt": "A trust says the river-dwelling mammals could improve the health of the waterway."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2beab795d9ac3faa191a",
+    "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
+    "category": "Science",
+    "published_at": "2026-11-16T06:00:36Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
+        "url": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-16T06:00:36Z",
+        "primary": false,
+        "excerpt": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris streamThe annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected to be at its most active during the night of 17–18 November. Under ideal conditions, observers may see up to 10–15 meteors an hour.What they lack in numbers, they make up for in brilliance. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "869dcbb5815c98686257",
+    "title": "Gas starts flowing from Jackdaw after government green light",
+    "category": "Science",
+    "published_at": "2026-11-16T06:24:08Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Gas starts flowing from Jackdaw after government green light",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-16T06:24:08Z",
+        "primary": false,
+        "excerpt": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "93ba9491978667510284",
+    "title": "Pupils fascinated by space get astronomy lesson",
+    "category": "Science",
+    "published_at": "2026-11-16T06:11:42Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Pupils fascinated by space get astronomy lesson",
+        "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-16T06:11:42Z",
+        "primary": false,
+        "excerpt": "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "78cb1b8a86590c94e437",
+    "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+    "category": "Science",
+    "published_at": "2026-11-16T05:05:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+        "publisher": "NASA",
+        "category": "Science",
+        "published_at": "2026-11-16T05:05:00Z",
+        "primary": true,
+        "excerpt": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 7129: […]"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5664e8fd0705f8d97abf",
+    "title": "Flight disruptions expected to last into Monday",
+    "category": "U.S.",
+    "published_at": "2026-11-16T01:19:28Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Flight disruptions expected to last into Monday",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-16T01:19:28Z",
+        "primary": false,
+        "excerpt": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7d136568c38b6a127927",
+    "title": "What to expect from Trump and Xi's upcoming meeting in China",
+    "category": "World",
+    "published_at": "2026-11-15T22:11:26Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "What to expect from Trump and Xi's upcoming meeting in China",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-15T22:11:26Z",
+        "primary": false,
+        "excerpt": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e1da715fd279db7cfdab",
+    "title": "A Cop Was Charged With Causing His Wife’s Miscarriage. Alabama’s Laws Came Down Harder on Pregnant Women Who Used Drugs.",
+    "category": "U.S.",
+    "published_at": "2026-11-15T10:00:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "A Cop Was Charged With Causing His Wife’s Miscarriage. Alabama’s Laws Came Down Harder on Pregnant Women Who Used Drugs.",
+        "url": "https://www.propublica.org/article/alabama-fetal-personhood-laws-punishment",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post A Cop Was Charged With Causing His Wife’s Miscarriage. Alabama’s Laws Came Down Harder on Pregnant Women Who Used Drugs. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "849b24f49711b2136815",
+    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+    "category": "World",
+    "published_at": "2026-11-16T04:39:20Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+        "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-16T04:39:20Z",
+        "primary": false,
+        "excerpt": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiationsThe prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry.Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed. The two leaders reached an agreement in January allowing ten"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b106be5599a1732772aa",
+    "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+    "category": "U.S.",
+    "published_at": "2026-11-15T23:02:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+        "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T23:02:00Z",
+        "primary": false,
+        "excerpt": "The preliminary finding from National Transportation Safety Board officials provided the first official word on what caused Friday's crash of the Atlantic Asphalt tanker into the American Heritage cruise ship, which sent passengers, crew and two police officers plunging into the Mississippi River."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ec261feee59d8328e3f",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "category": "World",
+    "published_at": "2026-11-16T01:47:57Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-16T01:47:57Z",
+        "primary": false,
+        "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0c933bc5d0ff3511b82d",
+    "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+    "category": "U.S.",
+    "published_at": "2026-11-15T22:41:22Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T22:41:22Z",
+        "primary": false,
+        "excerpt": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "838aa7a86c91dfbfdbdb",
+    "title": "Russia's mega-rich are already imagining a future after Putin",
+    "category": "World",
+    "published_at": "2026-11-16T00:13:14Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Russia's mega-rich are already imagining a future after Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-16T00:13:14Z",
+        "primary": false,
+        "excerpt": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "81268c5510952a21b89d",
+    "title": "2 planes collide on the ground in Miami, only minor injuries reported",
+    "category": "U.S.",
+    "published_at": "2026-11-15T22:16:01Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "2 planes collide on the ground in Miami, only minor injuries reported",
+        "url": "https://www.pbs.org/newshour/nation/2-planes-collide-on-the-ground-in-miami-only-minor-injuries-reported",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T22:16:01Z",
+        "primary": false,
+        "excerpt": "The accident happened at about 9 p.m. Saturday and involved a Copa Airlines Boeing 737 aircraft with 172 people aboard and a UPS Boeing 767 cargo plane, according to the National Transportation Safety Board and Copa Airlines."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "471362bfdd207df52977",
+    "title": "Canada bars Russia from Junior World Championships",
+    "category": "World",
+    "published_at": "2026-11-15T22:01:16Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Canada bars Russia from Junior World Championships",
+        "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-15T22:01:16Z",
+        "primary": false,
+        "excerpt": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cacd9ea4b1193b5f1b25",
+    "title": "Toronto Tempo win WNBA draft lottery and No 1 pick with JuJu Watkins in play",
+    "category": "U.S.",
+    "published_at": "2026-11-16T01:15:10Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Toronto Tempo win WNBA draft lottery and No 1 pick with JuJu Watkins in play",
+        "url": "https://www.theguardian.com/sport/2026/nov/15/toronto-tempo-wnba-draft-lottery-juju-watkins",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-16T01:15:10Z",
+        "primary": false,
+        "excerpt": "Expansion team beat 33% odds to claim top pickHouston Comets will select second in 2027 draftUSC star Watkins could be available at No 1The Toronto Tempo won the WNBA draft lottery on Sunday, securing the No 1 pick in the 2027 draft and potentially the chance to select Southern California star JuJu Watkins.The Tempo, who joined the league as an expansion team this past season, entered the lottery tied with the Houston Comets for the best chance of landing the top pick. Both teams had a 33% chance of winning. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "03436ed514b09073933f",
+    "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+    "category": "U.S.",
+    "published_at": "2026-11-15T22:07:55Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T22:07:55Z",
+        "primary": false,
+        "excerpt": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0134f2bd0b220775bcba",
+    "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-15T21:21:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
+        "url": "https://www.pbs.org/newshour/world/southeast-asian-leaders-open-annual-summit-with-major-conflicts-and-their-impact-topping-the-agenda",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T21:21:00Z",
+        "primary": false,
+        "excerpt": "The ASEAN leaders are likely to renew calls for self-restraint and peaceful resolutions of conflicts, including longstanding disputes in the South China Sea and a civil war in Myanmar."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a85035b1aa8c480eb3a3",
+    "title": "Huge waves pummel California coast, forcing closure of popular piers",
+    "category": "U.S.",
+    "published_at": "2026-11-16T01:00:42Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Huge waves pummel California coast, forcing closure of popular piers",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-16T01:00:42Z",
+        "primary": false,
+        "excerpt": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal cityThe California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the closure of popular piers.The National Weather Service office for the San Francisco Bay Area warned that surf up to 35ft (11 meters) was possible, along with dangerous rip currents and sneaker waves. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "24d3356e12b570b8ebd8",
+    "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+    "category": "U.S.",
+    "published_at": "2026-11-15T21:07:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+        "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T21:07:00Z",
+        "primary": false,
+        "excerpt": "More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data. It is the deadliest of Congo's 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9173f13e03ef1ff7e1b2",
+    "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+    "category": "U.S.",
+    "published_at": "2026-11-15T13:11:30Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T13:11:30Z",
+        "primary": false,
+        "excerpt": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b8ce86545244339b8bb",
+    "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+    "category": "U.S.",
+    "published_at": "2026-11-15T19:27:24Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T19:27:24Z",
+        "primary": false,
+        "excerpt": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight yearA Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed.John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community ga"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b125ce7a359791ce4ed",
+    "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+    "category": "U.S.",
+    "published_at": "2026-11-15T17:05:04Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+        "url": "https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T17:05:04Z",
+        "primary": false,
+        "excerpt": "Throw in a few more examples just from Friday — a cruise ship that overturned in New Orleans when a tanker slammed into it, suspicious drones over a U.S. air base in Britain, a bomb found near an ethanol plant in Ohio."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83e71fd2cba0415387ee",
+    "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+    "category": "U.S.",
+    "published_at": "2026-11-15T10:00:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a56bf5a0eeb9e1d029d6",
+    "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+    "category": "U.S.",
+    "published_at": "2026-11-15T18:48:10Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T18:48:10Z",
+        "primary": false,
+        "excerpt": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein filesAfter recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024.Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential administ"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2567bc5ee80340743fb5",
+    "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+    "category": "U.S.",
+    "published_at": "2026-11-15T16:48:48Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+        "url": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T16:48:48Z",
+        "primary": false,
+        "excerpt": "Megaspeed, which is under scrutiny over alleged transfers of advanced Nvidia chips to Chinese companies, also announced an internal investigation led by outside lawyers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "753c312c788202123925",
+    "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+    "category": "U.S.",
+    "published_at": "2026-11-15T10:00:00Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-15T10:00:00Z",
+        "primary": false,
+        "excerpt": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d2671b80729f34c13424",
+    "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+    "category": "U.S.",
+    "published_at": "2026-11-15T22:57:27Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+        "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-15T22:57:27Z",
+        "primary": false,
+        "excerpt": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e333adc66cda8feae7d4",
+    "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+    "category": "U.S.",
+    "published_at": "2026-11-15T18:46:49Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T18:46:49Z",
+        "primary": false,
+        "excerpt": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peersDemocratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer, asserting that he has a path to victory amid a dedicated campaign that includes a series of television appearances.Van Hollen, a Maryland progressive, appeared on Sunday on CNN, ABC and Fox News as he continues to make his case for why his peers in the Senate should reject Schumer, who has led the Democratic caucus for nearly a decade. Continue rea"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eb3620fcc54820fa6513",
+    "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+    "category": "U.S.",
+    "published_at": "2026-11-15T16:32:43Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+        "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-15T16:32:43Z",
+        "primary": false,
+        "excerpt": "Officials are analyzing two routers installed in recent weeks at Federal Aviation Administration facilities in Arkansas and Texas, according to Transportation Secretary Sean Duffy, who during appearances on five television news shows stepped up his push for Congress to provide billions more to upgrade a system he said had been neglected for decades."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52331375ace75277239f",
+    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+    "category": "U.S.",
+    "published_at": "2026-11-15T16:18:49Z",
+    "first_seen_at": "2026-11-16T07:58:33.973937Z",
+    "updated_at": "2026-11-16T07:58:33.973937Z",
+    "sources": [
+      {
+        "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-15T16:18:49Z",
+        "primary": false,
+        "excerpt": "Democratic senator Chris Van Hollen says Trump administration has not properly invested existing fundsDonald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a Democratic senator argued that the Trump administration hasn’t properly invested all of the funds it has already been given to implement needed air travel infrastructure upgrades.“I take responsibility for what was given to me by prior administrations,” the US transportation secretary, Sean Duffy, t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
