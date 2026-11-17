@@ -24142,7 +24142,7 @@
         "excerpt": "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24933,7 +24933,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3a1478376911387befce",
@@ -24960,7 +24961,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "00359498aef634ca85e2",
@@ -24987,7 +24989,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a6193c15850b4108b5c0",
@@ -25014,7 +25017,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7c646961aadc1cfcc740",
@@ -25041,7 +25045,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5fc762fd45340c9d2151",
@@ -25068,7 +25073,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "64fa42cec2c8429bfd14",
@@ -25095,7 +25101,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86509ffe28beb39acb8a",
@@ -25113,6 +25120,196 @@
         "published_at": "2026-11-16T17:50:59Z",
         "primary": false,
         "excerpt": "Well before reports emerged that former Nvidia CEO Jensen Huang was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the U.S. and China to dominate artificial intelligence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "26d771d762a7ece25af4",
+    "title": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
+    "category": "U.S.",
+    "published_at": "2026-11-17T00:23:23Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
+        "url": "https://www.pbs.org/newshour/nation/judge-sets-march-retrial-date-for-lindsay-clancy-in-deaths-of-her-3-children",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-17T00:23:23Z",
+        "primary": false,
+        "excerpt": "A Massachusetts judge on Monday scheduled Lindsay Clancy's retrial for late March after prosecutors signaled that — at least for now — they intend to prosecute her again on first-degree murder charges in the killings of her three young children."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bc1986d623b1d8e2bd93",
+    "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-16T23:55:00Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
+        "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-16T23:55:00Z",
+        "primary": false,
+        "excerpt": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvements, but Democrats are questioning that price tag, saying billions have already been approved for an FAA overhaul. Liz Landers reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b97a197c96290a1ef9e6",
+    "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+    "category": "Science",
+    "published_at": "2026-11-16T23:48:15Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+        "publisher": "NPR",
+        "category": "Science",
+        "published_at": "2026-11-16T23:48:15Z",
+        "primary": false,
+        "excerpt": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "36b87c57ff97f3b24955",
+    "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+    "category": "U.S.",
+    "published_at": "2026-11-17T00:48:19Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+        "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-17T00:48:19Z",
+        "primary": false,
+        "excerpt": "A federal appeals court is weighing whether it can — or should — intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1f977fdca51f6e1a1e28",
+    "title": "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip",
+    "category": "U.S.",
+    "published_at": "2026-11-17T00:09:49Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip",
+        "url": "https://www.pbs.org/newshour/world/pope-bids-hasta-luego-to-peru-as-he-wraps-up-marathon-south-america-trip",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-17T00:09:49Z",
+        "primary": false,
+        "excerpt": "Pope Leo XIV bid farewell to his beloved second homeland of Peru on Monday with an \"hasta luego,\" after a marathon 12-day South American tour that tested his stamina after lung cancer surgery."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "860880a223bdfa680e13",
+    "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+    "category": "U.S.",
+    "published_at": "2026-11-17T01:18:28Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T01:18:28Z",
+        "primary": false,
+        "excerpt": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staffThe Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after swallowing a knit hat that got into her enclosure.Zoo veterinarians and staff are monitoring Fiona and working to help her pass the hat, the zoo said in a statement Monday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "986c7eef1037caac8f1b",
+    "title": "What went wrong with air traffic control and will more FAA funding fix it?",
+    "category": "U.S.",
+    "published_at": "2026-11-16T23:50:53Z",
+    "first_seen_at": "2026-11-17T02:28:24.449534Z",
+    "updated_at": "2026-11-17T02:28:24.449534Z",
+    "sources": [
+      {
+        "title": "What went wrong with air traffic control and will more FAA funding fix it?",
+        "url": "https://www.pbs.org/newshour/show/what-went-wrong-with-air-traffic-control-and-will-more-faa-funding-fix-it",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-16T23:50:53Z",
+        "primary": false,
+        "excerpt": "To discuss what went wrong to cause Friday's nationwide ground stop, and the funding fight that is brewing in Washington, Amna Nawaz sat down with aviation correspondent Miles O'Brien and congressional correspondent Lisa Desjardins."
       }
     ],
     "tier": "brief",
