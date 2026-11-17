@@ -23974,7 +23974,7 @@
         "excerpt": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24058,7 +24058,7 @@
         "excerpt": "A trust says the river-dwelling mammals could improve the health of the waterway."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -24114,7 +24114,7 @@
         "excerpt": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -25157,7 +25157,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bc1986d623b1d8e2bd93",
@@ -25184,7 +25185,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b97a197c96290a1ef9e6",
@@ -25211,7 +25213,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "36b87c57ff97f3b24955",
@@ -25238,7 +25241,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1f977fdca51f6e1a1e28",
@@ -25265,7 +25269,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "860880a223bdfa680e13",
@@ -25292,7 +25297,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "986c7eef1037caac8f1b",
@@ -25310,6 +25316,952 @@
         "published_at": "2026-11-16T23:50:53Z",
         "primary": false,
         "excerpt": "To discuss what went wrong to cause Friday's nationwide ground stop, and the funding fight that is brewing in Washington, Amna Nawaz sat down with aviation correspondent Miles O'Brien and congressional correspondent Lisa Desjardins."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "21f316df10fe19a2909a",
+    "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+    "category": "Elections",
+    "published_at": "2026-11-17T11:00:35Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-17T11:00:35Z",
+        "primary": false,
+        "excerpt": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversightThe Democrats’ midterm “blue wave” wins gave them strong majorities in both chambers of Congress, new governors’ mansions and power in some unexpected places. Voters dealt a stunning rebuke to Donald Trump – and his ruthless deportation campaign and violent ICE raids across the country were among the key issues that cost Republicans support. But what will Democrats do about the immigration crackdown?Ultimately, the president and his subordinates have given n"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c35f575ae45eb1a18ca9",
+    "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+    "category": "Elections",
+    "published_at": "2026-11-17T09:46:10Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6036795/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-17T09:46:10Z",
+        "primary": false,
+        "excerpt": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration has relentlessly attacked?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "befee6be6c4507df72fa",
+    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+    "category": "Elections",
+    "published_at": "2026-11-17T02:38:08Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-17T02:38:08Z",
+        "primary": false,
+        "excerpt": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fe57756c00276302cf6f",
+    "title": "US government confirms investigation into tech firm Megaspeed",
+    "category": "Technology",
+    "published_at": "2026-11-17T11:17:32Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-17T11:17:32Z",
+        "primary": false,
+        "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e347ac31c378c4e8dba",
+    "title": "A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere.",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere.",
+        "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ee7e64f9d829c36c63f6",
+    "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+    "category": "World",
+    "published_at": "2026-11-17T11:26:49Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-17T11:26:49Z",
+        "primary": false,
+        "excerpt": "Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007?Good morning. Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. The strike follows an earlier attack on Monday that targeted an arch across its central section.Ukraine has declared that the Kerch bridge, built eight years ago after Vladimir Putin’s 2014 annexation of Crimea, is illegal. It has repeatedly attempted "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "098c59b5a3134666ddaf",
+    "title": "Can Google win the AI race without killing its cash cow?",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:30:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Can Google win the AI race without killing its cash cow?",
+        "url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:30:00Z",
+        "primary": false,
+        "excerpt": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "233a92b8e7cf9d40bc12",
+    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+    "category": "World",
+    "published_at": "2026-11-17T11:00:39Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+        "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-17T11:00:39Z",
+        "primary": false,
+        "excerpt": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit.Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit. The crowds were expected to try to march to the summit site. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "06dd60865d05eb3bb3aa",
+    "title": "Democrats in Washington Move to Ban Data Centers on Public Lands",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:30:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Democrats in Washington Move to Ban Data Centers on Public Lands",
+        "url": "https://www.propublica.org/article/public-land-data-center-ban-burgum-congress",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:30:00Z",
+        "primary": false,
+        "excerpt": "The post Democrats in Washington Move to Ban Data Centers on Public Lands appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "79e1c95f9466b4591e3e",
+    "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "category": "World",
+    "published_at": "2026-11-17T10:45:55Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T10:45:55Z",
+        "primary": false,
+        "excerpt": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "af00ab679d34225a9b34",
+    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:00:00Z",
+        "primary": false,
+        "excerpt": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6dbdfe366d9517e39e62",
+    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+    "category": "World",
+    "published_at": "2026-11-17T10:30:22Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+        "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-17T10:30:22Z",
+        "primary": false,
+        "excerpt": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’Europe live – follow latestUkraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation.Footage showed a Ukrainian Flamingo cruise missile seconds before it hit the road and railway crossing, followed by an explosion. The strike follows an earlier attack on Monday that targeted an arch across its central section. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d6ea2cd134f74c46f429",
+    "title": "I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life.",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life.",
+        "url": "https://www.propublica.org/article/faith-healing-child-photo-essay",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "48bbf6648c6f584377e6",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "category": "World",
+    "published_at": "2026-11-17T10:22:09Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T10:22:09Z",
+        "primary": false,
+        "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0a5288e228d833f1fdcc",
+    "title": "Trump arrives in Philippines to kick off Asia trip",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:43:55Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Trump arrives in Philippines to kick off Asia trip",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:43:55Z",
+        "primary": false,
+        "excerpt": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2f2a90b8cc0a516272c8",
+    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+    "category": "World",
+    "published_at": "2026-11-17T09:46:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-17T09:46:00Z",
+        "primary": false,
+        "excerpt": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dd9d2ba7547579335390",
+    "title": "‘I know I sound crazy’: the creep of demons into American evangelical churches",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:00:36Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "‘I know I sound crazy’: the creep of demons into American evangelical churches",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/evangelical-church-exorcism-demons-charismatic-worship",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:00:36Z",
+        "primary": false,
+        "excerpt": "Charismatic worship, which promises ‘deliverance’ from evil, has taken hold across Christian churches, the right and on social mediaSlumped on the ground, the young woman pressed her forehead against the warm pavement of a twilit parking lot in Columbia, Tennessee.Two other women dressed in white T-shirts identifying them as members of the ministry attended to her, praying over her prone body, speaking to her in low, urgent tones. Her whimpers escalated into moans and then crescendoed into guttural cries: “No! No! No!” Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5550c67d9b807ed22d03",
+    "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:00:34Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:00:34Z",
+        "primary": false,
+        "excerpt": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attackA man who was unhoused and “unable to defend himself due to health issues” was recently beaten to death and had his prescription medication taken outside a pharmacy in New Orleans, according to authorities.The killing of 68-year-old David Hyde led police to arrest Antonio Myles, 19, on a count of second-degree murder, with investigators alleging that they came to suspect the much younger man after he had bragged to others about fatally beating an unhoused person. Continue rea"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f1f51159da1049fb5693",
+    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "be5c9377cceb3d5a584c",
+    "title": "Can Chris Van Hollen really beat Chuck Schumer? – Stateside with Kai and Carter",
+    "category": "U.S.",
+    "published_at": "2026-11-17T11:00:34Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Can Chris Van Hollen really beat Chuck Schumer? – Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/17/can-chris-van-hollen-really-beat-chuck-schumer-stateside-with-kai-and-carter",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T11:00:34Z",
+        "primary": false,
+        "excerpt": "The blue wave has hit Washington, and with the flood of new Democratic lawmakers comes a debate over who should lead the party. On Monday, Maryland senator Chris Van Hollen said his campaign to unseat Chuck Schumer as Senate majority leader is gathering momentum. He has painted himself as the underdog candidate to Schumer, who has led Senate Democrats for nearly a decade. What does this leadership battle tell us about the kind of party Democrats want to be? Kai Wright speaks to the Guardian’s senior politics reporter Chris Stein about Van Hollen's chances, and hears from the Guardian's midwest"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5f57c7bb8c1ca28617e9",
+    "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "59ae476ad615e0070cc7",
+    "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+    "category": "U.S.",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "985c9ad0727dfa580d04",
+    "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+    "category": "U.S.",
+    "published_at": "2026-11-17T09:01:25Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+        "url": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T09:01:25Z",
+        "primary": false,
+        "excerpt": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting driveBusiness live – latest updatesImperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI and other technologies.The Bristol-based company said this year 2,100 roles would go globally, and it plans a further reduction of between 2,100 and 2,500 jobs by the end of 2030. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b0b00be7208d3c82f8e7",
+    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+    "category": "U.S.",
+    "published_at": "2026-11-17T09:50:45Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+        "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T09:50:45Z",
+        "primary": false,
+        "excerpt": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5004f98580cff7bdc0c4",
+    "title": "Morning news brief",
+    "category": "U.S.",
+    "published_at": "2026-11-17T09:46:54Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-17T09:46:54Z",
+        "primary": false,
+        "excerpt": "The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c323ebdebc247db644c",
+    "title": "Moving to a New State? Your Healthcare Might Get More Complicated",
+    "category": "Health",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Moving to a New State? Your Healthcare Might Get More Complicated",
+        "url": "https://kffhealthnews.org/insurance/healthq-moving-new-state-new-healthcare-access-insurance/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "44121ff76a3841c65f6f",
+    "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+    "category": "Science",
+    "published_at": "2026-11-17T09:46:31Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+        "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-17T09:46:31Z",
+        "primary": false,
+        "excerpt": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3486ce7eec134255e016",
+    "title": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
+    "category": "Health",
+    "published_at": "2026-11-17T10:00:00Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
+        "url": "https://kffhealthnews.org/public-health/fentanyl-test-strips-federal-cuts-samhsa-street-drugs-overdose-harm-reduction/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-17T10:00:00Z",
+        "primary": false,
+        "excerpt": "Harm reduction proponents say testing street drugs prevents overdoses by allowing people to make more informed decisions about what they’re using, but the Trump administration contends that it promotes drug use."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a3b4fa5530d37f060205",
+    "title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+    "category": "Technology",
+    "published_at": "2026-11-17T11:49:01Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-17T11:49:01Z",
+        "primary": false,
+        "excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e96562177916f6a358ba",
+    "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
+    "category": "Science",
+    "published_at": "2026-11-17T09:03:08Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
+        "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-17T09:03:08Z",
+        "primary": false,
+        "excerpt": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "53389be27f83347c3de4",
+    "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+    "category": "Technology",
+    "published_at": "2026-11-17T09:41:07Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-17T09:41:07Z",
+        "primary": false,
+        "excerpt": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "65c29492affec000ca1e",
+    "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+    "category": "Science",
+    "published_at": "2026-11-17T10:00:10Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-17T10:00:10Z",
+        "primary": false,
+        "excerpt": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones.It did, although it took a day longer. In her latest book, Father Time: A Natural H"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a143db02f2e5f7a4ed1",
+    "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+    "category": "Health",
+    "published_at": "2026-11-17T09:46:43Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-11-17T09:46:43Z",
+        "primary": false,
+        "excerpt": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ab6e057e740f6ca5c537",
+    "title": "Don’t buy new tech this Black Friday: expert tips for buying refurbished phones and laptops",
+    "category": "Technology",
+    "published_at": "2026-11-17T10:50:47Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Don’t buy new tech this Black Friday: expert tips for buying refurbished phones and laptops",
+        "url": "https://www.theguardian.com/thefilter/2025/nov/27/expert-tips-buying-refurbished-tech-phones-laptop-uk",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-17T10:50:47Z",
+        "primary": false,
+        "excerpt": "Tech on its last legs? Refurbished can be the cheaper, greener option. Here’s how to choose well and avoid the pitfalls• How to make your phone last longerEven if you do your best to avoid it, it’s hard to escape the noise of retailers offering implausible-seeming Black Friday discounts on desirable technology. What they won’t be so keen to highlight is the huge environmental cost that comes from feeding the capitalist beast year on year, given what an obvious sales vibe-killer it would be.While the best approach for the planet is to opt out completely and observe the alternative holiday of Bu"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d69f08371597283a0af5",
+    "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
+    "category": "Technology",
+    "published_at": "2026-11-17T09:45:01Z",
+    "first_seen_at": "2026-11-17T11:51:37.788705Z",
+    "updated_at": "2026-11-17T11:51:37.788705Z",
+    "sources": [
+      {
+        "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-17T09:45:01Z",
+        "primary": false,
+        "excerpt": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy."
       }
     ],
     "tier": "brief",
