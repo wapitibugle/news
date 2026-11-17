@@ -25010,7 +25010,7 @@
         "excerpt": "Research on AI and quantum science has been favored under Trump, but some scientists are concerned about what it has displaced."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -25353,7 +25353,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c35f575ae45eb1a18ca9",
@@ -25380,7 +25381,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "befee6be6c4507df72fa",
@@ -25407,7 +25409,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fe57756c00276302cf6f",
@@ -25434,7 +25437,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7e347ac31c378c4e8dba",
@@ -25461,7 +25465,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ee7e64f9d829c36c63f6",
@@ -25488,7 +25493,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "098c59b5a3134666ddaf",
@@ -25515,7 +25521,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "233a92b8e7cf9d40bc12",
@@ -25542,7 +25549,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "06dd60865d05eb3bb3aa",
@@ -25569,7 +25577,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "79e1c95f9466b4591e3e",
@@ -25596,7 +25605,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "af00ab679d34225a9b34",
@@ -25623,7 +25633,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6dbdfe366d9517e39e62",
@@ -25650,7 +25661,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d6ea2cd134f74c46f429",
@@ -25677,7 +25689,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "48bbf6648c6f584377e6",
@@ -25704,7 +25717,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0a5288e228d833f1fdcc",
@@ -25731,7 +25745,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2f2a90b8cc0a516272c8",
@@ -25758,7 +25773,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dd9d2ba7547579335390",
@@ -25785,7 +25801,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5550c67d9b807ed22d03",
@@ -25812,7 +25829,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f1f51159da1049fb5693",
@@ -25839,7 +25857,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "be5c9377cceb3d5a584c",
@@ -25866,7 +25885,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5f57c7bb8c1ca28617e9",
@@ -25893,7 +25913,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "59ae476ad615e0070cc7",
@@ -25920,7 +25941,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "985c9ad0727dfa580d04",
@@ -25947,7 +25969,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b0b00be7208d3c82f8e7",
@@ -25974,7 +25997,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5004f98580cff7bdc0c4",
@@ -26001,7 +26025,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1c323ebdebc247db644c",
@@ -26028,7 +26053,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "44121ff76a3841c65f6f",
@@ -26055,7 +26081,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3486ce7eec134255e016",
@@ -26082,7 +26109,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a3b4fa5530d37f060205",
@@ -26109,7 +26137,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e96562177916f6a358ba",
@@ -26136,7 +26165,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "53389be27f83347c3de4",
@@ -26163,7 +26193,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "65c29492affec000ca1e",
@@ -26183,14 +26214,15 @@
         "excerpt": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones.It did, although it took a day longer. In her latest book, Father Time: A Natural H"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3a143db02f2e5f7a4ed1",
@@ -26217,7 +26249,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ab6e057e740f6ca5c537",
@@ -26244,7 +26277,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d69f08371597283a0af5",
@@ -26262,6 +26296,61 @@
         "published_at": "2026-11-17T09:45:01Z",
         "primary": false,
         "excerpt": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "2dd424e47ed23287d79f",
+    "title": "Trump administration details its $50 billion request for aviation system improvements",
+    "category": "U.S.",
+    "published_at": "2026-11-17T19:27:51Z",
+    "first_seen_at": "2026-11-17T20:54:52.007154Z",
+    "updated_at": "2026-11-17T20:54:52.007154Z",
+    "sources": [
+      {
+        "title": "Trump administration details its $50 billion request for aviation system improvements",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-17T19:27:51Z",
+        "primary": false,
+        "excerpt": "The Trump administration has formally updated its request to lawmakers for $50.1 billion to modernize the nation's air traffic control system and to make other improvements at airports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26c8ffc003abe9516392",
+    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "category": "World",
+    "published_at": "2026-11-17T20:25:46Z",
+    "first_seen_at": "2026-11-17T20:54:52.007154Z",
+    "updated_at": "2026-11-17T20:54:52.007154Z",
+    "sources": [
+      {
+        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T20:25:46Z",
+        "primary": false,
+        "excerpt": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
       }
     ],
     "tier": "brief",
