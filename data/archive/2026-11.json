@@ -25430,7 +25430,7 @@
         "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26046,7 +26046,7 @@
         "excerpt": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26130,7 +26130,7 @@
         "excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26214,7 +26214,7 @@
         "excerpt": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones.It did, although it took a day longer. In her latest book, Father Time: A Natural H"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26270,7 +26270,7 @@
         "excerpt": "Tech on its last legs? Refurbished can be the cheaper, greener option. Here’s how to choose well and avoid the pitfalls• How to make your phone last longerEven if you do your best to avoid it, it’s hard to escape the noise of retailers offering implausible-seeming Black Friday discounts on desirable technology. What they won’t be so keen to highlight is the huge environmental cost that comes from feeding the capitalist beast year on year, given what an obvious sales vibe-killer it would be.While the best approach for the planet is to opt out completely and observe the alternative holiday of Bu"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26389,7 +26389,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5fad78a6380b764a8132",
@@ -26416,7 +26417,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1f48f3894dc0c2339369",
@@ -26434,6 +26436,961 @@
         "published_at": "2026-11-17T23:55:05Z",
         "primary": false,
         "excerpt": "A string of major technology failures is raising new questions about the reliability and security of systems millions of Americans depend on every day. The incidents are said to be unrelated, but their timing has fueled concerns about whether something more is at work. Geoff Bennett discussed the wave of disruptions with Eric O'Neill, a former FBI counterintelligence operative."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0ecfa8cd88d167fb2f9a",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "category": "Elections",
+    "published_at": "2026-11-18T10:23:57Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-18T10:23:57Z",
+        "primary": false,
+        "excerpt": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "623d760ae69d44d911d4",
+    "title": "Trump Administration OKs Native Traditional Healing for Two States’ Medicaid Programs",
+    "category": "Health",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Trump Administration OKs Native Traditional Healing for Two States’ Medicaid Programs",
+        "url": "https://kffhealthnews.org/medicaid/medicaid-cms-native-american-traditional-healing-state-waivers-utah-maine/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "The administration’s expansion of traditional healing for Native Americans comes as it shrinks Medicaid in other ways, including through restrictions that will affect access to care for an estimated 7.5 million people."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "682005348641ab44b7d8",
+    "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+    "category": "Science",
+    "published_at": "2026-11-18T10:48:49Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-18T10:48:49Z",
+        "primary": false,
+        "excerpt": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c37fa694529c78b13660",
+    "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
+    "category": "U.S.",
+    "published_at": "2026-11-18T11:00:57Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-18T11:00:57Z",
+        "primary": false,
+        "excerpt": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028A week after the US midterms elections swept an unprecedented number of leftists into office across the country, about 600 people joined a Zoom call. The goal: to convince rep Alexandria Ocasio-Cortez to run for president.On the call, organizers from Ready for AOC, a new group of progressive and labor organizers, wasted little time celebrating the Democrats’ electoral sweep. “People all over the country are ready for a much different and much better future,” said Genevieve Rand, an organizer wit"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e47dadc6bc0477efbffb",
+    "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+    "category": "World",
+    "published_at": "2026-11-18T09:43:28Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-18T09:43:28Z",
+        "primary": false,
+        "excerpt": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7d155f0d8567d04d5643",
+    "title": "They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ.",
+    "category": "U.S.",
+    "published_at": "2026-11-18T11:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ.",
+        "url": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-18T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cd91052aeafacba69080",
+    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+    "category": "U.S.",
+    "published_at": "2026-11-18T11:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T11:00:00Z",
+        "primary": false,
+        "excerpt": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1e04ef68ce44f1568f74",
+    "title": "Smoke spews from landfill in California after gas release – video",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:06:06Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Smoke spews from landfill in California after gas release – video",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/18/smoke-spews-from-chiquita-canyon-landfill-california-after-gas-release-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:06:06Z",
+        "primary": false,
+        "excerpt": "A release of gas at the Chiquita Canyon landfill in Castaic, California, sent smoke billowing into the air and prompted an evacuation, the Los Angeles county fire department said. The department said workers doing routine digging in an area that had not been worked on for some time hit a deposit of gases. Officials initially said a pipe had been struck. There was no fire, only smoke, and a hazardous materials team was sent in with air monitoring in place, according to local media Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "08e52ea7442955743d92",
+    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+    "category": "U.S.",
+    "published_at": "2026-11-18T11:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T11:00:00Z",
+        "primary": false,
+        "excerpt": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fbb867dc87bfa212b03d",
+    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:32:03Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:32:03Z",
+        "primary": false,
+        "excerpt": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b5641e36fd49a3ccc3bb",
+    "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:02:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:02:00Z",
+        "primary": false,
+        "excerpt": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "58f62593e6aba854a3e6",
+    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c7df69fa4c933523c24a",
+    "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "82e13d3afebb0cb6fc39",
+    "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7643da274a1c6730a843",
+    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "afbd0894cfda001623c4",
+    "title": "Special education teachers shared their stories. You told NPR you felt seen",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Special education teachers shared their stories. You told NPR you felt seen",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "72045d4d8f72a28f073f",
+    "title": "She retired early to care for family. New work rules for food aid disrupted that",
+    "category": "U.S.",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "She retired early to care for family. New work rules for food aid disrupted that",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "The Trump administration's sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c95e3f0b9ab542a4ed37",
+    "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+    "category": "Technology",
+    "published_at": "2026-11-18T11:00:55Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+        "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-18T11:00:55Z",
+        "primary": false,
+        "excerpt": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centreIn GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it feels a bit like trying to review, say, Paris: it contains so many potential experiences that it’s hard to know where to start. If you had been spying on me playing this game over the past few weeks you may well have caught me robbing banks, shooting up a weed farm or tearing along the highway at sunset"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "77e552e06c7be4c5ab15",
+    "title": "Meet the Teen Who Called a Hospital Home",
+    "category": "Health",
+    "published_at": "2026-11-18T10:00:00Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Meet the Teen Who Called a Hospital Home",
+        "url": "https://kffhealthnews.org/public-health/hospital-boarding-social-stays-jaloni-teens-children-kids-guns-missouri-illinois/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-18T10:00:00Z",
+        "primary": false,
+        "excerpt": "A young survivor of gun violence lived on the third floor of a St. Louis children’s hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home when he had nowhere safe to go."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e3e9895c4e03f0246314",
+    "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+    "category": "Science",
+    "published_at": "2026-11-18T11:18:04Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-18T11:18:04Z",
+        "primary": false,
+        "excerpt": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize."
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-17T18:20:36Z",
+        "primary": false,
+        "excerpt": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "505ba920da3a52a11b09",
+    "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+    "category": "World",
+    "published_at": "2026-11-18T11:00:57Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T11:00:57Z",
+        "primary": false,
+        "excerpt": "Susan Thurston Hamerski was shot in the face by gunman who killed one and injured several others in Logan CircleA gun control advocate is grappling with a grueling recovery after being shot in the face during the recent mass shooting at a Washington DC condominium building – an ordeal that she began with a handwritten note from her hospital bed reading: “Gun control is a public health crisis”.Susan Thurston Hamerski had traveled to the nation’s capital from her home in Minnesota’s Twin Cities for her daughter’s wedding when she was shot by a gunman who killed one person, injured five others an"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ceaa8eb690f30c31923c",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "category": "Technology",
+    "published_at": "2026-11-18T09:28:35Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+        "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-18T09:28:35Z",
+        "primary": false,
+        "excerpt": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "11b2c0aec9d7aaefe558",
+    "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+    "category": "World",
+    "published_at": "2026-11-18T09:58:28Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+        "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T09:58:28Z",
+        "primary": false,
+        "excerpt": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya.The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, eth"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9fdc6d691b206f4df6c5",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "category": "Technology",
+    "published_at": "2026-11-18T08:47:06Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Security flaw found in Java, world's third-largest programming language",
+        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-18T08:47:06Z",
+        "primary": false,
+        "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4070a0cf8b744ecd2ebf",
+    "title": "Government Accountability Office IT director discusses the recent tech outages",
+    "category": "Technology",
+    "published_at": "2026-11-18T09:42:54Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Government Accountability Office IT director discusses the recent tech outages",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-18T09:42:54Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5071b75e4c6ec59068e4",
+    "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+    "category": "Science",
+    "published_at": "2026-11-17T22:39:23Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+        "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-17T22:39:23Z",
+        "primary": false,
+        "excerpt": "The incident took place in Llwyneinion in August 1980."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "00c3d3ed638e07cd88b6",
+    "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+    "category": "U.S.",
+    "published_at": "2026-11-17T22:43:15Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+        "url": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-17T22:43:15Z",
+        "primary": false,
+        "excerpt": "Venezuelan boxer, 41, held at El Paso facilityLawyers say three-weight champion is in US legallyICE alleges Linares overstayed authorized visitFormer world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country.Linares is being held at the El Paso Processing Center, according to federal detention records reviewed by the San Antonio Express-News. US Immigration and Customs Enforcement (ICE) said he was arrested at El Paso International Airport on Sunday after overstaying the p"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3c929ec2d8caeff312ec",
+    "title": "Linares in ICE detention and facing deportation",
+    "category": "U.S.",
+    "published_at": "2026-11-18T07:34:53Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Linares in ICE detention and facing deportation",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-18T07:34:53Z",
+        "primary": false,
+        "excerpt": "Former three-weight world champion Jorge Linares remains in the custody of US immigration authorities in Texas and is facing deportation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c953f5ea29676231dc8a",
+    "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+    "category": "World",
+    "published_at": "2026-11-17T17:44:07Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+        "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-17T17:44:07Z",
+        "primary": false,
+        "excerpt": "Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu’s disproven fraud allegations Anti-Arab hate speech surged on social media in Israel around the country’s general election last month, digital monitors have said, as politicians including Benjamin Netanyahu levelled disproven allegations against Arab Israeli parties of election fraud.A new report by the Israel-based Brandeis Institute and FakeReporter recorded a deluge of anti-Arab discourse across social media platforms such as X, Facebook, Instagram and TikTok in the days surrounding Israel’s 27 October"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b711e201cd6bb1636c2e",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "category": "World",
+    "published_at": "2026-11-17T23:02:12Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T23:02:12Z",
+        "primary": false,
+        "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b3d40d0737d81bade5d3",
+    "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+    "category": "World",
+    "published_at": "2026-11-17T17:30:40Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+        "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-17T17:30:40Z",
+        "primary": false,
+        "excerpt": "With the SpaceX satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to CrimeaAt 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone. It said simply: “The bridge is fucked.” He then added: “We will stand and Moscow will fall.” It was a freezing night, with a bright starry sky and no clouds. Lines of ice had formed on the drone’s bulky wings. Soon, it would be hurtling towards its target – about 500km to the south.Typically the soldiers who gathered in this muddy field in central Ukraine were attacking o"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0936839706b70d14be34",
+    "title": "Russian military plane crashes, killing all 19 on board",
+    "category": "World",
+    "published_at": "2026-11-17T21:06:11Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Russian military plane crashes, killing all 19 on board",
+        "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T21:06:11Z",
+        "primary": false,
+        "excerpt": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0156fee1c94e3027d8bb",
+    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "category": "World",
+    "published_at": "2026-11-17T17:19:57Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T17:19:57Z",
+        "primary": false,
+        "excerpt": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5cea82209ab936082b40",
+    "title": "BBC reports from Kyiv bridge hit by Russian attack",
+    "category": "World",
+    "published_at": "2026-11-17T15:54:15Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-17T15:54:15Z",
+        "primary": false,
+        "excerpt": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0fa2b77f894eb002c551",
+    "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+    "category": "World",
+    "published_at": "2026-11-17T22:41:53Z",
+    "first_seen_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "sources": [
+      {
+        "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-17T22:41:53Z",
+        "primary": false,
+        "excerpt": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges."
       }
     ],
     "tier": "brief",
