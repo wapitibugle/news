@@ -26473,7 +26473,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "623d760ae69d44d911d4",
@@ -26500,7 +26501,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "682005348641ab44b7d8",
@@ -26527,7 +26529,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c37fa694529c78b13660",
@@ -26554,7 +26557,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e47dadc6bc0477efbffb",
@@ -26581,7 +26585,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7d155f0d8567d04d5643",
@@ -26608,7 +26613,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cd91052aeafacba69080",
@@ -26635,7 +26641,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1e04ef68ce44f1568f74",
@@ -26662,7 +26669,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "08e52ea7442955743d92",
@@ -26689,7 +26697,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fbb867dc87bfa212b03d",
@@ -26716,7 +26725,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b5641e36fd49a3ccc3bb",
@@ -26724,11 +26734,20 @@
     "category": "U.S.",
     "published_at": "2026-11-18T10:02:00Z",
     "first_seen_at": "2026-11-18T11:41:12.123997Z",
-    "updated_at": "2026-11-18T11:41:12.123997Z",
+    "updated_at": "2026-11-18T20:30:12.593917Z",
     "sources": [
       {
         "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
         "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T10:02:00Z",
+        "primary": false,
+        "excerpt": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational."
+      },
+      {
+        "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
         "publisher": "NPR",
         "category": "U.S.",
         "published_at": "2026-11-18T10:02:00Z",
@@ -26743,7 +26762,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "58f62593e6aba854a3e6",
@@ -26770,7 +26790,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c7df69fa4c933523c24a",
@@ -26797,7 +26818,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "82e13d3afebb0cb6fc39",
@@ -26824,7 +26846,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7643da274a1c6730a843",
@@ -26851,7 +26874,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "afbd0894cfda001623c4",
@@ -26878,7 +26902,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "72045d4d8f72a28f073f",
@@ -26905,7 +26930,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c95e3f0b9ab542a4ed37",
@@ -26925,14 +26951,15 @@
         "excerpt": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centreIn GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it feels a bit like trying to review, say, Paris: it contains so many potential experiences that it’s hard to know where to start. If you had been spying on me playing this game over the past few weeks you may well have caught me robbing banks, shooting up a weed farm or tearing along the highway at sunset"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "77e552e06c7be4c5ab15",
@@ -26959,7 +26986,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e3e9895c4e03f0246314",
@@ -26995,7 +27023,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "505ba920da3a52a11b09",
@@ -27022,7 +27051,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ceaa8eb690f30c31923c",
@@ -27049,7 +27079,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "11b2c0aec9d7aaefe558",
@@ -27076,7 +27107,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9fdc6d691b206f4df6c5",
@@ -27103,7 +27135,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4070a0cf8b744ecd2ebf",
@@ -27130,7 +27163,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5071b75e4c6ec59068e4",
@@ -27157,7 +27191,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "00c3d3ed638e07cd88b6",
@@ -27184,7 +27219,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3c929ec2d8caeff312ec",
@@ -27211,7 +27247,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c953f5ea29676231dc8a",
@@ -27238,7 +27275,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b711e201cd6bb1636c2e",
@@ -27265,7 +27303,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b3d40d0737d81bade5d3",
@@ -27292,7 +27331,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0936839706b70d14be34",
@@ -27319,7 +27359,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0156fee1c94e3027d8bb",
@@ -27346,7 +27387,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5cea82209ab936082b40",
@@ -27373,7 +27415,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0fa2b77f894eb002c551",
@@ -27391,6 +27434,115 @@
         "published_at": "2026-11-17T22:41:53Z",
         "primary": false,
         "excerpt": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fdffaf38a4ac431ffd65",
+    "title": "California Republicans won only four of state’s 52 US House seats in midterms",
+    "category": "Elections",
+    "published_at": "2026-11-18T17:03:46Z",
+    "first_seen_at": "2026-11-18T20:30:12.593917Z",
+    "updated_at": "2026-11-18T20:30:12.593917Z",
+    "sources": [
+      {
+        "title": "California Republicans won only four of state’s 52 US House seats in midterms",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-18T17:03:46Z",
+        "primary": false,
+        "excerpt": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effortCalifornia Republicans have taken an extraordinary hit in the midterm elections, with only four of the state’s 52 congressional seats going to GOP representatives, leaving the party with its smallest delegation to Washington in decades.California Democrats flipped five seats and will be sending 48 representatives to Washington DC for the new term. The result stems from the successful redistricting effort spearheaded by the state’s Democratic governor, Gavin Newsom, as well as a s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21a86c5dae7a6b4886a8",
+    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
+    "category": "Science",
+    "published_at": "2026-11-18T17:55:14Z",
+    "first_seen_at": "2026-11-18T20:30:12.593917Z",
+    "updated_at": "2026-11-18T20:30:12.593917Z",
+    "sources": [
+      {
+        "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
+        "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-18T17:55:14Z",
+        "primary": false,
+        "excerpt": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancerExposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard.Cases of early-onset bowel cancer have doubled in many countries in the past two decades, and while rising obesity and a fall in physical activity are contributors, researchers believe other factors must also be involved. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5aeebb6299af45043bd9",
+    "title": "Hegseth meets with Venezuelan interim leaders in latest Trump Cabinet visit since Maduro's ouster",
+    "category": "U.S.",
+    "published_at": "2026-11-18T18:11:28Z",
+    "first_seen_at": "2026-11-18T20:30:12.593917Z",
+    "updated_at": "2026-11-18T20:30:12.593917Z",
+    "sources": [
+      {
+        "title": "Hegseth meets with Venezuelan interim leaders in latest Trump Cabinet visit since Maduro's ouster",
+        "url": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-18T18:11:28Z",
+        "primary": false,
+        "excerpt": "Secretary Pete Hegseth's visit comes at a time of uncertainty for Venezuelans regarding who will lead the nation in the coming months and years."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7b210ba17598d788bf47",
+    "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+    "category": "U.S.",
+    "published_at": "2026-11-18T18:18:16Z",
+    "first_seen_at": "2026-11-18T20:30:12.593917Z",
+    "updated_at": "2026-11-18T20:30:12.593917Z",
+    "sources": [
+      {
+        "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T18:18:16Z",
+        "primary": false,
+        "excerpt": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration."
       }
     ],
     "tier": "brief",
