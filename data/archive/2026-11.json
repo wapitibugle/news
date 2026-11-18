@@ -25206,7 +25206,7 @@
         "excerpt": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26046,7 +26046,7 @@
         "excerpt": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26333,7 +26333,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "26c8ffc003abe9516392",
@@ -26351,6 +26352,88 @@
         "published_at": "2026-11-17T20:25:46Z",
         "primary": false,
         "excerpt": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "945460e233292eb84411",
+    "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+    "category": "World",
+    "published_at": "2026-11-18T01:26:15Z",
+    "first_seen_at": "2026-11-18T02:54:18.485758Z",
+    "updated_at": "2026-11-18T02:54:18.485758Z",
+    "sources": [
+      {
+        "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T01:26:15Z",
+        "primary": false,
+        "excerpt": "Move to drop Trump ally and prominent abortion opponent comes a day before key Senate health committee voteThe White House has dropped its nomination of Heidi Overton to lead the Food and Drug Administration, a White House official told the Guardian.Donald Trump nominated Overton – a physician and prominent abortion opponent – in August. Overton has spent most of her professional career working directly for Trump or conservative groups aligned with his agenda. Her nomination in August was seen as a move to bring a stabilizing Trump loyalist to the agency after a tumultous year under Trump’s fi"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5fad78a6380b764a8132",
+    "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+    "category": "World",
+    "published_at": "2026-11-18T00:16:07Z",
+    "first_seen_at": "2026-11-18T02:54:18.485758Z",
+    "updated_at": "2026-11-18T02:54:18.485758Z",
+    "sources": [
+      {
+        "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T00:16:07Z",
+        "primary": false,
+        "excerpt": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police ‌on 10 November in Gloucestershire over allegations relating ⁠to espionage. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1f48f3894dc0c2339369",
+    "title": "What a string of tech problems reveals about America's digital vulnerabilities",
+    "category": "U.S.",
+    "published_at": "2026-11-17T23:55:05Z",
+    "first_seen_at": "2026-11-18T02:54:18.485758Z",
+    "updated_at": "2026-11-18T02:54:18.485758Z",
+    "sources": [
+      {
+        "title": "What a string of tech problems reveals about America's digital vulnerabilities",
+        "url": "https://www.pbs.org/newshour/show/what-a-string-of-tech-problems-reveals-about-americas-digital-vulnerabilities",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-17T23:55:05Z",
+        "primary": false,
+        "excerpt": "A string of major technology failures is raising new questions about the reliability and security of systems millions of Americans depend on every day. The incidents are said to be unrelated, but their timing has fueled concerns about whether something more is at work. Geoff Bennett discussed the wave of disruptions with Eric O'Neill, a former FBI counterintelligence operative."
       }
     ],
     "tier": "brief",
