@@ -26494,7 +26494,7 @@
         "excerpt": "The administration’s expansion of traditional healing for Native Americans comes as it shrinks Medicaid in other ways, including through restrictions that will affect access to care for an estimated 7.5 million people."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26522,7 +26522,7 @@
         "excerpt": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -26951,7 +26951,7 @@
         "excerpt": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centreIn GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it feels a bit like trying to review, say, Paris: it contains so many potential experiences that it’s hard to know where to start. If you had been spying on me playing this game over the past few weeks you may well have caught me robbing banks, shooting up a weed farm or tearing along the highway at sunset"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -27016,7 +27016,7 @@
         "excerpt": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -27583,7 +27583,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "60304d1fde76a0779a18",
@@ -27610,7 +27611,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ca1d8168a34f27bc5dd5",
@@ -27637,7 +27639,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ca7ba8ba6ef97e02378",
@@ -27664,7 +27667,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1b73a227836c61367507",
@@ -27691,7 +27695,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8d6c3577df984d3be6c9",
@@ -27718,7 +27723,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f92ab710c8678bf566ea",
@@ -27745,7 +27751,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5649430e396590c772a9",
@@ -27772,7 +27779,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5745be2dad1f25e6282c",
@@ -27799,6 +27807,952 @@
         "published_at": "2026-11-18T15:56:30Z",
         "primary": false,
         "excerpt": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "116efff4a5dd6d63d86b",
+    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+    "category": "World",
+    "published_at": "2026-11-19T11:07:37Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-19T11:07:37Z",
+        "primary": false,
+        "excerpt": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6525304705f2bd33bc83",
+    "title": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+    "category": "U.S.",
+    "published_at": "2026-11-19T11:00:26Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-19T11:00:26Z",
+        "primary": false,
+        "excerpt": "It has been a wild few weeks in the world of tech. First, Jensen Huang’s extramarital affairs, including with an alleged Chinese spy, forced an unimaginable leadership change at Nvidia – arguably the most consequential company in AI development. Then, chaos erupted as a rolling set of IT outages disrupted flights, banking, tech companies and the federal government. And now, Anthropic is blowing minds with a trillion-dollar IPO – one of the largest in stock market history. The Atlantic’s tech writer Charlie Warzel tells Kai Wright that these events are linked: they’re all examples of the ways i"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "30de3ed012cb3ee40370",
+    "title": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro",
+    "category": "U.S.",
+    "published_at": "2026-11-19T11:00:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro",
+        "url": "https://www.propublica.org/article/irs-settlement-golf-pro-shelby-lowman",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-19T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e881df0785ebd5ef3184",
+    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+    "category": "World",
+    "published_at": "2026-11-19T10:03:42Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+        "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-19T10:03:42Z",
+        "primary": false,
+        "excerpt": "Assessment of damage under way, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to RussiaApec summit – latest updatesThe remaining Kerch rail bridge connecting Crimea to Russia was attacked overnight, leading to a halt in train services, two days after a dramatic Ukrainian air raid had knocked out the road bridge alongside.Sergei Aksyonov, the Kremlin-appointed governor of Crimea, said on Wednesday night that there had been another attack on the bridge, then added on Thursday that trains would start crossing from “approximately 4pm"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e021e7270166e91ae21a",
+    "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+    "category": "U.S.",
+    "published_at": "2026-11-19T10:00:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-19T10:00:00Z",
+        "primary": false,
+        "excerpt": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cae7150e35adc05471fd",
+    "title": "Anthropic raises $81bn in record-breaking stock market debut",
+    "category": "U.S.",
+    "published_at": "2026-11-19T10:48:04Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-19T10:48:04Z",
+        "primary": false,
+        "excerpt": "The company behind the Claude chatbot will become one of the most valuable firms in the world."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ace03faca844eae9c2c4",
+    "title": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
+    "category": "U.S.",
+    "published_at": "2026-11-19T10:35:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
+        "url": "https://www.propublica.org/article/tariff-refund-database-cash-back",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-19T10:35:00Z",
+        "primary": false,
+        "excerpt": "The post We’re Publishing the Tariff Refunds the Government Has Refused to Disclose appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55ead70fb59e11a6c608",
+    "title": "Morning news brief",
+    "category": "U.S.",
+    "published_at": "2026-11-19T09:46:29Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-19T09:46:29Z",
+        "primary": false,
+        "excerpt": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2680f4dbace0005cd532",
+    "title": "See How Much Companies Are Getting in Tariff Refunds",
+    "category": "U.S.",
+    "published_at": "2026-11-19T10:30:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "See How Much Companies Are Getting in Tariff Refunds",
+        "url": "https://projects.propublica.org/trump-tariff-refund-ieepa/",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-19T10:30:00Z",
+        "primary": false,
+        "excerpt": "The post See How Much Companies Are Getting in Tariff Refunds appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ce4e76b6db6261251090",
+    "title": "Ben Shapiro on conservative media and the future of the Republican Party",
+    "category": "U.S.",
+    "published_at": "2026-11-19T09:45:41Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Ben Shapiro on conservative media and the future of the Republican Party",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-19T09:45:41Z",
+        "primary": false,
+        "excerpt": "NPR's Steve Inskeep sits down with conservative commentator Ben Shapiro to discuss the future of the Republican party."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "04f5c91b92d085d6f5a0",
+    "title": "The unthinkable has come to pass: Tom Brady is a pretty good broadcaster",
+    "category": "U.S.",
+    "published_at": "2026-11-19T09:30:23Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "The unthinkable has come to pass: Tom Brady is a pretty good broadcaster",
+        "url": "https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-19T09:30:23Z",
+        "primary": false,
+        "excerpt": "The former NFL quarterback was widely derided when he starter his job in the Fox booth. But he has shown a human side and explains the game beautifullyI have accidentally force-fed myself Tom Brady’s commentary as my primary means of watching the NFL this season. When my favorite team, the Steelers, hired Mike McCarthy as head coach, I lodged a silent protest by declining to spend the several hundred dollars needed to get NFL Sunday Ticket. I didn’t even splurge for RedZone. That means I’ve found myself watching Fox’s NFL broadcasts on a Sunday – often an underwhelming Cowboys game – where Bra"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c721df1b587793403c11",
+    "title": "This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years.",
+    "category": "U.S.",
+    "published_at": "2026-11-19T10:00:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years.",
+        "url": "https://www.propublica.org/article/california-educator-licenses-sexual-abuse-criminal-charges",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-19T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64ddb9b93f18a95b917f",
+    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+    "category": "U.S.",
+    "published_at": "2026-11-19T09:44:40Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-19T09:44:40Z",
+        "primary": false,
+        "excerpt": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ca2a1e2691f4eaab9bc7",
+    "title": "Listen to the Latest ‘KFF Health News Minute’",
+    "category": "Health",
+    "published_at": "2026-11-19T10:00:13Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Listen to the Latest ‘KFF Health News Minute’",
+        "url": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-19T10:00:13Z",
+        "primary": false,
+        "excerpt": "The \"KFF Health News Minute\" brings original healthcare and health policy reporting from our newsroom to the airwaves each week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "935e6daaa97d413adb78",
+    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+    "category": "Science",
+    "published_at": "2026-11-19T09:21:54Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+        "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-19T09:21:54Z",
+        "primary": false,
+        "excerpt": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e079575437a76ace10bc",
+    "title": "Race to replant five South African baobabs after export blocked",
+    "category": "Outdoors",
+    "published_at": "2026-11-19T11:03:24Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Race to replant five South African baobabs after export blocked",
+        "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-19T11:03:24Z",
+        "primary": false,
+        "excerpt": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved wit"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e0b9233a5e949fb582af",
+    "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
+    "category": "Technology",
+    "published_at": "2026-11-19T10:00:25Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
+        "url": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-19T10:00:25Z",
+        "primary": false,
+        "excerpt": "There’s a vast amount to absorb in Leonida, but these pointers will rev up your criminal engines and allow you to better enjoy the rideTell us: are you playing Grand Theft Auto VI?Leonida is so huge as to be overwhelming and in the opening hours, the game bombards you with tonnes of info that you will inevitably forget. But I’ve done nothing but play this game for weeks and I’m here to help. Here’s what I wished I’d known at the startWalk faster. I found that Jason and Lucia walk incredibly slowly. If you go into the options menu, you can select “fast walk” as the default walking speed, which "
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5ef72d1ca25f4e2d5b1d",
+    "title": "What’s Behind a Recent Spike in Early Social Security Claims?",
+    "category": "Health",
+    "published_at": "2026-11-19T10:00:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "What’s Behind a Recent Spike in Early Social Security Claims?",
+        "url": "https://kffhealthnews.org/aging/social-security-early-claims-spike-doge-new-old-age/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-19T10:00:00Z",
+        "primary": false,
+        "excerpt": "Experts point to well-publicized turmoil at the government agency last year as a potential spark."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26dd7f196d1ebee4d327",
+    "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+    "category": "Technology",
+    "published_at": "2026-11-19T10:00:25Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+        "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-19T10:00:25Z",
+        "primary": false,
+        "excerpt": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller and much more unhinged• This review contains spoilersThrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizabeth Holmes. It was Holmes’s US biotech firm Theranos, run jointly with her then partner Sunny Balwani, which in 2003 notoriously claimed to have invented a little box that could diagnose all manner of illnesse"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ab9dc1a52cc3c1d4ffd4",
+    "title": "Ahead of Thanksgiving, Readers Show Grace and Grit",
+    "category": "Health",
+    "published_at": "2026-11-19T10:00:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Ahead of Thanksgiving, Readers Show Grace and Grit",
+        "url": "https://kffhealthnews.org/letter-to-the-editor/readers-thanksgiving-recipe-gender-affirming-care-missouri-rural-doctor-shortage-november-2026/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-19T10:00:00Z",
+        "primary": false,
+        "excerpt": "KFF Health News gives readers a chance to comment on a recent batch of stories."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "82f153fd4b0bb03ad1fd",
+    "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
+    "category": "Technology",
+    "published_at": "2026-11-19T10:00:24Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
+        "url": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-19T10:00:24Z",
+        "primary": false,
+        "excerpt": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income“I’m sick and tired of it.” Bart Swings tossed his jacket behind him. It was August 2025, the Winter Olympics were less than six months away, and the Belgian Olympic champion’s injured knee was not getting better. The clip, profanity and all, later ran on the Belgian evening news along with the weather and the football. But the injury update didn’t come from an interview – it was broadcast on the speed skater’s OnlyFans channel.The subscription site, best known f"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b008a7e13d397e866057",
+    "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+    "category": "U.S.",
+    "published_at": "2026-11-18T22:01:19Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T22:01:19Z",
+        "primary": false,
+        "excerpt": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "833f161df16256f41608",
+    "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+    "category": "U.S.",
+    "published_at": "2026-11-18T15:01:32Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+        "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T15:01:32Z",
+        "primary": false,
+        "excerpt": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "386521be67fced24ee3e",
+    "title": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+    "category": "U.S.",
+    "published_at": "2026-11-18T20:39:21Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-18T20:39:21Z",
+        "primary": false,
+        "excerpt": "Robert Garcia plans searches into Trump family finances, alleged DHS misconduct and handling of Epstein filesThe incoming Democratic chair of the powerful oversight committee in the House of Representatives has ordered a dozen relatives and allies of Donald Trump to preserve records before investigations he plans to open.Robert Garcia sent 12 letters on Wednesday to prominent figures in the US president’s orbit, including his sons Donald Jr and Eric; son-in-law Jared Kushner; the vice-president, JD Vance; and the attorney general, Todd Blanche. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3bdca5852a7c61a3bf07",
+    "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+    "category": "U.S.",
+    "published_at": "2026-11-18T17:25:00Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-18T17:25:00Z",
+        "primary": false,
+        "excerpt": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happenUS politics live – latest updatesA bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies.Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, ou"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a513a14ba10b6a2658e1",
+    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "category": "World",
+    "published_at": "2026-11-19T04:42:52Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-19T04:42:52Z",
+        "primary": false,
+        "excerpt": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "720e16ec5af0be674390",
+    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+    "category": "World",
+    "published_at": "2026-11-18T23:28:03Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+        "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-18T23:28:03Z",
+        "primary": false,
+        "excerpt": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a8922761579deba289ef",
+    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "category": "World",
+    "published_at": "2026-11-18T17:00:40Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-18T17:00:40Z",
+        "primary": false,
+        "excerpt": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b1393678d79e40ae048",
+    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "category": "World",
+    "published_at": "2026-11-18T17:00:04Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-18T17:00:04Z",
+        "primary": false,
+        "excerpt": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "95be052010db8f368eeb",
+    "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+    "category": "World",
+    "published_at": "2026-11-18T11:57:10Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-18T11:57:10Z",
+        "primary": false,
+        "excerpt": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1dadfa3df2893e8cc5d3",
+    "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
+    "category": "World",
+    "published_at": "2026-11-18T11:57:06Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-18T11:57:06Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "de9b828e439048737b39",
+    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+    "category": "World",
+    "published_at": "2026-11-18T23:25:25Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+        "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T23:25:25Z",
+        "primary": false,
+        "excerpt": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without NetanyahuThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents.Israeli tanks rolled along the Salah al-Din road, Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasefire, accused Israel and Hamas of failing to honour their commitments to end hostili"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d618cbc7bc22cf45b154",
+    "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+    "category": "World",
+    "published_at": "2026-11-18T22:34:03Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+        "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T22:34:03Z",
+        "primary": false,
+        "excerpt": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s relentless bombardment continues.Announcing the plan to lend Kyiv the money in 2027, the European Commission president, Ursula von der Leyen, said: “We think this is the best way to give Ukraine a strong hand at the negotiating table. And Ukraine only needs to repay once Russia pays for the damage it has caused in Ukraine.” Continue reading"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c909e9e5ddfbe53ddd05",
+    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+    "category": "World",
+    "published_at": "2026-11-18T14:05:38Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+        "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-18T14:05:38Z",
+        "primary": false,
+        "excerpt": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions against building firms operating in the area.Israeli diplomats insisted the move was not in response to the measures from Downing Street. Gali Baharav-Miara, the attorney general, said any decision on settlement expansion should not be taken by the caretaker government led by Benjamin Netanyahu but by w"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "08331e3c20c19b4eeae7",
+    "title": "Lawmakers press Mullin on flight disruptions and ICE tactics",
+    "category": "U.S.",
+    "published_at": "2026-11-18T23:40:24Z",
+    "first_seen_at": "2026-11-19T11:38:51.225307Z",
+    "updated_at": "2026-11-19T11:38:51.225307Z",
+    "sources": [
+      {
+        "title": "Lawmakers press Mullin on flight disruptions and ICE tactics",
+        "url": "https://www.pbs.org/newshour/show/lawmakers-press-mullin-on-flight-disruptions-and-ice-tactics",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-18T23:40:24Z",
+        "primary": false,
+        "excerpt": "National security officials from the Trump administration were on Capitol Hill on Wednesday, and lawmakers had plenty of questions about the series of outages and cyber problems that have alarmed millions. DHS Secretary Markwayne Mullin and Director of National Intelligence Jay Clayton sought to reassure Americans during their testimony. Stephanie Sy reports."
       }
     ],
     "tier": "brief",
