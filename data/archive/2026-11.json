@@ -26951,7 +26951,7 @@
         "excerpt": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centreIn GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it feels a bit like trying to review, say, Paris: it contains so many potential experiences that it’s hard to know where to start. If you had been spying on me playing this game over the past few weeks you may well have caught me robbing banks, shooting up a weed farm or tearing along the highway at sunset"
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -27184,7 +27184,7 @@
         "excerpt": "The incident took place in Llwyneinion in August 1980."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -27471,7 +27471,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "21a86c5dae7a6b4886a8",
@@ -27498,7 +27499,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5aeebb6299af45043bd9",
@@ -27525,7 +27527,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7b210ba17598d788bf47",
@@ -27543,6 +27546,259 @@
         "published_at": "2026-11-18T18:18:16Z",
         "primary": false,
         "excerpt": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "4ff4c870a4d1aafb8dd5",
+    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "category": "Elections",
+    "published_at": "2026-11-19T01:56:28Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+        "publisher": "BBC",
+        "category": "Elections",
+        "published_at": "2026-11-19T01:56:28Z",
+        "primary": false,
+        "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "60304d1fde76a0779a18",
+    "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+    "category": "Elections",
+    "published_at": "2026-11-18T21:53:07Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6032798-e1/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-18T21:53:07Z",
+        "primary": false,
+        "excerpt": "Montana is sending a Democrat to the U.S. House for the first time in three decades. Many in the party think Sam Forstag's campaign may be a playbook for how Democrats can win again in rural America."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ca1d8168a34f27bc5dd5",
+    "title": "Crimean Bridge attacked again, Russian official says",
+    "category": "World",
+    "published_at": "2026-11-19T01:05:03Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Crimean Bridge attacked again, Russian official says",
+        "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-19T01:05:03Z",
+        "primary": false,
+        "excerpt": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ca7ba8ba6ef97e02378",
+    "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+    "category": "U.S.",
+    "published_at": "2026-11-19T00:54:39Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+        "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T00:54:39Z",
+        "primary": false,
+        "excerpt": "The higher-than-anticipated pricing signals broad investor enthusiasm for AI stocks even amid some uncertainty in the market stemming from the ouster of Nvidia's CEO and worries about an AI bubble."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1b73a227836c61367507",
+    "title": "Rainfall supercharged by El Niño causes road flooding, synagogue roof collapse in South Florida",
+    "category": "U.S.",
+    "published_at": "2026-11-19T00:46:37Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Rainfall supercharged by El Niño causes road flooding, synagogue roof collapse in South Florida",
+        "url": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T00:46:37Z",
+        "primary": false,
+        "excerpt": "A slow-moving storm system dumped heavy rains that prompted an emergency declaration Wednesday in South Florida where the roof of a synagogue collapsed and cars were submerged along roads, authorities said."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8d6c3577df984d3be6c9",
+    "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain",
+    "category": "U.S.",
+    "published_at": "2026-11-19T00:36:03Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain",
+        "url": "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T00:36:03Z",
+        "primary": false,
+        "excerpt": "Iran said that its recent attacks — including those on other U.S. facilities in Bahrain on Sunday and Friday — were in response to U.S. drone surveillance operations and an attack on Iranian communications towers."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f92ab710c8678bf566ea",
+    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+    "category": "U.S.",
+    "published_at": "2026-11-18T23:55:44Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+        "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-18T23:55:44Z",
+        "primary": false,
+        "excerpt": "President Trump landed in southern China after signing a trade deal and pledging increased defense cooperation with the Philippines. On Thursday, Trump will hold a historic summit with the Chinese and Russian presidents on the sidelines of a meeting of Asia-Pacific countries in Shenzhen, China. Nick Schifrin reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5649430e396590c772a9",
+    "title": "Former national security staffer on how presidents prepare for talks with world leaders",
+    "category": "U.S.",
+    "published_at": "2026-11-18T23:50:56Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "Former national security staffer on how presidents prepare for talks with world leaders",
+        "url": "https://www.pbs.org/newshour/show/former-national-security-staffer-on-how-presidents-prepare-for-talks-with-world-leaders",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-18T23:50:56Z",
+        "primary": false,
+        "excerpt": "For perspective on President Trump's trip to China and how foreign governments assess the president, Amna Nawaz spoke with Julia Curlee. She's a former CIA analyst and served on the National Security Council staff during the Biden and Trump administrations. She's now a public service fellow at Lawfare, a publication that focuses on national security."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5745be2dad1f25e6282c",
+    "title": "News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House",
+    "category": "U.S.",
+    "published_at": "2026-11-18T23:45:27Z",
+    "first_seen_at": "2026-11-19T02:34:08.824113Z",
+    "updated_at": "2026-11-19T02:34:08.824113Z",
+    "sources": [
+      {
+        "title": "News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-18T23:45:27Z",
+        "primary": false,
+        "excerpt": "In our news wrap Wednesday, House Democratic Leader Hakeem Jeffries moved a step closer today to becoming the next Speaker of the House, Democrats have secured a 56-to-44 majority in the Senate after Mary Peltola won the last outstanding race in Alaska and Defense Secretary Pete Hegseth announced a new military agreement with Venezuela."
+      },
+      {
+        "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-18T15:56:30Z",
+        "primary": false,
+        "excerpt": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him."
       }
     ],
     "tier": "brief",
