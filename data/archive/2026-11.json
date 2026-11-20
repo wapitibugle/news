@@ -28957,7 +28957,7 @@
         "excerpt": "Recording Wernicke’s area as people try to speak could help researchers design brain implants that restore speech."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -29244,7 +29244,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52922fe1c764292a1c29",
@@ -29271,7 +29272,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ff725159f4b90b5c5db0",
@@ -29298,7 +29300,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "312324520679159fbf22",
@@ -29325,7 +29328,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e6195056c8412a38858e",
@@ -29352,7 +29356,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "288e765f3c55699fc0b4",
@@ -29379,7 +29384,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aa71824fafe5cd544a79",
@@ -29406,7 +29412,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0d485e0dfc8d69ca8363",
@@ -29433,7 +29440,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b61c837a3ac8b3815af0",
@@ -29460,7 +29468,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "27fc5802fd1bbae96633",
@@ -29487,7 +29496,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5f5307f0d6bcf55e6564",
@@ -29514,7 +29524,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "59398dc0ca1119c97378",
@@ -29541,7 +29552,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "952dd656a33f243e7fdc",
@@ -29568,7 +29580,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0e5fc9b767a7b5122cc1",
@@ -29595,7 +29608,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3e03a94e8a13ebf1919b",
@@ -29622,7 +29636,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "96a7709ff83f79385aea",
@@ -29649,7 +29664,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "49793f1ddbe703e937f3",
@@ -29676,7 +29692,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9e494eb3bf409418cefe",
@@ -29703,7 +29720,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cff3444056810cc709b6",
@@ -29730,7 +29748,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "006ff5a2995eb9499afe",
@@ -29757,7 +29776,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d81bf0b2afa3803d6b57",
@@ -29784,7 +29804,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "69465d17130aefc94ee1",
@@ -29811,7 +29832,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "886a1d3b3062821a8508",
@@ -29831,14 +29853,15 @@
         "excerpt": "Open enrollment season is here. “HealthQ” host Blake Farmer sits down with WAMU’s “Health Hub” to tell first-time shoppers what they need to know about picking out a health plan."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d9b122f4e50c293a30d2",
@@ -29865,7 +29888,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4ff0ec87045136c8794a",
@@ -29892,7 +29916,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "57a48a90347abb053ee3",
@@ -29919,7 +29944,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ece164ba02e5d3bebff5",
@@ -29946,7 +29972,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8c7cf511bb1aa16a9b3a",
@@ -29973,7 +30000,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a7f2395265a7d330b9cf",
@@ -30000,7 +30028,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ddc6656e16cfe050b9b8",
@@ -30027,7 +30056,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "17dd90b552b10dbf4392",
@@ -30054,7 +30084,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bd8a36762525c513b818",
@@ -30081,7 +30112,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "666ba17e29533e1ccf39",
@@ -30108,7 +30140,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8f77425f7ccc4bc9731d",
@@ -30135,7 +30168,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "68701b6d24e8c66b5e22",
@@ -30153,6 +30187,61 @@
         "published_at": "2026-11-20T04:13:22Z",
         "primary": false,
         "excerpt": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "fb4eeff6c45b6ad518bf",
+    "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
+    "category": "Elections",
+    "published_at": "2026-11-20T14:22:40Z",
+    "first_seen_at": "2026-11-20T20:18:51.906599Z",
+    "updated_at": "2026-11-20T20:18:51.906599Z",
+    "sources": [
+      {
+        "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-20T14:22:40Z",
+        "primary": false,
+        "excerpt": "In their filing, Justice Department attorneys urged the 9th U.S. Circuit Court of Appeals to overturn the lower court's dismissal of the case to erase the loss, but then dismiss the case anyway."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8cf7a61aa3082fa3ea9f",
+    "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+    "category": "Elections",
+    "published_at": "2026-11-20T17:00:00Z",
+    "first_seen_at": "2026-11-20T20:18:51.906599Z",
+    "updated_at": "2026-11-20T20:18:51.906599Z",
+    "sources": [
+      {
+        "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-20T17:00:00Z",
+        "primary": false,
+        "excerpt": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
       }
     ],
     "tier": "brief",
