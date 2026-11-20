@@ -28824,7 +28824,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "40ccdcf27ef8695d1917",
@@ -28851,7 +28852,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c490ce3984a686d7d38f",
@@ -28878,7 +28880,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "effe0ba29fb1c1d61f45",
@@ -28905,7 +28908,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fd43c03e0db99d25369b",
@@ -28932,7 +28936,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a0aedd2cc1da0eead522",
@@ -28959,7 +28964,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5c56df3c54f085d1a9fc",
@@ -28977,6 +28983,223 @@
         "published_at": "2026-11-19T20:02:00Z",
         "primary": false,
         "excerpt": "Federal court rules providers can acknowledge gender identity and provide gender-affirming careThe Trump administration cannot impose restrictions barring healthcare providers that receive certain federal HIV-treatment ⁠funds from acknowledging the gender identity ⁠of their transgender patients ​or from providing them with gender-affirming care, a federal judge ruled on Thursday.US district judge William Young in Boston sided with a group of national HIV medical associations and ⁠healthcare providers that challenged grant funding conditions imposed by the administration last year after Trump s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7a4c56c199a55067e917",
+    "title": "White House cyber director ousted after US hit by wave of tech outages",
+    "category": "World",
+    "published_at": "2026-11-20T01:25:05Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "White House cyber director ousted after US hit by wave of tech outages",
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-20T01:25:05Z",
+        "primary": false,
+        "excerpt": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take overWhite House national ⁠cyber director Sean ⁠Cairncross ​was ousted from his job, a person close to the White House told Reuters on Thursday, ⁠days after tech outages hit US air travel, banking and national security systems.Cairncross oversaw cybersecurity policy and ⁠strategy across the federal government. Department of Defense chief information officer ​Kirsten Davies will ‌assume the position ‌temporarily, according to the source. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "064723c527470c807014",
+    "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
+    "category": "U.S.",
+    "published_at": "2026-11-19T23:35:01Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
+        "url": "https://www.pbs.org/newshour/show/international-court-of-justice-finds-myanmar-guilty-of-genocide-against-rohingya",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T23:35:01Z",
+        "primary": false,
+        "excerpt": "A historic judgment from the International Court of Justice ruled that Myanmar committed genocide against its Rohingya minority. The ruling comes years after Myanmar's Muslim minority was forced to flee. Stephanie Sy discusses what the genocide verdict means for international law and the future of the Rohingya people with Adil Ahmad Haque, author of \"Law and Morality at War.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4517641d353957a37561",
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "category": "World",
+    "published_at": "2026-11-20T00:50:24Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T00:50:24Z",
+        "primary": false,
+        "excerpt": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bc4ef92461324ec8ebd2",
+    "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+    "category": "World",
+    "published_at": "2026-11-20T00:16:29Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+        "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-20T00:16:29Z",
+        "primary": false,
+        "excerpt": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus dealGet our breaking news email, free app or daily news podcastProviding nuclear-powered submarines to Australia would diminish the US navy’s own fleet for “many years”, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.The US navy’s latest shipbuilding plan does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the tr"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "301282b09aa7c67bcccc",
+    "title": "Do you need a measles booster shot now that the U.S. has lost its elimination status?",
+    "category": "U.S.",
+    "published_at": "2026-11-20T00:10:07Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "Do you need a measles booster shot now that the U.S. has lost its elimination status?",
+        "url": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T00:10:07Z",
+        "primary": false,
+        "excerpt": "The U.S., Mexico and Bolivia lost their measles-free status this week after stubborn outbreaks erased decades of progress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8a00dc6ae62106fa1c24",
+    "title": "FCC votes to allow state prisons to jam signals from contraband cellphones",
+    "category": "U.S.",
+    "published_at": "2026-11-20T00:02:08Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "FCC votes to allow state prisons to jam signals from contraband cellphones",
+        "url": "https://www.pbs.org/newshour/nation/fcc-votes-to-allow-state-prisons-to-jam-signals-from-contraband-cellphones",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T00:02:08Z",
+        "primary": false,
+        "excerpt": "The Federal Communications Commission on Thursday acted to allow state prisons across the United States to jam the signals of cellphones smuggled to inmates as the federal government cracks down on devices that authorities say are the No. 1 security threat in the nation's correctional facilities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "41f1e1de2ef9e9fe4d82",
+    "title": "Inside the historic summit between Trump, Xi and Putin",
+    "category": "U.S.",
+    "published_at": "2026-11-19T23:55:57Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "Inside the historic summit between Trump, Xi and Putin",
+        "url": "https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T23:55:57Z",
+        "primary": false,
+        "excerpt": "It was the summit seen around the world. The first-ever trilateral meeting between the leaders of the United States, China and Russia resulted in a joint statement that included promises to release more oil and hold formal talks about nuclear weapons. Nick Schifrin reports from Shenzhen."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4408e39b8a571680972b",
+    "title": "Experts assess what was addressed and overlooked at trilateral meeting in China",
+    "category": "U.S.",
+    "published_at": "2026-11-19T23:50:53Z",
+    "first_seen_at": "2026-11-20T02:19:13.658123Z",
+    "updated_at": "2026-11-20T02:19:13.658123Z",
+    "sources": [
+      {
+        "title": "Experts assess what was addressed and overlooked at trilateral meeting in China",
+        "url": "https://www.pbs.org/newshour/show/experts-assess-what-was-addressed-and-overlooked-at-trilateral-meeting-in-china",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T23:50:53Z",
+        "primary": false,
+        "excerpt": "For perspective on the Trump, Xi and Putin summit in China, Amna Nawaz spoke with Dennis Wilder and Fred Fleitz. Wilder was senior director for East Asia and special assistant to President George W. Bush and was the editor of the president's daily brief during the Obama administration. Fleitz was the National Security Council chief of staff during the first Trump administration."
       }
     ],
     "tier": "brief",
