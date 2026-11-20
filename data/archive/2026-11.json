@@ -28257,7 +28257,7 @@
         "excerpt": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved wit"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -28285,7 +28285,7 @@
         "excerpt": "There’s a vast amount to absorb in Leonida, but these pointers will rev up your criminal engines and allow you to better enjoy the rideTell us: are you playing Grand Theft Auto VI?Leonida is so huge as to be overwhelming and in the opening hours, the game bombards you with tonnes of info that you will inevitably forget. But I’ve done nothing but play this game for weeks and I’m here to help. Here’s what I wished I’d known at the startWalk faster. I found that Jason and Lucia walk incredibly slowly. If you go into the options menu, you can select “fast walk” as the default walking speed, which "
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -28341,7 +28341,7 @@
         "excerpt": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller and much more unhinged• This review contains spoilersThrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizabeth Holmes. It was Holmes’s US biotech firm Theranos, run jointly with her then partner Sunny Balwani, which in 2003 notoriously claimed to have invented a little box that could diagnose all manner of illnesse"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -28397,7 +28397,7 @@
         "excerpt": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income“I’m sick and tired of it.” Bart Swings tossed his jacket behind him. It was August 2025, the Winter Olympics were less than six months away, and the Belgian Olympic champion’s injured knee was not getting better. The clip, profanity and all, later ran on the Belgian evening news along with the weather and the football. But the injury update didn’t come from an interview – it was broadcast on the speed skater’s OnlyFans channel.The subscription site, best known f"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -29020,7 +29020,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "064723c527470c807014",
@@ -29047,7 +29048,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4517641d353957a37561",
@@ -29074,7 +29076,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bc4ef92461324ec8ebd2",
@@ -29101,7 +29104,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "301282b09aa7c67bcccc",
@@ -29128,7 +29132,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8a00dc6ae62106fa1c24",
@@ -29155,7 +29160,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "41f1e1de2ef9e9fe4d82",
@@ -29182,7 +29188,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4408e39b8a571680972b",
@@ -29200,6 +29207,952 @@
         "published_at": "2026-11-19T23:50:53Z",
         "primary": false,
         "excerpt": "For perspective on the Trump, Xi and Putin summit in China, Amna Nawaz spoke with Dennis Wilder and Fred Fleitz. Wilder was senior director for East Asia and special assistant to President George W. Bush and was the editor of the president's daily brief during the Obama administration. Fleitz was the National Security Council chief of staff during the first Trump administration."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6787c43b58191c461f66",
+    "title": "Emails reveal how Trump allies pushed pardons for election deniers",
+    "category": "Elections",
+    "published_at": "2026-11-20T11:00:31Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Emails reveal how Trump allies pushed pardons for election deniers",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-20T11:00:31Z",
+        "primary": false,
+        "excerpt": "Former Trump lawyer urged justice department officials to seek pardons for those falsely claiming he won the 2020 presidential election in their statesIn the fall of 2025, Cleta Mitchell, a key lawyer in Donald Trump’s efforts to overturn the 2020 presidential election, contacted a justice department official with an urgent request.Criminal cases against people who signed certificates falsely claiming that Trump won the presidential election in their state – known widely as fake electors – were pending in Georgia, Michigan, Arizona, Nevada and Wisconsin. She knew the official, pardon attorney "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52922fe1c764292a1c29",
+    "title": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
+        "url": "https://www.propublica.org/article/texas-287g-immigration-police-department-money",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ff725159f4b90b5c5db0",
+    "title": "White House removes cyber-security chief after series of tech outages",
+    "category": "World",
+    "published_at": "2026-11-20T09:37:59Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "White House removes cyber-security chief after series of tech outages",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T09:37:59Z",
+        "primary": false,
+        "excerpt": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "312324520679159fbf22",
+    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+    "category": "Science",
+    "published_at": "2026-11-20T09:36:10Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-20T09:36:10Z",
+        "primary": false,
+        "excerpt": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growingA pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades.In one in 12 of the patients given the drug, daraxonrasib, during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6195056c8412a38858e",
+    "title": "Senate passes bipartisan energy bill amid environmental concerns",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:28Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Senate passes bipartisan energy bill amid environmental concerns",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:28Z",
+        "primary": false,
+        "excerpt": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "288e765f3c55699fc0b4",
+    "title": "Three Kyiv bridges hit during major Russian missile attack",
+    "category": "World",
+    "published_at": "2026-11-20T11:12:57Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Three Kyiv bridges hit during major Russian missile attack",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T11:12:57Z",
+        "primary": false,
+        "excerpt": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aa71824fafe5cd544a79",
+    "title": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:30:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
+        "url": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:30:00Z",
+        "primary": false,
+        "excerpt": "The post Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0d485e0dfc8d69ca8363",
+    "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+    "category": "World",
+    "published_at": "2026-11-20T10:02:21Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-20T10:02:21Z",
+        "primary": false,
+        "excerpt": "Asian markets on track for their worst week since 2020, with European and US stocks also way downBusiness live – latest updatesGlobal stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies.Asian stock markets were on track for their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April, with the chip maker TSMC down about 6%. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b61c837a3ac8b3815af0",
+    "title": "How exactly did Trump get so rich on crypto? We explain",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "How exactly did Trump get so rich on crypto? We explain",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "27fc5802fd1bbae96633",
+    "title": "California investigates Nvidia over whether chip exports ended up in China",
+    "category": "World",
+    "published_at": "2026-11-20T09:18:30Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "California investigates Nvidia over whether chip exports ended up in China",
+        "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-20T09:18:30Z",
+        "primary": false,
+        "excerpt": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5f5307f0d6bcf55e6564",
+    "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "59398dc0ca1119c97378",
+    "title": "How SNAP Theft Happens — and What to Do if It Happens to You",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "How SNAP Theft Happens — and What to Do if It Happens to You",
+        "url": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post How SNAP Theft Happens — and What to Do if It Happens to You appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "952dd656a33f243e7fdc",
+    "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0e5fc9b767a7b5122cc1",
+    "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:31Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:31Z",
+        "primary": false,
+        "excerpt": "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.”A Cuban asylum seeker, Luis Alejandro Cora Perez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too pa"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3e03a94e8a13ebf1919b",
+    "title": "The U.K. and EU hold a rare summit to strengthen ties",
+    "category": "U.S.",
+    "published_at": "2026-11-20T09:14:41Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "The U.K. and EU hold a rare summit to strengthen ties",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T09:14:41Z",
+        "primary": false,
+        "excerpt": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "96a7709ff83f79385aea",
+    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:31Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+        "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:31Z",
+        "primary": false,
+        "excerpt": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workersAI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being reshaped by AI.Throughout the history of the study of economics, the human brain, which directs our labour, judgment and resilience, has rarely been considered an asset in its own right. The emerging AI economy is changing that. As machines take on routine work, what be"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "49793f1ddbe703e937f3",
+    "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:29Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:29Z",
+        "primary": false,
+        "excerpt": "Michigan senator-elect also secured a meeting with JD Vance, who called him a ‘terrible evil’ in lead-up to electionThe incoming US senator Abdul El-Sayed of Michigan said that he and Donald Trump are in agreement about ending foreign military aid to Israel – and he hopes to find more common ground with the US president when he takes office.“I agree with the president – I can’t believe I’m saying that – that we need to end foreign military aid that is unconditional to Israel, as well as Egypt and Saudi Arabia and Pakistan,” the senator-elect said. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9e494eb3bf409418cefe",
+    "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+    "category": "U.S.",
+    "published_at": "2026-11-20T11:00:29Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+        "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T11:00:29Z",
+        "primary": false,
+        "excerpt": "In a transformative year, Crew GM Issa Tall’s boldest change may have been to abandon his best-laid plansThe Columbus Crew have a more holistic operation than most in MLS. The club as a whole still exists thanks to the dogged efforts of their fervent fanbase that helped block relocation. Their under-19s won the national cup in June, while the developmental Crew 2 made a fourth semi-final berth in five seasons in MLS Next Pro. The first team regularly punches above its weight in MLS, winning the third-most major titles (nine) among MLS originals.And yet, this year tested the conventions set by "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cff3444056810cc709b6",
+    "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:30Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:30Z",
+        "primary": false,
+        "excerpt": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughsZohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its remaining jail population by the end of 2032.“It is time to finally close Rikers Island,” Mamdani said in a statement. “For decades, New Yorkers have demanded a correctional system that is safe and humane. This plan puts us on a path to deliver just that: closing Rikers, reducing pretrial detention, t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "006ff5a2995eb9499afe",
+    "title": "Richard Avedon’s rarely seen portraits of Hollywood A-listers – in pictures",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:30Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Richard Avedon’s rarely seen portraits of Hollywood A-listers – in pictures",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:30Z",
+        "primary": false,
+        "excerpt": "After consulting on the production of the 1957 musical Funny Face, which was loosely based on his own life as a young photographer, Richard Avedon considered leaving photography behind to pursue film directing. Although he ultimately remained a photographer, his fascination with Hollywood and its ideals endured throughout his life.Richard Avedon: Hollywood, a new exhibition, brings together more than 120 of Avedon’s iconic and rarely seen photographs of major Hollywood figures, including actors, directors, writers and composers, capturing the allure and influence of the entertainment industry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d81bf0b2afa3803d6b57",
+    "title": "Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+    "category": "U.S.",
+    "published_at": "2026-11-20T10:00:29Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+        "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T10:00:29Z",
+        "primary": false,
+        "excerpt": "The Ferrari driver has always used his fame to highlight causes he cares about. Now he stands out as other athletes tone down their rhetoricMost Formula One drivers might slip away to the beach or the golf course on a week off between races. Lewis Hamilton is not most drivers, though. Instead he went to the Rafah border crossing between Egypt and Gaza. He greeted aid workers in Arabic, toured the checkpoint and visited the Egyptian Red Crescent warehouses in nearby El-Arish, where relief supplies are prepared for distribution. Hamilton made the visit on a day Israeli airstrikes and gunfire kil"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "69465d17130aefc94ee1",
+    "title": "California’s coastal communities on alert as biggest waves in years hit state",
+    "category": "U.S.",
+    "published_at": "2026-11-20T09:03:20Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "California’s coastal communities on alert as biggest waves in years hit state",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T09:03:20Z",
+        "primary": false,
+        "excerpt": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "886a1d3b3062821a8508",
+    "title": "Finding an ACA Plan Have You Feeling Overwhelmed? Free Help Is Available",
+    "category": "Health",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Finding an ACA Plan Have You Feeling Overwhelmed? Free Help Is Available",
+        "url": "https://kffhealthnews.org/insurance/wamu-health-hub-open-enrollment-aca-obamacare-first-time-free-help-assisters/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "Open enrollment season is here. “HealthQ” host Blake Farmer sits down with WAMU’s “Health Hub” to tell first-time shoppers what they need to know about picking out a health plan."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d9b122f4e50c293a30d2",
+    "title": "Experts say powering data centers uses more water than cooling them",
+    "category": "Technology",
+    "published_at": "2026-11-20T09:43:39Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Experts say powering data centers uses more water than cooling them",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-20T09:43:39Z",
+        "primary": false,
+        "excerpt": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4ff0ec87045136c8794a",
+    "title": "Big Win Sets Up Democrats To Intensify Probe of Trump’s Obamacare Purge",
+    "category": "Health",
+    "published_at": "2026-11-20T10:00:00Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Big Win Sets Up Democrats To Intensify Probe of Trump’s Obamacare Purge",
+        "url": "https://kffhealthnews.org/elections/midterms-democratic-wins-aca-obamacare-purge-senate-insurance-investigation/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-20T10:00:00Z",
+        "primary": false,
+        "excerpt": "The Trump administration canceled healthcare coverage for 760,000 enrollees in Affordable Care Act insurance plans, saying the enrollments were unauthorized. Now, with Democrats poised to take control of the House and Senate, key lawmakers want answers about the process."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "57a48a90347abb053ee3",
+    "title": "What are heat pumps and how much do they cost?",
+    "category": "Science",
+    "published_at": "2026-11-20T10:24:52Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "What are heat pumps and how much do they cost?",
+        "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-20T10:24:52Z",
+        "primary": false,
+        "excerpt": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ece164ba02e5d3bebff5",
+    "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+    "category": "Technology",
+    "published_at": "2026-11-20T09:43:11Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-20T09:43:11Z",
+        "primary": false,
+        "excerpt": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8c7cf511bb1aa16a9b3a",
+    "title": "Business opportunity or security threat? Nvidia case raises questions about China",
+    "category": "Technology",
+    "published_at": "2026-11-20T09:42:24Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Business opportunity or security threat? Nvidia case raises questions about China",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-20T09:42:24Z",
+        "primary": false,
+        "excerpt": "The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7f2395265a7d330b9cf",
+    "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
+    "category": "Technology",
+    "published_at": "2026-11-20T10:00:28Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
+        "url": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-20T10:00:28Z",
+        "primary": false,
+        "excerpt": "Our tech expert and new mum tested 17 monitors for picture quality, battery life and reliability – here’s what she recommends• The best eco-friendly baby productsMoving my baby into her own room to sleep felt liberating and stressful. She was ready for her own space – but was I ready to let her out of my sight? Well, the first thing I did was buy a video baby monitor, so clearly I wasn’t. But it meant she could sleep peacefully in her new room and I could sneak a reassuring peek from afar whenever I felt the need.There’s a huge range of baby monitors, from simple audio-only options to sophisti"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ddc6656e16cfe050b9b8",
+    "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
+    "category": "Health",
+    "published_at": "2026-11-19T23:07:17Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-11-19T23:07:17Z",
+        "primary": false,
+        "excerpt": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "17dd90b552b10dbf4392",
+    "title": "Judge issues 14-day extension of order blocking Trump's triumphal arch construction",
+    "category": "U.S.",
+    "published_at": "2026-11-19T22:39:21Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Judge issues 14-day extension of order blocking Trump's triumphal arch construction",
+        "url": "https://www.pbs.org/newshour/politics/judge-issues-14-day-extension-of-order-blocking-trumps-triumphal-arch-construction",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-19T22:39:21Z",
+        "primary": false,
+        "excerpt": "A federal judge on Wednesday temporarily extended an order blocking the Trump administration from breaking ground on a towering memorial arch in the nation's capital."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd8a36762525c513b818",
+    "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+    "category": "U.S.",
+    "published_at": "2026-11-19T22:48:22Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+        "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-19T22:48:22Z",
+        "primary": false,
+        "excerpt": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "666ba17e29533e1ccf39",
+    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "category": "U.S.",
+    "published_at": "2026-11-19T12:29:41Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+        "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-19T12:29:41Z",
+        "primary": false,
+        "excerpt": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8f77425f7ccc4bc9731d",
+    "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
+    "category": "U.S.",
+    "published_at": "2026-11-19T21:57:39Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-19T21:57:39Z",
+        "primary": false,
+        "excerpt": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that the Democratic New Jersey representative LaMonica McIver will continue to face charges related to a skirmish outside an immigration detention center last year when she attempted to conduct an oversight visit there.The court’s decision to decline McIver’s request to overturn the court’s earlier ruling comes just a day after she pressed the homeland security secretary for the Trump administration’s aggressive immigration enforcement operati"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "68701b6d24e8c66b5e22",
+    "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+    "category": "World",
+    "published_at": "2026-11-20T04:13:22Z",
+    "first_seen_at": "2026-11-20T11:39:10.123498Z",
+    "updated_at": "2026-11-20T11:39:10.123498Z",
+    "sources": [
+      {
+        "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+        "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T04:13:22Z",
+        "primary": false,
+        "excerpt": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts."
       }
     ],
     "tier": "brief",
