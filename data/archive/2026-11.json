@@ -30581,7 +30581,7 @@
         "excerpt": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -31465,7 +31465,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "155963e08c1f5cb231d5",
@@ -31492,7 +31493,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5cdd94a88373f0e64a79",
@@ -31519,7 +31521,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b1f12833e221941f7d4a",
@@ -31546,7 +31549,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "82d79003537885226b31",
@@ -31573,7 +31577,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "880b9b278347f7bb85de",
@@ -31600,7 +31605,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6fdfbbbcf087cf66e709",
@@ -31627,7 +31633,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9b1ea44f69e8cf424db9",
@@ -31648,6 +31655,205 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "76aebbfe6050a03b02f9",
+    "title": "Trump orders federal contractors to check with White House before responding to Congress",
+    "category": "U.S.",
+    "published_at": "2026-11-21T22:40:36Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T22:40:36Z",
+        "primary": false,
+        "excerpt": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged."
+      },
+      {
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T19:29:23Z",
+        "primary": false,
+        "excerpt": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congress in January."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7ac86eba31f49b2bdd2f",
+    "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+    "category": "U.S.",
+    "published_at": "2026-11-21T20:55:22Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+        "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T20:55:22Z",
+        "primary": false,
+        "excerpt": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6e5196c5585d1a777c25",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "category": "U.S.",
+    "published_at": "2026-11-21T21:05:29Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T21:05:29Z",
+        "primary": false,
+        "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8dd4fe1702b9e004b2fe",
+    "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+    "category": "U.S.",
+    "published_at": "2026-11-21T22:52:03Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+        "url": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T22:52:03Z",
+        "primary": false,
+        "excerpt": "Trump's proposed 250-foot-tall arch could cast a long shadow on Arlington National Cemetery, with the potential to literally shade gravesites, disrupt solemn visits with the noise of construction and alter the carefully designed historic landscape of the nation's capital."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ea0993b99f5f6acd991d",
+    "title": "Bayer reaches Roundup settlement that could cost the company billions",
+    "category": "U.S.",
+    "published_at": "2026-11-21T20:37:35Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "Bayer reaches Roundup settlement that could cost the company billions",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T20:37:35Z",
+        "primary": false,
+        "excerpt": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "952c0ed2adcb165a7317",
+    "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+    "category": "U.S.",
+    "published_at": "2026-11-21T21:20:34Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+        "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T21:20:34Z",
+        "primary": false,
+        "excerpt": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3537b9b39d94068f2794",
+    "title": "Google employees protest AI in schools policy",
+    "category": "Technology",
+    "published_at": "2026-11-21T22:01:40Z",
+    "first_seen_at": "2026-11-21T23:15:36.060372Z",
+    "updated_at": "2026-11-21T23:15:36.060372Z",
+    "sources": [
+      {
+        "title": "Google employees protest AI in schools policy",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-21T22:01:40Z",
+        "primary": false,
+        "excerpt": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
