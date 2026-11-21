@@ -29853,7 +29853,7 @@
         "excerpt": "Open enrollment season is here. “HealthQ” host Blake Farmer sits down with WAMU’s “Health Hub” to tell first-time shoppers what they need to know about picking out a health plan."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -29937,7 +29937,7 @@
         "excerpt": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -30021,7 +30021,7 @@
         "excerpt": "Our tech expert and new mum tested 17 monitors for picture quality, battery life and reliability – here’s what she recommends• The best eco-friendly baby productsMoving my baby into her own room to sleep felt liberating and stressful. She was ready for her own space – but was I ready to let her out of my sight? Well, the first thing I did was buy a video baby monitor, so clearly I wasn’t. But it meant she could sleep peacefully in her new room and I could sneak a reassuring peek from afar whenever I felt the need.There’s a huge range of baby monitors, from simple audio-only options to sophisti"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -30476,7 +30476,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "64d023909b39cab85e4c",
@@ -30503,7 +30504,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "15b54f465cdd01be157d",
@@ -30530,7 +30532,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8b7bc02a677fcabd4c26",
@@ -30557,7 +30560,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86eb333744968d613baa",
@@ -30584,7 +30588,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "644ba74b9c8eda8e2659",
@@ -30611,7 +30616,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "92917e395e09101d089a",
@@ -30638,7 +30644,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fd8ed752b96f5d0414be",
@@ -30665,7 +30672,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ec5238f4b6c2fda9217",
@@ -30692,7 +30700,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6a40f5649735f683f2d0",
@@ -30719,7 +30728,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "487693b7b93a8466702b",
@@ -30746,7 +30756,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ffa7535ae54ec513f8bb",
@@ -30773,7 +30784,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52b628a57d5d7dbd286e",
@@ -30800,7 +30812,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4fa9bfee92d1a8ca7f7a",
@@ -30827,7 +30840,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f13dd6b8fc0f751c2f93",
@@ -30854,7 +30868,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "401fb98f6d082662b3b4",
@@ -30881,7 +30896,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a8ca822f64d01439567e",
@@ -30908,7 +30924,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ed47e09b8885fc2fdb62",
@@ -30935,7 +30952,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c4d1dbbd05885ac48ea6",
@@ -30962,7 +30980,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e3251cb4a7cb260c4b55",
@@ -30989,7 +31008,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "47c9c905aba84676769d",
@@ -31016,7 +31036,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b6634f19135e9c426a8f",
@@ -31043,7 +31064,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "165e2dd4a6e2c47b0891",
@@ -31051,7 +31073,7 @@
     "category": "U.S.",
     "published_at": "2026-11-21T00:01:50Z",
     "first_seen_at": "2026-11-21T09:52:25.577612Z",
-    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
     "sources": [
       {
         "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
@@ -31061,6 +31083,15 @@
         "published_at": "2026-11-21T00:01:50Z",
         "primary": false,
         "excerpt": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
+      },
+      {
+        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T13:58:33Z",
+        "primary": false,
+        "excerpt": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people."
       }
     ],
     "tier": "brief",
@@ -31070,7 +31101,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1aa5844ca46833177dc2",
@@ -31097,7 +31129,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e40b3dff25004c052760",
@@ -31124,7 +31157,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0ec53dc221cfaae54b17",
@@ -31151,7 +31185,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0b54069e3cf977c9b828",
@@ -31178,7 +31213,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8dcb0172596ba45932db",
@@ -31205,7 +31241,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bcd24df9daeba2223383",
@@ -31232,7 +31269,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3df0760b00a421e2f3a1",
@@ -31259,7 +31297,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ca2789c2b0e8e867bf3f",
@@ -31286,7 +31325,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1f55bc39dbfcd60804d0",
@@ -31313,7 +31353,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e9b7d97728f3f2521465",
@@ -31340,7 +31381,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e517508fe8048e898b10",
@@ -31367,7 +31409,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "930b7109b7008a342ec4",
@@ -31385,6 +31428,223 @@
         "published_at": "2026-11-20T23:08:57Z",
         "primary": false,
         "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "154eae9993cd6a475134",
+    "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
+    "category": "Elections",
+    "published_at": "2026-11-21T10:00:00Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
+        "url": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
+        "publisher": "KFF Health News",
+        "category": "Elections",
+        "published_at": "2026-11-21T10:00:00Z",
+        "primary": false,
+        "excerpt": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "155963e08c1f5cb231d5",
+    "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+    "category": "Elections",
+    "published_at": "2026-11-21T12:40:21Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-21T12:40:21Z",
+        "primary": false,
+        "excerpt": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5cdd94a88373f0e64a79",
+    "title": "This is how badly Trump’s Republican endorsements did in the midterms",
+    "category": "Elections",
+    "published_at": "2026-11-21T12:00:58Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "This is how badly Trump’s Republican endorsements did in the midterms",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-21T12:00:58Z",
+        "primary": false,
+        "excerpt": "The Guardian analyzed US Senate, House and governors’ races, showing Trump’s dwindling influence over the GOPDonald Trump often boasts about the power of his “Complete and Total Endorsement” of candidates, but in the 2026 midterms, his endorsements carried less weight than they did two years ago.Half of the Senate candidates Trump endorsed lost, and most of the governors the US president endorsed were defeated by Democratic candidates in this month’s blue wave midterm elections, according to an analysis by the Guardian. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b1f12833e221941f7d4a",
+    "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+    "category": "Elections",
+    "published_at": "2026-11-21T10:00:00Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-21T10:00:00Z",
+        "primary": false,
+        "excerpt": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "82d79003537885226b31",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "category": "U.S.",
+    "published_at": "2026-11-21T16:35:15Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T16:35:15Z",
+        "primary": false,
+        "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "880b9b278347f7bb85de",
+    "title": "Federal judge denies request to release man shot by immigration agents in New York",
+    "category": "U.S.",
+    "published_at": "2026-11-21T14:52:30Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "Federal judge denies request to release man shot by immigration agents in New York",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T14:52:30Z",
+        "primary": false,
+        "excerpt": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from schoolA federal judge on Friday declined to release from custody a man who was shot and wounded by immigration officers as they arrested him in New York in October.The US district court judge Hector Gonzalez said in a written ruling that agents may have made a procedural error in serving an arrest warrant on Oscar Belgal before he was given a notice to appear in immigration court. However, he wrote, that was merely a technical error that does not require Belgal to be released from federal cus"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6fdfbbbcf087cf66e709",
+    "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+    "category": "World",
+    "published_at": "2026-11-21T17:24:51Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-21T17:24:51Z",
+        "primary": false,
+        "excerpt": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was essential for the US to go to war with the Islamic republic.In the White House briefing room, Trump was asked about reporting this week that he was unhappy with the US vice-president’s statement blaming Republican losses in the midterm elections on the Iran war. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9b1ea44f69e8cf424db9",
+    "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+    "category": "U.S.",
+    "published_at": "2026-11-21T17:03:39Z",
+    "first_seen_at": "2026-11-21T17:31:19.403459Z",
+    "updated_at": "2026-11-21T17:31:19.403459Z",
+    "sources": [
+      {
+        "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+        "url": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T17:03:39Z",
+        "primary": false,
+        "excerpt": "The added day of talks came as the two-week annual summit, or COP31, drew strong condemnation for failing to mention fossil fuels in a draft of the final agreement."
       }
     ],
     "tier": "brief",
