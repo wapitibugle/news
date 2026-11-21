@@ -29909,7 +29909,7 @@
         "excerpt": "The Trump administration canceled healthcare coverage for 760,000 enrollees in Affordable Care Act insurance plans, saying the enrollments were unauthorized. Now, with Democrats poised to take control of the House and Senate, key lawmakers want answers about the process."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -30049,7 +30049,7 @@
         "excerpt": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -30224,7 +30224,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8cf7a61aa3082fa3ea9f",
@@ -30242,6 +30243,196 @@
         "published_at": "2026-11-20T17:00:00Z",
         "primary": false,
         "excerpt": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f2b965acf30650c095b1",
+    "title": "Trump turns White House press conference into a 2028 succession audition",
+    "category": "World",
+    "published_at": "2026-11-21T00:16:26Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "Trump turns White House press conference into a 2028 succession audition",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-21T00:16:26Z",
+        "primary": false,
+        "excerpt": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight“Which of you shall we say doth love us most?”The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "41085595ea9cb4a6f90f",
+    "title": "What Trump addressed during his lengthy White House news conference",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:55:30Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "What Trump addressed during his lengthy White House news conference",
+        "url": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:55:30Z",
+        "primary": false,
+        "excerpt": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers was in the briefing room as the president took questions from reporters."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b73e3f5f8b12721b3ab9",
+    "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:25:19Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
+        "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:25:19Z",
+        "primary": false,
+        "excerpt": "Agrochemical maker Bayer will pay up to $7.25 billion over two decades to resolve thousands of claims from U.S. cancer patients asserting the company should have warned people that its popular weed killer Roundup could cause lymphoma, according to a settlement approved Friday by a Missouri judge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9c71478fc65726f5a633",
+    "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+    "category": "U.S.",
+    "published_at": "2026-11-21T00:03:47Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T00:03:47Z",
+        "primary": false,
+        "excerpt": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers unionHundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield.Huerta’s daughter Lori de Leon thanked attendees for their support during her mother’s passing, highlighting the widespread tributes and communities gathering in her honor. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6701fc72f13b1f87186e",
+    "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:42:43Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+        "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:42:43Z",
+        "primary": false,
+        "excerpt": "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade.Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dd678c417ecd29bb77ed",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "category": "World",
+    "published_at": "2026-11-21T02:09:46Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-21T02:09:46Z",
+        "primary": false,
+        "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "25cd9ad450a3df45512c",
+    "title": "US declassifies more UFO footage filmed in the Middle East",
+    "category": "World",
+    "published_at": "2026-11-20T23:15:20Z",
+    "first_seen_at": "2026-11-21T02:13:53.712388Z",
+    "updated_at": "2026-11-21T02:13:53.712388Z",
+    "sources": [
+      {
+        "title": "US declassifies more UFO footage filmed in the Middle East",
+        "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T23:15:20Z",
+        "primary": false,
+        "excerpt": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
       }
     ],
     "tier": "brief",
