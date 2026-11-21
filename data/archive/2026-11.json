@@ -29321,7 +29321,7 @@
         "excerpt": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growingA pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades.In one in 12 of the patients given the drug, daraxonrasib, during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -29909,7 +29909,7 @@
         "excerpt": "The Trump administration canceled healthcare coverage for 760,000 enrollees in Affordable Care Act insurance plans, saying the enrollments were unauthorized. Now, with Democrats poised to take control of the House and Senate, key lawmakers want answers about the process."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -30280,7 +30280,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "41085595ea9cb4a6f90f",
@@ -30307,7 +30308,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b73e3f5f8b12721b3ab9",
@@ -30334,7 +30336,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9c71478fc65726f5a633",
@@ -30361,7 +30364,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6701fc72f13b1f87186e",
@@ -30388,7 +30392,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dd678c417ecd29bb77ed",
@@ -30415,7 +30420,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "25cd9ad450a3df45512c",
@@ -30433,6 +30439,952 @@
         "published_at": "2026-11-20T23:15:20Z",
         "primary": false,
         "excerpt": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6bd0be23632c65d99184",
+    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "category": "World",
+    "published_at": "2026-11-21T08:10:25Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-21T08:10:25Z",
+        "primary": false,
+        "excerpt": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64d023909b39cab85e4c",
+    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+    "category": "U.S.",
+    "published_at": "2026-11-21T08:08:01Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+        "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T08:08:01Z",
+        "primary": false,
+        "excerpt": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "15b54f465cdd01be157d",
+    "title": "‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures",
+    "category": "U.S.",
+    "published_at": "2026-11-21T08:00:53Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T08:00:53Z",
+        "primary": false,
+        "excerpt": "Arriving one afternoon on a whim at a public swimming pond during a heatwave, photographer Stephen DiRado introduced himself to anyone willing to pay attention – and kept coming back. Bell Pond, available from TBW Books, captures intimate portraits of a working-class community Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8b7bc02a677fcabd4c26",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "category": "Science",
+    "published_at": "2026-11-21T07:31:05Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-21T07:31:05Z",
+        "primary": false,
+        "excerpt": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86eb333744968d613baa",
+    "title": "New research gives insight to where your brain plans out your speech",
+    "category": "Science",
+    "published_at": "2026-11-20T21:38:25Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "New research gives insight to where your brain plans out your speech",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
+        "publisher": "NPR",
+        "category": "Science",
+        "published_at": "2026-11-20T21:38:25Z",
+        "primary": false,
+        "excerpt": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "644ba74b9c8eda8e2659",
+    "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+    "category": "World",
+    "published_at": "2026-11-20T11:57:43Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+        "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-20T11:57:43Z",
+        "primary": false,
+        "excerpt": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreachThe US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China has raised concerns of judicial overreach.Reactions to Thursday’s historic ruling underlined deep international division over the role of the court and similar institutions. The international court of justice (ICJ) had never previously found a state responsible for genocide and the decision could set a precedent for future genocide claims, no"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "92917e395e09101d089a",
+    "title": "Second federal judge blocks construction of Trump's memorial arch",
+    "category": "U.S.",
+    "published_at": "2026-11-20T21:28:49Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Second federal judge blocks construction of Trump's memorial arch",
+        "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T21:28:49Z",
+        "primary": false,
+        "excerpt": "A second federal judge has blocked President Donald Trump's administration from building a 250-foot memorial arch in the nation's capital, issuing an order on Friday that keeps the construction work on hold indefinitely, according to plaintiffs' lawyers who sued to challenge the project."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fd8ed752b96f5d0414be",
+    "title": "Court grants request to prevent military from detonating bomb-making chemicals in Iowa",
+    "category": "U.S.",
+    "published_at": "2026-11-20T19:27:47Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Court grants request to prevent military from detonating bomb-making chemicals in Iowa",
+        "url": "https://www.pbs.org/newshour/nation/court-grants-request-to-prevent-military-from-detonating-bomb-making-chemicals-in-iowa",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T19:27:47Z",
+        "primary": false,
+        "excerpt": "The detonation was initially planned for Friday, but the Army pushed it to Monday following an outpouring of public concern about the potential health and environmental consequences."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ec5238f4b6c2fda9217",
+    "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+    "category": "U.S.",
+    "published_at": "2026-11-21T03:49:09Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T03:49:09Z",
+        "primary": false,
+        "excerpt": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6a40f5649735f683f2d0",
+    "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+    "category": "U.S.",
+    "published_at": "2026-11-20T18:51:16Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T18:51:16Z",
+        "primary": false,
+        "excerpt": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working AmericansIn response to a Guardian investigation, four US Senate Democrats say they will work to resurrect a financial watchdog agency that has abandoned dozens of enforcement actions under the second Trump administration.The Guardian found that after the Consumer Financial Protection Bureau (CFPB) dropped more than 20 lawsuits against banks and corporations accused of a range of financial misconduct, complaints against those firms rose by an aver"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "487693b7b93a8466702b",
+    "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+    "category": "U.S.",
+    "published_at": "2026-11-20T18:25:09Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T18:25:09Z",
+        "primary": false,
+        "excerpt": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ffa7535ae54ec513f8bb",
+    "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+    "category": "U.S.",
+    "published_at": "2026-11-20T13:43:58Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+        "url": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T13:43:58Z",
+        "primary": false,
+        "excerpt": "The White House named a new national cyber director Thursday after a series of widespread service outages disrupted life and unnerved many Americans."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52b628a57d5d7dbd286e",
+    "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+    "category": "U.S.",
+    "published_at": "2026-11-20T16:46:05Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T16:46:05Z",
+        "primary": false,
+        "excerpt": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’US politics live – latest updatesKatie Zacharia, the former White House press secretary hired and fired in the same week, is under investigation by the state bar of California for claiming to be a lawyer despite never passing the bar exam.Earlier this month, the state bar of California informed Campaign for Accountability, a non-profit watchdog group, that it had assigned an investigator and legal adviser to investigate Zacharia after the organization filed a complaint. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4fa9bfee92d1a8ca7f7a",
+    "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
+    "category": "U.S.",
+    "published_at": "2026-11-20T16:32:32Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T16:32:32Z",
+        "primary": false,
+        "excerpt": "Virginia judge says the US president’s pet project ​is ​a ‘rushed job’ ​that ‌lacks ​legal basisA federal judge on Friday morning said she would issue a preliminary injunction to block construction of ⁠Donald Trump’s ‌proposed so-called “triumphal arch” as a huge presence near some of the most famous and sacred sites in the Washington DC area.Judge Leonie Brinkema in Alexandria, Virginia, ​said during a ⁠hearing ​on Friday that the US president’s pet project ​was ​a “rushed job” ​that ‌lacked ​a ​legal basis. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f13dd6b8fc0f751c2f93",
+    "title": "Could Pete Buttigieg win the White House in 2028? | Politics Weekly America",
+    "category": "U.S.",
+    "published_at": "2026-11-20T12:00:20Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Could Pete Buttigieg win the White House in 2028? | Politics Weekly America",
+        "url": "https://www.theguardian.com/politics/video/2026/nov/20/could-pete-buttigieg-win-the-white-house-in-2028-politics-weekly-america",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-20T12:00:20Z",
+        "primary": false,
+        "excerpt": "Democrats who might be thinking of launching a presidential run in 2028 are starting to make moves. One such contender is Pete Buttigieg, the former transportation secretary under Joe Biden. Is he the candidate who can unite the broad church in his party?There’s also talk that a vote to elect the new Senate leader could be moved up, helping Chuck Schumer retain power, after Chris Van Hollen challenged him for the position.Jonathan Freedland speaks to Marianna Sotomayor of Puck News about the Democrats looking to shore up power on Capitol Hill and potentially head for the White House Continue r"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "401fb98f6d082662b3b4",
+    "title": "Another day of survival for a family in Ukraine",
+    "category": "World",
+    "published_at": "2026-11-20T21:32:31Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Another day of survival for a family in Ukraine",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-20T21:32:31Z",
+        "primary": false,
+        "excerpt": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a8ca822f64d01439567e",
+    "title": "What we know about the latest Russian missile strikes on Ukraine",
+    "category": "World",
+    "published_at": "2026-11-20T15:14:01Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "What we know about the latest Russian missile strikes on Ukraine",
+        "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-20T15:14:01Z",
+        "primary": false,
+        "excerpt": "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed47e09b8885fc2fdb62",
+    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "category": "World",
+    "published_at": "2026-11-20T12:04:57Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-20T12:04:57Z",
+        "primary": false,
+        "excerpt": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c4d1dbbd05885ac48ea6",
+    "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+    "category": "World",
+    "published_at": "2026-11-20T11:37:35Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-20T11:37:35Z",
+        "primary": false,
+        "excerpt": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e3251cb4a7cb260c4b55",
+    "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+    "category": "World",
+    "published_at": "2026-11-21T05:00:50Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+        "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-21T05:00:50Z",
+        "primary": false,
+        "excerpt": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yetMykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday.Buses are now the only motor transport allowed across the normally busy multi-lane crossing, though on their way into the city centre they have to skirt the tears in the tarmac, using the only functioning lane to get by. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "47c9c905aba84676769d",
+    "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+    "category": "U.S.",
+    "published_at": "2026-11-21T00:28:54Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+        "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T00:28:54Z",
+        "primary": false,
+        "excerpt": "The International Court of Justice has no power to enforce Thursday's ruling, which orders Myanmar's military-supported government to allow those who fled the violence to return home safely, to pay reparations to the Rohingya Muslims and prosecute those suspected of having committed genocide."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6634f19135e9c426a8f",
+    "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+    "category": "U.S.",
+    "published_at": "2026-11-21T01:19:25Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T01:19:25Z",
+        "primary": false,
+        "excerpt": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "165e2dd4a6e2c47b0891",
+    "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+    "category": "U.S.",
+    "published_at": "2026-11-21T00:01:50Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+        "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T00:01:50Z",
+        "primary": false,
+        "excerpt": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1aa5844ca46833177dc2",
+    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "category": "U.S.",
+    "published_at": "2026-11-21T01:02:39Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T01:02:39Z",
+        "primary": false,
+        "excerpt": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e40b3dff25004c052760",
+    "title": "News Wrap: Stocks tumble as worries about AI rattle market",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:50:42Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "News Wrap: Stocks tumble as worries about AI rattle market",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:50:42Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, stocks tumbled to end the week as worries about AI rattled the market, a second federal judge is blocking President Trump's triumphal arch in Washington and a federal appeals court is blocking the Army from detonating several tons of bomb-making chemicals amid concerns over environmental and health risks."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0ec53dc221cfaae54b17",
+    "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+    "category": "U.S.",
+    "published_at": "2026-11-21T01:02:08Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+        "url": "https://www.bbc.co.uk/news/articles/cr930ney9d1po",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T01:02:08Z",
+        "primary": false,
+        "excerpt": "Trump backed members of his administration who are asking for $50bn to rebuild air traffic control systems in the wake of last Friday's major outage."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0b54069e3cf977c9b828",
+    "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:45:36Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+        "url": "https://www.pbs.org/newshour/show/mounting-tech-disruptions-raise-concerns-about-u-s-cybersecurity",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:45:36Z",
+        "primary": false,
+        "excerpt": "President Trump has replaced the nation's top cybersecurity official following a string of seemingly unrelated technology outages over the last couple of weeks. Officials have repeatedly stressed that these outages were not the result of intentional attacks, but given the growth of AI, there's growing concern that attacks are on the horizon. William Brangham discussed more with Chris Krebs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8dcb0172596ba45932db",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "category": "U.S.",
+    "published_at": "2026-11-20T22:11:29Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T22:11:29Z",
+        "primary": false,
+        "excerpt": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bcd24df9daeba2223383",
+    "title": "Max Verstappen takes pole for Las Vegas Grand Prix after Kimi Antonelli penalty",
+    "category": "U.S.",
+    "published_at": "2026-11-21T06:00:55Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Max Verstappen takes pole for Las Vegas Grand Prix after Kimi Antonelli penalty",
+        "url": "https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T06:00:55Z",
+        "primary": false,
+        "excerpt": "Antonelli quickest in qualifying but will start from sixthVerstappen on front row alongside Mercedes’ RussellThe record books will not mark it as such but the Formula One world champion, Kimi Antonelli, earned what would have been pole position for the Las Vegas Grand Prix but for a grid penalty that denied the Italian after a risky gambit that proved the youngster is not afraid to roll the dice in Sin City.However, his five-place sanction for taking a new engine means it is Red Bull’s Max Verstappen who has pole in Nevada. He claimed his first pole for the race which he has won twice and Anto"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3df0760b00a421e2f3a1",
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "category": "U.S.",
+    "published_at": "2026-11-21T00:01:39Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-21T00:01:39Z",
+        "primary": false,
+        "excerpt": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ca2789c2b0e8e867bf3f",
+    "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:40:50Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
+        "url": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:40:50Z",
+        "primary": false,
+        "excerpt": "Pennsylvania Gov. Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House. Now Shapiro is turning his attention to foreign policy, laying out his prescriptions to solve pressing global crises. Amna Nawaz sat down with the governor to discuss his vision for how the United States should engage on the world stage."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1f55bc39dbfcd60804d0",
+    "title": "The latest from Trump's press conference",
+    "category": "U.S.",
+    "published_at": "2026-11-20T21:38:21Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "The latest from Trump's press conference",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-20T21:38:21Z",
+        "primary": false,
+        "excerpt": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e9b7d97728f3f2521465",
+    "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+    "category": "U.S.",
+    "published_at": "2026-11-21T01:43:15Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T01:43:15Z",
+        "primary": false,
+        "excerpt": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury.For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e517508fe8048e898b10",
+    "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:39:39Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo",
+        "url": "https://www.pbs.org/newshour/nation/fionas-caretakers-and-fans-mourn-the-beloved-hippo-after-her-death-at-cincinnati-zoo",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:39:39Z",
+        "primary": false,
+        "excerpt": "Born prematurely almost a decade ago and given slim odds of survival, Fiona became not only a source of hometown pride but also a worldwide symbol of hope and inspiration for many."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "930b7109b7008a342ec4",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "category": "U.S.",
+    "published_at": "2026-11-20T23:08:57Z",
+    "first_seen_at": "2026-11-21T09:52:25.577612Z",
+    "updated_at": "2026-11-21T09:52:25.577612Z",
+    "sources": [
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-20T23:08:57Z",
+        "primary": false,
+        "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
       }
     ],
     "tier": "brief",
