@@ -30553,7 +30553,7 @@
         "excerpt": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -31859,7 +31859,7 @@
         "excerpt": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -31868,5 +31868,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "0afef7db4686ed935b98",
+    "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+    "category": "World",
+    "published_at": "2026-11-22T11:25:14Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-22T11:25:14Z",
+        "primary": false,
+        "excerpt": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f60d900b670ecc41753d",
+    "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+    "category": "U.S.",
+    "published_at": "2026-11-22T11:00:26Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T11:00:26Z",
+        "primary": false,
+        "excerpt": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to ChinaHoward Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump, is emerging as Democrats’ prime target when the party takes control of Congress in January.Lutnick is resisting calls to resign amid a bipartisan outcry over his role in the scandal at artificial intelligence (AI) company Nvidia and the sale of microchips to China, the US’s principal geopolitical rival in the race for AI supremacy. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "767a1af0a7d3afca98a4",
+    "title": "He expected a small-business loan. It turned out to be a trap",
+    "category": "U.S.",
+    "published_at": "2026-11-22T10:00:00Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "He expected a small-business loan. It turned out to be a trap",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T10:00:00Z",
+        "primary": false,
+        "excerpt": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9e7ddd42a7fb0d5a914e",
+    "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+    "category": "U.S.",
+    "published_at": "2026-11-22T11:00:25Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T11:00:25Z",
+        "primary": false,
+        "excerpt": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of homeAn Arizona granddad has been formally recognized as a hero after recently volunteering to help search for a toddler who wandered off alone into the desert while wearing only a diaper – and finding her safely within several hours curled up under a bush, leading to her rescue.“I’ll never forget it as long as I live,” Jay Stewart said of recovering Vella Campillo, two, while recalling the moment at a news conference held later. “I’ve never wanted to find something so bad in my life – "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "50e29ab8b1b82a196e38",
+    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+    "category": "Science",
+    "published_at": "2026-11-22T10:44:12Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+        "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-22T10:44:12Z",
+        "primary": false,
+        "excerpt": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b150fa245fb0634065ab",
+    "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+    "category": "World",
+    "published_at": "2026-11-22T11:00:26Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-22T11:00:26Z",
+        "primary": false,
+        "excerpt": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on MagaAs a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy.“In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,”"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eddbf49d13f44b73fcaf",
+    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+    "category": "Science",
+    "published_at": "2026-11-22T09:00:22Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+        "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-22T09:00:22Z",
+        "primary": false,
+        "excerpt": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b07e4c74ea4550b6e6e2",
+    "title": "Trump orders contractors to check with White House over any congressional inquiries",
+    "category": "World",
+    "published_at": "2026-11-21T18:08:30Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Trump orders contractors to check with White House over any congressional inquiries",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-21T18:08:30Z",
+        "primary": false,
+        "excerpt": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight effortsDonald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged, according to an executive order issued late Friday.The companies must also coordinate with the White House and US agencies on “appropriate responses” to any such requests, the order says. If they fail to comply, the White House warns, their contracts could be te"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d1625a1aaf3ce947fb51",
+    "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+    "category": "U.S.",
+    "published_at": "2026-11-21T17:32:04Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+        "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T17:32:04Z",
+        "primary": false,
+        "excerpt": "It was the latest episode in the public audition that the president and former reality television star has appeared to delight in arranging for his potential successors as he nears his last two years in office."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fb1fe9310c16f81ff089",
+    "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+    "category": "World",
+    "published_at": "2026-11-21T12:40:18Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-21T12:40:18Z",
+        "primary": false,
+        "excerpt": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "137aa00381510aa2e0b6",
+    "title": "Why do people believe recent tech failures must be connected?",
+    "category": "U.S.",
+    "published_at": "2026-11-21T23:14:57Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Why do people believe recent tech failures must be connected?",
+        "url": "https://www.pbs.org/newshour/nation/why-do-people-believe-recent-tech-failures-must-be-connected",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T23:14:57Z",
+        "primary": false,
+        "excerpt": "Even without clear evidence, people drew connections between recent tech failures and outages. The way our brains and social media platforms work helps explain why."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "411940f8e460fbd061f7",
+    "title": "Highlights and challenges from covering an historic month in South America",
+    "category": "U.S.",
+    "published_at": "2026-11-21T22:01:35Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Highlights and challenges from covering an historic month in South America",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T22:01:35Z",
+        "primary": false,
+        "excerpt": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a5fd22ddaca2f4f77b89",
+    "title": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
+    "category": "U.S.",
+    "published_at": "2026-11-21T19:46:19Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
+        "url": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T19:46:19Z",
+        "primary": false,
+        "excerpt": "Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e017bbfe417464b61b14",
+    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+    "category": "U.S.",
+    "published_at": "2026-11-21T19:13:16Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+        "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T19:13:16Z",
+        "primary": false,
+        "excerpt": "Fausto Isidro Meza Flores was one of the FBI's 10 most wanted fugitives. He climbed the cartel ranks to lead the Beltrán Leyva cartel and later became the leader of his own group, the Meza-Flores Transnational Criminal Organization."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c0e63ae4f741bd105e84",
+    "title": "Storms expected on both coasts threatens Thanksgiving travel",
+    "category": "U.S.",
+    "published_at": "2026-11-21T18:22:46Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Storms expected on both coasts threatens Thanksgiving travel",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T18:22:46Z",
+        "primary": false,
+        "excerpt": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b76dfe3de30c0fc5f04",
+    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+    "category": "U.S.",
+    "published_at": "2026-11-21T18:08:55Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T18:08:55Z",
+        "primary": false,
+        "excerpt": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6f9459c4bc791d7aab5",
+    "title": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
+    "category": "U.S.",
+    "published_at": "2026-11-21T16:46:44Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
+        "url": "https://www.pbs.org/newshour/nation/texas-says-an-execution-went-as-planned-a-witness-says-screams-showed-tremendous-distress",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T16:46:44Z",
+        "primary": false,
+        "excerpt": "Executions across the U.S. have garnered more attention since Christa Pike survived two doses of pentobarbital in Tennessee in September. The drug didn't enter her bloodstream correctly."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "01630a759bee6fa3ceb4",
+    "title": "Max Verstappen touches perfection in dramatic Las Vegas F1 GP win",
+    "category": "U.S.",
+    "published_at": "2026-11-22T06:08:03Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Max Verstappen touches perfection in dramatic Las Vegas F1 GP win",
+        "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T06:08:03Z",
+        "primary": false,
+        "excerpt": "Dutchman under siege before pulling clear in the final lapCharles Leclerc and Lewis Hamilton again clash on trackFor a race still in its infancy, this year’s Las Vegas Grand Prix delivered a spectacle for the ages. The victory for Max Verstappen once more exemplified why he must be acknowledged as one the greats of Formula One after a compelling race-long battle where the lead changed 34 times but on every occasion, and most important on the very last lap, it was the Red Bull driver who had his nose in front.This was a race unique to this season and not seen in the sport for a long time, an ol"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "19b1fdeae96ed450b49e",
+    "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+    "category": "U.S.",
+    "published_at": "2026-11-21T16:28:20Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+        "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-21T16:28:20Z",
+        "primary": false,
+        "excerpt": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f12e17e5c0d00f1e7ef0",
+    "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+    "category": "U.S.",
+    "published_at": "2026-11-21T14:18:17Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T14:18:17Z",
+        "primary": false,
+        "excerpt": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d7e36a0be7e2aeed2702",
+    "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+    "category": "U.S.",
+    "published_at": "2026-11-22T03:01:55Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+        "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T03:01:55Z",
+        "primary": false,
+        "excerpt": "Messi booked for throwing ball into opponent’s faceColumbus coach insists Argentine deserved red cardDefending champions thrashed 3-0 in series openerColumbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday.Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eba22d39b4b00715d962",
+    "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
+    "category": "U.S.",
+    "published_at": "2026-11-21T12:40:19Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T12:40:19Z",
+        "primary": false,
+        "excerpt": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "361853bb5c9cfbaee12a",
+    "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+    "category": "U.S.",
+    "published_at": "2026-11-21T18:50:00Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T18:50:00Z",
+        "primary": false,
+        "excerpt": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killingsA man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being arrested in Mississippi after a police chase, authorities allege.Jared Schurr, 36, faces counts of second-degree murder in the killings of Lizeht Rodriguez, 24, and Woodrow Scott, 37, on 11 and 13 November, respectively, investigators said on Saturday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bb96c010511f1120926e",
+    "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
+    "category": "U.S.",
+    "published_at": "2026-11-21T12:40:15Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-21T12:40:15Z",
+        "primary": false,
+        "excerpt": "President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "31693016c68ec3160b64",
+    "title": "Virginia child dies in state’s first measles-associated death of 2026",
+    "category": "U.S.",
+    "published_at": "2026-11-21T15:30:07Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Virginia child dies in state’s first measles-associated death of 2026",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T15:30:07Z",
+        "primary": false,
+        "excerpt": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 yearsVirginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the state’s health department said.The department said the child was ⁠age four or younger. It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4349f790fdf90a4650e3",
+    "title": "Witness recounts a botched execution in Texas: ‘Just such horror and terror and pain’",
+    "category": "U.S.",
+    "published_at": "2026-11-21T15:00:00Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Witness recounts a botched execution in Texas: ‘Just such horror and terror and pain’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/texas-witness-botched-execution-reinaldo-dennes",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T15:00:00Z",
+        "primary": false,
+        "excerpt": "Rev Dr Jeff Hood stood at the side of Reinaldo Dennes as the state of Texas put him to death, calling the experience ‘overwhelming’“Take me, father!”It was one of many cries Reinaldo Dennes uttered on Thursday night as he lay strapped to a gurney inside a Texas death chamber while prison officials struggled, for more than an hour, to carry out his execution. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2483710c338eb636a0f2",
+    "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+    "category": "U.S.",
+    "published_at": "2026-11-21T14:09:02Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T14:09:02Z",
+        "primary": false,
+        "excerpt": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information CenterHackers breached the US Department of Agriculture (USDA) and the FBI, national media reported on Friday, amid deepening concerns over a spate of tech outages at key American institutions.The breaches were first reported by NBC News and CNN respectively, and it remained unclear whether they were related and who was responsible. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b0f974ae819db48897f1",
+    "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+    "category": "U.S.",
+    "published_at": "2026-11-21T13:00:00Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T13:00:00Z",
+        "primary": false,
+        "excerpt": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the US Congress has found, as the acting secretary of the navy conceded this week the Iran war was “stretching” the fleet’s capacity.The challenges facing the world’s biggest naval force were highlighted this week, when the return of the USS George Washington from the Middle East on Wednesday ended a rare three-month period when the US had no "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0c48fbad17c200eec41b",
+    "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
+    "category": "U.S.",
+    "published_at": "2026-11-21T12:00:57Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-21T12:00:57Z",
+        "primary": false,
+        "excerpt": "Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic votersThe race to lead the Democratic Party’s incoming Senate majority has become the latest battlefield between two conflicting visions for how the US should relate to Israel – a once unquestioned ally whose collapsing standing among the US public has become a defining feature of American politics.Chuck Schumer, the veteran New York Senator and current Democratic minority leader, is one of Israel’s most reliable supporters in Congress. As he views it, according to an intervie"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b7f19ceb5bb177c26c80",
+    "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+    "category": "Outdoors",
+    "published_at": "2026-11-21T12:40:17Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+        "publisher": "NPR",
+        "category": "Outdoors",
+        "published_at": "2026-11-21T12:40:17Z",
+        "primary": false,
+        "excerpt": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8588f393a093148158b9",
+    "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+    "category": "Health",
+    "published_at": "2026-11-21T12:40:10Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-11-21T12:40:10Z",
+        "primary": false,
+        "excerpt": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "232c6748d5ebcf90a115",
+    "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
+    "category": "Technology",
+    "published_at": "2026-11-22T07:00:21Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
+        "url": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-22T07:00:21Z",
+        "primary": false,
+        "excerpt": "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said• The best Christmas gifts for 2026How old are you, and what would you like for Christmas? That’s normally a question reserved for children visiting Santa’s grotto, but it’s one we put to hundreds of you of all ages to see what different generations have on their gift lists.The results may just help you hone your approach to present buying across generations this Christmas, or at least offer an insight into the tastes of each group. But be war"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cc5e8f65eaaca95a6325",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "category": "Technology",
+    "published_at": "2026-11-22T06:00:21Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+        "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-22T06:00:21Z",
+        "primary": false,
+        "excerpt": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm eventWith their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads.On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and a"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d5fefb2e07250b488f9a",
+    "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+    "category": "Outdoors",
+    "published_at": "2026-11-22T01:00:13Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-22T01:00:13Z",
+        "primary": false,
+        "excerpt": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plansSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereVictoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offering a plan at this month’s state election to deal with it, experts have warned.All parties concede the giant Yallourn coal plant, which has operated in the Latrobe Valley since the 1970s and supplies a fifth of Victoria’s energy, is at the e"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "102171461655a9e6c4d5",
+    "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+    "category": "Science",
+    "published_at": "2026-11-21T12:00:00Z",
+    "first_seen_at": "2026-11-22T11:32:17.847231Z",
+    "updated_at": "2026-11-22T11:32:17.847231Z",
+    "sources": [
+      {
+        "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+        "url": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+        "publisher": "Science News",
+        "category": "Science",
+        "published_at": "2026-11-21T12:00:00Z",
+        "primary": false,
+        "excerpt": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
