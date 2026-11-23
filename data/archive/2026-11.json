@@ -33294,7 +33294,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "56073dcdb712a9597d56",
@@ -33321,7 +33322,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3d31a846dbd5358c7856",
@@ -33348,7 +33350,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2a5260d421270e27148c",
@@ -33375,7 +33378,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9dd7aa58f5641099045c",
@@ -33402,7 +33406,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a07757fe97a8a553cc64",
@@ -33410,7 +33415,7 @@
     "category": "Science",
     "published_at": "2026-11-23T07:10:49Z",
     "first_seen_at": "2026-11-23T09:04:13.167957Z",
-    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
     "sources": [
       {
         "title": "Can you solve it? How Super Mario explains Renaissance art",
@@ -33420,6 +33425,15 @@
         "published_at": "2026-11-23T07:10:49Z",
         "primary": false,
         "excerpt": "A step or a jumpToday’s puzzle is about the hidden mathematical pattern behind a much-loved video game.Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that.3 platforms?4 platforms?5 platforms?10 platforms? Continue reading..."
+      },
+      {
+        "title": "Did you solve it? How Super Mario explains Renaissance art",
+        "url": "https://www.theguardian.com/science/2026/nov/23/did-you-solve-it-how-super-mario-explains-renaissance-art",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-23T17:00:52Z",
+        "primary": false,
+        "excerpt": "The answer to today’s puzzleEarlier today I set you the following puzzle. Here it is again with the solution.Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that.3 platforms?4 platforms?5 platforms?10 platforms?step – stepjumpstep – step – stepstep – jumpjump – stepstep – step – step – stepstep – step – jumpstep – jump – stepjump – step – stepjump – jump Continue reading..."
       }
     ],
     "tier": "second",
@@ -33429,7 +33443,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "30220970ffa8f494a828",
@@ -33456,7 +33471,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "18c2a88911a6936ff23d",
@@ -33483,7 +33499,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "491b65b25b820f308e52",
@@ -33510,7 +33527,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52e5a87f91246fc221fd",
@@ -33537,7 +33555,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "918b4d9d6a82620e642f",
@@ -33564,7 +33583,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "99440db22079593ee45a",
@@ -33591,7 +33611,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "13d5f54fb6adcc4d149d",
@@ -33618,7 +33639,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dbb84c63288c04b19daa",
@@ -33645,7 +33667,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2bc870e4e2182dd495d0",
@@ -33672,7 +33695,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2acb1654607c52ca90fb",
@@ -33699,7 +33723,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "86fa4f25b141b390b34b",
@@ -33726,7 +33751,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "83b374370e48293193f2",
@@ -33753,7 +33779,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "35cb6d5769c702625b29",
@@ -33780,7 +33807,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6c88c0c1414771145d64",
@@ -33807,7 +33835,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "26c04bb70cbae03c6909",
@@ -33834,7 +33863,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9b21d61ef2e6245d10f2",
@@ -33861,7 +33891,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1d21523b27a274c5f541",
@@ -33888,7 +33919,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "966e334541500c74ae29",
@@ -33915,7 +33947,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "db5e339fff908aaf6471",
@@ -33942,7 +33975,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "79c6dd8a5317e4d13151",
@@ -33969,7 +34003,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ccfc5e1be27b040d5aa4",
@@ -33996,7 +34031,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "148ae6d159918709326a",
@@ -34023,7 +34059,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "82ed1d400644df7cee71",
@@ -34050,7 +34087,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c113d6333d2931df08e6",
@@ -34077,7 +34115,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d05634d7441d7922f965",
@@ -34104,7 +34143,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ea06b84dbc3c7afe37fd",
@@ -34131,7 +34171,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2a56997e3b55295e7a30",
@@ -34158,7 +34199,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d72b3ea8eace295852ec",
@@ -34185,7 +34227,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d5de94176bfed29c871b",
@@ -34203,6 +34246,412 @@
         "published_at": "2026-11-22T19:00:35Z",
         "primary": false,
         "excerpt": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbudsThe best sleep masks and best Bluetooth sleep masksGetting quality sleep is just as crucial as getting enough sleep. And how you feel in the morning only tells part of the story. Smartwatches, smart bands, smart rings and sleep earbuds can all help fill in the details: how long it took you to doze off, how long you spent in deep sleep, how restless you were, your resting heart rate, even if you have night-time breathing difficulties.Armed with this information, you can learn how"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "6b63181c4ac039616bfc",
+    "title": "Some sheriffs who signed pacts to help Trump's immigration enforcement efforts ousted by voters",
+    "category": "Elections",
+    "published_at": "2026-11-23T18:34:38Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Some sheriffs who signed pacts to help Trump's immigration enforcement efforts ousted by voters",
+        "url": "https://www.pbs.org/newshour/nation/some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts-ousted-by-voters",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-23T18:34:38Z",
+        "primary": false,
+        "excerpt": "Trump has encouraged local law enforcement agencies to sign partnerships with U.S. Immigration and Customs Enforcement. More than 2,700 agreements are in place nationwide."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d2e12515753be2053317",
+    "title": "After midterm losses, Republicans debate what's next for the party",
+    "category": "Elections",
+    "published_at": "2026-11-23T09:45:06Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "After midterm losses, Republicans debate what's next for the party",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-23T09:45:06Z",
+        "primary": false,
+        "excerpt": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ec45084982cb6cc9d4d",
+    "title": "How a billionaire tax proposal failed in California despite big election wins for progressives",
+    "category": "Elections",
+    "published_at": "2026-11-23T13:27:26Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "How a billionaire tax proposal failed in California despite big election wins for progressives",
+        "url": "https://www.pbs.org/newshour/politics/how-a-billionaire-tax-proposal-failed-in-california-despite-big-election-wins-for-progressives",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-23T13:27:26Z",
+        "primary": false,
+        "excerpt": "In an election with major wins for Democrats and progressives nationwide, California voters not only rejected the biggest test yet for a state wealth tax, they also approved a measure making it much harder to enact one in the future."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f317b57513b330116161",
+    "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+    "category": "World",
+    "published_at": "2026-11-23T19:42:40Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T19:42:40Z",
+        "primary": false,
+        "excerpt": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday said he would defer to a federal appeals court on whether the administration moves ahead with plans to detonate several tons of degraded bomb-making material at an Iowa ammunition plant.Nearly 400 people live in Middletown, where the plant is sited, and thousands more in surrounding areas could be affected by detonated material that could disperse in the air and land on the ground. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2fa7e17469e57473b528",
+    "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:52:52Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
+        "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:52:52Z",
+        "primary": false,
+        "excerpt": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3e7ba6f9f966875657b0",
+    "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+    "category": "U.S.",
+    "published_at": "2026-11-23T18:49:19Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+        "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T18:49:19Z",
+        "primary": false,
+        "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fa2d7bcddd289d0c5837",
+    "title": "Trump says Army will not detonate bomb-making chemicals in Iowa without court approval",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:25:48Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Trump says Army will not detonate bomb-making chemicals in Iowa without court approval",
+        "url": "https://www.pbs.org/newshour/nation/trump-says-army-will-not-detonate-bomb-making-chemicals-in-iowa-without-court-approval",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:25:48Z",
+        "primary": false,
+        "excerpt": "President Donald Trump says he will defer to a federal appeals court on whether to proceed with detonating degraded bomb-making material at an Iowa ammunition plant."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "054b8a7a6f1076297a6b",
+    "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "category": "World",
+    "published_at": "2026-11-23T20:48:35Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-23T20:48:35Z",
+        "primary": false,
+        "excerpt": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e4cd8e18199759e344c",
+    "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+    "category": "World",
+    "published_at": "2026-11-23T19:48:58Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+        "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T19:48:58Z",
+        "primary": false,
+        "excerpt": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisationsIsraeli professors, students and rights activists are calling for the immediate release of Mahdi Tounsi, a sociology student at Jerusalem’s Hebrew University who has been held without charge for more than two weeks after he was seized from his dorm room.The detention comes amid a racist campaign of delegitimisation against Palestinian citizens of Israel, whose votes were critical to stripping Benjamin Netanyahu’s coalition of its majority in elections last mon"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c61dd99b40a47cfe3ce",
+    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:14:44Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:14:44Z",
+        "primary": false,
+        "excerpt": "The US president personally intervened to speak to members of Nvidia's board of directors."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8cd8c00f8b921464a34b",
+    "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+    "category": "U.S.",
+    "published_at": "2026-11-23T20:53:12Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T20:53:12Z",
+        "primary": false,
+        "excerpt": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "669c6363d2bce4e57198",
+    "title": "Airline glitches and storms could make Thanksgiving travel messy",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:36:11Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Airline glitches and storms could make Thanksgiving travel messy",
+        "url": "https://www.pbs.org/newshour/nation/airline-glitches-and-storms-could-make-thanksgiving-travel-messy",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:36:11Z",
+        "primary": false,
+        "excerpt": "A cascade of technical glitches that have upended airlines over the past week are adding to the unease."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dcb5e8a655deccfbba4c",
+    "title": "Senate leadership vote tests newly elected Democrats' promise of change",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:14:35Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Senate leadership vote tests newly elected Democrats' promise of change",
+        "url": "https://www.pbs.org/newshour/politics/senate-leadership-vote-tests-newly-elected-democrats-promise-of-change",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:14:35Z",
+        "primary": false,
+        "excerpt": "The Democratic Party's incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8d786bbd1260581d57f9",
+    "title": "WATCH LIVE: Trump delivers address on Newsom's move to grant clemency for California's death row",
+    "category": "U.S.",
+    "published_at": "2026-11-23T19:12:21Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Trump delivers address on Newsom's move to grant clemency for California's death row",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-address-on-newsoms-move-to-grant-clemency-for-californias-death-row",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T19:12:21Z",
+        "primary": false,
+        "excerpt": "The White House said the speech would be about protecting American families and Newsom's decision to commute the death sentences of more than 500 inmates to punishments of life without parole."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8f82ac446e4cb368c20c",
+    "title": "Writers unhappy with PEN America's response to war in Gaza form new chapter",
+    "category": "U.S.",
+    "published_at": "2026-11-23T18:59:21Z",
+    "first_seen_at": "2026-11-23T21:24:20.409253Z",
+    "updated_at": "2026-11-23T21:24:20.409253Z",
+    "sources": [
+      {
+        "title": "Writers unhappy with PEN America's response to war in Gaza form new chapter",
+        "url": "https://www.pbs.org/newshour/arts/writers-unhappy-with-pen-americas-response-to-war-in-gaza-form-new-chapter",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T18:59:21Z",
+        "primary": false,
+        "excerpt": "Novelist Maaza Mengiste says they don't seek rivalry with PEN America but differ in structure and priorities."
       }
     ],
     "tier": "brief",
