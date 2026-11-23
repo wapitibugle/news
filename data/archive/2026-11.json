@@ -31999,7 +31999,7 @@
         "excerpt": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -32055,7 +32055,7 @@
         "excerpt": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -32755,7 +32755,7 @@
         "excerpt": "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said• The best Christmas gifts for 2026How old are you, and what would you like for Christmas? That’s normally a question reserved for children visiting Santa’s grotto, but it’s one we put to hundreds of you of all ages to see what different generations have on their gift lists.The results may just help you hone your approach to present buying across generations this Christmas, or at least offer an insight into the tastes of each group. But be war"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -32783,7 +32783,7 @@
         "excerpt": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm eventWith their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads.On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and a"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -33259,7 +33259,7 @@
         "excerpt": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and […]"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -33268,5 +33268,950 @@
     "context": "",
     "scientific_assessment": "",
     "editorial_excluded": false
+  },
+  {
+    "id": "d436bcfe7782f86c3661",
+    "title": "The Ravens have long been a model of stability. Now they’re going off the rails",
+    "category": "U.S.",
+    "published_at": "2026-11-23T08:30:50Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "The Ravens have long been a model of stability. Now they’re going off the rails",
+        "url": "https://www.theguardian.com/sport/2026/nov/23/baltimore-ravens-nfl-football",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-23T08:30:50Z",
+        "primary": false,
+        "excerpt": "Baltimore have been one of the most successful teams in the league this century. But recent events have dinged their reputationThe Baltimore Ravens have lost in all sorts of fashion in recent weeks. There were the blowout losses to juggernauts Buffalo, Jacksonville, and Cincinnati. There was the nailbiting divisional loss to Cleveland. There was the embarrassing defeat to the previously winless Chargers. But Sunday’s 35-33 loss to Carolina, the team’s sixth straight, hit different.Sunday was a massive test. Did Baltimore have the fortitude to bounce back and stay alive in the AFC North, with t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "56073dcdb712a9597d56",
+    "title": "Five takeaways from the failed climate talks COP31",
+    "category": "Science",
+    "published_at": "2026-11-23T06:33:50Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Five takeaways from the failed climate talks COP31",
+        "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-23T06:33:50Z",
+        "primary": false,
+        "excerpt": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3d31a846dbd5358c7856",
+    "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+    "category": "World",
+    "published_at": "2026-11-23T08:33:10Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T08:33:10Z",
+        "primary": false,
+        "excerpt": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency venturesDonald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats accuse the president of improperly profiting from his crypto ventures.The dinner, which took place at the Trump National golf club in Sterling, Virginia, included meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, the Shark Tank investor Kevin O’Leary, the NBA champion Tristan Thompson and the magician Lior "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2a5260d421270e27148c",
+    "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+    "category": "Technology",
+    "published_at": "2026-11-23T07:00:49Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-23T07:00:49Z",
+        "primary": false,
+        "excerpt": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyoneApple’s first folding phone has upended the usual order of things with some interesting choices about how you use a iPhone – for better or worse.The Duo sits atop the pile as Apple’s most expensive smartphone – at £1,999 (€2,299/$1,999/A$3,499) it costs more than most of its folding Android rivals and as much as the iPhone 18 Pro Max and the latest iPad mini combined. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9dd7aa58f5641099045c",
+    "title": "Is it true that … we only use 10% of our brains?",
+    "category": "Science",
+    "published_at": "2026-11-23T08:00:51Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Is it true that … we only use 10% of our brains?",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-23T08:00:51Z",
+        "primary": false,
+        "excerpt": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree?This idea really bugs Dr Mary Spiller, senior lecturer in the University of East London’s Department of Psychology and Human Development, who’s shocked by how prevalent it remains, despite being untrue.Spiller says the myth’s origins can partly be traced to the work of William James, one of the founders of modern psychology, working in the late 19th and early 20th centuries. He wrote: “We are making use of only a small part of our possible mental and physical resources.” Continue rea"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a07757fe97a8a553cc64",
+    "title": "Can you solve it? How Super Mario explains Renaissance art",
+    "category": "Science",
+    "published_at": "2026-11-23T07:10:49Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Can you solve it? How Super Mario explains Renaissance art",
+        "url": "https://www.theguardian.com/science/2026/nov/23/can-you-solve-it-how-super-mario-explains-renaissance-art",
+        "publisher": "Guardian",
+        "category": "Science",
+        "published_at": "2026-11-23T07:10:49Z",
+        "primary": false,
+        "excerpt": "A step or a jumpToday’s puzzle is about the hidden mathematical pattern behind a much-loved video game.Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that.3 platforms?4 platforms?5 platforms?10 platforms? Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "30220970ffa8f494a828",
+    "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+    "category": "U.S.",
+    "published_at": "2026-11-22T21:21:26Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+        "url": "https://www.pbs.org/newshour/nation/appeals-court-says-federal-law-requiring-accommodations-for-pregnant-workers-is-unconstitutional",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T21:21:26Z",
+        "primary": false,
+        "excerpt": "The appeals court said the act was unconstitutional because a majority of U.S. House members weren't physically present when it was approved as part of a spending package in December 2022."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "18c2a88911a6936ff23d",
+    "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
+    "category": "U.S.",
+    "published_at": "2026-11-22T16:18:21Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
+        "url": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T16:18:21Z",
+        "primary": false,
+        "excerpt": "Video of the incident showed officers dragging away at least one person at Seattle-Tacoma International Airport as a woman screams that her daughter is being taken and she has a work permit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "491b65b25b820f308e52",
+    "title": "Ukraine war spilling into NATO territory",
+    "category": "World",
+    "published_at": "2026-11-22T22:40:22Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Ukraine war spilling into NATO territory",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-22T22:40:22Z",
+        "primary": false,
+        "excerpt": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52e5a87f91246fc221fd",
+    "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "category": "World",
+    "published_at": "2026-11-23T05:33:17Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-23T05:33:17Z",
+        "primary": false,
+        "excerpt": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "918b4d9d6a82620e642f",
+    "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+    "category": "U.S.",
+    "published_at": "2026-11-23T01:53:48Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T01:53:48Z",
+        "primary": false,
+        "excerpt": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "99440db22079593ee45a",
+    "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+    "category": "World",
+    "published_at": "2026-11-23T04:00:45Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+        "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T04:00:45Z",
+        "primary": false,
+        "excerpt": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the population depends on for survival, according to a report.Israel’s military assault has created widespread contamination across the entire strip, the report by Oxfam and the Conflict and Environment Observatory (Ceobs) finds, with heavy metals, explosive residues, asbestos from destroyed "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "13d5f54fb6adcc4d149d",
+    "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+    "category": "U.S.",
+    "published_at": "2026-11-22T23:46:56Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+        "url": "https://www.pbs.org/newshour/nation/lawyer-father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T23:46:56Z",
+        "primary": false,
+        "excerpt": "Other passengers boarding the Alaska Airlines flight at Seattle-Tacoma International Airport on Saturday used their cellphones to film the father and daughter being detained by the officers, who were wearing unmarked jackets and khaki pants."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dbb84c63288c04b19daa",
+    "title": "What it's like at a climate conference as talks collapse",
+    "category": "U.S.",
+    "published_at": "2026-11-22T22:40:23Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "What it's like at a climate conference as talks collapse",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T22:40:23Z",
+        "primary": false,
+        "excerpt": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2bc870e4e2182dd495d0",
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "category": "U.S.",
+    "published_at": "2026-11-22T21:22:40Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-22T21:22:40Z",
+        "primary": false,
+        "excerpt": "The couple have been together for four years and were engaged in 2025."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2acb1654607c52ca90fb",
+    "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+    "category": "U.S.",
+    "published_at": "2026-11-22T23:00:37Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+        "url": "https://www.pbs.org/newshour/world/in-their-own-words-leaders-at-un-climate-talks-discuss-why-negotiations-ended-without-deal",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T23:00:37Z",
+        "primary": false,
+        "excerpt": "After reviewing a draft of the agreement released by co-host Turkey, a number of countries spoke up during the final meeting Sunday to say they couldn't accept a deal that failed to include wording on fossil fuels."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "86fa4f25b141b390b34b",
+    "title": "Philly festival-goers say pickles are a real big dill",
+    "category": "U.S.",
+    "published_at": "2026-11-22T22:40:19Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Philly festival-goers say pickles are a real big dill",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T22:40:19Z",
+        "primary": false,
+        "excerpt": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83b374370e48293193f2",
+    "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+    "category": "U.S.",
+    "published_at": "2026-11-22T22:40:06Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+        "url": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T22:40:06Z",
+        "primary": false,
+        "excerpt": "Earlier Sunday, the Federal Aviation Administration issued about an hourlong ground stop to some flights into Hartsfield-Jackson Atlanta International Airport, which is Delta's hub and one of the busiest airports in the world."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "35cb6d5769c702625b29",
+    "title": "Climate change talks fall apart in final hours over fossil fuels",
+    "category": "U.S.",
+    "published_at": "2026-11-22T16:33:22Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Climate change talks fall apart in final hours over fossil fuels",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T16:33:22Z",
+        "primary": false,
+        "excerpt": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6c88c0c1414771145d64",
+    "title": "Today's Thanksgiving holiday was invented amid the Civil War to unite a divided country",
+    "category": "U.S.",
+    "published_at": "2026-11-22T22:18:44Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Today's Thanksgiving holiday was invented amid the Civil War to unite a divided country",
+        "url": "https://www.pbs.org/newshour/nation/todays-thanksgiving-holiday-was-invented-amid-the-civil-war-to-unite-a-divided-country",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T22:18:44Z",
+        "primary": false,
+        "excerpt": "The idea of a straight line connecting that \"first Thanksgiving\" to Thanksgivings today is, in fact, an American myth."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26c04bb70cbae03c6909",
+    "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+    "category": "U.S.",
+    "published_at": "2026-11-22T13:12:09Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T13:12:09Z",
+        "primary": false,
+        "excerpt": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9b21d61ef2e6245d10f2",
+    "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+    "category": "U.S.",
+    "published_at": "2026-11-23T02:38:16Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-23T02:38:16Z",
+        "primary": false,
+        "excerpt": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’Protesters marched through the Seattle-Tacoma international airport on Sunday after widely shared footage captured masked immigration agents detaining a father and daughter on an airport jet bridge as they boarded their Alaska Airlines flight.Video of the incident on Saturday – filmed by fellow passengers – quickly went viral on social media, sparking condemnation from lawmakers, including Washington Democratic governor Bob Ferguson and Seattle mayor Katie Wilson. C"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1d21523b27a274c5f541",
+    "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+    "category": "U.S.",
+    "published_at": "2026-11-22T20:18:46Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+        "url": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T20:18:46Z",
+        "primary": false,
+        "excerpt": "Environmental groups criticized the government's move, decrying it as a maneuver to get around a court order and avoid public demands for safety and transparency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "966e334541500c74ae29",
+    "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-22T13:12:08Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T13:12:08Z",
+        "primary": false,
+        "excerpt": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db5e339fff908aaf6471",
+    "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+    "category": "U.S.",
+    "published_at": "2026-11-22T22:01:17Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T22:01:17Z",
+        "primary": false,
+        "excerpt": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to passMichigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it meant the president would not impede its passage.“If he’s open to the conversation, I am open to it, too,” El-Sayed said of Trump on Sunday. “If the president is opening to signing that bill, let’s get it done.” Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "79c6dd8a5317e4d13151",
+    "title": "UN climate talks break down over bitter disagreements on fossil fuels",
+    "category": "U.S.",
+    "published_at": "2026-11-22T16:30:17Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "UN climate talks break down over bitter disagreements on fossil fuels",
+        "url": "https://www.pbs.org/newshour/world/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-22T16:30:17Z",
+        "primary": false,
+        "excerpt": "Expectations had already been low heading into the two-week negotiations in Turkey, but impasses over explicitly including fossil fuels and other issues, including money, proved irreconcilable."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ccfc5e1be27b040d5aa4",
+    "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+    "category": "U.S.",
+    "published_at": "2026-11-22T13:11:04Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-22T13:11:04Z",
+        "primary": false,
+        "excerpt": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "148ae6d159918709326a",
+    "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+    "category": "U.S.",
+    "published_at": "2026-11-22T19:17:56Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T19:17:56Z",
+        "primary": false,
+        "excerpt": "Milestone reached Sunday after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North CarolinaDemocrats have won their largest majority in the House in more than three decades after Chuck Hubbard defeated Republican representative Virginia Foxx in North Carolina on Sunday, extending the blue wave that swept the US midterms and increasing pressure on the party to deliver its promises to US voters.House Democrats have secured at least 258 seats in a midterm election sweep unseen since 1992, gaining 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first mid"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "82ed1d400644df7cee71",
+    "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+    "category": "U.S.",
+    "published_at": "2026-11-22T18:25:42Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T18:25:42Z",
+        "primary": false,
+        "excerpt": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systemsThe incoming US House speaker, Hakeem Jeffries, has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so.Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump’s second presidency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c113d6333d2931df08e6",
+    "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+    "category": "U.S.",
+    "published_at": "2026-11-22T15:53:24Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T15:53:24Z",
+        "primary": false,
+        "excerpt": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again.Well, not Sasquatch directly, but new files about the cryptid.“The stride of the tracks did not change with slope.”“The tracks at both sites were not to the ‘bottom’ of the mud.“The small toes lack a definite ‘pad’ at the tips as would be expected.” Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d05634d7441d7922f965",
+    "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
+    "category": "U.S.",
+    "published_at": "2026-11-22T14:00:33Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-22T14:00:33Z",
+        "primary": false,
+        "excerpt": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areasTristan Sharratt, a family nurse practitioner and public health researcher, began serving an Amish community in central New York almost inadvertently. A friend told an Amish neighbor that Sharratt was accepting new patients and was a good, solid guy. Word spread quickly, and now Sharratt sees many members of the community, which numbers in the hundreds.He is what is called a “trusted messenger” – someone who understands a community and has earned their respect. Other trusted messen"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ea06b84dbc3c7afe37fd",
+    "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+    "category": "Outdoors",
+    "published_at": "2026-11-22T16:08:20Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+        "url": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-22T16:08:20Z",
+        "primary": false,
+        "excerpt": "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate. Ireland's climate minister, Darragh O'Brien, said the EU could not support the proposed deal, in part because it made no mention of fossil fuels. The president of the negotiations, Australia's Chris Bowen, called the failure 'very disappointing', saying that a lot of good work had been done but 'many parties who were people of good faith had very strong red lines on a couple of key issues, and despite many, many attempts … thos"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2a56997e3b55295e7a30",
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "category": "Technology",
+    "published_at": "2026-11-23T00:08:00Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-23T00:08:00Z",
+        "primary": false,
+        "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d72b3ea8eace295852ec",
+    "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+    "category": "Outdoors",
+    "published_at": "2026-11-22T13:36:01Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+        "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-22T13:36:01Z",
+        "primary": false,
+        "excerpt": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continuesA British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war.Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km) length of the waterway, which is a key route for oil shipments from the Middle East. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d5de94176bfed29c871b",
+    "title": "I covered myself in sleep trackers to find the very best",
+    "category": "Technology",
+    "published_at": "2026-11-22T19:00:35Z",
+    "first_seen_at": "2026-11-23T09:04:13.167957Z",
+    "updated_at": "2026-11-23T09:04:13.167957Z",
+    "sources": [
+      {
+        "title": "I covered myself in sleep trackers to find the very best",
+        "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-22T19:00:35Z",
+        "primary": false,
+        "excerpt": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbudsThe best sleep masks and best Bluetooth sleep masksGetting quality sleep is just as crucial as getting enough sleep. And how you feel in the morning only tells part of the story. Smartwatches, smart bands, smart rings and sleep earbuds can all help fill in the details: how long it took you to doze off, how long you spent in deep sleep, how restless you were, your resting heart rate, even if you have night-time breathing difficulties.Armed with this information, you can learn how"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
   }
 ]
