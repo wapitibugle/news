@@ -33315,7 +33315,7 @@
         "excerpt": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -33371,7 +33371,7 @@
         "excerpt": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyoneApple’s first folding phone has upended the usual order of things with some interesting choices about how you use a iPhone – for better or worse.The Duo sits atop the pile as Apple’s most expensive smartphone – at £1,999 (€2,299/$1,999/A$3,499) it costs more than most of its folding Android rivals and as much as the iPhone 18 Pro Max and the latest iPad mini combined. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -33399,7 +33399,7 @@
         "excerpt": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree?This idea really bugs Dr Mary Spiller, senior lecturer in the University of East London’s Department of Psychology and Human Development, who’s shocked by how prevalent it remains, despite being untrue.Spiller says the myth’s origins can partly be traced to the work of William James, one of the founders of modern psychology, working in the late 19th and early 20th centuries. He wrote: “We are making use of only a small part of our possible mental and physical resources.” Continue rea"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -33436,7 +33436,7 @@
         "excerpt": "The answer to today’s puzzleEarlier today I set you the following puzzle. Here it is again with the solution.Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that.3 platforms?4 platforms?5 platforms?10 platforms?step – stepjumpstep – step – stepstep – jumpjump – stepstep – step – step – stepstep – step – jumpstep – jump – stepjump – step – stepjump – jump Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -34703,7 +34703,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "02dc0690684e02200fe4",
@@ -34730,7 +34731,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "33e00abceedff5a4bb7b",
@@ -34757,7 +34759,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "efda50d063378404bb94",
@@ -34784,7 +34787,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "36dd17849c2167dcc87c",
@@ -34811,7 +34815,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4f853903633737ef50d6",
@@ -34838,7 +34843,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c41cd29538279af13f75",
@@ -34865,7 +34871,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "61537505945ea1dacfd5",
@@ -34892,7 +34899,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cf387fa92b8f6498e4a2",
@@ -34919,7 +34927,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5418898a0f08e16023b2",
@@ -34946,7 +34955,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4deb70d613a15c59a924",
@@ -34973,7 +34983,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "de22efa4f979e1245f6a",
@@ -35000,7 +35011,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e0337e1861226ed65d45",
@@ -35027,7 +35039,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ab572542a1b549e674be",
@@ -35054,7 +35067,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "abd87581214c1ffa52b5",
@@ -35081,7 +35095,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c8257841e4bad1b8bca8",
@@ -35108,7 +35123,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fd3c944f0667032b85d9",
@@ -35135,7 +35151,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5a0edda7ed2c87b9b8b4",
@@ -35143,7 +35160,7 @@
     "category": "U.S.",
     "published_at": "2026-11-23T22:17:59Z",
     "first_seen_at": "2026-11-24T06:01:54.043596Z",
-    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
     "sources": [
       {
         "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
@@ -35153,6 +35170,15 @@
         "published_at": "2026-11-23T22:17:59Z",
         "primary": false,
         "excerpt": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended."
+      },
+      {
+        "title": "They attended Trump's meme coin dinner. It didn't go well",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-24T10:00:00Z",
+        "primary": false,
+        "excerpt": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access."
       }
     ],
     "tier": "brief",
@@ -35162,7 +35188,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "edad88692b33027dcba6",
@@ -35189,7 +35216,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2b00e32b7071fbe7db63",
@@ -35216,7 +35244,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4a436c754fbc78bad2d0",
@@ -35243,7 +35272,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f3247eb99e4d72021dc8",
@@ -35270,7 +35300,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4b7fad258a938ce7c4be",
@@ -35297,7 +35328,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "68ddd1e291405ad5a77b",
@@ -35324,7 +35356,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "882e5b95aa675ba8cd94",
@@ -35351,7 +35384,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ec23680aade17b729575",
@@ -35378,7 +35412,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "60705e1092c5d46f5acf",
@@ -35414,7 +35449,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4d0fe4558fc588afbc67",
@@ -35441,7 +35477,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b9ddec0a0e5713a74a19",
@@ -35468,7 +35505,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c3b11d52c658cc93fb36",
@@ -35495,7 +35533,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f62353917da91e7307ed",
@@ -35522,7 +35561,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "78483dd0a1bfd334e185",
@@ -35549,7 +35589,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "105d8c8463a32652b19d",
@@ -35576,7 +35617,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6d04856d4906b1467f36",
@@ -35603,7 +35645,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "20361ddbf3f89b379895",
@@ -35621,6 +35664,304 @@
         "published_at": "2026-11-23T17:11:58Z",
         "primary": false,
         "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "65edd5bc575c3d24ec02",
+    "title": "Once ‘capital of the Confederacy’, Virginia enshrines rights to voting, abortion and gay marriage",
+    "category": "Elections",
+    "published_at": "2026-11-24T13:30:47Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Once ‘capital of the Confederacy’, Virginia enshrines rights to voting, abortion and gay marriage",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-24T13:30:47Z",
+        "primary": false,
+        "excerpt": "Organizers won key civil liberties protections on election day – and women and Black advocates were at the forefrontProgressives made historic gains in the south during the midterm elections – and Virginia was no exception. The state approved three constitutional amendments protecting civil liberties that have eroded in Trump’s second term: enshrining the rights to abortion and same-sex marriage, and restoring voting rights to those with past felony convictions.These victories were led by women and Black organizers who say they want to capitalize on the momentum and advocate for policies that "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "85d08e485f6f177e3366",
+    "title": "History-making Democratic senator backs filibuster reform to make good on midterm pledges",
+    "category": "Elections",
+    "published_at": "2026-11-24T12:00:46Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "History-making Democratic senator backs filibuster reform to make good on midterm pledges",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-24T12:00:46Z",
+        "primary": false,
+        "excerpt": "Juliana Stratton eager to work with Republicans who ‘have a real spine’ to stand up to Trump and deliver for votersJuliana Stratton, the incoming Democratic senator from Illinois, said she would support significantly reforming or abolishing the filibuster in order to allow Congress to deliver on the promises they made American voters.The filibuster means that most successful legislation in the Senate must have 60 supporters instead of a simple majority. Eliminating that requirement is one of several reforms Democrats can act on after they won an unexpected 56-44 majority in the next US Senate,"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "50821645de4c376efb86",
+    "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+    "category": "U.S.",
+    "published_at": "2026-11-24T17:13:02Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+        "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T17:13:02Z",
+        "primary": false,
+        "excerpt": "A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an investment before benefiting from lucrative federal contracts or policies."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8fece936cfd6533e17e3",
+    "title": "US court unseals heavily redacted records on Ilhan Omar home search",
+    "category": "U.S.",
+    "published_at": "2026-11-24T16:32:16Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "US court unseals heavily redacted records on Ilhan Omar home search",
+        "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-24T16:32:16Z",
+        "primary": false,
+        "excerpt": "Prosecutors say they are pursuing evidence of crimes allegedly committed by the Democratic congresswoman over decades, and unrelated to her work in Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "76811889fb4aff38667c",
+    "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+    "category": "U.S.",
+    "published_at": "2026-11-24T15:56:52Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+        "url": "https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T15:56:52Z",
+        "primary": false,
+        "excerpt": "The unsealed filings show that U.S. Magistrate Judge Matthew Sharbaugh — before authorizing the search of Omar's home — raised concerns about the \"Speech or Debate Clause\" implications of searching a private residence belonging to a member of Congress."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c46d9ec1eac7bf54091d",
+    "title": "WATCH LIVE: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+    "category": "U.S.",
+    "published_at": "2026-11-24T14:56:08Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "WATCH LIVE: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T14:56:08Z",
+        "primary": false,
+        "excerpt": "Both birds will get a reprieve from ending up on a Thanksgiving dinner table, but only one of them will get a ceremonial pardon at the White House."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "adab002c342460dcb8c1",
+    "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+    "category": "World",
+    "published_at": "2026-11-24T17:04:00Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-24T17:04:00Z",
+        "primary": false,
+        "excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b1c5c7e0cff6cd55cfb",
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "category": "World",
+    "published_at": "2026-11-24T15:35:53Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-24T15:35:53Z",
+        "primary": false,
+        "excerpt": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5d59a3fa0316003bbf5d",
+    "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+    "category": "World",
+    "published_at": "2026-11-24T14:51:18Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+        "url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T14:51:18Z",
+        "primary": false,
+        "excerpt": "Health ministry records 272 new infections in October, more than eight times the normal monthly rateGaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October.Dr Nidal Ghoneim, a senior official at the ministry, said the spread of the disease posed a threat to the lives of hundreds of thousands of people, including children. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "81a68d0947ea6cde6f36",
+    "title": "Ben Shapiro on Trump, Israel and the future of the Republican party",
+    "category": "U.S.",
+    "published_at": "2026-11-24T17:01:51Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "Ben Shapiro on Trump, Israel and the future of the Republican party",
+        "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/ben-shapiro-on-trump-israel-and-the-future-of-the-republican-party",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T17:01:51Z",
+        "primary": false,
+        "excerpt": "Ben Shapiro is a political commentator, author, screenwriter and co-founder of the influential conservative media organization The Daily Wire. In this episode of \"Settle In,\" he sits down with Amna Nawaz to explain why he thinks voters have turned on Trump, what he believes is driving the growing rift over Israel in American politics and what he sees as the path forward for the GOP after its historic losses in the midterm elections."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a43b7360580066b166d",
+    "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+    "category": "U.S.",
+    "published_at": "2026-11-24T16:37:03Z",
+    "first_seen_at": "2026-11-24T17:44:01.564553Z",
+    "updated_at": "2026-11-24T17:44:01.564553Z",
+    "sources": [
+      {
+        "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+        "url": "https://www.pbs.org/newshour/world/2-men-arrested-over-suspected-burglary-at-prince-william-and-kates-country-home",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T16:37:03Z",
+        "primary": false,
+        "excerpt": "Police said that \"the property was unoccupied at the time of the incident.\""
       }
     ],
     "tier": "brief",
