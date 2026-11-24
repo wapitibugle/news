@@ -34192,7 +34192,7 @@
         "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -34283,7 +34283,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d2e12515753be2053317",
@@ -34310,7 +34311,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3ec45084982cb6cc9d4d",
@@ -34337,7 +34339,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f317b57513b330116161",
@@ -34364,7 +34367,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2fa7e17469e57473b528",
@@ -34391,7 +34395,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3e7ba6f9f966875657b0",
@@ -34418,7 +34423,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fa2d7bcddd289d0c5837",
@@ -34445,7 +34451,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "054b8a7a6f1076297a6b",
@@ -34472,7 +34479,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7e4cd8e18199759e344c",
@@ -34499,7 +34507,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1c61dd99b40a47cfe3ce",
@@ -34526,7 +34535,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8cd8c00f8b921464a34b",
@@ -34553,7 +34563,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "669c6363d2bce4e57198",
@@ -34580,7 +34591,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dcb5e8a655deccfbba4c",
@@ -34607,7 +34619,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8d786bbd1260581d57f9",
@@ -34634,7 +34647,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8f82ac446e4cb368c20c",
@@ -34652,6 +34666,961 @@
         "published_at": "2026-11-23T18:59:21Z",
         "primary": false,
         "excerpt": "Novelist Maaza Mengiste says they don't seek rivalry with PEN America but differ in structure and priorities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "f7183353c9eb8ca174a8",
+    "title": "Lights go out on Commanders before they beat Bengals in final seconds",
+    "category": "U.S.",
+    "published_at": "2026-11-24T04:43:36Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Lights go out on Commanders before they beat Bengals in final seconds",
+        "url": "https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-24T04:43:36Z",
+        "primary": false,
+        "excerpt": "Cincinnati Bengals 20-22 Washington CommandersDrew Stevens kicks game-winning field goalGame delayed after lights go out in third quarterJayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati Bengals 22-20 on Monday night.After Evan McPherson put the Bengals ahead 20-19 on a 56-yard field goal, Washington got the ball back with 39 seconds left and no timeouts. Daniels hit Williams over the middle for "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "02dc0690684e02200fe4",
+    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+    "category": "World",
+    "published_at": "2026-11-24T04:14:43Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+        "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T04:14:43Z",
+        "primary": false,
+        "excerpt": "The order was issued after aircraft entered the country’s air defence identification zone over the island of UlleungdoResidents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation.The defence ministry said it would summon the Russian defence attaché on Tuesday afternoon to lodge a strong protest. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "33e00abceedff5a4bb7b",
+    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+    "category": "World",
+    "published_at": "2026-11-24T04:03:16Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T04:03:16Z",
+        "primary": false,
+        "excerpt": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updatesGet our daily political email, free app or daily news podcastBig tech companies may face “multibillion-dollar” fines and individuals could sue social media companies in court under Australia’s new digital duty of care laws, with the Greens to support the bill’s passage after extracting major amendments from Labor.From late 2027, Australians will also be able opt out of addictive online algorithms under the new legislation, while the "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "efda50d063378404bb94",
+    "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+    "category": "Technology",
+    "published_at": "2026-11-24T01:34:39Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-24T01:34:39Z",
+        "primary": false,
+        "excerpt": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figureJensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock market, and an intervention from Donald Trump.As Huang entered the company’s Silicon Valley office, wearing his signature dark-colored uniform, crowds of employees rushed to greet him cl"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "36dd17849c2167dcc87c",
+    "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:29:53Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:29:53Z",
+        "primary": false,
+        "excerpt": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4f853903633737ef50d6",
+    "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:11:09Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+        "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:11:09Z",
+        "primary": false,
+        "excerpt": "The House Ethics Committee said in a report released Monday that there is \"substantial evidence\" that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct by making unwelcome sexual advances and sexual contact toward a House staffer."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c41cd29538279af13f75",
+    "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+    "category": "World",
+    "published_at": "2026-11-23T11:00:56Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T11:00:56Z",
+        "primary": false,
+        "excerpt": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants droppedThe Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented immigrant.Attorneys for the US justice department made that admission on Friday while requesting the dismissal of a lawsuit for damages that the deported man – Brian José Morales García of Austin, Texas – has been pursuing against the federal government. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "61537505945ea1dacfd5",
+    "title": "If They Call 911 About Domestic Abuse, Will They Be Deported?",
+    "category": "U.S.",
+    "published_at": "2026-11-23T10:00:00Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "If They Call 911 About Domestic Abuse, Will They Be Deported?",
+        "url": "https://www.propublica.org/article/immigration-domestic-violence",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-23T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post If They Call 911 About Domestic Abuse, Will They Be Deported? appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cf387fa92b8f6498e4a2",
+    "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+    "category": "U.S.",
+    "published_at": "2026-11-23T21:54:04Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+        "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T21:54:04Z",
+        "primary": false,
+        "excerpt": "The decision moves the case to a federal court, where Trump could seek to have charges dismissed on immunity grounds."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5418898a0f08e16023b2",
+    "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:21:45Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:21:45Z",
+        "primary": false,
+        "excerpt": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House stafferJimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had “engaged in sexual misconduct”, including by “making unwelcome sexual advances and sexual contact toward a House staffer”.The 19-page report from the House ethics committee found that Gomez “made unwanted sexual advances” toward a House staffer on two occasions, “including an incident in which he made sexual contact with her and another in which h"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4deb70d613a15c59a924",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "category": "World",
+    "published_at": "2026-11-24T02:15:59Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-24T02:15:59Z",
+        "primary": false,
+        "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "de22efa4f979e1245f6a",
+    "title": "Russian incursions into NATO territory are increasing",
+    "category": "World",
+    "published_at": "2026-11-23T23:08:51Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Russian incursions into NATO territory are increasing",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+        "publisher": "NPR",
+        "category": "World",
+        "published_at": "2026-11-23T23:08:51Z",
+        "primary": false,
+        "excerpt": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e0337e1861226ed65d45",
+    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "category": "World",
+    "published_at": "2026-11-23T17:07:25Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-23T17:07:25Z",
+        "primary": false,
+        "excerpt": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ab572542a1b549e674be",
+    "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
+    "category": "U.S.",
+    "published_at": "2026-11-23T11:00:00Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
+        "url": "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-23T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "abd87581214c1ffa52b5",
+    "title": "Ukraine shares video of strikes on Russian ships off Libya",
+    "category": "World",
+    "published_at": "2026-11-23T11:34:10Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Ukraine shares video of strikes on Russian ships off Libya",
+        "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-23T11:34:10Z",
+        "primary": false,
+        "excerpt": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c8257841e4bad1b8bca8",
+    "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:55:49Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
+        "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:55:49Z",
+        "primary": false,
+        "excerpt": "Jensen Huang is back as CEO of Nvidia just two weeks after resigning amid revelations of extramarital affairs, including one with a woman suspected of ties to Chinese intelligence. President Trump personally intervened to push for his reinstatement, saying he believed Huang did nothing wrong. White House correspondent Liz Landers spoke with President Trump before the announcement."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fd3c944f0667032b85d9",
+    "title": "China sentences official to death for spying for foreign country",
+    "category": "World",
+    "published_at": "2026-11-24T02:37:36Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "China sentences official to death for spying for foreign country",
+        "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T02:37:36Z",
+        "primary": false,
+        "excerpt": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher saysA Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.Gold Wall Press, a publishing company associated with China’s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a0edda7ed2c87b9b8b4",
+    "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:17:59Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:17:59Z",
+        "primary": false,
+        "excerpt": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "edad88692b33027dcba6",
+    "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+    "category": "World",
+    "published_at": "2026-11-24T00:01:01Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+        "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T00:01:01Z",
+        "primary": false,
+        "excerpt": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endorses Britain’s membership of Nato and the maintenance of the country’s nuclear weapons.The Green party leader has welcomed a report from the Verdant thinktank that says the UK should remain in the military alliance and calls for the country to cooperate more closely with France on the maintenance of its nuclear weapons. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2b00e32b7071fbe7db63",
+    "title": "Experts weigh national security implications of Huang's return to Nvidia",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:50:21Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Experts weigh national security implications of Huang's return to Nvidia",
+        "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:50:21Z",
+        "primary": false,
+        "excerpt": "For a closer look at Jensen Huang's return to Nvidia, and the national security implications, Amna Nawaz spoke with Dmitri Alperovitch and James Lewis. Alperovitch co-founded and was chief technology officer of the cybersecurity firm CrowdStrike. Lewis is a former diplomat with extensive intelligence experience. He's now with the Tech Policy Program at the Center for European Policy Analysis."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4a436c754fbc78bad2d0",
+    "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+    "category": "World",
+    "published_at": "2026-11-23T16:42:09Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+        "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T16:42:09Z",
+        "primary": false,
+        "excerpt": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interferenceThe education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public warning to universities about Chinese interference in UK academia.A 50-strong UK delegation, including 18 university leaders, will accompany the minister when she attends the first UK-China education summit in nine years, aimed at opening up new opportunities for universities, colleges and education businesses. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f3247eb99e4d72021dc8",
+    "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:58:27Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:58:27Z",
+        "primary": false,
+        "excerpt": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4b7fad258a938ce7c4be",
+    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+    "category": "World",
+    "published_at": "2026-11-23T11:42:51Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+        "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-23T11:42:51Z",
+        "primary": false,
+        "excerpt": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipUkraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "68ddd1e291405ad5a77b",
+    "title": "Some women in tech have concerns about Huang's return",
+    "category": "U.S.",
+    "published_at": "2026-11-23T22:03:57Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Some women in tech have concerns about Huang's return",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T22:03:57Z",
+        "primary": false,
+        "excerpt": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "882e5b95aa675ba8cd94",
+    "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:45:23Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:45:23Z",
+        "primary": false,
+        "excerpt": "In our news wrap Monday, storms on both coasts threaten to disrupt Thanksgiving travel as airlines continue to grapple with a series of recent tech failures, a federal appeals court says the Army can proceed with detonating bomb-making material at an Iowa ammunitions plant and Ukraine says it struck a Russian warship docked in Libya."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec23680aade17b729575",
+    "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+    "category": "U.S.",
+    "published_at": "2026-11-23T21:40:30Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+        "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T21:40:30Z",
+        "primary": false,
+        "excerpt": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "60705e1092c5d46f5acf",
+    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+    "category": "U.S.",
+    "published_at": "2026-11-23T16:00:49Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T16:00:49Z",
+        "primary": false,
+        "excerpt": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?"
+      },
+      {
+        "title": "‘Medicare for All’ Is Back on Drawing Board. Does It Stand a Better Chance This Time?",
+        "url": "https://kffhealthnews.org/insurance/congress-democrats-medicare-for-all-unity-challenge-universal-healthcare/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-23T10:00:00Z",
+        "primary": false,
+        "excerpt": "Some incoming lawmakers told voters they’d fight for universal, government-funded health coverage. Julie Rovner, KFF Health News’ chief Washington correspondent, writes about what the coming health debate has in common with past fights — and something that’s different this time around."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4d0fe4558fc588afbc67",
+    "title": "Seattle airport arrests renew protests over ICE enforcement tactics",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:40:56Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Seattle airport arrests renew protests over ICE enforcement tactics",
+        "url": "https://www.pbs.org/newshour/show/seattle-airport-arrests-renew-protests-over-ice-enforcement-tactics",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:40:56Z",
+        "primary": false,
+        "excerpt": "New questions are being raised about ICE's training and enforcement tactics after officers arrested a father and daughter as they were boarding a flight at Seattle-Tacoma International Airport. The incident comes as The New York Times reports new findings from the Department of Homeland Security's inspector general. Geoff Bennett discussed more with Hamed Aleaziz of The New York Times."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b9ddec0a0e5713a74a19",
+    "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+    "category": "U.S.",
+    "published_at": "2026-11-23T21:23:42Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T21:23:42Z",
+        "primary": false,
+        "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c3b11d52c658cc93fb36",
+    "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+    "category": "U.S.",
+    "published_at": "2026-11-23T14:53:41Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T14:53:41Z",
+        "primary": false,
+        "excerpt": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f62353917da91e7307ed",
+    "title": "Severe drought pushes millions in Afghanistan deeper into crisis",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:35:26Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Severe drought pushes millions in Afghanistan deeper into crisis",
+        "url": "https://www.pbs.org/newshour/show/severe-drought-pushes-millions-in-afghanistan-deeper-into-crisis",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:35:26Z",
+        "primary": false,
+        "excerpt": "Afghanistan is in the throes of a severe economic crisis. Last year, nearly three-quarters of the population was living in poverty, according to the United Nations. Now, millions of Afghans are facing drought and have no access to safe drinking water. Special correspondent Leila Molana-Allen and videographer Eric O'Connor traveled to the Bamyan province, one of the country's poorest regions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "78483dd0a1bfd334e185",
+    "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+    "category": "U.S.",
+    "published_at": "2026-11-23T18:43:00Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+        "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T18:43:00Z",
+        "primary": false,
+        "excerpt": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "105d8c8463a32652b19d",
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "category": "U.S.",
+    "published_at": "2026-11-23T12:42:03Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-23T12:42:03Z",
+        "primary": false,
+        "excerpt": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6d04856d4906b1467f36",
+    "title": "Tamara Keith and Amy Walter on Trump's role in Huang's reinstatement",
+    "category": "U.S.",
+    "published_at": "2026-11-23T23:30:35Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Tamara Keith and Amy Walter on Trump's role in Huang's reinstatement",
+        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-role-in-huangs-reinstatement",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-23T23:30:35Z",
+        "primary": false,
+        "excerpt": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump taking credit for Jensen Huang's return to Nvidia, how Democrats will operate with large margins in the House and Senate, the government funding deadline and their favorite Thanksgiving dish."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "20361ddbf3f89b379895",
+    "title": "Analysis: Why Jensen Huang proved too big to fire",
+    "category": "U.S.",
+    "published_at": "2026-11-23T17:11:58Z",
+    "first_seen_at": "2026-11-24T06:01:54.043596Z",
+    "updated_at": "2026-11-24T06:01:54.043596Z",
+    "sources": [
+      {
+        "title": "Analysis: Why Jensen Huang proved too big to fire",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-23T17:11:58Z",
+        "primary": false,
+        "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial."
       }
     ],
     "tier": "brief",
