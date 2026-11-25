@@ -36121,7 +36121,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6b93b27b01b376b40d4a",
@@ -36148,7 +36149,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7c35b68fa87120135fa1",
@@ -36175,7 +36177,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "768761c6fef98b72bac9",
@@ -36202,7 +36205,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a6e35e03777eb18e46f7",
@@ -36229,7 +36233,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d8a263907752007716f7",
@@ -36256,7 +36261,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "27e96d18e366003b777f",
@@ -36283,7 +36289,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "12d3fdfe0d98bfc43a48",
@@ -36310,7 +36317,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1deef1622e5d46a6bdee",
@@ -36337,7 +36345,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ef79198aa072aab4a810",
@@ -36364,7 +36373,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "99cbf9acdae4cf1fe303",
@@ -36391,7 +36401,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "21d9ef7462af14ac80f3",
@@ -36418,7 +36429,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cfaf6d76e636e283e9a7",
@@ -36445,7 +36457,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "676a4b631e88917614b8",
@@ -36472,7 +36485,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ee8983135d9be8a7ee40",
@@ -36499,7 +36513,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "297903a82486b5462412",
@@ -36526,7 +36541,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4e77e42de30f10ea78b9",
@@ -36553,7 +36569,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e596becb771133b1565e",
@@ -36580,7 +36597,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5b8ec02ff572c9cbaeba",
@@ -36607,7 +36625,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ef7196b65c89d7d42c02",
@@ -36627,14 +36646,15 @@
         "excerpt": "Any discussion of a universal health plan in the U.S. always comes with concerns about massive costs. The challenge for proponents is to explain to voters that Americans already spend more than $5 trillion on healthcare each year."
       }
     ],
-    "tier": "brief",
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f75c1de3d9df7630549c",
@@ -36661,7 +36681,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "52a9ba1c39a9dd875456",
@@ -36688,7 +36709,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "817cd4e903394ee1964c",
@@ -36715,7 +36737,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5525747eb510e554d1a0",
@@ -36742,7 +36765,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "db38b8b434ca569d25ab",
@@ -36769,7 +36793,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e9686f6cd807096f772c",
@@ -36796,7 +36821,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "93741d05d81014d64b7b",
@@ -36823,7 +36849,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0c91fcaa28976c74ae36",
@@ -36850,7 +36877,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1ca9fbd3b57a87845f44",
@@ -36877,7 +36905,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d3ef1d162b630b21c1c2",
@@ -36904,7 +36933,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6f9bff32551082235aa8",
@@ -36924,14 +36954,15 @@
         "excerpt": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0ff725cb7ee00c2d6a6c",
@@ -36958,7 +36989,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "4c4c5e82c29d1ebe633a",
@@ -36985,7 +37017,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e6eb26b5d8169518f525",
@@ -37012,7 +37045,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9824a53e3b00e7a77381",
@@ -37030,6 +37064,61 @@
         "published_at": "2026-11-25T09:44:13Z",
         "primary": false,
         "excerpt": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "0ef9df2957b107373eeb",
+    "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+    "category": "World",
+    "published_at": "2026-11-25T19:36:24Z",
+    "first_seen_at": "2026-11-25T22:31:50.887070Z",
+    "updated_at": "2026-11-25T22:31:50.887070Z",
+    "sources": [
+      {
+        "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T19:36:24Z",
+        "primary": false,
+        "excerpt": "Ábrego García chooses to depart from US after previously being deported to El Salvador due to ‘administrative error’US politics – live updates Kilmar Ábrego García, the Salvadorian national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts, has landed in Spain.Ábrego García arrived in Madrid on Wednesday after leaving the United States of his own volition. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "117a1bf110d69d8ef35c",
+    "title": "These young Republicans have a message for their party: It's time to 'grow up'",
+    "category": "U.S.",
+    "published_at": "2026-11-25T22:00:15Z",
+    "first_seen_at": "2026-11-25T22:31:50.887070Z",
+    "updated_at": "2026-11-25T22:31:50.887070Z",
+    "sources": [
+      {
+        "title": "These young Republicans have a message for their party: It's time to 'grow up'",
+        "url": "https://www.pbs.org/newshour/politics/these-young-republicans-have-a-message-for-their-party-its-time-to-grow-up",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T22:00:15Z",
+        "primary": false,
+        "excerpt": "Three weeks after midterm elections that devastated the Republican Party, several dozen of its more youthful members gathered at a brewery to sort through the pieces."
       }
     ],
     "tier": "brief",
