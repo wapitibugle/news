@@ -34780,7 +34780,7 @@
         "excerpt": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figureJensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock market, and an intervention from Donald Trump.As Huang entered the company’s Silicon Valley office, wearing his signature dark-colored uniform, crowds of employees rushed to greet him cl"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -35701,7 +35701,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "85d08e485f6f177e3366",
@@ -35728,7 +35729,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "50821645de4c376efb86",
@@ -35755,7 +35757,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8fece936cfd6533e17e3",
@@ -35782,7 +35785,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "76811889fb4aff38667c",
@@ -35809,7 +35813,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c46d9ec1eac7bf54091d",
@@ -35836,7 +35841,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "adab002c342460dcb8c1",
@@ -35863,7 +35869,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5b1c5c7e0cff6cd55cfb",
@@ -35890,7 +35897,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5d59a3fa0316003bbf5d",
@@ -35917,7 +35925,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "81a68d0947ea6cde6f36",
@@ -35944,7 +35953,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5a43b7360580066b166d",
@@ -35962,6 +35972,115 @@
         "published_at": "2026-11-24T16:37:03Z",
         "primary": false,
         "excerpt": "Police said that \"the property was unoccupied at the time of the incident.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5aff716cafb04290f02a",
+    "title": "Moving to Florida may become a choice of some Republicans after midterms",
+    "category": "Elections",
+    "published_at": "2026-11-24T22:54:01Z",
+    "first_seen_at": "2026-11-25T02:28:24.626776Z",
+    "updated_at": "2026-11-25T02:28:24.626776Z",
+    "sources": [
+      {
+        "title": "Moving to Florida may become a choice of some Republicans after midterms",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-24T22:54:01Z",
+        "primary": false,
+        "excerpt": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8ebe4d78fc0dc030f0cd",
+    "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+    "category": "Elections",
+    "published_at": "2026-11-24T20:20:24Z",
+    "first_seen_at": "2026-11-25T02:28:24.626776Z",
+    "updated_at": "2026-11-25T02:28:24.626776Z",
+    "sources": [
+      {
+        "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-24T20:20:24Z",
+        "primary": false,
+        "excerpt": "Victory expands Democrats’ House majority, its largest advantage in three decadesDemocrat Victoria Broderick has won Tennessee’s fourth congressional district, unseating eight-term Republican incumbent Scott DesJarlais in one of the biggest House upsets of the cycle. The victory expands Democrats’ historic House majority in the 120th Congress to 259 seats, the party’s largest advantage in three decades, and flips a seat that Donald Trump carried by more than 20 points in 2024.Broderick, 34, a former technology and logistics professional who previously ran for Congress in 2024, told the Guardia"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "48e905c7a1bf6c995c5b",
+    "title": "Democrats supporting abortion rights won big in midterms, but vast changes unlikely soon",
+    "category": "Elections",
+    "published_at": "2026-11-24T19:53:41Z",
+    "first_seen_at": "2026-11-25T02:28:24.626776Z",
+    "updated_at": "2026-11-25T02:28:24.626776Z",
+    "sources": [
+      {
+        "title": "Democrats supporting abortion rights won big in midterms, but vast changes unlikely soon",
+        "url": "https://www.pbs.org/newshour/politics/democrats-supporting-abortion-rights-won-big-in-midterms-but-vast-changes-unlikely-soon",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-24T19:53:41Z",
+        "primary": false,
+        "excerpt": "States with bans will still have enough Republicans in power to likely block any repeal attempts for now."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e0ee458ad4118b14dec5",
+    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+    "category": "World",
+    "published_at": "2026-11-24T23:50:31Z",
+    "first_seen_at": "2026-11-25T02:28:24.626776Z",
+    "updated_at": "2026-11-25T02:28:24.626776Z",
+    "sources": [
+      {
+        "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-24T23:50:31Z",
+        "primary": false,
+        "excerpt": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday.Ábrego is leaving the US for Spain on Tuesday evening. Continue reading..."
       }
     ],
     "tier": "brief",
