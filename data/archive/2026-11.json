@@ -36009,7 +36009,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ebe4d78fc0dc030f0cd",
@@ -36036,7 +36037,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "48e905c7a1bf6c995c5b",
@@ -36063,7 +36065,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e0ee458ad4118b14dec5",
@@ -36081,6 +36084,952 @@
         "published_at": "2026-11-24T23:50:31Z",
         "primary": false,
         "excerpt": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday.Ábrego is leaving the US for Spain on Tuesday evening. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "a3844199b67e8859e3ec",
+    "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+    "category": "Elections",
+    "published_at": "2026-11-25T11:00:47Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-25T11:00:47Z",
+        "primary": false,
+        "excerpt": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRAThe US midterm elections were not only a big win for the Democrats, but also a huge victory for the gun violence prevention movement, and a sign of the declining power of the once-feared gun lobby.More than 200 people who were endorsed by Everytown for Gun Safety, the prominent umbrella organization for a network of violence prevention groups, won state and federal races, according to data the non-profit shared with the Guardian. And nearly 550 former volunteers for Moms Demand Act"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6b93b27b01b376b40d4a",
+    "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+    "category": "World",
+    "published_at": "2026-11-25T12:42:11Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-25T12:42:11Z",
+        "primary": false,
+        "excerpt": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7c35b68fa87120135fa1",
+    "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:18:09Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+        "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:18:09Z",
+        "primary": false,
+        "excerpt": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "768761c6fef98b72bac9",
+    "title": "Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing",
+    "category": "U.S.",
+    "published_at": "2026-11-25T11:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing",
+        "url": "https://www.propublica.org/article/oregon-housing-council-andrea-bell-joshua-crites",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-25T11:00:00Z",
+        "primary": false,
+        "excerpt": "The post Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a6e35e03777eb18e46f7",
+    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+    "category": "World",
+    "published_at": "2026-11-25T12:21:49Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-25T12:21:49Z",
+        "primary": false,
+        "excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d8a263907752007716f7",
+    "title": "California beaches close as record-breaking tides and major flooding loom",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:30:25Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "California beaches close as record-breaking tides and major flooding loom",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:30:25Z",
+        "primary": false,
+        "excerpt": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstormsMajor flooding is expected in California today as a second day of record-breaking high tides hits up and down the west coast.While forecasts suggest most of the state is on track to avoid the worst-case scenario – coastal flooding amplified by intense winter rainstorms – local officials have been preparing for weeks for the risk that flooding will disrupt travel during Thanksgiving week, one of the busiest times of the year. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "27e96d18e366003b777f",
+    "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+    "category": "World",
+    "published_at": "2026-11-25T11:00:46Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+        "url": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T11:00:46Z",
+        "primary": false,
+        "excerpt": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assemblyChina is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time.Ben Keith, a specialist in “red notices” - the Interpol system under which national authorities are requested to locate and detain suspects - said he was working on five cases involving China making questionable requests through Interpol. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "12d3fdfe0d98bfc43a48",
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "category": "U.S.",
+    "published_at": "2026-11-25T11:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T11:00:00Z",
+        "primary": false,
+        "excerpt": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1deef1622e5d46a6bdee",
+    "title": "An Alarming Spike in Ectopic Pregnancy Deaths Was Hiding in Plain Sight in a Federal Dataset",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "An Alarming Spike in Ectopic Pregnancy Deaths Was Hiding in Plain Sight in a Federal Dataset",
+        "url": "https://www.propublica.org/article/ectopic-pregnancy-data-analysis",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "The post An Alarming Spike in Ectopic Pregnancy Deaths Was Hiding in Plain Sight in a Federal Dataset appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ef79198aa072aab4a810",
+    "title": "'This could be apocalyptic' - Iowans hunker down for controlled blast of explosives stockpile",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:15:36Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "'This could be apocalyptic' - Iowans hunker down for controlled blast of explosives stockpile",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:15:36Z",
+        "primary": false,
+        "excerpt": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "99cbf9acdae4cf1fe303",
+    "title": "Buying new things feels wonderful. But it can also be a trap",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:02:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Buying new things feels wonderful. But it can also be a trap",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:02:00Z",
+        "primary": false,
+        "excerpt": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "21d9ef7462af14ac80f3",
+    "title": "End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:23:53Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday",
+        "url": "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:23:53Z",
+        "primary": false,
+        "excerpt": "Four-time MVP will be inactive for Friday’s gamePittsburgh have lost two straight to fall to 6-4Mike McCarthy had backed Rodgers a day earlierThe Pittsburgh Steelers have benched four-time NFL MVP Aaron Rodgers and will start Mason Rudolph against the Denver Broncos on Friday, a move that could end one of the greatest quarterback careers in history.Rodgers will be inactive for the game, the Steelers said in a statement late on Tuesday night. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cfaf6d76e636e283e9a7",
+    "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "676a4b631e88917614b8",
+    "title": "The census provides a critical snapshot of the US. Proposed changes could affect who is counted in 2030",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:00:25Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "The census provides a critical snapshot of the US. Proposed changes could affect who is counted in 2030",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:00:25Z",
+        "primary": false,
+        "excerpt": "Trump administration’s bid to cut question on race and add one on citizenship could reshape how the US population is understoodJust a few years away from the 2030 census, the US Census Bureau is considering changes that could fundamentally reshape how people are counted – and therefore impact democracy, education, infrastructure and health. The proposed rule changes would add two new parts to the regulations that govern the census: One change would remove a question about race and ethnicity, while another would add a citizenship question. Also among the proposed changes is a line that would fo"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ee8983135d9be8a7ee40",
+    "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "297903a82486b5462412",
+    "title": "Visualized: how Democrats swept downballot races and tipped the balance of power in the US",
+    "category": "U.S.",
+    "published_at": "2026-11-25T12:00:25Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Visualized: how Democrats swept downballot races and tipped the balance of power in the US",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/25/visualized-democrats-sweep-midterm-elections",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T12:00:25Z",
+        "primary": false,
+        "excerpt": "Graphics show the scale of the midterm victories, when Democrats won one-third of Republican-held downballot statewide postsDemocrats will return to Congress in January with record numbers in the House and an unexpectedly large majority in the Senate.But beyond the national battles for Congress and governors’ mansions, the Democrats also captured a variety of posts at the state level, flipping positions across the country that in many cases had been held by Republicans for decades. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4e77e42de30f10ea78b9",
+    "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
+    "category": "U.S.",
+    "published_at": "2026-11-25T11:30:24Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T11:30:24Z",
+        "primary": false,
+        "excerpt": "‘Mr President Trump, I would like to … study at my school,’ writes seven-year-old in Texas family immigration centerA seven-year-old girl who was arrested by federal immigration agents alongside her mother in suburban New Orleans – then sent to a family detention center in Texas – has written a letter asking Donald Trump to release her from custody, saying she wants to see her dad again and continue her academic education.“Mr President Trump, I would like to visit my father, and study at my school,” Charlotte Ortiz said in the letter she wrote in Spanish from inside the Dilley, Texas, immigrat"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e596becb771133b1565e",
+    "title": "Beaver supermoon lights up skylines around the world – video",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:59:18Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Beaver supermoon lights up skylines around the world – video",
+        "url": "https://www.theguardian.com/science/video/2026/nov/25/beaver-supermoon-lights-up-skylines-around-the-world-video",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:59:18Z",
+        "primary": false,
+        "excerpt": "A stunning supermoon rose over skylines around the world. Supermoons occur when the full moon coincides with the moon being at or near its closest point to Earth, making it appear larger than usual. The November full moon is also known as the beaver moon, a name thought to date to when hunters traditionally set traps for beavers in autumn to secure a supply of warm fur for the winter Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b8ec02ff572c9cbaeba",
+    "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+    "category": "U.S.",
+    "published_at": "2026-11-25T10:00:12Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+        "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T10:00:12Z",
+        "primary": false,
+        "excerpt": "The job of Mauricio Pochettino’s successor is to fine-tune a team on the up. That requires a bureaucrat rather than a figureheadFirst, let’s get the Pep Exception out of the way. Or perhaps we’d better call it the Guardiola Caveat. Regardless, the point is the same. If US Soccer can get Pep Guardiola to manage the United States men’s national team, it should. Because when you have the chance to employ the most successful and influential coach of his generation, the thinker who stands upstream of essentially every major tactical current of the last two decades, you just have to do it.But let us"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ef7196b65c89d7d42c02",
+    "title": "Sticker Shock Looms as a Major Challenge in Push for Single-Payer Healthcare",
+    "category": "Health",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Sticker Shock Looms as a Major Challenge in Push for Single-Payer Healthcare",
+        "url": "https://kffhealthnews.org/health-industry/universal-healthcare-single-payer-medicare-for-all-costs-oregon-midterm-election/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "Any discussion of a universal health plan in the U.S. always comes with concerns about massive costs. The challenge for proponents is to explain to voters that Americans already spend more than $5 trillion on healthcare each year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f75c1de3d9df7630549c",
+    "title": "Why has China sent the first Pakistani astronaut to space?",
+    "category": "Science",
+    "published_at": "2026-11-25T10:26:50Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Why has China sent the first Pakistani astronaut to space?",
+        "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-25T10:26:50Z",
+        "primary": false,
+        "excerpt": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "52a9ba1c39a9dd875456",
+    "title": "EA adds AI-generated John Motson to FC 27 video game",
+    "category": "Technology",
+    "published_at": "2026-11-25T10:11:34Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "EA adds AI-generated John Motson to FC 27 video game",
+        "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-25T10:11:34Z",
+        "primary": false,
+        "excerpt": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "817cd4e903394ee1964c",
+    "title": "Bill McKibben: 2027 may be the year Americans turn on fossil fuels – Stateside with Kai and Carter",
+    "category": "Outdoors",
+    "published_at": "2026-11-25T11:00:45Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Bill McKibben: 2027 may be the year Americans turn on fossil fuels – Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/25/bill-mckibben-americans-fossil-fuels-climate-emergency-stateside-podcast",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-25T11:00:45Z",
+        "primary": false,
+        "excerpt": "It’s been another year in which the climate emergency has encroached on the lives of Americans across the country. From gigantic waves battering the California coastline to heat domes driving triple-digit temperatures in the southwest, we are reminded regularly that a crisis is here. Meanwhile, leaders gathered in Turkey for Cop31 failed to reach an agreement on how to move forward, and the US didn’t even bother to show up. To understand this moment, Kai Wright speaks to the environmentalist and author Bill McKibben about what he thinks must be done to slow the rapid advances of global heating"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5525747eb510e554d1a0",
+    "title": "Medicare Open Enrollment: Here’s What’s Changing, and What Mistakes To Avoid",
+    "category": "Health",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Medicare Open Enrollment: Here’s What’s Changing, and What Mistakes To Avoid",
+        "url": "https://kffhealthnews.org/insurance/medicare-open-enrollment-guide-medicare-advantage-medigap-part-d-drugs-premiums/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "Medicare’s zero-premium drug plans are disappearing, millions are losing their plans, and the average prescription drug plan premium could rise 50% if you stay put. Here’s what to check."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db38b8b434ca569d25ab",
+    "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+    "category": "Technology",
+    "published_at": "2026-11-25T10:03:12Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+        "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-25T10:03:12Z",
+        "primary": false,
+        "excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e9686f6cd807096f772c",
+    "title": "It’s the Paperwork, Not the Work, Causing Enrollees To Lose Medicaid in Nebraska",
+    "category": "Health",
+    "published_at": "2026-11-25T10:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "It’s the Paperwork, Not the Work, Causing Enrollees To Lose Medicaid in Nebraska",
+        "url": "https://kffhealthnews.org/health-care-costs/medicaid-work-requirements-new-rules-coverage-dropped-nebraska-rollout/",
+        "publisher": "KFF Health News",
+        "category": "Health",
+        "published_at": "2026-11-25T10:00:00Z",
+        "primary": false,
+        "excerpt": "Data from the months after the state’s early rollout of new federal work requirements bolsters concerns that red tape will leave many stuck without coverage."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "93741d05d81014d64b7b",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "category": "World",
+    "published_at": "2026-11-25T10:52:09Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-25T10:52:09Z",
+        "primary": false,
+        "excerpt": "The verdict follows a months-long trial in New York."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0c91fcaa28976c74ae36",
+    "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
+    "category": "World",
+    "published_at": "2026-11-25T12:14:52Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T12:14:52Z",
+        "primary": false,
+        "excerpt": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus a woman has an untimely encounter with some turkeys before ThanksgivingGood morning. Chuck Schumer has accused Jensen Huang, the newly reinstated Nvidia CEO, of shipping “extremely advanced chips to China” and violating US export control laws. On Tuesday, the senator said the move “amounts to the equivalent of selling rocket engines to the Soviets during the space race”, adding: “This is an unfathomable failure of enforcement by the Trump administration.”What did Huang say to N"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1ca9fbd3b57a87845f44",
+    "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+    "category": "World",
+    "published_at": "2026-11-25T11:00:46Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T11:00:46Z",
+        "primary": false,
+        "excerpt": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing viewsJames “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my ideas or not think I’m a jerk – but I still have a right to my beliefs and should not be unjustly accused because of them”.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-launder"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d3ef1d162b630b21c1c2",
+    "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
+    "category": "World",
+    "published_at": "2026-11-25T10:00:12Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T10:00:12Z",
+        "primary": false,
+        "excerpt": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effectsThe US Army is set to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, moving ahead after multiple delays and despite an outpouring of public concern about potential health and environmental effects.The controlled blast is planned to dispose of 9,700lb (4,400kg) of the bomb-making chemicals stored at the Iowa Army Ammunition Plant in Middletown, a small town in south-eastern Iowa that is home to about 400 people. The explosion risks relea"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6f9bff32551082235aa8",
+    "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+    "category": "Health",
+    "published_at": "2026-11-24T21:19:27Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
+        "publisher": "NPR",
+        "category": "Health",
+        "published_at": "2026-11-24T21:19:27Z",
+        "primary": false,
+        "excerpt": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0ff725cb7ee00c2d6a6c",
+    "title": "US attorney general dodges questions about Nvidia investigation",
+    "category": "World",
+    "published_at": "2026-11-25T03:44:07Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "US attorney general dodges questions about Nvidia investigation",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-25T03:44:07Z",
+        "primary": false,
+        "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "4c4c5e82c29d1ebe633a",
+    "title": "Pentagon sharply criticizes Canada over modernizing military",
+    "category": "U.S.",
+    "published_at": "2026-11-24T20:42:20Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "Pentagon sharply criticizes Canada over modernizing military",
+        "url": "https://www.pbs.org/newshour/world/pentagon-sharply-criticizes-canada-over-modernizing-military",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-24T20:42:20Z",
+        "primary": false,
+        "excerpt": "The Defense Department accused Ottawa of failing to make the tough decisions needed to modernize its military and meet NATO commitments."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e6eb26b5d8169518f525",
+    "title": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+    "category": "U.S.",
+    "published_at": "2026-11-24T23:00:00Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+        "url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-24T23:00:00Z",
+        "primary": false,
+        "excerpt": "The post A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9824a53e3b00e7a77381",
+    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "category": "U.S.",
+    "published_at": "2026-11-25T09:44:13Z",
+    "first_seen_at": "2026-11-25T12:54:08.115632Z",
+    "updated_at": "2026-11-25T12:54:08.115632Z",
+    "sources": [
+      {
+        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-25T09:44:13Z",
+        "primary": false,
+        "excerpt": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth."
       }
     ],
     "tier": "brief",
