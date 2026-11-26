@@ -36646,7 +36646,7 @@
         "excerpt": "Any discussion of a universal health plan in the U.S. always comes with concerns about massive costs. The challenge for proponents is to explain to voters that Americans already spend more than $5 trillion on healthcare each year."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -36674,7 +36674,7 @@
         "excerpt": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -36702,7 +36702,7 @@
         "excerpt": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -36730,7 +36730,7 @@
         "excerpt": "It’s been another year in which the climate emergency has encroached on the lives of Americans across the country. From gigantic waves battering the California coastline to heat domes driving triple-digit temperatures in the southwest, we are reminded regularly that a crisis is here. Meanwhile, leaders gathered in Turkey for Cop31 failed to reach an agreement on how to move forward, and the US didn’t even bother to show up. To understand this moment, Kai Wright speaks to the environmentalist and author Bill McKibben about what he thinks must be done to slow the rapid advances of global heating"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -36786,7 +36786,7 @@
         "excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -37157,7 +37157,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "23aae5c02f07b430b139",
@@ -37184,7 +37185,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0a34feb65b8b47c143ad",
@@ -37211,7 +37213,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a77b5085c9245e54e54e",
@@ -37238,7 +37241,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "baf26c4be0d1577e239b",
@@ -37265,7 +37269,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ab380d349d1f63f4d40b",
@@ -37292,7 +37297,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "76e6770b7e02766061d4",
@@ -37319,7 +37325,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "55336c71ec5797150733",
@@ -37346,7 +37353,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b566e2118890c0f7d40a",
@@ -37373,7 +37381,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "35dea5366b847e6c751b",
@@ -37400,7 +37409,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "16118aea1794d4604db6",
@@ -37427,7 +37437,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d941d037832cf0fec3f9",
@@ -37445,6 +37456,952 @@
         "published_at": "2026-11-25T18:21:47Z",
         "primary": false,
         "excerpt": "The FCC approved 1m Starmind satellites, with the deployment of 100,000 no later than November 2035US federal regulators approved a constellation of datacenters to process data in space on Wednesday, saying that they would “support America’s booming super intelligence economy”.The Federal Communications Commission (FCC) said in a statement that regulators had approved 1m Starmind orbital satellites, or compute modules, built by Elon Musk’s SpaceX. It is the first such authorization in US history. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e700f81f3624ed92c98f",
+    "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+    "category": "U.S.",
+    "published_at": "2026-11-26T12:24:29Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+        "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T12:24:29Z",
+        "primary": false,
+        "excerpt": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8375d91514f568616ba0",
+    "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+    "category": "World",
+    "published_at": "2026-11-26T14:56:58Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+        "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T14:56:58Z",
+        "primary": false,
+        "excerpt": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacksEurope live – latest updatesEU leaders are bracing for a clash over long-term financial aid for Ukraine, amid an effort to finalise high-stakes budget talks by the end of the year.Arriving in Brussels on Thursday, the German chancellor, Friedrich Merz, reiterated his view that all EU member states should support a €45bn (£38bn) loan for Ukraine for 2027. “When the European Union provides funding, it does so as the European Union – and that union consists of 27 mem"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a7dd3ee13599a966c680",
+    "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
+    "category": "U.S.",
+    "published_at": "2026-11-26T14:00:36Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T14:00:36Z",
+        "primary": false,
+        "excerpt": "Advocacy groups say displaced families were sent to ‘subpar hotels’ until 30 November, with no housing plans in place afterwardFlatbush community leaders are in an uproar on behalf of those who have been displaced in the aftermath of an apartment building collapse in Brooklyn earlier this month. They say some displaced tenants are in hotels until 30 November, but have no housing plans after that date.Advocacy groups said that those who were displaced were sent to “subpar hotels” that were also home to roaches and mice. Stays were only set for up to four days, leaving community leaders to push "
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6167442d2b001c7cebed",
+    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+    "category": "World",
+    "published_at": "2026-11-26T13:43:16Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T13:43:16Z",
+        "primary": false,
+        "excerpt": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌JuneUK politics live – latest updatesNet migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic.Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0b7b281c5663c7ed50b4",
+    "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+    "category": "U.S.",
+    "published_at": "2026-11-26T13:47:09Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+        "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T13:47:09Z",
+        "primary": false,
+        "excerpt": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "53235b40ca7b0044de8b",
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "category": "U.S.",
+    "published_at": "2026-11-26T13:31:28Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+        "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T13:31:28Z",
+        "primary": false,
+        "excerpt": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b885574d16ad1338422",
+    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+    "category": "Outdoors",
+    "published_at": "2026-11-26T15:00:37Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+        "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-26T15:00:37Z",
+        "primary": false,
+        "excerpt": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve projectOpinion: Why Labour MPs are opposing RosebankLabour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour MPs – including a handful of frontbenchers – writing to the prime minister to express their opposition to the project.Ninety-two backbenchers and at least four frontbenchers have signed a letter to Andy Burnham urging him not to let his ministers approve the scheme for the biggest undeveloped field in UK waters. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "45b5554e420ec5277246",
+    "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+    "category": "Outdoors",
+    "published_at": "2026-11-26T14:00:39Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-26T14:00:39Z",
+        "primary": false,
+        "excerpt": "Farmers’ federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’Get our breaking news email, free app or daily news podcastYears-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts.Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quar"
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "66d3107190513c374b49",
+    "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+    "category": "World",
+    "published_at": "2026-11-26T14:35:22Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+        "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T14:35:22Z",
+        "primary": false,
+        "excerpt": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "28362e4136e923a9033b",
+    "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+    "category": "Outdoors",
+    "published_at": "2026-11-26T13:43:36Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+        "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-26T13:43:36Z",
+        "primary": false,
+        "excerpt": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climateMinisters have “failed to make the case” for a third runway at Heathrow, according to a damning report by MPs.The Commons transport committee said on Thursday that the detailed policy papers laid out by the government showed expansion of the London airport would fall short of pledges on the economy and climate. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0d388ca3219b75481ccd",
+    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+    "category": "World",
+    "published_at": "2026-11-26T13:11:39Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+        "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T13:11:39Z",
+        "primary": false,
+        "excerpt": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents revealUK politics live – latest updatesPeter Mandelson sought to organise an “under the radar” meeting between an economic adviser to Donald Trump and a member of his former lobbying firm, Global Counsel, while he still held shares in the company, newly released documents reveal.In April 2025, while ambassador to Washington, Mandelson wanted to hold a lunch to discuss “alternative options” to the World Trade Organization and on how “like-minded partners come to terms with Ch"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c37f41759c6f2d3f008d",
+    "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
+    "category": "World",
+    "published_at": "2026-11-26T13:00:35Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T13:00:35Z",
+        "primary": false,
+        "excerpt": "Communities say big railroad companies won’t act and that lawmakers moving too slowly to address a major problemThe drive from the Lockland fire station to a house fire on Patterson Avenue should have taken no more than 45 seconds.But East Wyoming Avenue and Davis Street were both blocked: a Norfolk Southern train was stopped across several streets – the fire engine had to turn around and take a detour via a nearby highway. By the time firefighters snaked through the highway traffic and reached the fire last month, seven minutes after the call came in, 89-year-old Marian Haefner was dead in he"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aa93b949730b43147e11",
+    "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+    "category": "Business",
+    "published_at": "2026-11-26T05:23:18Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-11-26T05:23:18Z",
+        "primary": false,
+        "excerpt": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "058d83d6e59a33597395",
+    "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+    "category": "U.S.",
+    "published_at": "2026-11-26T11:43:47Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T11:43:47Z",
+        "primary": false,
+        "excerpt": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "05958ee3911dd392c1a7",
+    "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
+    "category": "U.S.",
+    "published_at": "2026-11-26T09:44:20Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T09:44:20Z",
+        "primary": false,
+        "excerpt": "LUMA Energy took over the electric grid five years ago. The court's ruling nullifies its contract, and gives the government a year to find a new operator."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b6d11a4e7c337bae48a6",
+    "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
+    "category": "World",
+    "published_at": "2026-11-26T11:00:33Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T11:00:33Z",
+        "primary": false,
+        "excerpt": "His departure ends a high-profile legal battle over due process and deportation, but leaves the Trump administration facing little accountability for its actionsKilmar Ábrego García, the man illegally deported to his native El Salvador last year and whose immigration case spurred a 20-month-long battle with the Trump administration, arrived in Spain on Wednesday.Trump administration officials and Ábrego García supporters are both claiming voluntary departure from the US to avoid deportation is a victory for their respective sides. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "065563fac21694c1701b",
+    "title": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+    "category": "Business",
+    "published_at": "2026-11-25T23:01:09Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+        "publisher": "NPR",
+        "category": "Business",
+        "published_at": "2026-11-25T23:01:09Z",
+        "primary": false,
+        "excerpt": "In China, Jensen Huang's return as Nvidia CEO is being met with a mixed reaction – as Beijing weighs whether it wants the US company's chips at all."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bf1e4e3caac984c01ecc",
+    "title": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip",
+    "category": "U.S.",
+    "published_at": "2026-11-26T00:02:17Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip",
+        "url": "https://www.pbs.org/newshour/nation/small-plane-crash-off-mississippi-coast-kills-extended-family-of-6-on-fishing-trip",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T00:02:17Z",
+        "primary": false,
+        "excerpt": "Authorities are investigating why a small plane carrying six members of a Florida family crashed off the Mississippi coast on Tuesday. They were returning home from a fishing trip, relatives say."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dea278de7192f05d05ff",
+    "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+    "category": "World",
+    "published_at": "2026-11-26T10:14:08Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T10:14:08Z",
+        "primary": false,
+        "excerpt": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "62e3e2a8f79976197a36",
+    "title": "FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns",
+    "category": "U.S.",
+    "published_at": "2026-11-25T19:30:00Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns",
+        "url": "https://www.propublica.org/article/fda-prescription-generic-medication-testing",
+        "publisher": "ProPublica",
+        "category": "U.S.",
+        "published_at": "2026-11-25T19:30:00Z",
+        "primary": false,
+        "excerpt": "The post FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns appeared first on ProPublica."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "eb2c47c4f2dabcbd2d6d",
+    "title": "Desperate appeals from women on death row in Iran after protests",
+    "category": "World",
+    "published_at": "2026-11-26T06:01:58Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Desperate appeals from women on death row in Iran after protests",
+        "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T06:01:58Z",
+        "primary": false,
+        "excerpt": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2ef802797b9bb4aa17e3",
+    "title": "How Trump's newest tariffs could impact Americans and the economy",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:50:40Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "How Trump's newest tariffs could impact Americans and the economy",
+        "url": "https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:50:40Z",
+        "primary": false,
+        "excerpt": "The Trump administration announced plans for a new round of tariffs on China, the European Union and 12 other major trading partners. China would face the highest rate with a new 20% tariff on most products. To discuss how this will impact Americans and the economy, Lisa Desjardins spoke with Gavin Bade of The Wall Street Journal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7ba7bbc99e334da9b237",
+    "title": "Has global jihadism failed, or is it simply changing shape?",
+    "category": "World",
+    "published_at": "2026-11-26T00:22:18Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Has global jihadism failed, or is it simply changing shape?",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T00:22:18Z",
+        "primary": false,
+        "excerpt": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1d8bf596953c228bc7f0",
+    "title": "What the Army's Iowa detonation means for nearby communities",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:49:33Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "What the Army's Iowa detonation means for nearby communities",
+        "url": "https://www.pbs.org/newshour/show/what-the-armys-iowa-detonation-means-for-nearby-communities",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:49:33Z",
+        "primary": false,
+        "excerpt": "The Army blew up a highly volatile lead chemical compound in Iowa after a federal court gave the green light. Officials called the operation a success, but did not take questions from reporters. Surrounding communities remain on alert, and three states say they're monitoring the effects. Stephanie Sy reports, and Lisa Desjardins discusses more with Eliza Billingham of Iowa Public Radio."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1339e65df707c6f7f206",
+    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+    "category": "World",
+    "published_at": "2026-11-26T10:00:52Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+        "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T10:00:52Z",
+        "primary": false,
+        "excerpt": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decadeIsrael has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse in official records or granting advanced approval for “special measures” in interrogation, according to a report from the Public Committee Against Torture in Israel (PCATI).This dangerous practice risked leading to irreversible miscarriages of justice, as Israel moved to implement a racist new death penalty law that targets Palestinians, the report said. Con"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7e4578365803e880a424",
+    "title": "News Wrap: Severe weather threatens holiday travel for millions",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:45:42Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "News Wrap: Severe weather threatens holiday travel for millions",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-severe-weather-threatens-holiday-travel-for-millions",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:45:42Z",
+        "primary": false,
+        "excerpt": "In our news wrap Wednesday, severe weather is threatening Thanksgiving travel for millions of Americans, authorities in Egypt say at least 30 are dead after a crash involving a fuel tanker sparked a massive fire near Cairo and the Treasury Department's financial crimes enforcement network suffered what it calls a \"cybersecurity incident.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c1536e739e29b884369c",
+    "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+    "category": "World",
+    "published_at": "2026-11-26T05:16:17Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+        "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T05:16:17Z",
+        "primary": false,
+        "excerpt": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far eastThe wife of a Japanese journalist who has been detained in Russia for more than a month on suspicion of spying has issued an emotive appeal for his release.Yuki Imai, a reporter for the Hokkaido Shimbun, was arrested in mid-October as he was preparing to return to Japan from a two-year assignment at the Japanese newspaper’s bureau in the city of Yuzhno-Sakhalinsk, on the island of Sakhalin in Russia’s far east. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3e9db239b14ee432fe83",
+    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "category": "U.S.",
+    "published_at": "2026-11-26T09:27:44Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+        "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T09:27:44Z",
+        "primary": false,
+        "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2eb146ad21c16aa00ed0",
+    "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+    "category": "World",
+    "published_at": "2026-11-25T23:06:06Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+        "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-25T23:06:06Z",
+        "primary": false,
+        "excerpt": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of warMariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday.She shares the award with two of her colleagues from the Associated Press (AP), Abdel Kareem Hana and Jehad Alshrafi, “for their powerful coverage of the human cost of the war” in the Palestinian territory, the Rory Peck Trust said. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "f631768c1d92cfc0a9b4",
+    "title": "Former Israeli generals protect Palestinians from settler attacks during olive harvest",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:40:39Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Former Israeli generals protect Palestinians from settler attacks during olive harvest",
+        "url": "https://www.pbs.org/newshour/show/former-israeli-generals-protect-palestinians-from-settler-attacks-during-olive-harvest",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:40:39Z",
+        "primary": false,
+        "excerpt": "This week, Palestinians in the occupied West Bank are concluding their annual olive harvest, one that the U.N. says has been the most violent on record. In the first of two stories from Nick Schifrin and his team in the West Bank, he looks at how some Israeli settlers have dramatically increased their attacks on Palestinians, and what that says about a battle within Israel over its own future."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5772998676a64e9ff60d",
+    "title": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+    "category": "U.S.",
+    "published_at": "2026-11-26T09:22:34Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+        "url": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T09:22:34Z",
+        "primary": false,
+        "excerpt": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "cecabc8abada72cc261b",
+    "title": "Ben Shapiro and Amna Nawaz discuss GOP's future on 'Settle In'",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:35:11Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Ben Shapiro and Amna Nawaz discuss GOP's future on 'Settle In'",
+        "url": "https://www.pbs.org/newshour/show/ben-shapiro-and-amna-nawaz-discuss-gops-future-on-settle-in",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:35:11Z",
+        "primary": false,
+        "excerpt": "Political commentator Ben Shapiro has been a prominent and often controversial force in conservative media since he was a teenager. Now in his early 40s, he hosts one of America's most popular podcasts and remains editor emeritus of The Daily Wire. Amna Nawaz sat down with Shapiro on \"Settle In\" to discuss the GOP's path forward after the midterms and other hot-button issues."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "32305df7425e383970ad",
+    "title": "FedEx plane sends dirt flying while overshooting Miami runway",
+    "category": "U.S.",
+    "published_at": "2026-11-26T05:20:42Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "FedEx plane sends dirt flying while overshooting Miami runway",
+        "url": "https://www.bbc.co.uk/news/videos/cwr5gv5387r8o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T05:20:42Z",
+        "primary": false,
+        "excerpt": "An aircraft overran a runway at Miami International Airport in Florida on Wednesday leading to a halt in flights."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8af99326893ee636cbff",
+    "title": "Meet the young maestro leading the Chicago Symphony Orchestra",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:30:48Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Meet the young maestro leading the Chicago Symphony Orchestra",
+        "url": "https://www.pbs.org/newshour/show/meet-the-young-maestro-leading-the-chicago-symphony-orchestra",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:30:48Z",
+        "primary": false,
+        "excerpt": "The Chicago Symphony Orchestra has long been considered one of the nation's leading classical music ensembles. Led by a series of celebrated conductors, it's now turning to a new artistic leader who was just 28 when the announcement came. Senior arts correspondent Jeffrey Brown met Klaus Mäkelä as he gets to know his new orchestra. It's part of our arts and culture series, CANVAS."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b9015824daeb7ed8a8f7",
+    "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
+    "category": "U.S.",
+    "published_at": "2026-11-26T11:43:10Z",
+    "first_seen_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "sources": [
+      {
+        "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T11:43:10Z",
+        "primary": false,
+        "excerpt": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs."
       }
     ],
     "tier": "brief",
