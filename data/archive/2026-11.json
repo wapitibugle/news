@@ -37101,7 +37101,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "117a1bf110d69d8ef35c",
@@ -37119,6 +37120,331 @@
         "published_at": "2026-11-25T22:00:15Z",
         "primary": false,
         "excerpt": "Three weeks after midterm elections that devastated the Republican Party, several dozen of its more youthful members gathered at a brewery to sort through the pieces."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "b64a64643cec04ce00e9",
+    "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+    "category": "Elections",
+    "published_at": "2026-11-25T22:53:33Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+        "url": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-25T22:53:33Z",
+        "primary": false,
+        "excerpt": "A Republican official who oversees Alaska elections said she has ended an agreement under which the state shared its voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for possible removal."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "23aae5c02f07b430b139",
+    "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+    "category": "Elections",
+    "published_at": "2026-11-25T22:48:11Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+        "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-25T22:48:11Z",
+        "primary": false,
+        "excerpt": "A judge on Tuesday ordered Georgia's Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from the 2020 election in the state's most populous county."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0a34feb65b8b47c143ad",
+    "title": "US announces new tariffs on host of countries including China",
+    "category": "World",
+    "published_at": "2026-11-26T04:10:58Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "US announces new tariffs on host of countries including China",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T04:10:58Z",
+        "primary": false,
+        "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a77b5085c9245e54e54e",
+    "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+    "category": "World",
+    "published_at": "2026-11-26T03:54:24Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T03:54:24Z",
+        "primary": false,
+        "excerpt": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’Trump proposing new tariffs on 14 partners including China and EUBrazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners.Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of th"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "baf26c4be0d1577e239b",
+    "title": "Macy's postpones Thanksgiving parade due to severe weather",
+    "category": "U.S.",
+    "published_at": "2026-11-26T04:04:14Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Macy's postpones Thanksgiving parade due to severe weather",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T04:04:14Z",
+        "primary": false,
+        "excerpt": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ab380d349d1f63f4d40b",
+    "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+    "category": "U.S.",
+    "published_at": "2026-11-26T03:27:33Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T03:27:33Z",
+        "primary": false,
+        "excerpt": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "76e6770b7e02766061d4",
+    "title": "Rams pound Packers to win fifth straight game despite Kam Kinchens’ ejection",
+    "category": "U.S.",
+    "published_at": "2026-11-26T04:53:40Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Rams pound Packers to win fifth straight game despite Kam Kinchens’ ejection",
+        "url": "https://www.theguardian.com/sport/2026/nov/25/rams-pound-packers-to-win-fifth-straight-game-despite-kam-kinchens-ejection",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T04:53:40Z",
+        "primary": false,
+        "excerpt": "Green Bay Packers 13-26 Los Angeles RamsMicah Parson has sack on Green Bay returnBlake Corum rushes for career-high 184 yardsBlake Corum rushed for a career-high 184 yards and a touchdown, Kyren Williams ran for another score and the Los Angeles Rams used a relentless ground game to pound out their fifth consecutive victory, 26-13 over the Green Bay Packers on Wednesday night.Corum extended his breakout season with another impressive outing on his 26th birthday, scoring a TD in his seventh consecutive game while the Rams (7-4) got stellar efforts from their rushing attack and a stout defense t"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55336c71ec5797150733",
+    "title": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+    "category": "U.S.",
+    "published_at": "2026-11-25T23:51:49Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+        "url": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T23:51:49Z",
+        "primary": false,
+        "excerpt": "Vice President JD Vance, second lady Usha Vance and their four children visited Wright-Patterson Air Force Base in Ohio on Wednesday, serving a Thanksgiving meal to troops and joining them for lunch."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b566e2118890c0f7d40a",
+    "title": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+    "category": "U.S.",
+    "published_at": "2026-11-25T22:30:20Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+        "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T22:30:20Z",
+        "primary": false,
+        "excerpt": "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation from the United States, arrived in Spain on Wednesday after what his lawyer described as a temporary departure, with hopes of returning to his family's home in Maryland after President Donald Trump leaves office."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "35dea5366b847e6c751b",
+    "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
+    "category": "U.S.",
+    "published_at": "2026-11-25T18:07:48Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
+        "url": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T18:07:48Z",
+        "primary": false,
+        "excerpt": "The reports use cherry-picked data, careful phrasing and in some cases facts that don't stand up to scrutiny to create misleading depictions of countries that are in fact often plagued by violence, government corruption and police inaction."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "16118aea1794d4604db6",
+    "title": "Trump administration to raise tariffs on China, EU, Brazil and others",
+    "category": "U.S.",
+    "published_at": "2026-11-25T16:37:24Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Trump administration to raise tariffs on China, EU, Brazil and others",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-to-raise-tariffs-on-china-eu-brazil-and-others",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-25T16:37:24Z",
+        "primary": false,
+        "excerpt": "The new tariffs stem from investigations into the trade practices of 12 countries, the 27-member EU and the self-governing island of Taiwan."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d941d037832cf0fec3f9",
+    "title": "Trump administration approves Elon Musk’s plan for datacenters in space",
+    "category": "U.S.",
+    "published_at": "2026-11-25T18:21:47Z",
+    "first_seen_at": "2026-11-26T05:03:39.925751Z",
+    "updated_at": "2026-11-26T05:03:39.925751Z",
+    "sources": [
+      {
+        "title": "Trump administration approves Elon Musk’s plan for datacenters in space",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-25T18:21:47Z",
+        "primary": false,
+        "excerpt": "The FCC approved 1m Starmind satellites, with the deployment of 100,000 no later than November 2035US federal regulators approved a constellation of datacenters to process data in space on Wednesday, saying that they would “support America’s booming super intelligence economy”.The Federal Communications Commission (FCC) said in a statement that regulators had approved 1m Starmind orbital satellites, or compute modules, built by Elon Musk’s SpaceX. It is the first such authorization in US history. Continue reading..."
       }
     ],
     "tier": "brief",
