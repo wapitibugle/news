@@ -37493,7 +37493,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8375d91514f568616ba0",
@@ -37520,7 +37521,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a7dd3ee13599a966c680",
@@ -37547,7 +37549,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6167442d2b001c7cebed",
@@ -37574,7 +37577,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0b7b281c5663c7ed50b4",
@@ -37601,7 +37605,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "53235b40ca7b0044de8b",
@@ -37609,7 +37614,7 @@
     "category": "U.S.",
     "published_at": "2026-11-26T13:31:28Z",
     "first_seen_at": "2026-11-26T15:15:41.371827Z",
-    "updated_at": "2026-11-26T15:15:41.371827Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
     "sources": [
       {
         "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
@@ -37619,6 +37624,15 @@
         "published_at": "2026-11-26T13:31:28Z",
         "primary": false,
         "excerpt": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+      },
+      {
+        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+        "url": "https://www.pbs.org/newshour/world/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T21:48:41Z",
+        "primary": false,
+        "excerpt": "North Korean leader Kim Jong Un visited facilities that produce nuclear ingredients and called for building more nuclear weapons, days after ignoring U.S. President Donald Trump's offer to meet during his recent visit to Asia."
       }
     ],
     "tier": "brief",
@@ -37628,7 +37642,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5b885574d16ad1338422",
@@ -37655,7 +37670,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "45b5554e420ec5277246",
@@ -37682,7 +37698,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "66d3107190513c374b49",
@@ -37709,7 +37726,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "28362e4136e923a9033b",
@@ -37736,7 +37754,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0d388ca3219b75481ccd",
@@ -37763,7 +37782,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c37f41759c6f2d3f008d",
@@ -37790,7 +37810,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aa93b949730b43147e11",
@@ -37817,7 +37838,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "058d83d6e59a33597395",
@@ -37844,7 +37866,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "05958ee3911dd392c1a7",
@@ -37871,7 +37894,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b6d11a4e7c337bae48a6",
@@ -37898,7 +37922,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "065563fac21694c1701b",
@@ -37925,7 +37950,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bf1e4e3caac984c01ecc",
@@ -37952,7 +37978,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dea278de7192f05d05ff",
@@ -37979,7 +38006,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "62e3e2a8f79976197a36",
@@ -38006,7 +38034,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "eb2c47c4f2dabcbd2d6d",
@@ -38033,7 +38062,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2ef802797b9bb4aa17e3",
@@ -38060,7 +38090,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7ba7bbc99e334da9b237",
@@ -38087,7 +38118,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1d8bf596953c228bc7f0",
@@ -38114,7 +38146,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1339e65df707c6f7f206",
@@ -38141,7 +38174,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7e4578365803e880a424",
@@ -38168,7 +38202,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c1536e739e29b884369c",
@@ -38195,7 +38230,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3e9db239b14ee432fe83",
@@ -38222,7 +38258,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2eb146ad21c16aa00ed0",
@@ -38249,7 +38286,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f631768c1d92cfc0a9b4",
@@ -38276,7 +38314,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5772998676a64e9ff60d",
@@ -38303,7 +38342,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cecabc8abada72cc261b",
@@ -38330,7 +38370,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "32305df7425e383970ad",
@@ -38357,7 +38398,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8af99326893ee636cbff",
@@ -38384,7 +38426,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b9015824daeb7ed8a8f7",
@@ -38402,6 +38445,250 @@
         "published_at": "2026-11-26T11:43:10Z",
         "primary": false,
         "excerpt": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "29137ef5f7a91a20e9fd",
+    "title": "How Democrats' election successes could lead to new climate change policies",
+    "category": "Elections",
+    "published_at": "2026-11-26T23:40:45Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "How Democrats' election successes could lead to new climate change policies",
+        "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-26T23:40:45Z",
+        "primary": false,
+        "excerpt": "Even though it did not play a major role on the campaign trail, with Democrats' commanding wins nationwide as well as at the state level, some environmental groups are convinced that more substantive action is just around the corner. Caroline Spears, executive director of the advocacy group the Climate Cabinet, joins Williams Brangham to discuss."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0c4d557c40c2413d0089",
+    "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+    "category": "Elections",
+    "published_at": "2026-11-26T23:06:14Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
+        "publisher": "NPR",
+        "category": "Elections",
+        "published_at": "2026-11-26T23:06:14Z",
+        "primary": false,
+        "excerpt": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "64295a51bb9fe152c13a",
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+    "category": "Elections",
+    "published_at": "2026-11-26T19:41:37Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-26T19:41:37Z",
+        "primary": false,
+        "excerpt": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat RepublicansDonald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party.In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was ac"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2b041efb2862411119cf",
+    "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
+    "category": "Elections",
+    "published_at": "2026-11-26T16:08:04Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
+        "publisher": "Guardian",
+        "category": "Elections",
+        "published_at": "2026-11-26T16:08:04Z",
+        "primary": false,
+        "excerpt": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appealA judge in Fulton county, Georgia, has blocked her own order to turn over electronic copies of 2020 election ballots seized by the FBI in a raid to the Georgia state election board.Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "83a805525aa78695c577",
+    "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+    "category": "U.S.",
+    "published_at": "2026-11-26T22:20:22Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+        "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T22:20:22Z",
+        "primary": false,
+        "excerpt": "A federal judge on Wednesday sided against Democrats on the federal government's taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3886fbfd782b462b2eaf",
+    "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+    "category": "U.S.",
+    "published_at": "2026-11-26T21:11:24Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+        "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T21:11:24Z",
+        "primary": false,
+        "excerpt": "Democrats to examine Fifa Forward Enterprise scandalInfantino could be subpoenaed to give evidenceA number of past and present Fifa employees have received letters requesting they attend interviews for a congressional investigation into the global governing body sparked by the Fifa Forward Enterprise scandal.Letters were sent on Wednesday to a number of staff along with a handful of former employees who held senior positions. They have been asked by Democrats on the House judiciary committee to give evidence as efforts gather pace to examine Gianni Infantino’s failed FFE scheme along with link"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0ee55cb0595725e90ab0",
+    "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "category": "World",
+    "published_at": "2026-11-26T22:49:27Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T22:49:27Z",
+        "primary": false,
+        "excerpt": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9cf58e9b5260d4142ac8",
+    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "category": "World",
+    "published_at": "2026-11-26T21:17:53Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+        "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-26T21:17:53Z",
+        "primary": false,
+        "excerpt": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55f539a0b3e3dac9e405",
+    "title": "Despite political divide, Americans often 'speak in one voice'",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:45:13Z",
+    "first_seen_at": "2026-11-26T23:53:18.971119Z",
+    "updated_at": "2026-11-26T23:53:18.971119Z",
+    "sources": [
+      {
+        "title": "Despite political divide, Americans often 'speak in one voice'",
+        "url": "https://www.pbs.org/newshour/show/despite-political-divide-americans-often-speak-in-one-voice",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:45:13Z",
+        "primary": false,
+        "excerpt": "In this era of sharp American divide, politics has increasingly become a dish families work to keep off the Thanksgiving table. But in reality, data show Americans actually agree on many tough topics, spanning more than 100 policies. Lisa Desjardins spoke with two leading researchers whose counter-intuitive findings suggest our division is based on politics, not policy."
       }
     ],
     "tier": "brief",
