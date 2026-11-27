@@ -37691,7 +37691,7 @@
         "excerpt": "Farmers’ federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’Get our breaking news email, free app or daily news podcastYears-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts.Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quar"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -37747,7 +37747,7 @@
         "excerpt": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climateMinisters have “failed to make the case” for a third runway at Heathrow, according to a damning report by MPs.The Commons transport committee said on Thursday that the detailed policy papers laid out by the government showed expansion of the London airport would fall short of pledges on the economy and climate. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -38482,7 +38482,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0c4d557c40c2413d0089",
@@ -38509,7 +38510,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "64295a51bb9fe152c13a",
@@ -38536,7 +38538,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "2b041efb2862411119cf",
@@ -38563,7 +38566,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "83a805525aa78695c577",
@@ -38590,7 +38594,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3886fbfd782b462b2eaf",
@@ -38617,7 +38622,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0ee55cb0595725e90ab0",
@@ -38644,7 +38650,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "9cf58e9b5260d4142ac8",
@@ -38671,7 +38678,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "55f539a0b3e3dac9e405",
@@ -38689,6 +38697,961 @@
         "published_at": "2026-11-26T23:45:13Z",
         "primary": false,
         "excerpt": "In this era of sharp American divide, politics has increasingly become a dish families work to keep off the Thanksgiving table. But in reality, data show Americans actually agree on many tough topics, spanning more than 100 policies. Lisa Desjardins spoke with two leading researchers whose counter-intuitive findings suggest our division is based on politics, not policy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "e86d8dfb44b51595ad07",
+    "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
+    "category": "U.S.",
+    "published_at": "2026-11-27T08:23:12Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T08:23:12Z",
+        "primary": false,
+        "excerpt": "Eagles QB Joe Milton threw two long touchdowns against the quarterback's former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dcb79a12bbc65b1f3adb",
+    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "category": "U.S.",
+    "published_at": "2026-11-27T06:12:45Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+        "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T06:12:45Z",
+        "primary": false,
+        "excerpt": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55820b01fcc01eeb145d",
+    "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
+    "category": "World",
+    "published_at": "2026-11-27T08:10:27Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-27T08:10:27Z",
+        "primary": false,
+        "excerpt": "Homes left without power and holiday travel disrupted as storms pound east coast and other parts of the USStorms have flooded communities in the US east coast, knocking out power to nearly a million customers and prompting the first-ever postponement of Macy’s Thanksgiving Day parade in New York City.High winds and flooding hammered both coasts, disrupting holiday travel. More than 900,000 homes and businesses were without electricity on Thursday evening, with the majority in east coast states, according to the outage tracking website PowerOutage.us. More than 2,200 flights to or from US desti"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e2c46a476ee82dde8167",
+    "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+    "category": "Science",
+    "published_at": "2026-11-27T06:19:13Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-27T06:19:13Z",
+        "primary": false,
+        "excerpt": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "09deb80babd71ae30da7",
+    "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+    "category": "Outdoors",
+    "published_at": "2026-11-27T08:00:58Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+        "url": "https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-revenge",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-27T08:00:58Z",
+        "primary": false,
+        "excerpt": "This week’s best wildlife photographs from around the world Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "74846481be2f28afade1",
+    "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+    "category": "Technology",
+    "published_at": "2026-11-27T07:00:56Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+        "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-27T07:00:56Z",
+        "primary": false,
+        "excerpt": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shopThey promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner.This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a1bdfcf28a4461e5a6f",
+    "title": "Second court defeat for Trump's deep-sea mining ambitions",
+    "category": "Science",
+    "published_at": "2026-11-26T18:22:28Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Second court defeat for Trump's deep-sea mining ambitions",
+        "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-26T18:22:28Z",
+        "primary": false,
+        "excerpt": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9a7631238b2bad612331",
+    "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+    "category": "U.S.",
+    "published_at": "2026-11-26T16:36:06Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+        "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T16:36:06Z",
+        "primary": false,
+        "excerpt": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "513630d8fd137ed51c00",
+    "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+    "category": "U.S.",
+    "published_at": "2026-11-26T16:09:11Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+        "url": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T16:09:11Z",
+        "primary": false,
+        "excerpt": "A federal judge on Wednesday blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses, agreeing with the network that the Trump administration was chilling the network's free speech rights."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "34a04aa6806b5c9c8289",
+    "title": "Threat from China looms large over Taiwan’s local elections",
+    "category": "World",
+    "published_at": "2026-11-27T01:00:49Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Threat from China looms large over Taiwan’s local elections",
+        "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-27T01:00:49Z",
+        "primary": false,
+        "excerpt": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling partyTaiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage.Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years, are largely focused on b"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bb1d47b33428c7af5ba2",
+    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+    "category": "World",
+    "published_at": "2026-11-26T20:33:07Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+        "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T20:33:07Z",
+        "primary": false,
+        "excerpt": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza CityIsraeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and a struggle to find food, clean water and shelter.On Wednesday, Gaza’s ministry of education said: “Palestinian students had been targeted for the third time in less than 24 hours, in an escalation reflecting the continued Israeli violations against children in the Gaza Strip. The number of schoolchildren killed since the beginning of"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "59336dc3e4cc06c9560d",
+    "title": "What would happen if Russia detonated a nuclear weapon in space?",
+    "category": "World",
+    "published_at": "2026-11-26T18:13:33Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "What would happen if Russia detonated a nuclear weapon in space?",
+        "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-26T18:13:33Z",
+        "primary": false,
+        "excerpt": "⁠Sputnik-S, a nuclear-enabled satellite, has been assembled by Russia and could be launched in 60 days, reports sayRussia is reportedly preparing to launch a nuclear-armed satellite into space later this year, in a scenario that could pose a significant threat to global communications.German media outlets have reported, citing western intelligence agency assessments, that such a satellite could be launched within 60 days and would be operational shortly afterwards. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "068a038ee80b867ca47a",
+    "title": "Stormy Thanksgiving weather causes delays and damages for many Americans",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:55:26Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Stormy Thanksgiving weather causes delays and damages for many Americans",
+        "url": "https://www.pbs.org/newshour/show/stormy-thanksgiving-weather-causes-delays-and-damages-for-many-americans",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:55:26Z",
+        "primary": false,
+        "excerpt": "A stormy Thanksgiving day led to serious flooding, major power outages and disrupted travel plans. By Thursday evening, more than 900,000 customers were without power in at least eight states. The East Coast is grappling with a pair of storm systems affecting people from Maine to Florida. This as strong winds battered the West Coast from Oregon to California. Lisa Desjardins reports."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3129f683c001b18e2e1c",
+    "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+    "category": "U.S.",
+    "published_at": "2026-11-26T21:51:16Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+        "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T21:51:16Z",
+        "primary": false,
+        "excerpt": "Both the man and his dog escaped unharmed, the police department says."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a35d78a643046a563f5c",
+    "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+    "category": "U.S.",
+    "published_at": "2026-11-26T10:00:00Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T10:00:00Z",
+        "primary": false,
+        "excerpt": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d2f82cd6bc566c68b6dd",
+    "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:50:47Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:50:47Z",
+        "primary": false,
+        "excerpt": "In our news wrap Thursday, the EPA is reporting \"zero\" airborne lead in Middletown, Iowa, a day after the Army detonated nearly five tons of toxic explosives, the Trump administration is planning for new, sharp tariffs on 14 countries, and President Trump says he told Russian president Vladimir Putin to \"pull back on military aggression\" in Europe."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bce51de285d7fbbc54a8",
+    "title": "'Think twice': Banff officials issue warning over thin ice after skater's death",
+    "category": "U.S.",
+    "published_at": "2026-11-26T20:09:00Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "'Think twice': Banff officials issue warning over thin ice after skater's death",
+        "url": "https://www.bbc.co.uk/news/articles/c3wy01q8pjr8o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T20:09:00Z",
+        "primary": false,
+        "excerpt": "After three separate incidents, one fatal, at Lake Louise, Parks Canada is warning visitors to be cautious after a warmer than average November."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "676fec3d96afee5f4524",
+    "title": "'Memories of a Good Meal': How food made a difference during WWII",
+    "category": "U.S.",
+    "published_at": "2026-11-26T10:00:00Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "'Memories of a Good Meal': How food made a difference during WWII",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T10:00:00Z",
+        "primary": false,
+        "excerpt": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "264e8f73068ba7a0a346",
+    "title": "How women in Israel are playing larger roles in the military",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:35:58Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "How women in Israel are playing larger roles in the military",
+        "url": "https://www.pbs.org/newshour/show/how-women-in-israel-are-playing-larger-roles-in-the-military",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:35:58Z",
+        "primary": false,
+        "excerpt": "Israel has now been at war for the last three years, often alongside the United States. While women have long been at the forefront of the Israel Defense Forces, their roles are now expanding. Special correspondent Nurit Ben looks at their unique challenges."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a3f951f1927e6a6d2264",
+    "title": "Analysis: Why Trump's new tariffs are less of a threat",
+    "category": "U.S.",
+    "published_at": "2026-11-26T19:55:58Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Analysis: Why Trump's new tariffs are less of a threat",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T19:55:58Z",
+        "primary": false,
+        "excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0932cf4669249b91cb74",
+    "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+    "category": "U.S.",
+    "published_at": "2026-11-26T09:44:29Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T09:44:29Z",
+        "primary": false,
+        "excerpt": "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "6c2913dc063b6e25683c",
+    "title": "Journalist's experiences highlight challenges of being a family caregiver",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:30:16Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Journalist's experiences highlight challenges of being a family caregiver",
+        "url": "https://www.pbs.org/newshour/show/journalists-experiences-highlight-challenges-of-being-a-family-caregiver",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:30:16Z",
+        "primary": false,
+        "excerpt": "More than 60 million Americans are caregivers for their family members, providing a wide range of needs. In November that work is recognized as National Family Caregivers Month. Richard Lui, a caregiver advocate who has directed two documentaries on the subject, joins Amna Nawaz to discuss."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5a850f2b874f83e62845",
+    "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
+    "category": "U.S.",
+    "published_at": "2026-11-26T16:18:30Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
+        "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T16:18:30Z",
+        "primary": false,
+        "excerpt": "The glowing object was captured on video as holiday-themed drones illuminated the night sky."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1c233af1e04c823d3fae",
+    "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+    "category": "U.S.",
+    "published_at": "2026-11-26T09:43:27Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+        "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-26T09:43:27Z",
+        "primary": false,
+        "excerpt": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the United States."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "2bcd2440b9b771ff3510",
+    "title": "Bills, Eagles and Bears pull off last-gasp wins in trio of Thanksgiving thrillers",
+    "category": "U.S.",
+    "published_at": "2026-11-27T01:50:28Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Bills, Eagles and Bears pull off last-gasp wins in trio of Thanksgiving thrillers",
+        "url": "https://www.theguardian.com/sport/2026/nov/26/nfl-roundup-thanksgiving-scores-bears-lions-eagles-cowboys-chiefs-bills",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T01:50:28Z",
+        "primary": false,
+        "excerpt": "Bass hits from 57 yards at the gun to lift BuffaloElliott’s 59-yarder caps Eagles’ 21-point comebackBears take NFC North lead on Odunze’s late catchTyler Bass hit a 57-yard field goal as time expired to give the Buffalo Bills a 13-10 victory over the Kansas City Chiefs on a rainy, windy Thursday night. The Bills improved their AFC-leading record to 10-1.James Cook rushed for 117 yards and scored on a five-yard run. Bass also hit a 54-yard field goal in the defensive struggle. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "a26c850f6b67094423f5",
+    "title": "New book focuses on how to get through life's hardest days",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:25:43Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "New book focuses on how to get through life's hardest days",
+        "url": "https://www.pbs.org/newshour/show/new-book-focuses-on-how-to-get-through-lifes-hardest-days",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:25:43Z",
+        "primary": false,
+        "excerpt": "Today much of the country is focusing on life away from work, but most of us struggle daily with the demands of work, home and the constant pings of electronics. In this episode of our \"Settle In\" podcast, speaker and executive coach Jovian Zayne talks with Geoff Bennett about her new book, \"Soft Landings for Hard Days,\" a guide for how individuals can find small moments of respite and joy."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "9ad12a5eb6c947beb465",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "category": "U.S.",
+    "published_at": "2026-11-26T10:38:35Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-26T10:38:35Z",
+        "primary": false,
+        "excerpt": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b70f30f35eb06bcef9ab",
+    "title": "The best strategies for holiday shopping in the age of AI",
+    "category": "U.S.",
+    "published_at": "2026-11-26T23:20:00Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "The best strategies for holiday shopping in the age of AI",
+        "url": "https://www.pbs.org/newshour/show/the-best-strategies-for-holiday-shopping-in-the-age-of-ai",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T23:20:00Z",
+        "primary": false,
+        "excerpt": "Americans are expected to spend more than $1 trillion on holiday shopping this year despite concerns about rising prices. PBS News digital video producer Cecilia Lallmann looks at the ways we could shop smarter this year, including with the help of artificial intelligence."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3a0bbda199e51017a981",
+    "title": "Steelers owner backs Mike McCarthy and attacks Aaron Rodgers’s ‘insubordination’",
+    "category": "U.S.",
+    "published_at": "2026-11-26T22:04:52Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Steelers owner backs Mike McCarthy and attacks Aaron Rodgers’s ‘insubordination’",
+        "url": "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T22:04:52Z",
+        "primary": false,
+        "excerpt": "Art Rooney II has ‘100% confidence’ in head coachInsists QB’s outbursts could not be toleratedThe Pittsburgh Steelers owner and president, Art Rooney II, has provided his full support to head coach, Mike McCarthy, in his stunning fallout with Aaron Rodgers, and described the quarterback’s actions as “insubordination”.Rodgers was ⁠benched on Tuesday night and waived the following day after he accused McCarthy of falling asleep during a meeting in an appearance on The Pat McAfee Show. Rodgers said McCarthy missed meetings and a ⁠walkthrough later that same week – ⁠claims that were corroborated ​"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "992189939719fe39ef87",
+    "title": "Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks",
+    "category": "U.S.",
+    "published_at": "2026-11-26T21:36:34Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks",
+        "url": "https://www.pbs.org/newshour/world/mexicos-most-powerful-cartels-adapt-as-arrests-and-leadership-battles-reshape-their-ranks",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T21:36:34Z",
+        "primary": false,
+        "excerpt": "The arrest of another Mexican drug lord over the weekend added to a string of actions against cartels as Mexico intensifies its crackdown on organized crime under mounting pressure from U.S. President Donald Trump and with U.S. intelligence support."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "05dae1fff14a03638ac8",
+    "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+    "category": "U.S.",
+    "published_at": "2026-11-26T18:34:17Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+        "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T18:34:17Z",
+        "primary": false,
+        "excerpt": "The Trump administration has approved Elon Musk’s plan to create datacentres in space. US federal regulators have authorised the launch of one million Starmind orbital satellites, which are built by Musk’s SpaceX, to process data in space. Supporters argue the project will be more energy-efficient and reduce the environmental impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "077e43f3b12deb2fd76f",
+    "title": "What are king tides? These exceptionally high tides are increasingly flooding coastal communities",
+    "category": "U.S.",
+    "published_at": "2026-11-26T20:44:28Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "What are king tides? These exceptionally high tides are increasingly flooding coastal communities",
+        "url": "https://www.pbs.org/newshour/nation/what-are-king-tides-these-exceptionally-high-tides-are-increasingly-flooding-coastal-communities",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T20:44:28Z",
+        "primary": false,
+        "excerpt": "King tides are the highest tides of the year, and they are increasingly flooding coastal communities as sea levels rise."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "00ce350a39110f65b72a",
+    "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+    "category": "U.S.",
+    "published_at": "2026-11-26T17:05:02Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T17:05:02Z",
+        "primary": false,
+        "excerpt": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosionThe US army blew up the nation’s entire stockpile of lead azide, a chemical used to make explosives, saying the first checks show Wednesday’s controlled detonation in Iowa didn’t spread toxic dust to nearby homes and farms.Earthen barriers were put up and foam and water were poured onto a pair of bunkers holding the 5 tons (4,500kg) of lead azide, and officials said those measures appear to have absorbed much of the blast. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ed89da7b5f38f3b40d3a",
+    "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+    "category": "U.S.",
+    "published_at": "2026-11-26T20:16:59Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+        "url": "https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-26T20:16:59Z",
+        "primary": false,
+        "excerpt": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists."
+      },
+      {
+        "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+        "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+        "publisher": "NPR",
+        "category": "Technology",
+        "published_at": "2026-11-26T06:53:09Z",
+        "primary": false,
+        "excerpt": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "c2e35d449868e26123cc",
+    "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
+    "category": "U.S.",
+    "published_at": "2026-11-26T15:33:21Z",
+    "first_seen_at": "2026-11-27T08:31:54.100277Z",
+    "updated_at": "2026-11-27T08:31:54.100277Z",
+    "sources": [
+      {
+        "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-26T15:33:21Z",
+        "primary": false,
+        "excerpt": "Macy’s parade in New York postponed for first time ever as thousands across US north-east face power outagesHeavy rain, winds, flooding and high tides crossed holiday plans across the US on Thursday, prompting the cancellations of at least two commercial Thanksgiving parades.A severe winter storm brought foul weather up and down the east coast, causing flooding, widespread power outages and even tornado warnings in several states. On the west coast, record high tides brought coastal flooding to several cities. And winter storm warnings were posted for several parts of the midwest. Continue rea"
       }
     ],
     "tier": "brief",
