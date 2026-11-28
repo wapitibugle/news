@@ -38811,7 +38811,7 @@
         "excerpt": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -38839,7 +38839,7 @@
         "excerpt": "This week’s best wildlife photographs from around the world Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -38867,7 +38867,7 @@
         "excerpt": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shopThey promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner.This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money. Continue reading..."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -40087,7 +40087,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "98be3aca6014dc5e9531",
@@ -40105,6 +40106,952 @@
         "published_at": "2026-11-27T23:35:30Z",
         "primary": false,
         "excerpt": "As artificial intelligence reshapes industries and our daily lives, questions about its use in drones, robots, and machines and the ethics behind how it's utilized has never been more urgent. Geoff Bennett spoke with Dr. Ayanna Howard, who began her career with NASA and is now the president of Spelman College. She tackles many of these questions in her new book \"Rebooting the Machines.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "ee3db0cab65f080e5db4",
+    "title": "New wave of Democratic attorneys general may reshape the justice system",
+    "category": "U.S.",
+    "published_at": "2026-11-28T10:00:00Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "New wave of Democratic attorneys general may reshape the justice system",
+        "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-28T10:00:00Z",
+        "primary": false,
+        "excerpt": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "11c4d3812bdaee95463f",
+    "title": "Pensions and benefits services still down after 'cyber incident'",
+    "category": "Technology",
+    "published_at": "2026-11-28T09:10:32Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Pensions and benefits services still down after 'cyber incident'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o",
+        "publisher": "BBC",
+        "category": "Technology",
+        "published_at": "2026-11-28T09:10:32Z",
+        "primary": false,
+        "excerpt": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8c142ca68171753438a9",
+    "title": "First hippo born at safari park in more than 40 years",
+    "category": "Science",
+    "published_at": "2026-11-28T07:57:30Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "First hippo born at safari park in more than 40 years",
+        "url": "https://www.bbc.co.uk/news/videos/cm0qjlv9lelzo",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-28T07:57:30Z",
+        "primary": false,
+        "excerpt": "A hippo calf is born at Longleat Safari Park as part of a European breeding programme."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3ae065c41d4220fcfc03",
+    "title": "Tribute to farmer who 'saved rare cattle breed'",
+    "category": "Science",
+    "published_at": "2026-11-28T07:44:51Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Tribute to farmer who 'saved rare cattle breed'",
+        "url": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o",
+        "publisher": "BBC",
+        "category": "Science",
+        "published_at": "2026-11-28T07:44:51Z",
+        "primary": false,
+        "excerpt": "Eric Freeman was a pioneering advocate for local rare breeds on his farm in Gloucestershire."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "fbdf956940c099f6714b",
+    "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+    "category": "U.S.",
+    "published_at": "2026-11-27T20:48:47Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+        "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T20:48:47Z",
+        "primary": false,
+        "excerpt": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b88e4c954a8a97b0e4ac",
+    "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+    "category": "World",
+    "published_at": "2026-11-28T06:00:34Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+        "url": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-28T06:00:34Z",
+        "primary": false,
+        "excerpt": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’A Palestinian man who worked for the EU in Gaza has told of a “devastating” struggle to survive after he was made redundant by bosses in Brussels.He was let go last year after being evacuated to Egypt but his redundancy payment was made to an account to which he has no access. “My family’s situation has become increasingly desperate,” said Mohammad Baraka, a former staffer at the EU border assistance mission (EUBam). Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "ec89f0560f504921721e",
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "category": "World",
+    "published_at": "2026-11-28T06:52:05Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-28T06:52:05Z",
+        "primary": false,
+        "excerpt": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "26a075da4a473a5e1329",
+    "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+    "category": "U.S.",
+    "published_at": "2026-11-28T03:53:14Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+        "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-28T03:53:14Z",
+        "primary": false,
+        "excerpt": "Santiago Rodríguez strikes in stoppage time to seal winInter Miami fail to defend 2025 MLS Cup title.Messi retired internationally earlier this yearInter Miami’s quest to defend their MLS Cup title is over.The South Florida side had two gilt-edged chances to take the lead in Game 2 of their best-of-three first-round series against Columbus in the MLS Playoffs on Friday, but missed both of them along with several others, later succumbing to a terrific stoppage-time winner from Santi Rodríguez in a 1-0 win for the Crew. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "99499c5abfc0b02963b2",
+    "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "category": "World",
+    "published_at": "2026-11-27T23:02:35Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+        "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+        "publisher": "BBC",
+        "category": "World",
+        "published_at": "2026-11-27T23:02:35Z",
+        "primary": false,
+        "excerpt": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0862f8dcae5462ae2021",
+    "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:55:12Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-crews-work-to-restore-power-for-thousands-after-thanksgiving-storm",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:55:12Z",
+        "primary": false,
+        "excerpt": "In our news wrap Friday, crews are still working to restore power for hundreds of thousands of homes a day after a massive Thanksgiving storm forced some on the East Coast to dine in the dark, Ukrainian President Zelenskyy pushes back on President Trump, U.S. forces disabled ​a commercial ship in the Gulf of Oman and the U.N. says hunger is expected to worsen in 16 global countries and regions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "e450cbcac5dc0ec47ea8",
+    "title": "Sudan's lost generation: War is stealing the childhood of millions",
+    "category": "U.S.",
+    "published_at": "2026-11-27T22:54:53Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Sudan's lost generation: War is stealing the childhood of millions",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T22:54:53Z",
+        "primary": false,
+        "excerpt": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "1f82edb73d2d7fb0b1bf",
+    "title": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+    "category": "U.S.",
+    "published_at": "2026-11-28T02:01:05Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+        "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-28T02:01:05Z",
+        "primary": false,
+        "excerpt": "Denver Broncos 5-27 Pittsburgh SteelersQuarterback was released after blasting own coachAt the end of a chaotic week that saw Aaron Rodgers’ highly public departure from Pittsburgh thanks to a rift with head coach Mike McCarthy – a turn of events that former coach Mike Tomlin called a “dumpster fire” and threatened to turn one of the league’s most stable franchises into a punchline – it felt on some level like The Steeler Way was at stake on Friday.Those Steelers left to navigate the fallout responded with a dominant 27-5 victory over the Denver Broncos that will turn down the volume, at least"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "d8c09b5594b02a7d11fe",
+    "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:50:12Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
+        "url": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:50:12Z",
+        "primary": false,
+        "excerpt": "Black Friday is no longer limited to just a single day, yet it remains one of the busiest days of the year for brick-and-mortar stores, where shoppers can still stand in long lines. Now, 90 million of those consumers have turned to \"buy now, pay later\" financing programs. Economics correspondent Paul Solman looks at how this form of financing is becoming pervasive, and for many, a problem."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "5b5b3e091dd22d2b01ff",
+    "title": "With Abbott out, what does the future look like for data centers in Texas?",
+    "category": "U.S.",
+    "published_at": "2026-11-27T22:20:33Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "With Abbott out, what does the future look like for data centers in Texas?",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T22:20:33Z",
+        "primary": false,
+        "excerpt": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8b31952d80cc9dc4dfdb",
+    "title": "How online gambling is changing the game and impacting athletes",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:45:13Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "How online gambling is changing the game and impacting athletes",
+        "url": "https://www.pbs.org/newshour/show/how-online-gambling-is-changing-the-game-and-impacting-athletes",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:45:13Z",
+        "primary": false,
+        "excerpt": "Revenue from sports betting has now reached $17 billion. The enormous rise of legalized betting has some worried about where it's all heading, especially after a series of high-profile cases involving athletes betting on their own performance. Nick Berardini of The New Yorker joins William Brangham to break down the trajectory of the industry and its impact on one athlete."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b5c2a10b96a149b72dcc",
+    "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:43:00Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:43:00Z",
+        "primary": false,
+        "excerpt": "Se Nah Park was overwhelmed by a wave at the notorious Panther BeachThe purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw record high king tides.The Santa Cruz county sheriff’s office confirmed that Se Nah Park’s purse was found by a beachgoer at 4 Mile Beach, south of Panther Beach, where she was swept away into the ocean on 8 November. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "55c9e5e36c4d5a809d71",
+    "title": "Postmortem of AI ads",
+    "category": "U.S.",
+    "published_at": "2026-11-27T21:58:19Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Postmortem of AI ads",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T21:58:19Z",
+        "primary": false,
+        "excerpt": "The data AI companies have been accumulating in this cycle will help serve future ads to hyper-specific audiences."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3e36d8f9b5ff8c7363db",
+    "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:40:22Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:40:22Z",
+        "primary": false,
+        "excerpt": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Nick Schifrin to discuss the week in politics, including President Trump's relationship with Russia's Vladimir Putin, Jensen Huang's return to Nvidia and sweeping new tariffs on China, Europe and others."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "dfb873eea1bbc7feef3b",
+    "title": "Sales for Biden memoir fall far short of books by Obama and Clinton",
+    "category": "U.S.",
+    "published_at": "2026-11-27T20:13:58Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Sales for Biden memoir fall far short of books by Obama and Clinton",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T20:13:58Z",
+        "primary": false,
+        "excerpt": "Promise Me, America, which has lukewarm reviews from critics, sold about 21,000 copies during its first week on saleJoe Biden’s memoir Promise Me, America debuted with modest sales and lackluster reviews, selling about 21,000 copies during its first week on sale, according to Circana.It sold well enough to top the New York Times nonfiction bestseller list, but didn’t approach the level of memoirs by such predecessors as Barack Obama and Bill Clinton. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "18fe1169a454eda7bf2e",
+    "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+    "category": "U.S.",
+    "published_at": "2026-11-27T11:59:02Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+        "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T11:59:02Z",
+        "primary": false,
+        "excerpt": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "81a67048b96db4242962",
+    "title": "Two American Airlines planes clip wings before takeoff at Reagan airport in 'tense' moment",
+    "category": "U.S.",
+    "published_at": "2026-11-28T01:31:28Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Two American Airlines planes clip wings before takeoff at Reagan airport in 'tense' moment",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-28T01:31:28Z",
+        "primary": false,
+        "excerpt": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "703403372733c73b41c1",
+    "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:30:40Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+        "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:30:40Z",
+        "primary": false,
+        "excerpt": "Journalist and MS NOW anchor Rachel Maddow's fifth book, \"Department of Fate,\" explores the history of the Department of Justice. Maddow argues the DOJ is \"America's most consequential institution,\" but says it has now strayed dramatically from its mission. Amna Nawaz spoke with Maddow about all of this and more in a recent episode of our PBS News podcast, \"Settle In.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "aae50e2e60619d723720",
+    "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
+    "category": "U.S.",
+    "published_at": "2026-11-27T15:25:03Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T15:25:03Z",
+        "primary": false,
+        "excerpt": "Declassified documents appear to support belief that waterboarding was more common and may have occurred beyond two acknowledged sitesNewly released documents suggest that the CIA waterboarded more detainees during the post-9/11 “war on terror” than previously acknowledged, utilizing a site north of Kabul, Afghanistan, for the practice of simulated drowning.The agency has acknowledged waterboarding three men: Abu Zubaydah, believed to be a high-ranking member of al-Qaida; Khalid Sheikh Mohammed, suspected architect of the 11 September 2001 attacks; and Abd al-Rahim al-Nashiri, accused of plann"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "695ff2a5237891005ac1",
+    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "category": "U.S.",
+    "published_at": "2026-11-27T11:49:50Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T11:49:50Z",
+        "primary": false,
+        "excerpt": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0128b47c5baa89a70362",
+    "title": "A veteran's Brief But Spectacular take on finding new ways to serve after the military",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:25:55Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "A veteran's Brief But Spectacular take on finding new ways to serve after the military",
+        "url": "https://www.pbs.org/newshour/show/a-veterans-brief-but-spectacular-take-on-finding-new-ways-to-serve-after-the-military",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:25:55Z",
+        "primary": false,
+        "excerpt": "Nancy Preston, a veteran, helped aspiring food entrepreneurs start their own businesses after her time in the U.S. military. She shares her Brief But Spectacular take on finding new ways to serve."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7680eebecdd8bf180b77",
+    "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+    "category": "U.S.",
+    "published_at": "2026-11-27T15:00:13Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T15:00:13Z",
+        "primary": false,
+        "excerpt": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide divisionThe US government’s top medical research agency has released three new studies linking glyphosate, the world’s most widely used pesticide and an active ingredient in Roundup, to cancer. The National Institutes of Health (NIH) findings contradict a controversial recent Environmental Protection Agency (EPA) conclusion that the weedkiller is not a carcinogen, and deals a blow to the White House, which has been closely allied with Roundup’s producer, Bayer.The NIH’s three papers could have"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "669f7c0e37c566d34f1e",
+    "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+    "category": "U.S.",
+    "published_at": "2026-11-27T10:59:36Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-27T10:59:36Z",
+        "primary": false,
+        "excerpt": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "365c2ec9b3ccaa50707b",
+    "title": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
+    "category": "U.S.",
+    "published_at": "2026-11-27T22:10:46Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
+        "url": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T22:10:46Z",
+        "primary": false,
+        "excerpt": "Retirees, university students, bus drivers and others joined the protest organized by some 30 groups ranging from unions to religious organizations. The crowds gathered in front of the largest mall in the Caribbean on Black Friday for what organizers dubbed the \"Day of National Outrage.\""
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "694d65ad7d17d96b0a3a",
+    "title": "Thanksgiving meal in Florida leads to mass food poisoning incident",
+    "category": "U.S.",
+    "published_at": "2026-11-27T13:41:23Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Thanksgiving meal in Florida leads to mass food poisoning incident",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T13:41:23Z",
+        "primary": false,
+        "excerpt": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquartersA Thanksgiving meal in Florida triggered a bout of food poisoning so bad that local emergency officials said it was a “mass casualty” event as numerous stricken diners were sent to hospital.Local media reported that 18 people at the Leon medical center headquarters in Doral fell ill due to possible food poisoning after attending the center’s annual Thanksgiving lunch on Wednesday. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "0f7c5b73eebc7586482f",
+    "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
+    "category": "U.S.",
+    "published_at": "2026-11-27T21:36:37Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
+        "url": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T21:36:37Z",
+        "primary": false,
+        "excerpt": "The announcement opened the latest chapter in an ongoing struggle between the U.S. and Mexican governments over who has the right to take action against cartels in Mexico."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bb71b9fc514c694182ba",
+    "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real",
+    "category": "U.S.",
+    "published_at": "2026-11-27T13:00:12Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T13:00:12Z",
+        "primary": false,
+        "excerpt": "The Forest Service’s work will ‘help normalize’ talk happening ‘for decades’, says ‘wood ape’ conservancy directorWhen the Forest Service, one of the US government’s less sexy departments, quietly posted three documents to its website in mid-October, it was probably hoping to avoid a fuss.It didn’t succeed. The files were about Bigfoot, after all, and their publication sparked interest from around the globe, with Bigfoot enthusiasts hopeful that this could be a key step in the road to proving the creature is real. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "96b32ce8c8e635356884",
+    "title": "Army deems lead azide detonation a success but criticism lingers over notification",
+    "category": "U.S.",
+    "published_at": "2026-11-27T20:25:15Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Army deems lead azide detonation a success but criticism lingers over notification",
+        "url": "https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T20:25:15Z",
+        "primary": false,
+        "excerpt": "So far, the EPA said there has continued to be \"zero\" airborne lead detected in the region since Wednesday's controlled detonation. While that's reassuring, residents and some elected officials have criticized the Army for not being more transparent and providing more notice when it first determined the stockpile was unstable."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "8df9f330d8b109a603e8",
+    "title": "Trump Medicaid cuts will hit the most vulnerable Americans, officials say",
+    "category": "U.S.",
+    "published_at": "2026-11-27T13:00:11Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Trump Medicaid cuts will hit the most vulnerable Americans, officials say",
+        "url": "https://www.theguardian.com/global/2026/nov/27/trump-medicaid-cuts-vulnerable-americans",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-27T13:00:11Z",
+        "primary": false,
+        "excerpt": "In Kentucky, one of America’s unhealthiest states, denial of healthcare and potential closure of hospitals may affect 250,000 peopleThe coalfields of eastern Kentucky fueled America’s economic rise in the early 20th century. But the state has since found itself left behind. A lack of investments in rural regions has triggered health and socioeconomic issues that have lingered for generations.Today, Kentucky faces the third-highest cancer and third-highest drug overdose death rate in the country and is one of the top five worst-affected states in several other health metrics. It has come to rel"
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "693579c59261faf8f87d",
+    "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+    "category": "U.S.",
+    "published_at": "2026-11-27T19:39:21Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+        "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T19:39:21Z",
+        "primary": false,
+        "excerpt": "A military aircraft fired \"precision munitions\" at the stern of the Palau-flagged M/V Pacific Archer on Thursday, and the \"ship's propulsion was ultimately disabled and the civilian crew was unharmed,\" U.S. Central Command said in a statement."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db77a91f7967ada965b5",
+    "title": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+    "category": "U.S.",
+    "published_at": "2026-11-27T15:31:42Z",
+    "first_seen_at": "2026-11-28T10:26:28.340466Z",
+    "updated_at": "2026-11-28T10:26:28.340466Z",
+    "sources": [
+      {
+        "title": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+        "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T15:31:42Z",
+        "primary": false,
+        "excerpt": "\"He can't be a friend,\" Zelenskyy told the BBC in Kyiv, likening it to someone calling Adolf Hitler a friend during World War II."
       }
     ],
     "tier": "brief",
