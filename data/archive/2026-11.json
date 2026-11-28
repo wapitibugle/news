@@ -40024,7 +40024,7 @@
         "excerpt": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday."
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -40052,7 +40052,7 @@
         "excerpt": "Warning of ‘lights out for Labour in Scotland’ as Burnham faces choice between warring factions over North Sea drilling projectDozens of Labour MPs in favour of Rosebank are putting pressure on the prime minister not to block the North Sea oilfield, warning that doing so could spell “lights out for Labour in Scotland”.As many as 80 pro-drilling MPs are considering writing their own letter to Andy Burnham after nearly 100 of their colleagues called on the prime minister not to allow the project to proceed. Scottish Labour leader Michael Marra has also reiterated his support for Rosebank, cautio"
       }
     ],
-    "tier": "second",
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
@@ -40143,7 +40143,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "11c4d3812bdaee95463f",
@@ -40170,7 +40171,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8c142ca68171753438a9",
@@ -40197,7 +40199,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3ae065c41d4220fcfc03",
@@ -40224,7 +40227,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "fbdf956940c099f6714b",
@@ -40251,7 +40255,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b88e4c954a8a97b0e4ac",
@@ -40278,7 +40283,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ec89f0560f504921721e",
@@ -40305,7 +40311,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "26a075da4a473a5e1329",
@@ -40332,7 +40339,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "99499c5abfc0b02963b2",
@@ -40359,7 +40367,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0862f8dcae5462ae2021",
@@ -40386,7 +40395,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e450cbcac5dc0ec47ea8",
@@ -40413,7 +40423,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1f82edb73d2d7fb0b1bf",
@@ -40440,7 +40451,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d8c09b5594b02a7d11fe",
@@ -40467,7 +40479,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "5b5b3e091dd22d2b01ff",
@@ -40494,7 +40507,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8b31952d80cc9dc4dfdb",
@@ -40521,7 +40535,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "b5c2a10b96a149b72dcc",
@@ -40548,7 +40563,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "55c9e5e36c4d5a809d71",
@@ -40575,7 +40591,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3e36d8f9b5ff8c7363db",
@@ -40602,7 +40619,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "dfb873eea1bbc7feef3b",
@@ -40629,7 +40647,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "18fe1169a454eda7bf2e",
@@ -40656,7 +40675,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "81a67048b96db4242962",
@@ -40683,7 +40703,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "703403372733c73b41c1",
@@ -40710,7 +40731,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "aae50e2e60619d723720",
@@ -40737,7 +40759,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "695ff2a5237891005ac1",
@@ -40764,7 +40787,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0128b47c5baa89a70362",
@@ -40791,7 +40815,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "7680eebecdd8bf180b77",
@@ -40818,7 +40843,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "669f7c0e37c566d34f1e",
@@ -40845,7 +40871,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "365c2ec9b3ccaa50707b",
@@ -40872,7 +40899,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "694d65ad7d17d96b0a3a",
@@ -40899,7 +40927,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "0f7c5b73eebc7586482f",
@@ -40926,7 +40955,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "bb71b9fc514c694182ba",
@@ -40953,7 +40983,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "96b32ce8c8e635356884",
@@ -40980,7 +41011,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8df9f330d8b109a603e8",
@@ -41007,7 +41039,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "693579c59261faf8f87d",
@@ -41034,7 +41067,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "db77a91f7967ada965b5",
@@ -41055,6 +41089,250 @@
       }
     ],
     "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "5f5c46fb04833502b14e",
+    "title": "Taiwan's opposition keeps control of Taipei in local elections closely watched by China",
+    "category": "Elections",
+    "published_at": "2026-11-28T18:47:18Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "Taiwan's opposition keeps control of Taipei in local elections closely watched by China",
+        "url": "https://www.pbs.org/newshour/world/taiwans-opposition-keeps-control-of-taipei-in-local-elections-closely-watched-by-china",
+        "publisher": "PBS",
+        "category": "Elections",
+        "published_at": "2026-11-28T18:47:18Z",
+        "primary": false,
+        "excerpt": "The capital has traditionally been a stronghold of the opposition Nationalist Party, also known as the Kuomintang or KMT, which favors closer ties with China, whose government claims Taiwan as its territory and has not ruled out force to annex it."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7bcb43d2c51ea9d49277",
+    "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
+    "category": "World",
+    "published_at": "2026-11-28T17:39:53Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
+        "url": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
+        "publisher": "Guardian",
+        "category": "World",
+        "published_at": "2026-11-28T17:39:53Z",
+        "primary": false,
+        "excerpt": "DPP nearly doubles number of constituencies it controls, with outcome expected to anger BeijingTaiwan’s ruling party secured its best result in a decade in Saturday’s local elections, doubling the number of constituencies it controls, in an outcome expected to anger Beijing.The Democratic Progressive party (DPP) won 10 of Taiwan’s 22 mayoral and county magistrate races, up from five in its disastrous showing in the last local elections four years ago. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "02f82584fbcda3ebd120",
+    "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+    "category": "U.S.",
+    "published_at": "2026-11-28T17:32:26Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+        "url": "https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing",
+        "publisher": "NPR",
+        "category": "U.S.",
+        "published_at": "2026-11-28T17:32:26Z",
+        "primary": false,
+        "excerpt": "U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success. But some have criticized the Army for a lack of transparency."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "b5d54d8e22d828ef9145",
+    "title": "Magnitude 5 earthquake hits Los Angeles area",
+    "category": "U.S.",
+    "published_at": "2026-11-28T18:29:42Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "Magnitude 5 earthquake hits Los Angeles area",
+        "url": "https://www.theguardian.com/us-news/2026/nov/28/los-angeles-earthquake",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-28T18:29:42Z",
+        "primary": false,
+        "excerpt": "Fire department goes into earthquake mode and deploys teams from 106 stations to examine buildings for damageAn earthquake of preliminary magnitude 5 hit the area of Manhattan Beach, California, on Saturday morning, according to the United States Geological Survey. There were no immediate reports of injuries or damage.The Los Angeles fire department went into earthquake mode, deploying personnel from 106 neighborhood fire stations to examine infrastructure for damages. No injuries or structural damage has been reported, the department said in an alert. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "3bedfc9c4f0458ad3078",
+    "title": "EPA finds no elevated lead levels in drinking water following Iowa explosion",
+    "category": "U.S.",
+    "published_at": "2026-11-28T16:42:51Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "EPA finds no elevated lead levels in drinking water following Iowa explosion",
+        "url": "https://www.theguardian.com/us-news/2026/nov/28/iowa-explosion-lead-levels-water-epa",
+        "publisher": "Guardian",
+        "category": "U.S.",
+        "published_at": "2026-11-28T16:42:51Z",
+        "primary": false,
+        "excerpt": "US army detonated lead azide earlier this week to prevent uncontrolled explosion of toxic bomb-making materialThere are no indications of elevated lead levels in Iowa’s drinking water following the detonation of the nation’s entire stockpile of lead azide, a chemical used to make explosives, the Environmental Protection Agency (EPA) said on Saturday.On 25 November, military explosive experts detonated degraded lead azide at the Iowa army ammunition plant in Middletown, Iowa. Continue reading..."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a0f235daac17635309b",
+    "title": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns",
+    "category": "U.S.",
+    "published_at": "2026-11-28T17:21:30Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns",
+        "url": "https://www.pbs.org/newshour/nation/postponed-macys-100th-thanksgiving-day-parade-gets-a-do-over-with-100-balloons-and-1000-clowns",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-28T17:21:30Z",
+        "primary": false,
+        "excerpt": "The parade stepped off Saturday morning with the same balloons and floats, 1,000 clowns and most of the original celebrities — plus the addition of LL Cool J and Gloria Gaynor — that were promised on Thursday, until bad weather postponed the annual kickoff of the holiday season."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "7a8cd2d5cf0d2756588f",
+    "title": "EPA says no rise in contamination after Army detonates lead azide stockpile in Iowa",
+    "category": "U.S.",
+    "published_at": "2026-11-28T16:07:23Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "EPA says no rise in contamination after Army detonates lead azide stockpile in Iowa",
+        "url": "https://www.pbs.org/newshour/nation/epa-says-no-rise-in-contamination-after-army-detonates-lead-azide-stockpile-in-iowa",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-28T16:07:23Z",
+        "primary": false,
+        "excerpt": "The EPA said about 300 people spent Thursday in the field sampling schools, playgrounds, churches and homes across the region. More than 1,500 samples were taken of air, water, soil and dust before the detonation and hundreds of samples, including from homes, parks and drinking water, afterward."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "db367a35fb282de990d7",
+    "title": "Google told to cease building Belgian datacentre over lack of planning permit",
+    "category": "Outdoors",
+    "published_at": "2026-11-28T17:09:41Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "Google told to cease building Belgian datacentre over lack of planning permit",
+        "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+        "publisher": "Guardian",
+        "category": "Outdoors",
+        "published_at": "2026-11-28T17:09:41Z",
+        "primary": false,
+        "excerpt": "Greenpeace report shows US tech firm has continued construction despite a planning appeal being unresolvedBelgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval.“Inspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,” Raphaël Stokis, a Wallonia regional official, told the public broadcaster RTBF. Continue reading..."
+      }
+    ],
+    "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "bd0ed2699aaa42692176",
+    "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts believe",
+    "category": "Technology",
+    "published_at": "2026-11-28T18:37:22Z",
+    "first_seen_at": "2026-11-28T18:57:08.901466Z",
+    "updated_at": "2026-11-28T18:57:08.901466Z",
+    "sources": [
+      {
+        "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts believe",
+        "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+        "publisher": "Guardian",
+        "category": "Technology",
+        "published_at": "2026-11-28T18:37:22Z",
+        "primary": false,
+        "excerpt": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies AI companies are sitting on “bombshell” revelations that could disrupt a cornerstone of security for banks and governments in as soon as a few months, leading experts believe.Scott Aaronson, a pre-eminent theoretical computer scientist, told the Guardian there were “well-attested rumours” that powerful artificial intelligence models had broken ground on decades-old maths problems related to how the world encodes secret information. Continue reading..."
+      }
+    ],
+    "tier": "second",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
