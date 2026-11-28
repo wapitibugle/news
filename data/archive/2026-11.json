@@ -39723,7 +39723,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "f29d85331e2e0361df22",
@@ -39750,7 +39751,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d9337035990231fec584",
@@ -39777,7 +39779,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "d72130f063dbefc9f8dd",
@@ -39804,7 +39807,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "a6ddd1de81383d7528c9",
@@ -39831,7 +39835,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "e9d44bdb846cc219d4db",
@@ -39858,7 +39863,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "ce771adbf1523ad8156e",
@@ -39885,7 +39891,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "cbaddb8401bb28ccbd93",
@@ -39912,7 +39919,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "8ac15ca1c7faa9926218",
@@ -39939,7 +39947,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "1c8ed0b731975bc1fe0e",
@@ -39966,7 +39975,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "3cc9cfaa920b735245e8",
@@ -39993,7 +40003,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "6d1b107871dbc8b36aa4",
@@ -40020,7 +40031,8 @@
     "withdrawn": false,
     "correction": "",
     "context": "",
-    "scientific_assessment": ""
+    "scientific_assessment": "",
+    "editorial_excluded": false
   },
   {
     "id": "c3da9a1d6e63e4f1e4b3",
@@ -40041,6 +40053,61 @@
       }
     ],
     "tier": "second",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": "",
+    "editorial_excluded": false
+  },
+  {
+    "id": "7954e56f5de6a8e44351",
+    "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    "category": "U.S.",
+    "published_at": "2026-11-28T00:56:55Z",
+    "first_seen_at": "2026-11-28T01:59:09.514690Z",
+    "updated_at": "2026-11-28T01:59:09.514690Z",
+    "sources": [
+      {
+        "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
+        "publisher": "BBC",
+        "category": "U.S.",
+        "published_at": "2026-11-28T00:56:55Z",
+        "primary": false,
+        "excerpt": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
+      }
+    ],
+    "tier": "brief",
+    "verification": "source-reported",
+    "claims": [],
+    "ai_editor": {},
+    "withdrawn": false,
+    "correction": "",
+    "context": "",
+    "scientific_assessment": ""
+  },
+  {
+    "id": "98be3aca6014dc5e9531",
+    "title": "Exploring an AI reboot and the ethics that surround it",
+    "category": "U.S.",
+    "published_at": "2026-11-27T23:35:30Z",
+    "first_seen_at": "2026-11-28T01:59:09.514690Z",
+    "updated_at": "2026-11-28T01:59:09.514690Z",
+    "sources": [
+      {
+        "title": "Exploring an AI reboot and the ethics that surround it",
+        "url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+        "publisher": "PBS",
+        "category": "U.S.",
+        "published_at": "2026-11-27T23:35:30Z",
+        "primary": false,
+        "excerpt": "As artificial intelligence reshapes industries and our daily lives, questions about its use in drones, robots, and machines and the ethics behind how it's utilized has never been more urgent. Geoff Bennett spoke with Dr. Ayanna Howard, who began her career with NASA and is now the president of Spelman College. She tackles many of these questions in her new book \"Rebooting the Machines.\""
+      }
+    ],
+    "tier": "brief",
     "verification": "source-reported",
     "claims": [],
     "ai_editor": {},
